@@ -4,13 +4,13 @@ metadata:
 #          KINGSMAN                  ##############################
 ###################################################################
 
-  "Kingsman : Services secrets":
+  207703: # Kingsman : Services secrets (2014) 
     sort title: kingsman_01
 
-  "Kingsman : Le Cercle d'or":
+  343668: # Kingsman : Le Cercle d'or (2017) 
     sort title: kingsman_02
 
-  "The King's Man":
+  476669: # The King’s Man : Première Mission (2021) 
     sort title: kingsman_03
 
 ###################################################################
