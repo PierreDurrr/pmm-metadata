@@ -43,7 +43,7 @@ collections:
 #      - https://trakt.tv/users/pierredurrr/lists/2010-oscar-winners   #2010
 #      - https://trakt.tv/users/pierredurrr/lists/2009-oscar-winners   #2009
 #      - https://trakt.tv/users/pierredurrr/lists/2008-oscar-winners   #2008
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/award/oscars/Oscars.jpg
+#    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/award/oscars/Oscars.jpg
     filters:
       filepath:
         - /mnt/_SYNOLOGY/video/_Recommendations/
