@@ -1,0 +1,23 @@
+collections:
+overlays:
+  YouAskedForIt:
+    overlay:
+      name: text(Demandé)
+      horizontal_offset: 300
+      horizontal_align: center
+      vertical_offset: 1375
+      vertical_align: top
+      font: fonts/Inter-Medium.ttf
+      font_size: 65
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 380
+      back_height: 105
+      overlay_level: episode
+    plex_search:
+      all:
+        added: 18250
+    filters:
+      filepath:
+        - /mnt/_SYNOLOGY/video/Series/_Users

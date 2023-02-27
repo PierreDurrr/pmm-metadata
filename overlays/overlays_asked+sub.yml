@@ -1,0 +1,78 @@
+queues:
+  pierredurrr_queue:
+    - horizontal_offset: 10
+      horizontal_align: left
+      vertical_offset: 10
+      vertical_align: top
+    - horizontal_offset: 610
+      horizontal_align: right
+      vertical_offset: 120
+      vertical_align: top
+
+overlays:
+  YouAskedForIt:
+    overlay:
+      name: text(Demandé)
+      queue: pierredurrr_queue
+      weight: 20
+      font: fonts/Inter-Bold.ttf
+      font_size: 65
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 380
+      back_height: 105
+    plex_search:
+      all:
+        added: 18250
+    filters:
+      filepath:
+        - /mnt/_SYNOLOGY/video/Films/_Users
+        - /mnt/_SYNOLOGY/video/Series/_Users
+
+  Subtitled:
+    overlay:
+      name: text(Sous-titré)
+      queue: pierredurrr_queue
+      weight: 10
+      font: fonts/Inter-Bold.ttf
+      font_size: 65
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 380
+      back_height: 105
+    plex_search:
+      all:
+        added: 18250
+    filters:
+      filepath.regex: '(?i)(vostfr|vost|fastsub|subfrench|subtitled|multisub)'
+#        - VOSTFR
+#        - vostfr
+#        - vost
+#        - fastsub
+#        - subf
+#        - .SUBF
+#        - subfrench
+#        - SUBFRENCH
+#        - subtitled
+#        - MULTISUB
+      filepath.not:
+        - multi
+        - MULTi
+        - MULTI
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.1.+.Bonus.FRENCH.DVDRiP.XViD.T411.avi/
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.2.+.Bonus.FRENCH.DVDRiP.XViD.T411/
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Ez3kiel/Ez3kiel et le Naphtaline Orchestra au grand Theatre de Tours/
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Ez3kiel et le Naphtaline Orchestra au grand Theatre de Tours/
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Birdy Nam Nam live a la Cigale/
+#        - .FRENCH.
+#        - french
+        - VFF
+        - VOF
+        - VF
+        - vf
+        - VFQ
+        - VF2
+        - VFI
+#        - TRUEFRENCH

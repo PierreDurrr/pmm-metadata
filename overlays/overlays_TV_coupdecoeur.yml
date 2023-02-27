@@ -1,0 +1,76 @@
+templates:
+  CoupDeCoeur:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      weight: 30
+    overlay:
+      name: <<overlay_name>>
+      file: /_0_scripts-config/000-Plex-Meta-Manager/overlays/overlays_TV_coupdecoeur_ribbon_v2.png
+      group: ribbon
+      weight: <<weight>>
+      horizontal_offset: 0
+      horizontal_align: right
+      vertical_offset: 0
+      vertical_align: bottom
+
+overlays:
+
+  CoupDeCoeur-ribbon:
+    template:
+      - name: CoupDeCoeur
+      
+    plex_search:
+      any:
+        title.is:
+          - "After Life"
+          - "The Big Bang Theory"
+          - "Agent Carter"
+          - "Avatar : Le dernier maître de l'air"
+          - "Archer"
+          - "Bleach"
+          - "The Boys"
+          - "bref"
+          - "Brooklyn Nine-Nine"
+          - "Chernobyl"
+          - "Daria"
+          - "Dark"
+          - "Désenchantée"
+          - "Downton Abbey"
+          - "La Flamme"
+          - "Food Wars! Shokugeki no Soma"
+          - "Fullmetal Alchemist"
+          - "Futurama"
+          - "The Handmaid's Tale : La Servante écarlate"
+          - "Game of Thrones"
+          - "Good Omens"
+          - "Gossip Girl"
+          - "Hero Corp"
+          - "Heroes"
+          - "Hunter x Hunter"
+          - "Hunters"
+          - "Lazy Company"
+          - "Like-moi!"
+          - "Little Witch Academia"
+          - "Le Monde selon Jeff Goldblum"
+          - "Le mystère d'Oak Island"
+          - "Loki"
+          - "The Mandalorian"
+          - "Neuf mecs"
+          - "Neuf meufs"
+          - "Revenge"
+          - "The Office (US)"
+          - "You"
+          - "La Vérité sur l'affaire Harry Quebert" 
+          - "Umbrella Academy"
+          - "True Detective"
+          - "Scrubs"
+          - "Safe"
+          - "Sherlock"
+          - "Sense8"
+          - "Stay With Me"
+          - "Stranger Things"
+          - "That '70s Show"
+          - "Veronica Mars"
+          - "Vikings"

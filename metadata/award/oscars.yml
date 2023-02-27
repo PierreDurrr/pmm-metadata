@@ -1,0 +1,61 @@
+external_templates:
+  pmm: templates
+  template_variables:
+    collection_section: 16
+  repo: metadata/mytemplates.yml
+
+#translations:
+#  pmm: translations
+
+collections:
+  Oscar Winners (2008-2022):
+    template:
+      - name: shared
+        sort: Oscars !1
+        allowed_libraries: movie
+#        image: award/oscars/best_picture_winner
+      - name: arr
+#      - name: custom
+#      - name: translation
+#        translation_key: oscars_picture
+#    sync_mode: sync
+    collection_mode: hide_items
+    smart_label: release.desc
+#    collection_order: custom
+    sort_title: "!!!!!0004!_Oscar Winners (2008-2022)"
+    sumarry: "L’Oscar du meilleur film est l’un des Oscars décernés chaque année par l’Academy of Motion Picture Arts and Sciences depuis ses débuts en 1929."
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/oscars-winners-2008-20xx?sort=released,desc   #2008-20xx
+#      - https://trakt.tv/users/pierredurrr/lists/2022-oscar-winners   #2022
+#      - https://trakt.tv/users/pierredurrr/lists/2021-oscar-winners   #2021
+#      - https://trakt.tv/users/pierredurrr/lists/2020-oscar-winners   #2020
+#      - https://trakt.tv/users/pierredurrr/lists/2019-oscar-winners   #2019
+#      - https://trakt.tv/users/pierredurrr/lists/2018-oscar-winners   #2018
+#      - https://trakt.tv/users/pierredurrr/lists/2017-oscar-winners   #2017
+#      - https://trakt.tv/users/pierredurrr/lists/2016-oscar-winners   #2016
+#      - https://trakt.tv/users/pierredurrr/lists/2015-oscar-winners   #2015
+#      - https://trakt.tv/users/pierredurrr/lists/2014-oscar-winners   #2014
+#      - https://trakt.tv/users/pierredurrr/lists/2013-oscar-winners   #2013
+#      - https://trakt.tv/users/pierredurrr/lists/2012-oscar-winners   #2012
+#      - https://trakt.tv/users/pierredurrr/lists/2011-oscar-winners   #2011
+#      - https://trakt.tv/users/pierredurrr/lists/2010-oscar-winners   #2010
+#      - https://trakt.tv/users/pierredurrr/lists/2009-oscar-winners   #2009
+#      - https://trakt.tv/users/pierredurrr/lists/2008-oscar-winners   #2008
+    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/award/oscars/Oscars.jpg
+    filters:
+      filepath:
+        - /mnt/_SYNOLOGY/video/_Recommendations/
+
+########################################
+# Standalone collection for each years #
+########################################
+
+#  2022 Oscar Winners:
+#    trakt_list: https://trakt.tv/users/pierredurrr/lists/2022-oscar-winners
+##    smart_label: critic_rating.desc
+#    sort_title: +2__2022 Oscar Winners
+#    collection_mode: hide_items
+##    radarr_add: true
+##    radarr_search: true
+##    radarr_monitor: true
+##    radarr_tag: Oscar Winners

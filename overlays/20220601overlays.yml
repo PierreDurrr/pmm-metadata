@@ -1,0 +1,210 @@
+collections:
+overlays:
+  YouAskedForIt:
+    overlay:
+      name: text(Demandé)
+      horizontal_offset: 300
+      horizontal_align: center
+      vertical_offset: 1375
+      vertical_align: top
+      font: fonts/Inter-Medium.ttf
+      font_size: 75
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 380
+      back_height: 105
+      overlay_level: episode
+    plex_search:
+      all:
+        added: 18250
+    filters:
+      filepath:
+        - /mnt/_SYNOLOGY/video/Films/_Users
+        - /mnt/_SYNOLOGY/video/Series/_Users
+
+  Subtitled_Episode:
+    collection_level: episode
+    overlay:
+      name: text(Sous-titré)
+      horizontal_offset: 750
+      horizontal_align: center
+      vertical_offset: 950
+      vertical_align: top
+      font: fonts/Inter-Medium.ttf
+      font_size: 75
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 380
+      back_height: 105
+      overlay_level: episode
+    plex_search:
+      all:
+        added: 18250
+    filters:
+      filepath:
+        - VOSTFR
+        - vostfr
+        - vost
+        - fastsub
+        - subfrench
+        - SUBFRENCH
+        - subtitled
+        - MULTISUB
+      filepath.not:
+        - .FRENCH.
+        - french
+        - multi
+        - MULTi
+        - MULTI
+        - VFF
+        - VOF
+        - VF
+        - vf
+        - VFQ
+        - VF2
+        - TRUEFRENCH
+
+  Subtitled_Episode2:
+    collection_level: episode
+    overlay:
+      name: text(Sous-titré)
+      horizontal_offset: 750
+      horizontal_align: center
+      vertical_offset: 950
+      vertical_align: top
+      font: fonts/Inter-Medium.ttf
+      font_size: 75
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 380
+      back_height: 105
+      overlay_level: episode
+    plex_search: 
+      all:
+        audio_language.not: 
+          - fr
+    filters:
+      filepath:
+        - VOSTFR
+        - vostfr
+        - vost
+        - fastsub
+        - subfrench
+        - SUBFRENCH
+        - subtitled
+        - MULTISUB
+      filepath.not:
+        - .FRENCH.
+        - french
+        - multi
+        - MULTi
+        - MULTI
+        - VFF
+        - VOF
+        - VF
+        - vf
+        - VFQ
+        - VF2
+        - TRUEFRENCH
+
+  Subtitled_Movies:
+    overlay:
+      name: text(Sous-titré)
+      horizontal_offset: 300
+      horizontal_align: center
+      vertical_offset: 1250
+      vertical_align: top
+      font: fonts/Inter-Medium.ttf
+      font_size: 75
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 380
+      back_height: 105
+      overlay_level: episode
+    plex_search:
+      all:
+        added: 18250
+    filters:
+      filepath:
+        - VOSTFR
+        - vostfr
+        - vost
+        - fastsub
+        - subfrench
+        - SUBFRENCH
+        - subtitled
+        - MULTISUB
+      filepath.not:
+        - .FRENCH.
+        - french
+        - multi
+        - MULTi
+        - MULTI
+        - VFF
+        - VOF
+        - VF
+        - vf
+        - VFQ
+        - VF2
+        - TRUEFRENCH
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.1.+.Bonus.FRENCH.DVDRiP.XViD.T411.avi/
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.2.+.Bonus.FRENCH.DVDRiP.XViD.T411/
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Ez3kiel/Ez3kiel et le Naphtaline Orchestra au grand Theatre de Tours/
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Ez3kiel et le Naphtaline Orchestra au grand Theatre de Tours/
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Birdy Nam Nam live a la Cigale/
+
+  Subtitled_Movies2:
+    overlay:
+      name: text(Sous-titré)
+      horizontal_offset: 300
+      horizontal_align: center
+      vertical_offset: 1250
+      vertical_align: top
+      font: fonts/Inter-Medium.ttf
+      font_size: 75
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 380
+      back_height: 105
+      overlay_level: episode 
+    plex_search: 
+      all:
+        audio_language.not: 
+          - fr
+    filters:
+      filepath:
+        - /mnt/_SYNOLOGY/Mediatheque/Films/ 
+        - /mnt/_SYNOLOGY/video/Films/_Users/
+      filepath.not:
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.1.+.Bonus.FRENCH.DVDRiP.XViD.T411.avi/
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.2.+.Bonus.FRENCH.DVDRiP.XViD.T411/
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Ez3kiel/Ez3kiel et le Naphtaline Orchestra au grand Theatre de Tours/
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Ez3kiel et le Naphtaline Orchestra au grand Theatre de Tours/
+        - /mnt/_SYNOLOGY/Mediatheque/Films/Birdy Nam Nam live a la Cigale/
+
+  Subtitled+YouAskedForIt:
+    plex_search:
+      all:
+        added: 18250
+    filters:
+      filepath:
+        - /mnt/_SYNOLOGY/video/Films/_Users/
+        - /mnt/_SYNOLOGY/video/Series/_Users/
+      filepath.not:
+        - .FRENCH.
+        - FRENCH
+        - french
+        - MULTi
+        - MULTI
+        - multi
+        - VFF
+        - VOF
+        - VF
+        - VFQ
+        - VF2
+        - TRUEFRENCH

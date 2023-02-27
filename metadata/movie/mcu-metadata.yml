@@ -1,0 +1,322 @@
+metadata:
+
+##########################################
+#                                        #
+#    Marvel Cinematic Universe (MCU)     #
+#                                        #
+##########################################
+
+  1726: # Iron Man
+    url_poster: https://theposterdb.com/api/assets/9773
+  1724: # The Incredible Hulk
+    url_poster: https://theposterdb.com/api/assets/114057/
+  10138: # Iron Man 2
+    url_poster: https://theposterdb.com/api/assets/9776
+  10195: # Thor
+    url_poster: https://theposterdb.com/api/assets/9777
+  1771: # Captain America: The First Avenger
+    url_poster: https://theposterdb.com/api/assets/9778
+  24428: # The Avengers
+    url_poster: https://theposterdb.com/api/assets/9779 
+  68721: # Iron Man 3
+    url_poster: https://theposterdb.com/api/assets/9780
+  76338: # Thor: The Dark World
+    url_poster: https://theposterdb.com/api/assets/9781  
+  100402: # Captain America: The Winter Soldier
+    url_poster: https://theposterdb.com/api/assets/9783    
+  118340: # Guardians of the Galaxy
+    url_poster: https://theposterdb.com/api/assets/9784   
+  99861: # Avengers: Age of Ultron
+    url_poster: https://theposterdb.com/api/assets/9785  
+  102899: # Ant-Man
+    url_poster: https://theposterdb.com/api/assets/9786  
+  271110: # Captain America: Civil War
+    url_poster: https://theposterdb.com/api/assets/9787   
+  284052: # Doctor Strange
+    url_poster: https://theposterdb.com/api/assets/9788  
+  283995: # Guardians of the Galaxy Vol. 2
+    url_poster: https://theposterdb.com/api/assets/9789  
+  315635: # Spider-Man: Homecoming
+    url_poster: https://theposterdb.com/api/assets/9790
+  284053: # Thor: Ragnarok
+    url_poster: https://theposterdb.com/api/assets/9791
+  284054: # Black Panther
+    url_poster: https://theposterdb.com/api/assets/9792
+  299536: # Avengers: Infinity War
+    url_poster: https://theposterdb.com/api/assets/9794 
+  363088: # Ant-Man and the Wasp
+    url_poster: https://theposterdb.com/api/assets/9795
+  299537: # Captain Marvel
+    url_poster: https://theposterdb.com/api/assets/9796 
+  299534: # Avengers: Endgame
+    url_poster: https://theposterdb.com/api/assets/9797
+  429617: # Spider-Man: Far from Home
+    url_poster: https://theposterdb.com/api/assets/9798
+  497698: # Black Widow
+    url_poster: https://theposterdb.com/api/assets/54982
+  566525: # Shang-Chi and the Legend of the Ten Rings
+    url_poster: https://theposterdb.com/api/assets/170437
+  524434: # Eternals
+    url_poster: https://theposterdb.com/api/assets/153775
+  634649: # Spider-Man: No Way Home
+    url_poster: https://theposterdb.com/api/assets/198816
+  # "Spider-Man: No Way Home (The More Fun Stuff Version)":
+  #   tmdb_movie: 634649
+  #   edition_filter: Fun Stuff
+  #   url_poster: https://theposterdb.com/api/assets/287942
+  453395: # Doctor Strange in the Multiverse of Madness
+    url_poster: https://theposterdb.com/api/assets/234599
+  616037: # Thor: Love and Thunder
+    url_poster: https://theposterdb.com/api/assets/237520
+  640146: # Ant-Man and the Wasp: Quantumania
+    url_poster: https://theposterdb.com/api/assets/307135
+  894205: # Werewolf by Night
+    url_poster: https://theposterdb.com/api/assets/273727
+  505642: # Black Panther: Wakanda Forever
+    url_poster: https://theposterdb.com/api/assets/260383
+  774752: # The Guardians of the Galaxy Holiday Special
+    url_poster: https://theposterdb.com/api/assets/289989
+#  76122: # One Shot: The Consultant
+#    url_poster: https://theposterdb.com/api/assets/139057
+#  76535: # One Shot: A Funny Thing Happened on the Way to Thor's Hammer
+#    url_poster: https://theposterdb.com/api/assets/139058
+#  119569: # One Shot: Item 47
+#    url_poster: https://theposterdb.com/api/assets/139059
+#  211387: # One Shot: Agent Carter
+#    url_poster: https://theposterdb.com/api/assets/139060
+#  253980: # One Shot: All Hail the King
+#    url_poster: https://theposterdb.com/api/assets/139061
+#  758025: # One Shot: Peter's To-Do List
+#    url_poster: https://theposterdb.com/api/assets/139486
+#  505945: # One Shot: Team Darryl
+#    url_poster: https://theposterdb.com/api/assets/139485
+#  413279: # One Shot: Team Thor
+#    url_poster: https://theposterdb.com/api/assets/139483
+#  441829: # One Shot: Team Thor Part 2
+#    url_poster: https://theposterdb.com/api/assets/139484
+  557:    # Spider-Man
+    url_poster: https://theposterdb.com/api/assets/116707
+  558:    # Spider-Man 2
+    url_poster: https://theposterdb.com/api/assets/116708
+  559:    # Spider-Man 3
+    url_poster: https://theposterdb.com/api/assets/116709
+  1930:   # The Amazing Spider-Man
+    url_poster: https://theposterdb.com/api/assets/116710
+  102382: # The Amazing Spider-Man 2
+    url_poster: https://theposterdb.com/api/assets/116711
+  324857: # Into the Spider-Verse
+    url_poster: https://theposterdb.com/api/assets/116713
+  # 569094: # Across the Spider-Verse
+  #   url_poster:
+#  583055: # Spider-Ham: Caught in a Ham
+#    url_poster: https://theposterdb.com/api/assets/132639
+#  961651: # Spider-Man: All Roads Lead to No Way Home
+#    url_poster: https://theposterdb.com/api/assets/287943
+  293660: # Deadpool
+    url_poster: https://theposterdb.com/api/assets/205190
+#  558144: # Deadpool: No Good Deed
+#    url_poster: https://theposterdb.com/api/assets/135784
+  383498: # Deadpool 2
+    url_poster: https://theposterdb.com/api/assets/205191
+  # "Deadpool 2 (Super Duper Cut)":
+  #   tmdb_movie: 383498
+  #   edition_filter: Duper
+  #   url_poster: https://theposterdb.com/api/assets/135783
+  567604: # Once Upon a Deadpool
+    url_poster: https://theposterdb.com/api/assets/205518
+  36647:  # Blade
+    url_poster: https://theposterdb.com/api/assets/205579
+  36586:  # Blade II
+    url_poster: https://theposterdb.com/api/assets/205585
+  36648:  # Blade Trinity
+    url_poster: https://theposterdb.com/api/assets/205586
+  36657:  # X-Men  
+    url_poster: https://theposterdb.com/api/assets/237910
+  36658:  # X2  
+    url_poster: https://theposterdb.com/api/assets/237911
+  36668:  # X-Men: The Last Stand  
+    url_poster: https://theposterdb.com/api/assets/237912
+  49538:  # X-Men: First Class  
+    url_poster: https://theposterdb.com/api/assets/237913
+  127585: # X-Men: Days of Future Past  
+    url_poster: https://theposterdb.com/api/assets/237914
+  # "X-Men: Days of Future Past (The Rogue Cut)":
+  #   tmdb_movie: 127585
+  #   edition_filter: Rogue
+  #   url_poster: https://theposterdb.com/api/assets/143892
+  246655: # X-Men: Apocalypse  
+    url_poster: https://theposterdb.com/api/assets/237915
+  320288: # Dark Phoenix  
+    url_poster: https://theposterdb.com/api/assets/237916
+  340102: # The New Mutants  
+    url_poster: https://theposterdb.com/api/assets/235888
+  2080:   # X-Men Origins: Wolverine  
+    url_poster: https://theposterdb.com/api/assets/237920
+  76170:  # The Wolverine  
+    url_poster: https://theposterdb.com/api/assets/236342
+  263115: # Logan  
+    url_poster: https://theposterdb.com/api/assets/237922
+  # "Logan (Noir)":
+  #   tmdb_movie: 263115
+  #   edition_filter: Noir
+  #   url_poster: https://theposterdb.com/api/assets/143897
+  9738:   # Fantastic Four  
+    url_poster: https://theposterdb.com/api/assets/287599
+  1979:   # Fantastic Four: Rise of the Silver Surfer
+    url_poster: https://theposterdb.com/api/assets/287600
+  166424: # Fantastic Four (2015)  
+    url_poster: https://theposterdb.com/api/assets/287601
+  9947:   # Elektra  
+    url_poster: https://theposterdb.com/api/assets/126204
+  1250:   # Ghost Rider  
+    url_poster: https://theposterdb.com/api/assets/236324
+  71676:  # Ghost Rider: Spirit of Vengeance  
+    url_poster: https://theposterdb.com/api/assets/236338
+#  197467:   # Captain America  
+#    url_poster: https://theposterdb.com/api/assets/164764
+#  197481:  # Captain America II: Death Too Soon 
+#    url_poster: https://theposterdb.com/api/assets/164765
+#  177572:  # Big Hero 6
+#    url_poster: https://theposterdb.com/api/assets/171459
+  335983:  # Venom
+    url_poster: https://theposterdb.com/api/assets/116712
+  580489:  # Venom: Let There be Carnage
+    url_poster: https://theposterdb.com/api/assets/192587
+  10658:   # Howard The Duck
+    url_poster: https://theposterdb.com/api/assets/163883
+#  1927:   # Hulk
+#    url_poster: https://theposterdb.com/api/assets/139467
+  22059:  # The Fantastic Four (1994)
+    url_poster: https://theposterdb.com/api/assets/290998
+#  13995:  # Captain America (1990)
+#    url_poster: https://theposterdb.com/api/assets/164767
+  18882:  # Man-Thing
+    url_poster: https://theposterdb.com/api/assets/233893
+#  27460:  # Nick Fury: Agent of S.H.I.E.L.D.
+#    url_poster: https://theposterdb.com/api/assets/220282
+#  50468:  # Dr. Strange (1978)
+#    url_poster: https://theposterdb.com/api/assets/221997
+  526896: # Morbius
+    url_poster: https://theposterdb.com/api/assets/235709
+#  7220:   # The Punisher
+#    url_poster: https://theposterdb.com/api/assets/151894
+#  13056:  # Punisher: War Zone
+#    url_poster: https://theposterdb.com/api/assets/151895
+#  120605: # Punisher: Dirty Laundry
+#    url_poster: https://theposterdb.com/api/assets/151896
+#  8867:   # The Punisher (1989)
+#    url_poster: https://theposterdb.com/api/assets/151893
+
+##########################################
+#                                        #
+#   Worlds of DC (DC Extended Universe)  #
+#                                        #
+##########################################
+
+#  49521:  # Man of Steel
+#    url_poster: https://theposterdb.com/api/assets/128647
+#  209112: # Batman v Superman: Dawn of Justice
+#    url_poster: https://theposterdb.com/api/assets/128648
+#  # "Batman v Superman: Dawn of Justice (Ultimate Edition)":
+#  #   tmdb_movie: 209112
+#  #   edition_filter: Ultimate
+#  #   url_poster: https://theposterdb.com/api/assets/141589
+#  297761: # Suicide Squad
+#    url_poster: https://theposterdb.com/api/assets/128649
+#  297762: # Wonder Woman
+#    url_poster: https://theposterdb.com/api/assets/128650
+#  141052:  # Justice League
+#    url_poster: https://theposterdb.com/api/assets/128651
+#  297802: # Aquaman
+#    url_poster: https://theposterdb.com/api/assets/128652
+#  495764: # Birds of Prey
+#    url_poster: https://theposterdb.com/api/assets/128654
+#  464052: # Wonder Woman 1984
+#    url_poster: https://theposterdb.com/api/assets/128655
+#  436969: # The Suicide Squad
+#    url_poster: https://theposterdb.com/api/assets/128656
+#  791373: # Zack Snyder's Justice League
+#    url_poster: https://theposterdb.com/api/assets/131514
+#  # "Zack Snyder's Justice League (Justice is Gray Edition)":
+#  #   tmdb_movie: 791373
+#  #   edition_filter: Gray
+#  #   url_poster: https://theposterdb.com/api/assets/141590
+#  436270: # Black Adam
+#    url_poster: https://theposterdb.com/api/assets/261466
+#  287947: #  Shazam!
+#    url_poster: https://theposterdb.com/api/assets/313306
+#  594767: # Shazam! Fury of the Gods
+#    url_poster: https://theposterdb.com/api/assets/313307
+#  272:    # Batman Begins
+#    url_poster: https://theposterdb.com/api/assets/141712
+#  155:    # The Dark Knight
+#    url_poster: https://theposterdb.com/api/assets/141713
+#  49026:  # The Dark Knight Rises
+#    url_poster: https://theposterdb.com/api/assets/141714
+#  268:    # Batman
+#    url_poster: https://theposterdb.com/api/assets/142580
+#  364:    # Batman Returns
+#    url_poster: https://theposterdb.com/api/assets/142581
+#  414:    # Batman Forever
+#    url_poster: https://theposterdb.com/api/assets/142582
+#  415:    # Batman & Robin
+#    url_poster: https://theposterdb.com/api/assets/142583
+#  2661:   # Batman (1966)
+#    url_poster: https://theposterdb.com/api/assets/177507
+#  20776:  # Return to the Batcave - The Misadventures of Adam and Burt
+#    url_poster: https://theposterdb.com/api/assets/177508
+#  411736: # Batman: Return of the Caped Crusaders
+#    url_poster: https://theposterdb.com/api/assets/177509
+#  464882: # Batman vs. Two-Face
+#    url_poster: https://theposterdb.com/api/assets/177510
+#  39514:  # RED
+#    url_poster: https://theposterdb.com/api/assets/145611
+#  146216: # RED 2
+#    url_poster: https://theposterdb.com/api/assets/145612
+#  1924:   # Superman
+#    url_poster: https://theposterdb.com/api/assets/147060
+#  8536:   # Superman II
+#    url_poster: https://theposterdb.com/api/assets/147061
+#  # "Superman II (The Richard Donner Cut)":
+#  #   tmdb_movie: 8536
+#  #   edition_filter: Donner
+#  #   url_poster: https://theposterdb.com/api/assets/147065
+#  9531:   # Superman III
+#    url_poster: https://theposterdb.com/api/assets/147062
+#  11411:  # Superman IV: The Quest for Peace
+#    url_poster: https://theposterdb.com/api/assets/147063
+#  1452:   # Superman Returns
+#    url_poster: https://theposterdb.com/api/assets/147064
+#  13183:  # Watchmen
+#    url_poster: https://theposterdb.com/api/assets/230907
+#  # "Watchmen (Director's Cut)":
+#  #   tmdb_movie: 13183
+#  #   edition_filter: Director
+#  #   url_poster: https://theposterdb.com/api/assets/196985
+#  # "Watchmen (Midnight)":
+#  #   tmdb_movie: 13183
+#  #   edition_filter: Midnight
+#  #   url_poster: https://theposterdb.com/api/assets/196987
+#  1071191: # Watchmen (Ultimate Cut)
+#    url_poster: https://theposterdb.com/api/assets/196986
+#  41207:   # Watchmen: Under the Hood
+#    original_title: "Watchmen: Under the Hood"
+#    url_poster: https://theposterdb.com/api/assets/196982
+#  475557:   # Joker
+#    url_poster: https://theposterdb.com/api/assets/128658
+#  44912:    # Green Lantern
+#    url_poster: https://theposterdb.com/api/assets/141592
+#  314:      # Catwoman
+#    url_poster: https://theposterdb.com/api/assets/145619
+#  561:      # Constantine
+#    url_poster: https://theposterdb.com/api/assets/177833
+#  831405:   # Injustice
+#    url_poster: https://theposterdb.com/api/assets/185712
+#  20533:    # Jonah Hex
+#    url_poster: https://theposterdb.com/api/assets/195976
+#  414906:   # The Batman
+#    url_poster: https://theposterdb.com/api/assets/206017
+#  752:      # V for Vendetta
+#    url_poster: https://theposterdb.com/api/assets/235960
+#  539681:   # DC League of Super-Pets
+#    url_poster: https://theposterdb.com/api/assets/260667 

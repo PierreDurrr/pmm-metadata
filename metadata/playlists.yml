@@ -1,0 +1,48 @@
+playlists:
+  Marvel Cinematic Universe:
+    sync_to_users: all
+    sync_mode: sync
+    url_poster: https://i0.wp.com/www.superpouvoir.com/wp-content/uploads/2018/06/MCU.jpg
+    libraries: Films, Séries TV
+#    trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe?sort=rank,asc
+    trakt_list: https://trakt.tv/users/username57/lists/marvel-cinematic-universe-mcu-timeline?sort=rank,asc
+    summary: "Tout le Marvel Cinematic Universe (films et séries) dans l'ordre de visionnage chronologique !"
+    
+  Les Films qui font Peur !:
+    sync_to_user: all
+    sync_mode: sync
+    url_poster: https://resize-lejdd.lanmedia.fr/f/webp/r/620,310,forcex,center-middle/img/var/europe1/storage/images/lejdd/societe/dou-vient-la-fete-dhalloween-3998538/56147063-1-fre-FR/D-ou-vient-la-fete-d-Halloween.jpg
+    libraries: Films
+    summary: 👻 Bouh ! 👻
+#    trakt_list: https://trakt.tv/users/username57/lists/marvel-cinematic-universe-mcu-timeline?sort=rank,asc
+    plex_search:
+      all:
+        genre: horreur
+      sort_by: random 
+    schedule: range(10/25-11/01)  
+    delete_not_scheduled: true
+           
+  All I Want For Christmas...:
+    sync_to_user: all
+    sync_mode: sync
+    url_poster: https://www.history.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY4OTA4MzI0ODc4NjkwMDAw/christmas-tree-gettyimages-1072744106.jpg
+    libraries: Films 
+    summary: 🎅🎄 Joyeux fêtes à tous ! 🎄🎅
+#    trakt_list: https://trakt.tv/users/username57/lists/marvel-cinematic-universe-mcu-timeline?sort=rank,asc
+    plex_search:
+      all:
+        summary: noël
+      sort_by: random      
+    schedule: range(12/01-01/03)
+    delete_not_scheduled: true
+
+### Paques Playlist - Add
+### At every March 30th
+###0 0 30 03 * cd /_0_scripts/01-plex-playlists-manager/02-noel-playlist.py | /scripts/00-slacktee/slacktee.sh -t 'Pierreflix.tv - Playlist "All I Want For Christmas..." créée !'
+#0 0 30 03 * cd /_0_scripts/000-JBOPS/fun/ && python3 playlist_manager.py --libraries Films Films_Serveur Recommendations --action add --limit 999 --search summary='pâques' --name 'Chasse aux oeufs !' --allUsers --self | /scripts/00-slacktee/slacktee.sh -t 'Pierreflix.tv - Playlist "Chasse aux oeufs !" créée !'
+    
+#  Star Wars Clone Wars Chronological Order:
+#    sync_to_users: all
+#    sync_mode: sync
+#    libraries: Movies, TV Shows
+#    trakt_list: https://trakt.tv/users/tomfin46/lists/star-wars-the-clone-wars-chronological-episode-order

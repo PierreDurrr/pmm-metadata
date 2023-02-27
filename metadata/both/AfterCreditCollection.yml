@@ -1,0 +1,27 @@
+external_templates:
+  pmm: templates
+  repo: metadata/mytemplates.yml
+#  template_variables:
+#    collection_section: "!!!!!0003!"
+
+translations:
+  pmm: translations
+
+collections:
+  Lexique Pierreflix:
+    template:
+      - name: separator
+        separator: streaming
+#      - name: translation
+#        key_name: Streaming
+#        translation_key: separator
+#    url_poster: https://i.imgur.com/pxTpvoT.png
+    url_poster: https://i.imgur.com/kw2YRJt.jpg
+
+  After Credit Colleciton:
+    schedule: all[weekly(saturday),hourly(22)]
+    plex_all: true
+    filters:
+      tmdb_keyword: aftercreditsstinger, duringcreditsstinger
+    item_label: Scène post-générique  
+    build_collection: false 

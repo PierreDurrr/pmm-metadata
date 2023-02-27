@@ -1,0 +1,45 @@
+templates:
+    Holiday:
+        url_poster: <<poster>>
+        sort_title: +++++++_<<collection_name>>
+        collection_order: alpha
+
+collections:
+  🎅 🎄 All I Want For Christmas... 🎄 🎅:
+    template: {name: Holiday, poster: https://i.imgur.com/wm2nUTn.jpeg}
+    label.remove: All I Want For Christmas...
+    item_label.remove: All I Want For Christmas...
+    collection_order: alpha
+    collection_mode: hide_items
+    visible_home: range(11/15-01/06)
+    visible_shared: range(11/15-01/06)
+    plex_all: true
+    filters:
+      filepath: /mnt/_SYNOLOGY/video/Films/_Christmas/
+  Add Christmas:
+    name: 🎅 🎄 All I Want For Christmas... 🎄 🎅
+    blank_collection: true
+    label: All I Want For Christmas...
+    item_label: All I Want For Christmas...
+    schedule: range(01/15-11/15)
+  Remove Christmas:
+    name: 🎅 🎄 All I Want For Christmas... 🎄 🎅
+    blank_collection: true
+    label.remove: All I Want For Christmas...
+    item_label.remove: All I Want For Christmas...
+    schedule: range(11/15-01/15)
+
+#######################################
+### USING WITH OTHER SEASONAL
+#######################################
+#
+#  Add Christmas:
+#    name: All I Want For Christmas...
+#    blank_collection: true
+#    label: All I Want For Christmas...
+#    schedule: range(12/01-01/15)
+#  Remove Christmas:
+#    name: All I Want For Christmas...
+#    blank_collection: true
+#    label.remove: All I Want For Christmas...
+#    schedule: range(01/15-12/01)

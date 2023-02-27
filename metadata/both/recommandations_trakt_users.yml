@@ -1,0 +1,54 @@
+###########################
+#        Templates        #
+###########################
+external_templates:
+  repo: metadata/mytemplates.yml
+  pmm: templates
+  
+  
+  ###########################################################################################
+collections:
+
+  Films Recommandé pour PierreDurrr:
+    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
+    trakt_list: 
+      - liste-a-ajouter
+    url_poster: poster-a-ajouter
+    collection_order: alpha
+    collection_mode: hide_items
+    visible_home: true
+    sync_mode: sync
+    label: trakt_pierre
+
+  Films Recommandé pour Élise:
+    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
+    trakt_list: 
+      - liste-a-ajouter
+    url_poster: poster-a-ajouter
+    collection_order: alpha
+    collection_mode: hide_items
+    visible_shared: true
+    sync_mode: sync
+    label: trakt_elise
+    
+  Films Recommandé pour Cindy:
+    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
+    trakt_list: 
+      - liste-a-ajouter
+    url_poster: poster-a-ajouter
+    collection_order: alpha
+    collection_mode: hide_items
+    visible_shared: true
+    sync_mode: sync
+    label: trakt_cindy
+    
+  Films Recommandé pour Géraud:
+    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
+    trakt_list: 
+      - liste-a-ajouter
+    url_poster: poster-a-ajouter
+    collection_order: alpha
+    collection_mode: hide_items
+    visible_shared: true
+    sync_mode: sync
+    label: trakt_geraud

@@ -1,0 +1,48 @@
+collections:
+overlays:
+  Subtitle:
+    collection_level: episode
+    overlay:
+      name: text(Sous-titré)
+      horizontal_offset: 10
+      horizontal_align: left
+      vertical_offset: 10
+      vertical_align: top
+      font: fonts/Inter-Bold.ttf
+      font_size: 80
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 420
+      back_height: 105
+      overlay_level: episode
+    plex_search:
+      all:
+        added: 18250
+    filters:
+      filepath.regex: '(?i)(vostfr|vost|fastsub|subfrench|subtitled|multisub)'  
+#        - VOSTFR
+#        - vostfr
+#        - vost
+#        - fastsub
+#        - subf
+#        - .SUBF
+#        - subfrench
+#        - SUBFRENCH
+#        - subtitled
+#        - MULTISUB
+#      regex.not : '(.FRENCH.|multi|vff|vof|vf|vfq|vf2|truefrench)'
+      filepath.not:
+        - multi
+        - MULTi
+        - MULTI
+        - VFF
+        - VOF
+        - VF
+        - vf
+        - VFQ
+        - VF2
+        - VFI
+#        - TRUEFRENCH
+#        - .FRENCH.
+#        - french

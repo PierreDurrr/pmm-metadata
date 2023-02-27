@@ -1,0 +1,291 @@
+templates:
+  Show:
+    tvdb_show: <<show>>
+    sort_title: <<collection_name>>
+
+collections:
+  Avatar: 
+    template: {name: Show, show: "74852, 251085"}
+    collection_mode: hide
+    url_poster: https://theposterdb.com/api/assets/72969
+
+  Big Mouth - Saga:
+    template: {name: Show, show: "331431, 370452"}
+    collection_mode: hide
+    url_poster: https://theposterdb.com/api/assets/4923
+    collection_order: alpha
+
+  Bob's Burger - Saga:
+    template: {name: Show, show: "194031"}
+    collection_mode: hide
+    url_poster: https://theposterdb.com/api/assets/29890
+
+  Chasse Aux Trésors:
+    collection_mode: hide
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/treasure-hunting-shows?sort=rank,asc
+    imdb_list: https://www.imdb.com/list/ls045583348/
+    url_poster: https://i.ibb.co/QbMhS5j/coverlabs-poster-1.jpg 
+
+  Club Dorothée:
+    template: {name: Show, show: "338153, 83348, 171821, 71776, 248423, 76932, 78500, 72775, 265591, 263844, 81472, 76666, 88031, 73014, 72877"}
+    collection_mode: hide
+
+  Dexter:
+    template: {name: Show, show: "79349, 412366"}
+    collection_mode: hide
+    url_poster: https://theposterdb.com/api/assets/155097
+
+  Downton Abbey - Saga:
+    template: {name: Show, show: "193131"}
+    collection_mode: hide
+
+  Dragon Ball:
+    template: {name: Show, show: "295068, 81472, 76666, 79275, 88031, 347734, 272910, 347734"}
+    collection_mode: hide
+    url_poster: https://theposterdb.com/api/assets/170776
+    
+#  Flamme et Flambeau:
+#    template: {name: Show, show: "371079, 420289"}
+#    collection_mode: hide
+#    url_poster: https://theposterdb.com/api/assets/170776  
+
+  Friends - Saga:
+    template: {name: Show, show: "79168, 72920"}
+    collection_mode: hide
+    url_poster: https://theposterdb.com/api/assets/10685
+
+  Game of Thrones - Saga:
+    template: {name: Show, show: "121361, 371572"}
+    collection_mode: hide
+    url_poster: https://theposterdb.com/api/assets/241588
+
+  Karaté Kid - Saga:
+    template: {name: Show, show: "332858"}
+    collection_mode: hide
+    url_poster: https://theposterdb.com/api/assets/92958
+
+  Gundam Wing Mobile Suit:
+#    collection_mode: hide
+    plex_search:
+      all:
+        title: Gundam
+    url_poster: https://theposterdb.com/api/assets/180163
+    summary: "L'Humanité a colonisé l'espace, avec des regroupements de colonies situés à chacun des cinq points de Lagrange Terre/Lune. Sur Terre, les nations se sont unies au sein de l'Alliance. L'Alliance dirige les colonies d'une main de fer, tandis que celles-ci se regroupent autour de Heero Yuy pour exprimer leur désir de paix. En l'an 175 de la colonisation, Yuy est tué par balle (probablement par Odin Lowe), ce qui contraint les colonies à envisager d'autres moyens pour parvenir à la paix. Cet assassinat provoque le départ de cinq scientifiques de l'Organisation de Oz, juste après qu'ils ont achevé le prototype de l'armure mobile Tallgeese."
+
+  Le Caméléon - Saga:
+    template: {name: Show, show: "70704"}
+    collection_mode: hide
+
+  Le Monde de Terry Pratchett - Saga:
+    template: {name: Show, show: "359569, 81592, 166091"}
+    collection_mode: hide
+
+  Les robins des bois - Collection:
+    template: {name: Show, show: "206681, 414940"}
+    summary: "L'intégrale des Robins des Bois"
+    url_poster: https://i.imgur.com/x9lnN14.png
+#    collection_order: alpha
+    collection_mode: hide_items
+
+  Il était une fois...: 
+    template: {name: Show, show: "79158, 79849, 82342, 81153, 83005, 81661, 85352, 359499"}
+    url_poster: https://blob.cede.ch/catalog/15802000/15802870_1_92.jpg
+    collection_mode: hide
+
+  Kaamelott - Saga: 
+    template: {name: Show, show: "79175"}
+    url_poster: https://theposterdb.com/api/assets/160329
+    collection_mode: hide
+
+  Marvel Associated:
+    template: {name: Show, show: "331980, 281662, 284190, 304219, 317953, 326490, 263365, 281485, 341455, 320558, 332027, 328552, 368612"}
+    smart_label: year.asc
+    collection_mode: show_items
+    url_poster: https://theposterdb.com/api/assets/171159
+
+  Marvel Cinematic Universe:
+    template: {name: Show, show: "362392, 362496, 362472, 367147, 367146, 368612"}
+    smart_label: year.asc
+    collection_mode: show_items
+    url_poster: https://theposterdb.com/api/assets/43912
+
+  Monogatari Series:
+    collection_mode: hide_items
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/monogatari-series?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/86518
+  
+
+  Naruto:
+    template: {name: Show, show: "78857, 79824, 321285"}
+    collection_mode: hide
+    url_poster: https://theposterdb.com/api/assets/59737
+
+  Olive et Tom - Saga: 
+    template: {name: Show, show: "84045, 339203"}
+    trakt_list: https://trakt.tv/users/darkman1498/lists/captain-tsubasa?sort=rank,asc
+    url_poster: https://wir.skyrock.net/wir/v1/profilcrop/?c=isi&im=%2F5529%2F87335529%2Fpics%2F3157159078_1_2_WnEVNRn1.png&w=598&h=819
+    collection_mode: hide
+
+  Palmashow:
+    template: {name: Show, show: "281047, 323370, 254972, 397594, 414411, 414395, 414394, 253298"}
+    summary: "L'intégrale du Palmashow"
+    trakt_list: 
+      - https://trakt.tv/users/pierredurrr/lists/palmashow?sort=rank,asc
+    url_poster: https://image.tmdb.org/t/p/original//l9zrjgie6kfloh91kl4DKt6y3Ni.jpg
+    collection_mode: hide_items
+
+  Pokémon - Saga:
+    template: {name: Show, show: "76703"}
+    collection_mode: hide
+    url_poster: https://theposterdb.com/api/assets/180179
+
+  Psychose - Saga:
+    template: {name: Show, show: "262414"}
+    url_poster: https://theposterdb.com/api/assets/161295
+    collection_mode: hide
+
+  Le Seigneur des anneaux - Saga:
+    template: {name: Show, show: "367506"}
+    url_poster: https://theposterdb.com/api/assets/92068  
+    collection_mode: hide
+
+  Star Wars - Saga:
+    template: {name: Show, show: "361753, 393589, 393187, 83268, 393189, 393199"}
+    smart_label: year.asc
+    collection_mode: hide
+    mdblist_list: https://mdblist.com/lists/ahasson/star-wars-shows
+    url_poster: https://theposterdb.com/api/assets/128827
+    
+  That '70s & '90s Show - Saga:
+    template: {name: Show, show: "73787, 411173"}
+    collection_mode: hide
+#    url_poster: https://theposterdb.com/api/assets/4923
+    collection_order: alpha    
+    
+  The Big Bang Theory - Saga:  
+    template: {name: Show, show: "80379, 328724"}
+    collection_mode: hide
+    collection_order: alpha
+    url_poster: https://theposterdb.com/api/assets/247173
+
+  Zootopie - Saga:
+    template: {name: Show, show: "393206"}
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/zootopia-saga?sort=rank,asc
+    collection_mode: hide
+    url_poster: https://theposterdb.com/api/assets/191991
+
+### Genres
+  Anime:
+    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/genre/Anime.jpg
+    summary: Cette collection regroupe tout les animes disponibles sur Pierreflix. Des ajouts sont faits régulièrement.
+    trakt_list: https://trakt.tv/users/megatek23/lists/anime-collection?page=6&sort=rank,asc
+    collection_mode: show_items
+    smart_label: title.asc
+    sort_title: +++_Anime
+
+# Looney Tunes Golden Collection
+#  Looney Tunes Golden Collection:
+#    template: {name: Show}
+#    trakt_list:
+#      - https://trakt.tv/users/wambie/lists/looney-tunes-golden-collection-vol-1
+#      - https://trakt.tv/users/wambie/lists/looney-tunes-golden-collection-vol-2
+#      - https://trakt.tv/users/wambie/lists/looney-tunes-golden-collection-vol-3
+#      - https://trakt.tv/users/wambie/lists/looney-tunes-golden-collection-vol-4
+#      - https://trakt.tv/users/wambie/lists/looney-tunes-golden-collection-vol-5
+#      - https://trakt.tv/users/wambie/lists/looney-tunes-golden-collection-vol-6
+#    url_poster: https://m.media-amazon.com/images/I/81BXmfB+BwL._AC_SY550_.jpg
+
+# Looney Tunes characters
+  Looney Tunes - Bugs Bunny:
+    builder_level: episode
+    plex_search:
+      any:
+        title.is: Looney Tunes
+    filters:
+      summary: 
+        - Bugs
+        - bugs
+    sort_title: Looney Tunes - Bugs
+    url_poster: https://fusion.molotov.tv/arts/i/446x588/Ch8SHQoUBxP9G7janqOn-_233w3f8R-Igi0SA2pwZxgBCh8IARIbChQQdCVd64qgk5qPaDSMb74y_7hXyBIDcG5n/jpg
+
+  Looney Tunes - Titi et Grosminet:
+    builder_level: episode
+    plex_search:
+      any:
+        title.is: Looney Tunes
+    filters:
+      summary: 
+        - Titi
+        - Grosminet
+        - Sylvestre
+        - Sylvester
+        - Tweety
+    sort_title: Looney Tunes - Titi
+    url_poster: https://fusion.molotov.tv/arts/i/446x588/Ch8SHQoUHhbvalVBGVCUUMOttMgZ6Fwu7l4SA2pwZxgB/jpg
+    
+  Looney Tunes - Bip-bip et Coyote:
+    builder_level: episode
+    plex_search:
+      any:
+        title.is: Looney Tunes
+    filters:
+      summary: 
+        - Roadrunner
+        - road runer
+        - Bip Bip
+        - coyote
+    sort_title: Looney Tunes - Bip
+    url_poster: https://fusion.molotov.tv/arts/i/446x588/Ch8SHQoU4r0Obk7GkNGC1Jx7CzTH_e9D3kgSA2pwZxgB/jpg
+
+# TV Metadata
+metadata:
+  Olive et Tom, champions de foot: # Make this the title you want the item to be 
+    alt_title: Olive et Tom 2018 # make this the title that you want to search on to change to the other title
+    sort_title: Olive et Tom-01 # this will change sort title
+    
+  Olive et Tom 2018: # Make this the title you want the item to be 
+    alt_title: Captain Tsubasa # make this the title that you want to search on to change to the other title
+    sort_title: Olive et Tom-02 # this will change sort title  
+
+  What The Cut !?:
+    alt_title: Mr Antoine Daniel - What The Cut !?
+    sort_title: What The Cut !?
+        
+  "Avatar : Le dernier maître de l'air":
+    alt_title: "Avatar : Le dernier maître de l'air"
+    name_mapping: "Avatar : Le dernier maître de l'air"
+    sort_title: Avatar-01
+  
+  "Avatar : La légende de Korra": 
+    alt_title: "Avatar : La légende de Korra"
+    name_mapping: "Avatar : La légende de Korra"
+    sort_title: Avatar-02
+
+  Dragon Ball:
+    alt_title: Dragon Ball
+    sort_title: Dragon Ball-01
+    
+  Dragon Ball Z Kai:
+    alt_title: Dragon Ball Z Kai
+    sort_title: Dragon Ball-02
+    
+  Dragon Ball Super:
+    alt_title: Dragon Ball Super
+    sort_title: Dragon Ball-03
+    
+  Dragon Ball GT:
+    alt_title: Dragon Ball GT
+    sort_title: Dragon Ball-04
+    
+  La cape et l'épée:
+    alt_title: "La Cape et L'Épée"
+    sort_title: "La cape et l'épée"
+    url_poster: https://i.imgur.com/ANwcp6f.png
+    
+  Super Dragon Ball Heroes:
+    alt_title: Super Dragon Ball Heroes
+    sort_title: Dragon Ball-05
+
+  The Office (FR) (Le Bureau): # Make this the title you want the item to be 
+    alt_title: Le bureau # make this the title that you want to search on to change to the other title
+    sort_title: Office (FR) # this will change sort title

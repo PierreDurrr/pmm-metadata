@@ -1,0 +1,29 @@
+templates:
+  mediastinger:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      weight: 30
+    overlay:
+      name: <<overlay_name>>
+      file: /_0_scripts-config/000-Plex-Meta-Manager/overlays/mediastinger.png
+#      group: ribbon
+      weight: <<weight>>
+      horizontal_offset: 15
+      horizontal_align: right
+      vertical_offset: 15
+      vertical_align: bottom
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 160
+      back_height: 160
+
+overlays:
+
+  mediastinger:
+    template:
+      - name: mediastinger
+    plex_all: true
+    filters:
+      tmdb_keyword: aftercreditsstinger, duringcreditsstinger

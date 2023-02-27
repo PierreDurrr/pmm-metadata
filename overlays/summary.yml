@@ -1,0 +1,97 @@
+templates:
+  pierreflix_info:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      weight: 30
+
+overlays:
+  pierreflix_info_stinger_logo:
+    overlay:
+      name: <<overlay_name>>
+      file: /_0_scripts-config/000-Plex-Meta-Manager/overlays/mediastinger.png
+      weight: 30
+      horizontal_offset: 30
+      horizontal_align: left
+      vertical_offset: 300
+      vertical_align: top
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 160
+      back_height: 160
+    plex_all: true
+    filters:
+      tmdb_keyword: aftercreditsstinger, duringcreditsstinger
+  
+  pierreflix_info_stinger_text:
+    overlay:
+      name: text(Scène cachée)
+      weight: 60
+      font: fonts/Inter-Bold.ttf
+      font_size: 65
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      horizontal_offset: 225
+      horizontal_align: left
+      vertical_offset: 330
+      vertical_align: top
+      back_radius: 30
+      back_width: 480
+      back_height: 105
+    plex_all: true
+    filters:
+      tmdb_keyword: aftercreditsstinger, duringcreditsstinger
+
+  pierreflix_info_coupdecoeur_logo:
+    overlay:
+      name: <<overlay_name>>
+      file: /_0_scripts-config/000-Plex-Meta-Manager/overlays/overlays_TV_coupdecoeur_ribbon_v2-144x144.png
+      weight: 90
+      horizontal_offset: 30
+      horizontal_align: left
+      vertical_offset: 550
+      vertical_align: top
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 160
+      back_height: 160
+    plex_all: true
+    filters:
+      tmdb_keyword: aftercreditsstinger, duringcreditsstinger
+  
+  pierreflix_info_coupdecoeur_text:
+    overlay:
+      name: text(Coup de coeur)
+      weight: 60
+      font: fonts/Inter-Bold.ttf
+      font_size: 65
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      horizontal_offset: 225
+      horizontal_align: left
+      vertical_offset: 580
+      vertical_align: top
+      back_radius: 30
+      back_width: 500
+      back_height: 105
+    plex_all: true
+    filters:
+      tmdb_keyword: aftercreditsstinger, duringcreditsstinger
+
+  pierreflix_info_pierreflix_logo:
+    overlay:
+      name: <<overlay_name>>
+      file: /_0_scripts-config/000-Plex-Meta-Manager/overlays/pierreflix_logo.png
+      weight: 500
+      horizontal_offset: 15
+      horizontal_align: center
+      vertical_offset: 35
+      vertical_align: bottom
+#      back_color: "#00000099"
+#      back_radius: 30
+#      back_width: 160
+#      back_height: 160
+    plex_all: true
+    filters:
+      tmdb_keyword: aftercreditsstinger, duringcreditsstinger

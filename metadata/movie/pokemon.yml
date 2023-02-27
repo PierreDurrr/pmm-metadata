@@ -1,0 +1,32 @@
+templates:
+  collection:
+    optional:
+      - collection
+      - movie
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+#    sort_title: "040_<<collection_name>>"
+    sync_mode: sync
+    collection_order: custom
+
+  tmdb_collection:
+    tmdb_collection_details: <<tmdb_collection>>
+    collection_order: release
+    sort_title: "<<collection_name>>"
+
+dynamic_collections:
+  # Create collections based on the TMDb Collections associated with items in the library.
+  TMDb Collections:
+    template: tmdb_collection
+    type: tmdb_collection
+    exclude:
+      - "Pokémon: Detective Pikachu Collection"
+      - "Pokémon: Alternate Continuity Collection"
+
+collections:
+  Pokémon Collection:
+    template: { name: collection, collection: "34055, 661031" }
+    name: "Pokémon"
+    collection_order: custom
+    trakt_list: https://trakt.tv/users/bizarrebehavior/lists/movies-pokemon-chronological-order?sort=rank,asc
+    sync_mode: sync

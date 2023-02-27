@@ -1,0 +1,42 @@
+collections:
+
+###########################
+#     Trakt Trending      #
+###########################
+#  Trakt Trending:
+#    trakt_trending: 50
+#    sort_title: +++++++++_Trakt Trending
+#    collection_mode: hide_items
+###########################
+#      IMDb Top 250       #
+###########################
+#  IMDb Top 250:
+#    imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=250&sort=user_rating,desc
+#    sort_title: ++++++++_IMDb Top 250
+    
+#  Oscars:
+#    template: { name: Chart, num: 5 }
+#    imdb_list: https://www.imdb.com/search/title/?title_type=feature,documentary&groups=oscar_winner
+#    summary: Oscar Winning Movies
+    
+#  Top Rated:
+#    template: { name: Chart, num: 4 }
+#    imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=250/
+#    tmdb_top_rated: 250
+#    summary: Top Rated Movies across the internet
+    
+  Top des films piratés cette semaine:
+    trakt_list: https://trakt.tv/users/hdlists/lists/top-ten-pirated-movies-of-the-week-torrent-freak-com
+#    smart_label: year.desc
+    sync_mode: sync
+    sort_title: !!!!!!0006!_!Pirated Weekly
+    summary: Most Pirated Movies of The Week
+#    radarr_add: true
+#    radarr_search: true
+#    radarr_monitor: true
+#    radarr_tag: Most Pirated Movies
+#    collection_mode: hide_items
+#    url_poster: https://i.imgur.com/dYdjSOu.png
+    filters:
+      filepath:
+        - /mnt/_SYNOLOGY/video/_Recommendations/

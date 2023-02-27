@@ -1,0 +1,16 @@
+external_templates:
+  pmm: templates
+  repo: metadata/mytemplates.yml
+
+collections:
+  Nouveautés de la semaine:
+    url_poster: https://i.imgur.com/hVYRFri.jpg
+    collection_order: alpha
+    collection_mode: show_items
+    sort_title: +++++++__AddedThisWeek
+    summary: "Quoi d'neuf docteur ? Les ajouts de la semaine, c'est ici !"
+    plex_search:
+      all:
+        added: 7
+#    visible_home: true
+

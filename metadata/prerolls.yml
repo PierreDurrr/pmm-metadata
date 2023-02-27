@@ -1,0 +1,35 @@
+templates:
+  Prerolls:
+    build_collection: false
+
+collections:
+
+### MASTERLIST ###
+  Masterlist:
+    template: { name: Prerolls }
+    server_preroll: /mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/masterlist/netflix_intro_pierreflix0001-0100.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/masterlist/Columbia_Intro.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/masterlist/Disney_Intro.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/masterlist/Disney+_Intro.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/masterlist/MarvelStudios_Intro.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/masterlist/Paramount_Intro.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/masterlist/Paramount100_Intro.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/masterlist/Pixar_Intro.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/masterlist/MGM_Intro.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/other/PlayStation_Intro_1080p-music.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/other/Nintendo_Gamecube_Intro_4K_Remake_(Fixed_Audio).mp4
+
+  Information:
+    template: { name: Prerolls }
+    schedule: range(02/15-03/01)
+    server_preroll: "/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/info/20231402_Pierreflix_test_Adobe_After_Effects_2021.mp4"
+
+#  Saint Valentin:
+#    template: { name: Prerolls }
+#    schedule: range(03/01-05/31)
+#    server_preroll:
+
+  Halloween:
+    template: { name: Prerolls }
+    schedule: range(10/01-10/31)
+    server_preroll: /mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/year/octobre/Halloween_Spider_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/year/octobre/Happy_Halloween_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/year/octobre/Vampire_Bats_Halloween_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/year/octobre/Happy_Spider.mp4
+ 
+  Christmas:
+    template: { name: Prerolls }
+    schedule: range(12/01-01/08)
+    server_preroll: /mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/year/decembre/Christmas_Card_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/year/decembre/Christmas_Ornaments_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/year/decembre/Christmas_Train_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/year/decembre/Christmas_Tree_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/year/decembre/Gingerbread_Men_Dance_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/year/decembre/Holiday_Sweater_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/year/decembre/Merry_Christmas_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/year/decembre/Santa_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/year/decembre/Snowflakes_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/year/decembre/Snowman_Plex_Pre-roll.mp4
+
+  "Queen Elisabeth's Death":
+    template: { name: Prerolls }
+    schedule: range(09/08-09/16)
+    server_preroll: "/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/her_majesty/Elizabeth_II_et_l'ours_Paddington_ouvrent_le_concert_du_jubile.mp4"

@@ -1,0 +1,14 @@
+collections:
+  Mardi c'est permis:
+    plex_search:
+      all:
+        content_rating: "Tous publics"
+      sort_by: random
+      limit: 3
+    schedule: all[weekly(tuesday), hourly(00)]
+#    delete_not_scheduled: weekly(wednesday)
+    delete_not_scheduled: true
+#    smart_label: random
+    visible_shared: weekly(tuesday)
+    visible_library: weekly(tuesday)
+    visible_home: weekly(tuesday)    

@@ -1,0 +1,17 @@
+collections:
+  Gourmet Anime:
+    mal_search:
+      limit: 100
+      sort_by: score.desc
+      genre: "47"
+      # genre : Gourmet
+    collection_order: alpha
+    sort_title: +++_Gourmet
+    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/genre/Gourmet.jpg
+    sync_mode: sync
+    sonarr_add_missing: true
+    sonarr_folder: "/mnt/_SYNOLOGY/video/Series/_Pierre"
+    sonarr_tag: Gourmet, vo-vf
+    sonarr_monitor: all
+    sonarr_search: true
+    sonarr_language: "Multi_test"

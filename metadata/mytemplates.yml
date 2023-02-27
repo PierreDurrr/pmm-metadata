@@ -1,0 +1,29 @@
+###########################
+#        Templates        #
+###########################
+
+templates:
+
+  Collection-Smart:
+    optional:
+      - collection
+      - movie
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    sync_mode: sync
+  
+  Collection:
+    optional:
+      - collection
+      - movie
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    sync_mode: sync
+    collection_order: release
+ 
+  Movie:
+    tmdb_collection: <<collection>>
+    tmdb_summary: <<summary>>
+    url_poster: <<poster>>
+    sort_title: ++++_<<collection_name>>
+    collection_order: release
