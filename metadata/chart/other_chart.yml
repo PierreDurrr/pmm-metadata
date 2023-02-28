@@ -1,0 +1,76 @@
+##############################################################################
+#                          Other Charts Collections                          #
+#                 Created by Yozora, Bullmoose20, & Sohjiro                  #
+#          EDITING THIS FILE MAY CAUSE PULLING NEW UPDATES TO FAIL           #
+#        https://metamanager.wiki/en/latest/defaults/chart/other.html        #
+##############################################################################
+
+external_templates:
+  pmm: templates
+  template_variables:
+    collection_section: "01"
+    image: chart/<<collection_name_encoded>>
+  repo: metadata/mytemplates.yml  
+
+translations:
+  pmm: translations
+
+templates:
+  anidb:
+    default:
+      limit_anidb: 30
+    anidb_popular: <<limit_anidb>>
+
+  commonsense:
+    mdblist_list: https://mdblist.com/lists/plexmetamanager/cssfamilies<<library_type>>s
+
+collections:
+  AniDB Popular:
+    variables:
+      key: anidb
+    template:
+      - name: anidb
+      - name: shared
+      - name: arr
+      - name: custom
+      - name: translation
+        translation_key: anidb_popular
+
+  Common Sense Selection:
+    variables:
+      key: commonsense
+    template:
+      - name: commonsense
+      - name: shared
+      - name: arr
+      - name: custom
+      - name: translation
+        translation_key: commonsense_selection
+
+  StevenLu's Popular Movies:
+    variables:
+      key: stevenlu
+    stevenlu_popular: true
+    template:
+      - name: shared
+        allowed_libraries: movie
+      - name: arr
+      - name: custom
+      - name: translation
+        translation_key:  stevenlu_popular
+
+  Top 10 Pirated Movies of the Week:
+    variables:
+      key: pirated
+    smart_label: release.desc  
+    mdblist_list: https://mdblist.com/lists/hdlists/top-ten-pirated-movies-of-the-week-torrent-freak-com/
+    template:
+      - name: shared
+        allowed_libraries: movie
+      - name: arr
+#      - name: custom
+      - name: translation
+        translation_key: pirated_popular
+    filters:
+      filepath:
+        - /mnt/_SYNOLOGY/video/_Recommendations/    
