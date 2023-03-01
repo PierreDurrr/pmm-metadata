@@ -2033,6 +2033,7 @@ collections:
     collection_mode: hide
     label: MAINTENANCE
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/<<key_name_encoded>>.jpg
+#    only_run_on_create: true
 
 #  Multi Audio:
 #    smart_label: release.asc
@@ -2055,6 +2056,7 @@ collections:
       filepath: .avi
     label: MAINTENANCE   
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/<<key_name_encoded>>.jpg
+#    only_run_on_create: true    
 
   3D:
     variables:
@@ -2067,6 +2069,7 @@ collections:
       filepath: 3D
     label: MAINTENANCE   
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/<<key_name_encoded>>.jpg
+#    only_run_on_create: true
 
 ###################################################################
 ###################################################################
