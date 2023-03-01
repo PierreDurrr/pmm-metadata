@@ -9,7 +9,8 @@ collections:
     sort_title: !!!!!!0001!_!Lexique Pierreflix2
     smart_label: title.asc
     collection_mode: show_items
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/both/<<key>>.jpg
+#    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/both/<<key>>.jpg
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/both/TheyWillDisappear.jpg
     summary: "Dépêchez-vous ! Il vous reste moins d'un mois pour voir ces films ou ces séries avant leur disparition !"
     plex_search:
       all:
