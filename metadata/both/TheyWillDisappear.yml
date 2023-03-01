@@ -3,11 +3,12 @@ external_templates:
 
 collections:
   Ils nous quittent...:
-#    url_poster: https://meurtresetmysteres.com/wp-content/uploads/2020/11/repas-meurtres-et-mysteres-affiche-LQT.png
-    url_poster: https://i.imgur.com/5G1uvZd.jpg
+    variables:
+      key: TheyWillDisappear
     sort_title: !!!!!!0001!_!Lexique Pierreflix2
     smart_label: title.asc
     collection_mode: show_items
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/both/<<key>>.jpg
     summary: "Dépêchez-vous ! Il vous reste moins d'un mois pour voir ces films ou ces séries avant leur disparition !"
     plex_search:
       all:
