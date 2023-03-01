@@ -65,7 +65,7 @@ templates:
       back_height: 105
     mdblist_list: https://mdblist.com/lists/plexmetamanager/<<slug>>-<<library_type>>s
     filters:
-      filepath.regex: '(?i)(mediatheque)'
+      filepath.regex: '(?i)(mediatheque|_Users|_Pierre)'
       filepath.not:
         - /mnt/_SYNOLOGY/video/_Recommendations    
 
