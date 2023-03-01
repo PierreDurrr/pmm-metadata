@@ -2022,7 +2022,8 @@ collections:
 
   Single Audio:
     variables:
-      key: single_audio  
+      key: single_audio 
+    collection_section: "000"  
     smart_label: release.asc
     plex_all: true
     filters:
@@ -2046,6 +2047,7 @@ collections:
   .avi files:
     variables:
       key: low  
+    collection_section: "000"
     smart_label: release.asc
     collection_mode: hide
     sort_title: +++++++__00000Aaaaa-.avi
@@ -2058,6 +2060,7 @@ collections:
   3D:
     variables:
       key: 3D  
+    collection_section: "000"
     smart_label: release.asc
     collection_mode: hide
     sort_title: +++++++__00000Aaaaa3D
