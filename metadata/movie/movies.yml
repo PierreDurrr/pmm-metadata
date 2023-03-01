@@ -2023,14 +2023,13 @@ collections:
   Single Audio:
     variables:
       key: single_audio 
-    collection_section: "000"  
+    sort_title: 000single  
     smart_label: release.asc
     plex_all: true
     filters:
       audio_language.count_gte: 1
       audio_language.count_lt: 2
     collection_mode: hide
-    sort_title: ++++++_0a_multi0
     label: MAINTENANCE
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/<<key_name_encoded>>.jpg
 
@@ -2047,10 +2046,9 @@ collections:
   .avi files:
     variables:
       key: low  
-    collection_section: "000"
+    sort_title: 000avi
     smart_label: release.asc
     collection_mode: hide
-    sort_title: +++++++__00000Aaaaa-.avi
     plex_all: true
     filters:
       filepath: .avi
@@ -2060,10 +2058,9 @@ collections:
   3D:
     variables:
       key: 3D  
-    collection_section: "000"
+    sort_title: 0003D
     smart_label: release.asc
     collection_mode: hide
-    sort_title: +++++++__00000Aaaaa3D
     plex_all: true
     filters:
       filepath: 3D
