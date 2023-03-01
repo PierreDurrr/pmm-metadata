@@ -2021,6 +2021,8 @@ collections:
 ############
 
   Single Audio:
+    variables:
+      key: single_audio  
     smart_label: release.asc
     plex_all: true
     filters:
@@ -2029,6 +2031,7 @@ collections:
     collection_mode: hide
     sort_title: ++++++_0a_multi0
     label: MAINTENANCE
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/<<key_name_encoded>>.jpg
 
 #  Multi Audio:
 #    smart_label: release.asc
@@ -2041,6 +2044,8 @@ collections:
 #This will give you a collection of movies with 2 or more audio tracks
 
   .avi files:
+    variables:
+      key: low  
     smart_label: release.asc
     collection_mode: hide
     sort_title: +++++++__00000Aaaaa-.avi
@@ -2048,10 +2053,11 @@ collections:
     filters:
       filepath: .avi
     label: MAINTENANCE   
-#    visible_home: true
-#    visible_shared: true
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/<<key_name_encoded>>.jpg
 
   3D:
+    variables:
+      key: 3D  
     smart_label: release.asc
     collection_mode: hide
     sort_title: +++++++__00000Aaaaa3D
@@ -2059,8 +2065,7 @@ collections:
     filters:
       filepath: 3D
     label: MAINTENANCE   
-#    visible_home: true
-#    visible_shared: true
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/<<key_name_encoded>>.jpg
 
 ###################################################################
 ###################################################################
