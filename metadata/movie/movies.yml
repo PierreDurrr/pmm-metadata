@@ -2027,6 +2027,7 @@ collections:
     smart_label: release.asc
     plex_all: true
     filters:
+      country.not: france
       audio_language.count_gte: 1
       audio_language.count_lt: 2
     collection_mode: hide
