@@ -2032,7 +2032,7 @@ collections:
       audio_language.count_lt: 2
     collection_mode: hide
     label: MAINTENANCE
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/<<key_name_encoded>>.jpg
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/single_audio.jpg
 #    only_run_on_create: true
 
 #  Multi Audio:
@@ -2055,7 +2055,7 @@ collections:
     filters:
       filepath: .avi
     label: MAINTENANCE   
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/<<key_name_encoded>>.jpg
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/low.jpg
 #    only_run_on_create: true    
 
   3D:
@@ -2068,7 +2068,7 @@ collections:
     filters:
       filepath: 3D
     label: MAINTENANCE   
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/<<key_name_encoded>>.jpg
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/3D.jpg
 #    only_run_on_create: true
 
 ###################################################################
