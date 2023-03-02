@@ -1674,6 +1674,9 @@ collections:
     template: {name: Collection, collection: 608103, summary: 608103}
     url_poster: https://theposterdb.com/api/assets/98310  
     sort_title: Shaft2 - Saga
+  Shazam! - Saga: 
+    template: {name: Collection, collection: 724848, summary: 724848}
+    url_poster: https://theposterdb.com/api/assets/186971
   Shrek - Saga:
     template: {name: Collection, collection: 2150, summary: 2150}
     trakt_list: 
