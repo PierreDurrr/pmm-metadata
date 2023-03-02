@@ -56,9 +56,9 @@ templates:
     item_radarr_tag: <<item_radarr_tag_<<key>>>>
     radarr_monitor: <<radarr_monitor_<<key>>>>
     filters:
-#      filepath.regex: '(?i)(mediatheque)'
-      filepath.not:
-        - /mnt/_SYNOLOGY/Mediatheque/Films
+      filepath.regex: '(?i)(mediatheque)'
+#      filepath.not:
+#        - /mnt/_SYNOLOGY/Mediatheque/Films
 
 dynamic_collections:
   TMDb Collections:
