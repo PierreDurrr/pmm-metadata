@@ -20,7 +20,7 @@ collections:
 
   After Credit Colleciton:
 #    schedule: all[weekly(saturday),hourly(22)]
-    schedule: daily(00:00)
+    schedule: daily(00)
     plex_all: true
     filters:
       tmdb_keyword: aftercreditsstinger, duringcreditsstinger
