@@ -19,7 +19,8 @@ collections:
     url_poster: https://i.imgur.com/kw2YRJt.jpg
 
   After Credit Colleciton:
-    schedule: all[weekly(saturday),hourly(22)]
+#    schedule: all[weekly(saturday),hourly(22)]
+    schedule: daily(00:00)
     plex_all: true
     filters:
       tmdb_keyword: aftercreditsstinger, duringcreditsstinger
