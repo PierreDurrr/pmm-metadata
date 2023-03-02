@@ -3,7 +3,7 @@ playlists:
     sync_to_users: all
     sync_mode: sync
     url_poster: https://i0.wp.com/www.superpouvoir.com/wp-content/uploads/2018/06/MCU.jpg
-    libraries: Films, Séries TV
+    libraries: MoviesAll, ShowsAll
 #    trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe?sort=rank,asc
     trakt_list: https://trakt.tv/users/username57/lists/marvel-cinematic-universe-mcu-timeline?sort=rank,asc
     summary: "Tout le Marvel Cinematic Universe (films et séries) dans l'ordre de visionnage chronologique !"
@@ -12,7 +12,7 @@ playlists:
     sync_to_user: all
     sync_mode: sync
     url_poster: https://resize-lejdd.lanmedia.fr/f/webp/r/620,310,forcex,center-middle/img/var/europe1/storage/images/lejdd/societe/dou-vient-la-fete-dhalloween-3998538/56147063-1-fre-FR/D-ou-vient-la-fete-d-Halloween.jpg
-    libraries: Films
+    libraries: MoviesAll
     summary: 👻 Bouh ! 👻
 #    trakt_list: https://trakt.tv/users/username57/lists/marvel-cinematic-universe-mcu-timeline?sort=rank,asc
     plex_search:
@@ -26,7 +26,7 @@ playlists:
     sync_to_user: all
     sync_mode: sync
     url_poster: https://www.history.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY4OTA4MzI0ODc4NjkwMDAw/christmas-tree-gettyimages-1072744106.jpg
-    libraries: Films 
+    libraries: MoviesAll 
     summary: 🎅🎄 Joyeux fêtes à tous ! 🎄🎅
 #    trakt_list: https://trakt.tv/users/username57/lists/marvel-cinematic-universe-mcu-timeline?sort=rank,asc
     plex_search:
