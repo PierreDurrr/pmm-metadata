@@ -248,6 +248,9 @@ collections:
   Bambi - Saga:
     template: {name: Collection, collection: 87250, summary: 87250}
     url_poster: https://theposterdb.com/api/assets/163013
+  Barbecue - Saga:
+    template: {name: Collection, collection: 926517, summary: 926517}
+#    url_poster: https://theposterdb.com/api/assets/163013
   Battle Royale - Saga:
     template: {name: Collection, collection: 16302, summary: 16302}
     url_poster: https://theposterdb.com/api/assets/79664
@@ -831,6 +834,7 @@ collections:
 #    collection_order: alpha   
     collection_mode: hide_items
   "Jackass Presents: Bad Grandpa Collection":
+    name_mapping: Jackass Presents Bad Grandpa Collection
     template: {name: Collection, collection: 989621, summary: 989621}
 #    trakt_list: 
 #      - https://trakt.tv/users/pierredurrr/lists/jackass-movies-copy?sort=rank,asc
@@ -1002,6 +1006,9 @@ collections:
     url_poster: https://theposterdb.com/api/assets/92060
     collection_mode: hide_items
     collection_order: release
+  Le Jeu de la mort - Saga:
+    template: {name: Collection, collection: 1077146, summary: 1077146}
+    url_poster: https://image.tmdb.org/t/p/original//pcHxhhsNRUquCWLSpFGzHTJGZBQ.jpg
   The Lego Batman Movie Collection:
     template: {name: Collection}
     trakt_list: 
@@ -1112,6 +1119,10 @@ collections:
     url_poster: https://theposterdb.com/api/assets/234729
 #    collection_order: alpha
     collection_mode: hide_items
+  LEGO Star Wars (Seasonal) - Saga:
+    template: {name: Collection, collection: 1004630, summary: 1004630}
+    url_poster: https://image.tmdb.org/t/p/original//jHITUzB6fZVOYZ13YCqVTS06iyw.jpg
+    sort_title: LEGO Star Wars - Saga2
   Les 101 Dalmatiens (Animation) - Saga:
     template: {name: Collection, collection: 100693, summary: 100693}
     url_poster: https://theposterdb.com/api/assets/163119
@@ -1408,7 +1419,7 @@ collections:
 #    url_poster:
   Lucky Stars - Saga:
     template: {name: Collection, collection: 300431, summary: 300431}
-#    url_poster:
+    url_poster: https://image.tmdb.org/t/p/original//4JaAnOKwbVYXecpn8SkbOnwa5hg.jpg
   Mulan - Saga:
     template: {name: Collection, collection: 87236, summary: 87236}
     url_poster: https://theposterdb.com/api/assets/162973
@@ -1466,7 +1477,7 @@ collections:
   La Panthère Rose (Original) - Saga:
     template: {name: Collection, collection: 937, summary: 937}
     url_poster: https://theposterdb.com/api/assets/164817
-  Papa ou Maman Collection:
+  Papa ou Maman - Saga:
     template: {name: Collection, collection: 437608, summary: 437608}
 #    url_poster: https://theposterdb.com/api/assets/160957    
   Pee-wee's - Saga: 
@@ -1538,7 +1549,7 @@ collections:
     template: {name: Collection, collection: 160792, summary: 160792}
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/prudence-et-belisaire-beresford-collection-copy?sort=rank,asc
-#    url_poster: 
+    url_poster: https://i.imgur.com/CmvmgNi.png
     collection_mode: hide_items
   Psychose - Saga:
     template: {name: Collection, collection: 119674, summary: 119674}
