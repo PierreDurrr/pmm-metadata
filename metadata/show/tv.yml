@@ -161,7 +161,7 @@ collections:
   That '70s & '90s Show - Saga:
     template: {name: Show, show: "73787, 411173"}
     collection_mode: hide
-#    url_poster: https://theposterdb.com/api/assets/4923
+    url_poster: https://i.imgur.com/p8Q6c4U.jpeg
     collection_order: alpha    
     
   The Big Bang Theory - Saga:  
