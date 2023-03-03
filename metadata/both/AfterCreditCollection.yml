@@ -22,9 +22,9 @@ collections:
 #    schedule: all[weekly(saturday),hourly(22)]
 #    schedule: daily(00)
     schedule:
-    - hourly (6)
-    - hourly (12) 
-    - hourly (18)
+    - hourly(6)
+    - hourly(12) 
+    - hourly(18)
     plex_all: true
     filters:
       tmdb_keyword: aftercreditsstinger, duringcreditsstinger
