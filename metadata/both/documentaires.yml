@@ -16,7 +16,7 @@ collections:
   National Geographic:
     plex_search:
       all:
-        network: National Geographic
+        studio: National Geographic
     collection_mode: hide
     summary: "National Geographic, connue sous l'ancien nom de National Geographic Channel, est une chaîne de télévision spécialisée américaine et internationale. Elle diffuse essentiellement des documentaires sur la nature et sur la science, mais également sur la culture et l'histoire."
     url_poster: https://i.imgur.com/dwxYxwK.jpg
