@@ -29,6 +29,8 @@ collections:
   Club Dorothée:
     template: {name: Show, show: "338153, 83348, 171821, 71776, 248423, 76932, 78500, 72775, 265591, 263844, 81472, 76666, 88031, 73014, 72877"}
     collection_mode: hide
+    url_poster: https://www.lesanneesrecre.com/wp-content/uploads/2019/07/Poster-logo.jpg
+#    url_poster: https://i.pinimg.com/originals/79/44/de/7944de30bf00276c95b77d700c2d1b3f.jpg
 
   Dexter:
     template: {name: Show, show: "79349, 412366"}
