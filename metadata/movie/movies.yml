@@ -1718,6 +1718,9 @@ collections:
   S.O.S. Fantômes - Saga:
     template: {name: Collection, collection: 2980, summary: 2980}
     url_poster: https://theposterdb.com/api/assets/92965  
+  Sonic - Saga:
+    template: {name: Collection, collection: 454626, summary: 454626}
+    url_poster: https://theposterdb.com/api/assets/234937
   Souviens-toi... l'été dernier - Saga:  
     template: {name: Collection, collection: 3601, summary: 3601}
     url_poster: https://theposterdb.com/api/assets/161060
