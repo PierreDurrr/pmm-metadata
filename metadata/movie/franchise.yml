@@ -139,25 +139,25 @@ dynamic_collections:
         151: Star Trek The Original Series
         10: Star Wars Skywalker Saga
       exclude:
-        263  # The Dark Knight - Saga
-        920650  # Anastasia
-        1068899  # Fost of Fury
-        535313  # Godzilla (MonsterVerse)
-        751156  # Hocus Pocus
-        989621 # Jackass Presents: Bad Grandpa Collection
-        495527 # Jumanji
-        1077146  # Le Jeu de la mort
-        1004630  # Lego Star Wars (Seasonal)
-        151274  # Les robins des bois
-        8354  # L'age de glace
-        1072678  # Ninjago
-        1709  # la planete des singes (saga originale)
-        661025  # Pokémon: Génération Avancée - Saga 
-        661026  # Pokémon: Diamant et Perle - Saga 
-        661028  # Pokémon: Noir et Blanc - Saga 
-        661029  # Pokémon: XY - Saga
-        264  # retour vers le futur
-        10  # Star Wars Skywalker Saga
+        - 263  # The Dark Knight - Saga
+        - 920650  # Anastasia
+        - 1068899  # Fost of Fury
+        - 535313  # Godzilla (MonsterVerse)
+        - 751156  # Hocus Pocus
+        - 989621 # Jackass Presents: Bad Grandpa Collection
+        - 495527 # Jumanji
+        - 1077146  # Le Jeu de la mort
+        - 1004630  # Lego Star Wars (Seasonal)
+        - 151274  # Les robins des bois
+        - 8354  # L'age de glace
+        - 1072678  # Ninjago
+        - 1709  # la planete des singes (saga originale)
+        - 661025  # Pokémon: Génération Avancée - Saga 
+        - 661026  # Pokémon: Diamant et Perle - Saga 
+        - 661028  # Pokémon: Noir et Blanc - Saga 
+        - 661029  # Pokémon: XY - Saga
+        - 264  # retour vers le futur
+        - 10  # Star Wars Skywalker Saga
         
         
         
