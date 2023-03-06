@@ -1,12 +1,12 @@
 playlists:
-  Marvel Cinematic Universe:
-    sync_to_users: all
-    sync_mode: sync
-    url_poster: https://i0.wp.com/www.superpouvoir.com/wp-content/uploads/2018/06/MCU.jpg
-    libraries: MoviesAll, ShowsAll
-#    trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe?sort=rank,asc
-    trakt_list: https://trakt.tv/users/username57/lists/marvel-cinematic-universe-mcu-timeline?sort=rank,asc
-    summary: "Tout le Marvel Cinematic Universe (films et séries) dans l'ordre de visionnage chronologique !"
+#  Marvel Cinematic Universe:
+#    sync_to_users: all
+#    sync_mode: sync
+#    url_poster: https://i0.wp.com/www.superpouvoir.com/wp-content/uploads/2018/06/MCU.jpg
+#    libraries: MoviesAll, ShowsAll
+##    trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe?sort=rank,asc
+#    trakt_list: https://trakt.tv/users/username57/lists/marvel-cinematic-universe-mcu-timeline?sort=rank,asc
+#    summary: "Tout le Marvel Cinematic Universe (films et séries) dans l'ordre de visionnage chronologique !"
     
   Les Films qui font Peur !:
     sync_to_user: all
