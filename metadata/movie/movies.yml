@@ -497,6 +497,14 @@ collections:
   Darko - Saga:
     template: {name: Collection, collection: 178106, summary: 178106}
     url_poster: https://theposterdb.com/api/assets/208276
+  DC Animated Universe:
+    template: {name: Collection-Smart}
+    url_poster: https://theposterdb.com/api/assets/208276
+    trakt_list: https://trakt.tv/users/donxy/lists/dc-animated-movie-universe
+  DC Extended Universe:
+    template: {name: Collection-Smart}
+    url_poster: https://theposterdb.com/api/assets/208276
+    trakt_list: https://trakt.tv/users/donxy/lists/dc-extended-universe
   Deadpool - Saga:
     template: {name: Collection, collection: 448150, summary: 448150, poster: https://theposterdb.com/api/assets/171133}
     trakt_list: 
