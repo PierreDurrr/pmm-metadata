@@ -21,17 +21,17 @@ external_templates:
   pmm: templates
   repo: metadata/mytemplates.yml
   
-  suggestion:
-    url_poster: https://theposterdb.com/api/assets/<<poster>>
-    sort_title: ++++++++++_<<collection_name>>
-    collection_mode: hide
-    sync_mode: sync
-  Tautulli:
-    url_poster: https://theposterdb.com/api/assets/<<poster>>
-    sort_title: ++++++++++_<<collection_name>>
-    collection_mode: hide
-    collection_order: alpha
-    sync_mode: sync
+#  suggestion:
+#    url_poster: https://theposterdb.com/api/assets/<<poster>>
+#    sort_title: ++++++++++_<<collection_name>>
+#    collection_mode: hide
+#    sync_mode: sync
+#  Tautulli:
+#    url_poster: https://theposterdb.com/api/assets/<<poster>>
+#    sort_title: ++++++++++_<<collection_name>>
+#    collection_mode: hide
+#    collection_order: alpha
+#    sync_mode: sync
       
 #############################
 ##       Collections       ##
@@ -44,7 +44,10 @@ collections:
 ################
 
   Les épisodes de la semaine:
-    template: { name: suggestion, poster: 213602}
+    url_poster: url_poster: https://theposterdb.com/api/assets/213602
+    sort_title: "+++_Les épisodes de la semaine"
+    collection_mode: hide
+    sync_mode: sync
     builder_level: episode
     smart_filter:
       all:
