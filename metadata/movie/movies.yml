@@ -1754,7 +1754,18 @@ collections:
   Super Noël - Saga:  
     template: {name: Collection, collection: 53159, summary: 53159}
     url_poster: https://theposterdb.com/api/assets/168200
-    
+  Star Trek - Saga:  
+    template: {name: Collection, collection: 115575, summary: 115575}
+    url_poster: https://theposterdb.com/api/assets/308179    
+  "Star Trek : La série originale - Saga": 
+    name_mapping: Star Trek La serie originale - Saga
+    template: {name: Collection, collection: 151, summary: 151}
+    url_poster: https://theposterdb.com/api/assets/308181
+  "Star Trek : La nouvelle génération - Saga":  
+    name_mapping: Star Trek La nouvelle generation - Saga
+    template: {name: Collection, collection: 115570, summary: 115570}
+    url_poster: https://theposterdb.com/api/assets/308180 
+
   Star Wars - Saga:
     template: {name: Collection-Smart, summary: 10}
     smart_label: title.asc  
