@@ -563,10 +563,16 @@ collections:
     url_poster: https://theposterdb.com/api/assets/162990
 #    collection_order: alpha
     collection_mode: hide_items
+#  Dragon Ball ALL- Saga:
+#    collection_order: release
+#    trakt_list: https://trakt.tv/users/darr3ke/lists/dragon-ball-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/305813
   Dragon Ball - Saga:
-    collection_order: release
-    trakt_list: https://trakt.tv/users/darr3ke/lists/dragon-ball-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/305813
+    template: {name: Collection, collection: 386410, summary: 386410}
+    url_poster: https://theposterdb.com/api/assets/318783
+  Dragon Ball Z - Saga:
+    template: {name: Collection, collection:425164, summary: 425164}
+    url_poster: https://theposterdb.com/api/assets/305697
   Dumb & Dumber - Saga:
     template: {name: Collection, collection: 96665, summary: 96665}
     trakt_list: 
