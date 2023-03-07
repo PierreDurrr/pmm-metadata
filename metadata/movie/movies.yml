@@ -570,9 +570,15 @@ collections:
   Dragon Ball - Saga:
     template: {name: Collection, collection: 386410, summary: 386410}
     url_poster: https://theposterdb.com/api/assets/318783
+    sort_title: Dragon Ball 01
   Dragon Ball Z - Saga:
     template: {name: Collection, collection:425164, summary: 425164}
     url_poster: https://theposterdb.com/api/assets/305697
+    sort_title: Dragon Ball 02
+  Dragon Ball Super - Saga:
+    template: {name: Collection, collection: 620873, summary: 620873}
+    url_poster: https://theposterdb.com/api/assets/318788
+    sort_title: Dragon Ball 03
   Dumb & Dumber - Saga:
     template: {name: Collection, collection: 96665, summary: 96665}
     trakt_list: 
