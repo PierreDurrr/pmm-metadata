@@ -736,7 +736,10 @@ collections:
     url_poster: https://theposterdb.com/api/assets/162394
   Hercule Poirot (Kenneth Branagh) - Saga:
     template: {name: Collection, collection: 735384, summary: 735384}
-    url_poster: https://theposterdb.com/api/assets/226035    
+    url_poster: https://theposterdb.com/api/assets/226035   
+  Hercule Poirot (Peter Ustinov) - Saga:
+    template: {name: Collection, collection: 752992, summary: 752992}
+    url_poster: https://theposterdb.com/api/assets/311203 
   Highlander - Saga:
     template: {name: Collection, collection: 8050, summary: 8050}
     url_poster: https://theposterdb.com/api/assets/162044
@@ -1847,6 +1850,9 @@ collections:
   Tarzan (Animation) - Saga:
     template: {name: Collection, collection: 106768, summary: 106768}
     url_poster: https://theposterdb.com/api/assets/162958
+  Teen Wolf - Saga:
+    template: {name: Collection, collection: 43066, summary: 43066}
+    url_poster: https://theposterdb.com/api/assets/161863
   Tempête de Boulettes Géantes - Saga:
     template: {name: Collection, collection: 177467, summary: 17746}
     trakt_list: 
