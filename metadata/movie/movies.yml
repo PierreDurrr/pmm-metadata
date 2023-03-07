@@ -563,6 +563,10 @@ collections:
     url_poster: https://theposterdb.com/api/assets/162990
 #    collection_order: alpha
     collection_mode: hide_items
+  Dragon Ball - Saga:
+    collection_order: release
+    trakt_list: https://trakt.tv/users/darr3ke/lists/dragon-ball-movies?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/305813
   Dumb & Dumber - Saga:
     template: {name: Collection, collection: 96665, summary: 96665}
     trakt_list: 
