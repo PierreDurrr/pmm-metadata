@@ -575,7 +575,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/318783
     sort_title: Dragon Ball 01
   Dragon Ball Z - Saga:
-    template: {name: Collection, collection:425164, summary: 425164}
+    template: {name: Collection, collection: 425164, summary: 425164}
     url_poster: https://theposterdb.com/api/assets/305697
     sort_title: Dragon Ball 02
   Dragon Ball Super - Saga:
