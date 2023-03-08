@@ -44,7 +44,7 @@ collections:
 ################
 
   Les épisodes de la semaine:
-    url_poster: url_poster: https://theposterdb.com/api/assets/213602
+    url_poster: https://theposterdb.com/api/assets/213602
     sort_title: "+++_Les épisodes de la semaine"
     collection_mode: hide
     sync_mode: sync
