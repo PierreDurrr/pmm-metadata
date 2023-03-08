@@ -1508,9 +1508,9 @@ collections:
   La Panthère Rose (Original) - Saga:
     template: {name: Collection, collection: 937, summary: 937}
     url_poster: https://theposterdb.com/api/assets/164817
-  Papa ou maman - Saga:
+  Papa ou Maman - Saga:
     template: {name: Collection, collection: 437608, summary: 437608}
-#    url_poster: https://theposterdb.com/api/assets/160957    
+    url_poster: https://image.tmdb.org/t/p/original//ePDqFLwv7isN6sJ5Klqhrub8gLr.jpg
   Pee-wee's - Saga: 
     template: {name: Collection, collection: 179244, summary: 179244}
     url_poster: https://theposterdb.com/api/assets/163401
