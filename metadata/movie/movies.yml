@@ -755,7 +755,7 @@ collections:
   Hostel - Saga:
     template: {name: Collection, collection: 86578, summary: 86578}
     trakt_list: 
-      - https://trakt.tv/users/bruinschris/lists/hostel?sort=rank,asc
+      - https://trakt.tv/users/pierredurrr/lists/hostel-collection-copy?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/91453
 #    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/10134/l6dzAowJppIOICA5KUaZvwtMj4xTDtMiMXENNn8B.webp
 #    collection_order: alpha
