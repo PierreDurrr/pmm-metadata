@@ -80,10 +80,11 @@ collections:
   La 7ème Compagnie - Saga:  
     template: {name: Collection, collection: 93287, summary: 93287}
     url_poster: https://www.themoviedb.org/t/p/original/5fPl5oJUVQfa0cdc6TkQ4xhY0gZ.jpg
-  "À Couteaux Tirés - Saga":
+  "À couteaux tirés - Saga":
     template: {name: Collection, collection: 722971, summary: 722971}
     sort_title: A Couteaux Tires - Saga
     url_poster: https://theposterdb.com/api/assets/291317
+    name_mapping: a couteaux tires - saga
   Aladdin - Saga:
     template: {name: Collection, collection: 86027, summary: 86027}
     url_poster: https://theposterdb.com/api/assets/163021
