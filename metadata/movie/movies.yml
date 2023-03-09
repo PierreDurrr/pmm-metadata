@@ -880,7 +880,7 @@ collections:
     trakt_list: 
       - https://trakt.tv/users/any/lists/james-bond?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/78411
-  Jay and Silent Bob Collection:
+  Jay and Silent Bob:
     template: {name: Collection, collection: 726870, summary: 726870}
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/jay-and-silent-bob-collection-copy?sort=rank,asc
