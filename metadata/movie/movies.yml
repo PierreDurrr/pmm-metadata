@@ -498,6 +498,7 @@ collections:
   "Batman - The Dark Knight - Saga" :
     name_mapping: The Dark Knight - Saga
     template: {name: Collection, collection: 263, summary: 263}
+    sort_title: Batman - The Dark Knight - Saga
     url_poster: https://theposterdb.com/api/assets/52697
   Darko - Saga:
     template: {name: Collection, collection: 178106, summary: 178106}
