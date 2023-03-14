@@ -495,7 +495,8 @@ collections:
     url_poster: https://theposterdb.com/api/assets/160926
 #    collection_order: alpha
     collection_mode: hide_items
-  The Dark Knight - Saga:
+  "Batman - The Dark Knight - Saga" :
+    name_mapping: The Dark Knight - Saga
     template: {name: Collection, collection: 263, summary: 263}
     url_poster: https://theposterdb.com/api/assets/52697
   Darko - Saga:
