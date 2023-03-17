@@ -2084,6 +2084,19 @@ collections:
     template: {name: Collection, collection: 1657, summary: 1657}
     url_poster: https://theposterdb.com/api/assets/165425
 
+#########################################################################################
+
+#GENRES
+
+  Bollywood: 
+    collection_order: alpha
+    collection_mode: hide_items
+#    summary: "BrutX, c’est du contenu original exclusif, ainsi qu’une sélection de films, séries, courts-métrages et de documentaires -dont une partie inédite en exclusivité- ainsi que des productions originales (reportages, magazines, documentaires). C’est aussi une plateforme constituée de programmes qui seront recommandés par des talents référents (journalistes, influenceurs, artistes, militants, …) et une mise en avant de thèmes encore peu traités dans les grands médias."
+#    url_poster: https://i.imgur.com/a3uc1Fz.jpg
+    plex_all: true
+    filters:
+      filepath: /mnt/_SYNOLOGY/video/Films/_Bollywood
+
 ############
 
   Single Audio:
