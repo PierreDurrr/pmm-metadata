@@ -2094,6 +2094,7 @@ collections:
   Bollywood: 
     collection_order: alpha
     collection_mode: hide_items
+    sort_title: 000single
 #    summary: "BrutX, c’est du contenu original exclusif, ainsi qu’une sélection de films, séries, courts-métrages et de documentaires -dont une partie inédite en exclusivité- ainsi que des productions originales (reportages, magazines, documentaires). C’est aussi une plateforme constituée de programmes qui seront recommandés par des talents référents (journalistes, influenceurs, artistes, militants, …) et une mise en avant de thèmes encore peu traités dans les grands médias."
 #    url_poster: https://i.imgur.com/a3uc1Fz.jpg
     plex_all: true
@@ -2105,7 +2106,7 @@ collections:
   Single Audio:
     variables:
       key: single_audio 
-    sort_title: 000single  
+    sort_title: 0003D_Bollywood  
     smart_label: release.asc
     plex_all: true
     filters:
