@@ -783,7 +783,7 @@ collections:
     template: {name: Collection, collection: 745296, summary: 745296}
     trakt_list:
       - https://trakt.tv/users/pierredurrr/lists/how-high-collection-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/106506  
+    url_poster: https://theposterdb.com/api/assets/277719  
     collection_mode: hide_items 
   The Human Centipede - La Trilogie:
     template: {name: Collection, collection: 96671, summary: 96671}
