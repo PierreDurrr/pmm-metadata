@@ -1653,6 +1653,9 @@ collections:
     url_poster: https://theposterdb.com/api/assets/164824
 #    collection_order: alpha
     collection_mode: hide_items
+  Sanjuro Collection:
+    template: {name: Collection, collection: 627389, summary: 627389}
+    url_poster: https://theposterdb.com/api/assets/229966
   Sauvez Willy - Saga:
     template: {name: Collection, collection: 9328, summary: 9328}
     url_poster: https://theposterdb.com/api/assets/163387    
