@@ -46,9 +46,9 @@ collections:
     collection_mode: hide
     url_poster: https://theposterdb.com/api/assets/170776
     
-#  Flamme et Flambeau:
-#    template: {name: Show, show: "371079, 420289"}
-#    collection_mode: hide
+  Flamme et Flambeau:
+    template: {name: Show, show: "371079, 420289"}
+    collection_mode: hide
 #    url_poster: https://theposterdb.com/api/assets/170776  
 
   Friends - Saga:
@@ -284,6 +284,14 @@ metadata:
     sort_title: "La cape et l'épée"
     url_poster: https://i.imgur.com/ANwcp6f.png
     
+  La Flamme:
+    alt_title: "La Flamme"
+    sort_title: "Flamme01"
+
+  Le Flambeau:
+    alt_title: "Le Flambeau"
+    sort_title: "Flamme02"
+
   Super Dragon Ball Heroes:
     alt_title: Super Dragon Ball Heroes
     sort_title: Dragon Ball-05
