@@ -1276,6 +1276,9 @@ collections:
   La Maison des 1000 Morts - Saga:
     template: {name: Collection, collection: 105625, summary: 105625}
     url_poster: https://theposterdb.com/api/assets/161041
+  Machete - Saga:  
+    template: {name: Collection, collection: 210006, summary: 210006}
+    url_poster: https://theposterdb.com/api/assets/164804
   Mad Max - Saga:
     template: {name: Collection, collection: 8945, summary: 8945}
 #    trakt_list: 
