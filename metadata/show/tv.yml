@@ -188,6 +188,7 @@ collections:
     collection_mode: show_items
     smart_label: title.asc
     sort_title: +++_Anime
+    mal_all: 3000
 #    plex_search:
 #      any:
 #        genre: animation
