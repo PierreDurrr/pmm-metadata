@@ -861,6 +861,9 @@ collections:
     filters:
       filepath: 
         - "/mnt/_SYNOLOGY/Mediatheque/Films/Irreversible (2002)/"
+  Iwo Jima - Saga:
+    template: {name: Collection, collection: 261382, summary: 261382}
+    url_poster: https://theposterdb.com/api/assets/170438
   Jackass - Saga:
     template: {name: Collection, collection: 17178, summary: 17178}
     trakt_list: 
