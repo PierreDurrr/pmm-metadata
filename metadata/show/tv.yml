@@ -184,6 +184,9 @@ collections:
     collection_mode: show_items
     smart_label: title.asc
     sort_title: +++_Anime
+    plex_search:
+      any:
+        genre.is: animation
 
 # Looney Tunes Golden Collection
 #  Looney Tunes Golden Collection:
