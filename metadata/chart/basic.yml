@@ -27,7 +27,7 @@ collections:
       - name: shared
       - name: translation
         translation_key: basic_released
-    smart_label: release.asc    
+#    smart_label: release.asc    
     trakt_list: https://trakt.tv/users/pierredurrr/lists/best-new-movies?sort=rank,asc
     filters:
       filepath:
