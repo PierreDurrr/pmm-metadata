@@ -1273,7 +1273,11 @@ collections:
     template: {name: Collection, collection: 86780, summary: 86780}
     url_poster: https://theposterdb.com/api/assets/162020   
   Lupin III Collection:
-#    template: {name: Collection}
+    template: {name: Collection}
+    trakt_list:
+      - https://trakt.tv/lists/official/lupin-iii-collection?sort=rank,asc
+      - https://trakt.tv/users/vivienb/lists/lupin-iii-movies?sort=rank,asc
+      - https://trakt.tv/users/jaimemcdohl/lists/lupin-iii?sort=released,desc
     url_poster: https://theposterdb.com/api/assets/180162
     radarr_add: true
   La Maison des 1000 Morts - Saga:
