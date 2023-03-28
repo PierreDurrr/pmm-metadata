@@ -31,7 +31,7 @@ collections:
     trakt_list: https://trakt.tv/users/maxwelldeux/lists/cannes-film-festival-palme-d-or
     filters:
       filepath:
-        - /mnt/_SYNOLOGY/video/_Recommendations/_Cannes
+        - /mnt/_SYNOLOGY/video/_Recommendations/
 
 dynamic_collections:
   Cannes Awards:
