@@ -1273,7 +1273,7 @@ collections:
     template: {name: Collection, collection: 86780, summary: 86780}
     url_poster: https://theposterdb.com/api/assets/162020   
   Lupin III Collection:
-    template: {name: Collection}
+#    template: {name: Collection}
     url_poster: https://theposterdb.com/api/assets/180162
     radarr_add: true
   La Maison des 1000 Morts - Saga:
@@ -1457,7 +1457,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/163076
   Lucky Luke - Saga:
     template: {name: Collection, collection: 94050, summary: 94050}
-#    url_poster:
+    url_poster: https://theposterdb.com/api/assets/82173
   Lucky Stars - Saga:
     template: {name: Collection, collection: 300431, summary: 300431}
     url_poster: https://image.tmdb.org/t/p/original//4JaAnOKwbVYXecpn8SkbOnwa5hg.jpg
