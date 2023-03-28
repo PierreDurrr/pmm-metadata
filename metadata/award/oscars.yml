@@ -48,7 +48,7 @@ collections:
 #    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/award/oscars/Oscars.jpg
     filters:
       filepath:
-        - /mnt/_SYNOLOGY/video/_Recommendations/_Oscars
+        - /mnt/_SYNOLOGY/video/_Recommendations/
 
 ########################################
 # Standalone collection for each years #
