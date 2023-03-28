@@ -1157,10 +1157,10 @@ collections:
     url_poster: https://theposterdb.com/api/assets/234729
 #    collection_order: alpha
     collection_mode: hide_items
-  LEGO Star Wars (Seasonal) - Saga:
-    template: {name: Collection, collection: 1004630, summary: 1004630}
-    url_poster: https://image.tmdb.org/t/p/original//jHITUzB6fZVOYZ13YCqVTS06iyw.jpg
-    sort_title: LEGO Star Wars - Saga2
+#  LEGO Star Wars (Seasonal) - Saga:
+#    template: {name: Collection, collection: 1004630, summary: 1004630}
+#    url_poster: https://image.tmdb.org/t/p/original//jHITUzB6fZVOYZ13YCqVTS06iyw.jpg
+#    sort_title: LEGO Star Wars - Saga2
   Les 101 Dalmatiens (Animation) - Saga:
     template: {name: Collection, collection: 100693, summary: 100693}
     url_poster: https://theposterdb.com/api/assets/163119
