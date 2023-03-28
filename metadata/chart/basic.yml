@@ -19,14 +19,14 @@ collections:
   Newly Released:
     variables:
       key: released
-    template:
+#    template:
 #      - name: smart_filter
 #        search_term: release
 #        search_value: <<in_the_last_released>>
 #        in_the_last_released: 182
-      - name: shared
-      - name: translation
-        translation_key: basic_released
+#      - name: shared
+#      - name: translation
+#        translation_key: basic_released
     smart_label: release.asc    
     trakt_list: https://trakt.tv/users/pierredurrr/lists/best-new-movies?sort=rank,asc
     filters:
