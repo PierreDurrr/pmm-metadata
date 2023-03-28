@@ -1026,7 +1026,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/161878
   Le Cygne et la Princesse - Saga:
     template: {name: Collection, collection: 144200, summary: 144200}
-    url_poster: https://theposterdb.com/api/assets/98757  
+    url_poster: https://theposterdb.com/api/assets/313954
   Le Flic de Beverly Hills - Saga:
     template: {name: Collection, collection: 85861, summary: 85861}
     trakt_list: 
