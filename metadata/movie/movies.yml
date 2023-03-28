@@ -887,7 +887,7 @@ collections:
     trakt_list: 
       - https://trakt.tv/users/any/lists/james-bond?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/78411
-  Jay and Silent Bob:
+  Jay and Silent Bob Collection:
     template: {name: Collection, collection: 726870, summary: 726870}
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/jay-and-silent-bob-collection-copy?sort=rank,asc
@@ -1135,7 +1135,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/234730
 #    collection_order: alpha
     collection_mode: hide_items
-  LEGO Marvel Super Heroes - Saga:
+  LEGO Marvel Super Heroes Collection:
     template: {name: Collection, collection: 752937, summary: 752937}
     url_poster: https://theposterdb.com/api/assets/234731
   LEGO Ninjago - Saga: # Make this the title you want the item to be 
