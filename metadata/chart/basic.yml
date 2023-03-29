@@ -7,26 +7,12 @@
 
 external_templates:
   pmm: templates
-  template_variables:
-    collection_section: "01"
-    image: chart/<<collection_name_encoded>>
-
-translations:
-  pmm: translations
 
 collections:
 
   Dernières sorties:
     variables:
       key: released
-#    template:
-#      - name: smart_filter
-#        search_term: release
-#        search_value: <<in_the_last_released>>
-#        in_the_last_released: 182
-#      - name: shared
-#      - name: translation
-#        translation_key: basic_released
     smart_label: release.asc    
     trakt_list: https://trakt.tv/users/pierredurrr/lists/best-new-movies?sort=rank,asc
     filters:
