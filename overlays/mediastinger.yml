@@ -7,7 +7,8 @@ templates:
       weight: 30
     overlay:
       name: <<overlay_name>>
-      file: /_0_scripts-config/000-Plex-Meta-Manager/overlays/mediastinger.png
+#      file: /_0_scripts-config/000-Plex-Meta-Manager/overlays/mediastinger.png
+      file: https://raw.githubusercontent.com/PierreDurrr/pmm-metadata/master/overlays/images/mediastinger.png
 #      group: ribbon
       weight: <<weight>>
       horizontal_offset: 15
