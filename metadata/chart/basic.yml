@@ -22,7 +22,7 @@ collections:
       key: released
     template:
       - name: shared      
-    smart_label: release.asc    
+    smart_label: release.desc    
     trakt_list: https://trakt.tv/users/pierredurrr/lists/best-new-movies?sort=rank,asc
     filters:
       filepath:
