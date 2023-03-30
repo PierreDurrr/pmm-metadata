@@ -7,7 +7,8 @@ templates:
       weight: 30
     overlay:
       name: <<overlay_name>>
-      file: /_0_scripts-config/000-Plex-Meta-Manager/overlays/overlays_TV_coupdecoeur_ribbon_v2.png
+      url: https://raw.githubusercontent.com/PierreDurrr/pmm-metadata/master/overlays/images/overlays_TV_coupdecoeur_ribbon_v2.png
+#      file: /_0_scripts-config/000-Plex-Meta-Manager/overlays/overlays_TV_coupdecoeur_ribbon_v2.png
       group: ribbon
       weight: <<weight>>
       horizontal_offset: 0
