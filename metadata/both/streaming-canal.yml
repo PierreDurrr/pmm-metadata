@@ -14,11 +14,11 @@ external_templates:
     url_poster: https://theposterdb.com/api/assets/202699
 
 collections:
-  Streaming Collections:
+  Canal Streaming Collections:
     template:
       - name: separator
         separator: streaming
-        key_name: Streaming
+        key_name: Canal_Streaming
         translation_key: separator
 
 dynamic_collections:
