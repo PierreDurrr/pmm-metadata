@@ -12,9 +12,6 @@ external_templates:
     image: chart/<<collection_name_encoded>>
   repo: metadata/mytemplates.yml  
 
-translations:
-  pmm: translations
-
 collections:
 
   Dernières sorties:
