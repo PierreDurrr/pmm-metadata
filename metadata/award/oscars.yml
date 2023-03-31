@@ -11,9 +11,6 @@ external_templates:
     collection_section: 16
   repo: metadata/mytemplates.yml  
 
-translations:
-  pmm: translations
-
 collections:
   Oscar Winners (2007-2022):
     variables:
@@ -23,10 +20,9 @@ collections:
         sort: Oscars !1
         allowed_libraries: movie
         image: award/oscars/best_picture_winner
+        translation_key: oscars_picture
       - name: arr
 #      - name: custom
-      - name: translation
-        translation_key: oscars_picture
     smart_label: release.desc        
     trakt_list:
       - https://trakt.tv/users/pierredurrr/lists/oscars-winners-2008-20xx?sort=released,desc   #2008-20xx
@@ -74,10 +70,9 @@ collections:
         sort: Oscars !2
         allowed_libraries: movie
         image: award/oscars/best_director_winner
+        translation_key: oscars_director
       - name: arr
       - name: custom
-      - name: translation
-        translation_key: oscars_director
     imdb_list: https://www.imdb.com/search/title/?groups=best_director_winner
 
 dynamic_collections:
