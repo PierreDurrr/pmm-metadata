@@ -11,9 +11,6 @@ external_templates:
   template_variables:
     collection_section: 16   
 
-translations:
-  pmm: translations
-
 collections:
   Cannes Golden Palm Winners:
     variables:
@@ -22,11 +19,10 @@ collections:
       - name: shared
         sort: Cannes !
         allowed_libraries: movie
+        translation_key: cannes_best
         image: award/cannes/winner
       - name: arr
 #      - name: custom
-      - name: translation
-        translation_key: cannes_best
     smart_label: release.desc    
     trakt_list: https://trakt.tv/users/maxwelldeux/lists/cannes-film-festival-palme-d-or
     filters:
@@ -44,7 +40,6 @@ dynamic_collections:
     template:
       - use_year_collections
       - trakt
-      - translation
       - shared
       - arr
       - custom
