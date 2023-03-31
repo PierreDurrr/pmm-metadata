@@ -12,9 +12,6 @@ external_templates:
     image: chart/<<collection_name_encoded>>
   repo: metadata/mytemplates.yml  
 
-translations:
-  pmm: translations
-
 templates:
   anidb:
     default:
@@ -31,10 +28,9 @@ collections:
     template:
       - name: anidb
       - name: shared
+        translation_key: anidb_popular
       - name: arr
       - name: custom
-      - name: translation
-        translation_key: anidb_popular
 
   Common Sense Selection:
     variables:
@@ -42,10 +38,9 @@ collections:
     template:
       - name: commonsense
       - name: shared
-      - name: arr
-      - name: custom
-      - name: translation
         translation_key: commonsense_selection
+      - name: arr
+      - name: custom        
 
   StevenLu's Popular Movies:
     variables:
@@ -53,11 +48,10 @@ collections:
     stevenlu_popular: true
     template:
       - name: shared
+        translation_key:  stevenlu_popular
         allowed_libraries: movie
       - name: arr
       - name: custom
-      - name: translation
-        translation_key:  stevenlu_popular
 
   Top 10 Pirated Movies of the Week:
     variables:
@@ -66,11 +60,11 @@ collections:
     mdblist_list: https://mdblist.com/lists/hdlists/top-ten-pirated-movies-of-the-week-torrent-freak-com/
     template:
       - name: shared
+        translation_key: pirated_popular
         allowed_libraries: movie
       - name: arr
 #      - name: custom
-      - name: translation
-        translation_key: pirated_popular
+        
     filters:
       filepath:
         - /mnt/_SYNOLOGY/video/_Recommendations/    
