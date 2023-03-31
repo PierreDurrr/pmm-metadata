@@ -10,10 +10,7 @@ external_templates:
   pmm: templates
   template_variables:
     collection_section: 16
-
-translations:
-  pmm: translations
-
+    
 collections:
   Berlinale Golden Bears:
     variables:
@@ -22,10 +19,9 @@ collections:
       - name: shared
         allowed_libraries: movie
         image: award/berlinale/winner
+        translation_key: berlinale_best
       - name: arr
 #      - name: custom
-      - name: translation
-        translation_key: berlinale_best
     smart_label: release.desc    
     trakt_list: https://trakt.tv/users/maxwelldeux/lists/berlin-international-film-festival-golden-bears
     filters:
@@ -39,10 +35,9 @@ collections:
       - name: shared
         allowed_libraries: movie
         image: award/cesar/winner
+        translation_key: cesar_best
       - name: arr
 #      - name: custom
-      - name: translation
-        translation_key: cesar_best
     smart_label: release.desc    
     trakt_list: https://trakt.tv/users/maxwelldeux/lists/cesar-award-best-french-film
     filters:
@@ -56,10 +51,9 @@ collections:
       - name: shared
         allowed_libraries: movie
         image: award/razzies/winner
-      - name: arr
-#      - name: custom
-      - name: translation
         translation_key: razzie_worst
+      - name: arr
+#      - name: custom        
     smart_label: release.desc   
     trakt_list: https://trakt.tv/users/hdlists/lists/razzie-awards-worst-picture-winners
     filters:
@@ -73,10 +67,9 @@ collections:
       - name: shared
         allowed_libraries: movie
         image: award/venice/winner
+        translation_key: venice_best
       - name: arr
 #      - name: custom
-      - name: translation
-        translation_key: venice_best
     smart_label: release.desc    
     trakt_list: https://trakt.tv/users/maxwelldeux/lists/venice-film-festival-golden-lion
     filters:
