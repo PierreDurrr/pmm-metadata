@@ -13,15 +13,11 @@ external_templates:
     smart_label: release.desc
     url_poster: https://theposterdb.com/api/assets/202699
 
-translations:
-  pmm: translations
-
 collections:
   Streaming Collections:
     template:
       - name: separator
         separator: streaming
-      - name: translation
         key_name: Streaming
         translation_key: separator
 
@@ -33,7 +29,6 @@ dynamic_collections:
     title_format: <<key_name>> <<library_typeU>>s
     template:
       - mdb_smart
-      - translation
       - shared
       - arr
     template_variables:
