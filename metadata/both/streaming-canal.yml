@@ -1,0 +1,43 @@
+##############################################################################
+#                           Streaming Collections                            #
+#                 Created by Yozora, Bullmoose20, & Sohjiro                  #
+#          EDITING THIS FILE MAY CAUSE PULLING NEW UPDATES TO FAIL           #
+#      https://metamanager.wiki/en/latest/defaults/both/streaming.html       #
+##############################################################################
+
+external_templates:
+  pmm: templates
+  template_variables:
+    collection_section: "030"
+    collection_mode: show_items
+    smart_label: release.desc
+    url_poster: https://theposterdb.com/api/assets/202699
+
+collections:
+  Streaming Collections:
+    template:
+      - name: separator
+        separator: streaming
+        key_name: Streaming
+        translation_key: separator
+
+dynamic_collections:
+  Streaming:
+    type: custom
+    data:
+      canal: Canal+
+    title_format: <<key_name>> <<library_typeU>>s
+    template:
+      - mdb_smart
+      - shared
+      - arr
+    template_variables:
+      mdblist_list:
+        default: https://mdblist.com/lists/pierredurrr/<<key>>-<<library_type>>s
+        url_poster: https://theposterdb.com/api/assets/202699
+#      allowed_libraries:
+#        hayu: show
+#        crunchyroll: show
+      translation_key:
+        default: streaming
+        
