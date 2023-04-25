@@ -785,7 +785,7 @@ collections:
       - https://trakt.tv/users/pierredurrr/lists/how-high-collection-copy?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/277719  
     collection_mode: hide_items 
-  The Human Centipede - La Trilogie:
+  The Human Centipede - Saga:
     template: {name: Collection, collection: 96671, summary: 96671}
     url_poster: https://theposterdb.com/api/assets/212616
   Hunger Games - Saga:
@@ -981,7 +981,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/162988
 ##    collection_order: alpha
     collection_mode: hide_items
-  L'Arme fatale - L'intégrale:
+  L'Arme fatale - Saga:
     template: {name: Collection, collection: 945, summary: 945}
     url_poster: https://theposterdb.com/api/assets/22521
   L'Armure de Dieu - Saga:
@@ -1320,7 +1320,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/160962
   Man of Steel - Saga:
     template: {name: Collection, collection: 209131, summary: 209131}
-    url_poster: https://theposterdb.com/api/assets/197563
+    url_poster: https://theposterdb.com/api/assets/341273
   The Mask - Saga:
     template: {name: Collection, collection: 43072, summary: 43072}
     url_poster: https://theposterdb.com/api/assets/187753
@@ -1917,7 +1917,7 @@ collections:
   Tous en scène - Saga:
     template: {name: Collection, collection: 544670, summary: 544670}
     url_poster: https://theposterdb.com/api/assets/202172
-  La Saga des tout puissants:
+  Les tout-puissants - Saga:
     template: {name: Collection, collection: 124949, summary: 124949}
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/tout-puissant-saga?sort=rank,asc
