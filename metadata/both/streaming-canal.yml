@@ -26,7 +26,8 @@ dynamic_collections:
     type: custom
     data:
       canal: Canal+
-    title_format: <<key_name>> <<library_typeU>>s
+#    title_format: <<key_name>> <<library_typeU>>s
+    title_format: <<key_name>>
     template:
       - mdb_smart
       - shared
