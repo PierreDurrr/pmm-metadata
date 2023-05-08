@@ -6,7 +6,7 @@ collections:
     name_mapping: Ils nous quittent
     variables:
       key: TheyWillDisappear
-    sort_title: !!!!!!0001!_!Lexique Pierreflix2
+    sort_title: "!!!!!!0001!_!Lexique Pierreflix"
     smart_label: title.asc
     collection_mode: show_items
 #    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/both/<<key>>.jpg
