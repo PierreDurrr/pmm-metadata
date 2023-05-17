@@ -1520,6 +1520,7 @@ collections:
         - /mnt/_SYNOLOGY/Mediatheque/Films/Palmashow/Palmashow.la.suite/
         - /mnt/_SYNOLOGY/Mediatheque/Films/Palmashow/Palmashow.le.Palmashow.fait.son.cinema/
         - /mnt/_SYNOLOGY/Mediatheque/Films/Palmashow/Palmashow.ça.continue.(1.et.2).(2019).720p.WEB-DL.x264-BTFX/
+      filepath.regex: '(?i)(palmashow)'        
 #    collection_order: alpha
     collection_mode: hide_items
   La Panthère Rose (Original) - Saga:
