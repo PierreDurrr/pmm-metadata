@@ -1511,7 +1511,7 @@ collections:
     summary: "L'intégrale du Palmashow"
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/palmashow?sort=rank,asc
-    tmdb_movie: 582582, 299114, 340963, 425898, 952475, 1105158
+    tmdb_movie: 582582, 299114, 340963, 425898, 952475, 1105158, 1101973
     url_poster: https://image.tmdb.org/t/p/original//l9zrjgie6kfloh91kl4DKt6y3Ni.jpg
     sync_mode: append
     filters:
