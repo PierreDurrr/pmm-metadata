@@ -702,6 +702,9 @@ collections:
     url_poster: https://theposterdb.com/api/assets/161052
 #    collection_order: alpha
     collection_mode: hide_items
+  Grindhouse Collection :  
+    template: {name: Collection, collection: 1118142, summary: 1118142}
+    url_poster: https://theposterdb.com/api/assets/5820 
   Gnomeo & Juliet - Saga:
     template: {name: Collection, collection: 493668, summary: 493668, poster: https://image.tmdb.org/t/p/original//wi7GqaMzxaCcbFMcZ0ZepsMYXrW.jpg}
 #    trakt_list: 
@@ -1508,7 +1511,7 @@ collections:
     summary: "L'intégrale du Palmashow"
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/palmashow?sort=rank,asc
-    tmdb_movie: 582582, 299114, 340963, 425898, 952475
+    tmdb_movie: 582582, 299114, 340963, 425898, 952475, 1105158
     url_poster: https://image.tmdb.org/t/p/original//l9zrjgie6kfloh91kl4DKt6y3Ni.jpg
     sync_mode: append
     filters:
