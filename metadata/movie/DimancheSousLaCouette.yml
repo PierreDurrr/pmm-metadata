@@ -1,1 +1,29 @@
-https://trakt.tv/users/pierredurrr/lists/dimanche-sous-la-couette?sort=rank,asc
+collections:
+
+  Dimanche sous la couette:
+
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/dimanche-sous-la-couette?sort=rank,asc
+
+
+
+
+
+      sort_by: random
+
+      limit: 3
+
+    schedule: all[weekly(sunday), hourly(00)]
+
+#    delete_not_scheduled: weekly(wednesday)
+
+    delete_not_scheduled: true
+
+#    smart_label: random
+
+    visible_shared: weekly(sunday)
+
+    visible_library: weekly(sunday)
+
+    visible_home: weekly(sunday)
+
+
