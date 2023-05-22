@@ -422,7 +422,7 @@ collections:
     plex_collection: 
       - Fée Clochette - Saga
     trakt_list:
-      - https://trakt.tv/users/guixamaral/lists/frozen?sort=rank,asc
+      - https://trakt.tv/users/est781229/lists/frozen-complete-collection?sort=released,desc
 #      - https://trakt.tv/users/addvariety/lists/the-complete-walt-disney-picture-collection?sort=rank,asc
 #      - https://trakt.tv/users/pullsa/lists/classics-walt-disney-animation-studios-feature-films-collection?sort=released,desc
 #      - https://trakt.tv/users/channaceo/lists/walt-disney?sort=rank,asc
