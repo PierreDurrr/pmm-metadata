@@ -252,9 +252,6 @@ collections:
   Barbecue - Saga:
     template: {name: Collection, collection: 926517, summary: 926517}
 #    url_poster: https://theposterdb.com/api/assets/163013
-  Batman (DC Universe Animated) - Saga:
-    template: {name: Collection, collection: 421904, summary: 421904}
-    url_poster: https://theposterdb.com/api/assets/193387
   Battle Royale - Saga:
     template: {name: Collection, collection: 16302, summary: 16302}
     url_poster: https://theposterdb.com/api/assets/79664
@@ -264,6 +261,12 @@ collections:
   Batman - Saga:
     template: {name: Collection, collection: 120794, summary: 120794}
     url_poster: https://theposterdb.com/api/assets/162377
+  Batman 60s Collection (Adam West):
+    template: {name: Collection, collection: 626517, summary: 626517}
+    url_poster: https://theposterdb.com/api/assets/41197  
+  Batman (DC Universe Animated) - Saga:
+    template: {name: Collection, collection: 421904, summary: 421904}
+    url_poster: https://theposterdb.com/api/assets/193387    
   Beethoven - Saga:
     template: {name: Collection, collection: 168880, summary: 168880}
     url_poster: https://theposterdb.com/api/assets/234623  
