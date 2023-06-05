@@ -458,6 +458,9 @@ collections:
   La colline a des yeux (Reboot) - Saga:
     template: {name: Collection, collection: 8918, summary: 8918}
     url_poster: https://theposterdb.com/api/assets/177338
+  Comment Tuer son Boss - Saga:
+    template: {name: Collection, collection: 280588, summary: 280588}
+    url_poster: https://theposterdb.com/api/assets/79671
   Conjuring - Saga:
     template: {name: Collection, collection: 313086, summary: 313086}
     url_poster: https://theposterdb.com/api/assets/94019
