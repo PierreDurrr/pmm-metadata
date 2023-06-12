@@ -3,12 +3,12 @@ collections:
     trakt_list: https://trakt.tv/users/pierredurrr/lists/dimanche-sous-la-couette?sort=random,asc
 #      sort_by: random
 #      limit: 3
-    schedule: weekly(monday)
+    schedule: weekly(sunday)
 #    delete_not_scheduled: weekly(monday)
     delete_not_scheduled: true
 #    smart_label: random
-    visible_shared: weekly(monday)
-    visible_library: weekly(monday)
-    visible_home: weekly(monday)
+    visible_shared: weekly(sunday)
+    visible_library: weekly(sunday)
+    visible_home: weekly(sunday)
 
 
