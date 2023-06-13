@@ -475,10 +475,7 @@ collections:
 #    trakt_list:
     url_poster: https://theposterdb.com/api/assets/86266
 #    collection_order: alpha
-    collection_mode: hide_items
-  Comment Tuer son Boss - Saga:
-    template: {name: Collection, collection: 280588, summary: 280588}
-    url_poster: https://theposterdb.com/api/assets/79671    
+    collection_mode: hide_items  
   Conan le Barbare - Saga:
     template: {name: Collection, collection: 43055, summary: 43055}
     url_poster: https://theposterdb.com/api/assets/162022    
