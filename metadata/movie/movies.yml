@@ -1180,9 +1180,12 @@ collections:
     url_poster: https://theposterdb.com/api/assets/86373
 #    collection_order: alpha
     collection_mode: hide_items
+  Les As de la Jungle Collection: 
+    template: {name: Collection, collection: 1139100, summary: 1139100}
+    url_poster: https://www.themoviedb.org/t/p/original/fXNYiUKkDsNWR0PXsieGxxK84gg.jpg  
   Les Aventures de Sammy - Saga:
     template: {name: Collection, collection: 166844, summary: 166844}
-#    url_poster: https://theposterdb.com/api/assets/52697  
+    url_poster: https://image.tmdb.org/t/p/original//caBrlKvlRaOjd2gHbyyqaBDKyR7.jpg
   Les aventures de Bullit & Riper - Saga:
     template: {name: Collection, collection: 297299, summary: 297299, poster: https://image.tmdb.org/t/p/original//fREA4sN9BapI5QkpzkXFwaApPj6.jpg}
     trakt_list: 
@@ -1194,7 +1197,7 @@ collections:
     template: {name: Collection, collection: 52835, summary: 52835, poster: https://image.tmdb.org/t/p/original//fQpzsDozHL6hcQdmPisU0cLSbfC.jpg}
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/les-bronzes-saga?sort=rank,asc
-    url_poster: https://image.tmdb.org/t/p/original//fQpzsDozHL6hcQdmPisU0cLSbfC.jpg
+    url_poster: https://image.tmdb.org/t/p/original//hLwQmdHSJ8KfyXDtQtiuSRe7UIf.jpg
 #    collection_order: alpha
     collection_mode: hide_items
   Les Charlots - Saga:
@@ -1797,7 +1800,7 @@ collections:
   "Spider-Man : New Generation - Saga":  
     name_mapping: Spider-Man New Generation Saga
     template: {name: Collection, collection: 573436, summary: 573436}
-    url_poster: https://theposterdb.com/api/assets/69453
+    url_poster: https://theposterdb.com/api/assets/236029
   The Amazing Spider-Man - Saga:
     template: {name: Collection, collection: 125574, summary: 125574}
     url_poster: https://theposterdb.com/api/assets/171152
@@ -1809,6 +1812,9 @@ collections:
   Super Noël - Saga:  
     template: {name: Collection, collection: 53159, summary: 53159}
     url_poster: https://theposterdb.com/api/assets/168200
+  Super Size Me - Saga:
+    template: {name: Collection, collection: 475802, summary: 475802}
+    url_poster: https://theposterdb.com/api/assets/369471
   Star Trek - Saga:  
     template: {name: Collection, collection: 115575, summary: 115575}
     url_poster: https://theposterdb.com/api/assets/308179    
