@@ -3,6 +3,7 @@ collections:
     plex_search:
       all:
         content_rating: "Tous publics"
+        studio.not: Toei Animation
       sort_by: random
       limit: 3
     schedule: all[weekly(tuesday), hourly(00)]
