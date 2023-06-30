@@ -1881,6 +1881,9 @@ collections:
   Tarzan (Animation) - Saga:
     template: {name: Collection, collection: 106768, summary: 106768}
     url_poster: https://theposterdb.com/api/assets/162958
+  Taxi - Saga:
+    template: {name: Collection, collection: 211721, summary: 211721}
+    url_poster: https://theposterdb.com/api/assets/164841  
   Teen Wolf - Saga:
     template: {name: Collection, collection: 43066, summary: 43066}
     url_poster: https://theposterdb.com/api/assets/161863
