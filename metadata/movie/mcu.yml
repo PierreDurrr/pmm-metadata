@@ -192,12 +192,12 @@ metadata:
   640146: # Ant-Man and the Wasp: Quantumania
     url_poster: https://theposterdb.com/api/assets/307135
  
-#  "The Marvels":
-#    url_poster:
+  609681: #The Marvels
+    url_poster: https://theposterdb.com/api/assets/381179
 #    originally_available: 2000-01-01
  
-#  "Guardians of the Galaxy Vol. 3":
-#    url_poster:
+  447365: # Guardians of the Galaxy Vol. 3
+    url_poster: https://theposterdb.com/api/assets/330897
   
 #  "Fantastic Four":
 #    url_poster:
