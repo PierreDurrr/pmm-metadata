@@ -25,5 +25,7 @@ collections:
         - /mnt/_SYNOLOGY/Mediatheque/Films/
         - /mnt/_SYNOLOGY/Mediatheque/Series/
         - /mnt/_SYNOLOGY/video/_Recommendations/
+        - /mnt/_SYNOLOGY/video/_Latest_Releases/
+        - /mnt/_SYNOLOGY/video/_Cannes
 #    visible_home: true
 #    visible_shared: true
