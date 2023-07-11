@@ -604,7 +604,7 @@ collections:
     template: {name: Collection, summary: 86283}
     trakt_list:
       - https://trakt.tv/users/pierredurrr/lists/eastrail-177-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/56425
+    url_poster: https://theposterdb.com/api/assets/162389
     collection_mode: show_items
   École Paternelle - Saga:
     template: {name: Collection, collection: 228887, summary: 228887}
@@ -1480,6 +1480,9 @@ collections:
   Nanny McPhee - Saga:
     template: {name: Collection, collection: 35792, summary: 35792}
     url_poster: https://theposterdb.com/api/assets/162151
+  Niko le petit renne - Saga:  
+    template: {name: Collection, collection: 141615, summary: 141615}
+    url_poster: https://image.tmdb.org/t/p/original//z4pHMEQlUBqwuYEjlkozzsZ8EyC.jpg  
   Nymphomaniac - Saga:
     template: {name: Collection, collection: 258664, summary: 258664}
     url_poster: https://theposterdb.com/api/assets/208871 
