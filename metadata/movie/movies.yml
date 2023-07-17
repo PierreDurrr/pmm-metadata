@@ -570,7 +570,7 @@ collections:
   Dragons - Saga:
     template: {name: Collection, collection: 89137, summary: 89137}
     trakt_list: 
-      - https://trakt.tv/users/tiff31/lists/dragons?sort=rank,asc
+      - https://trakt.tv/users/pierredurrr/lists/how-to-train-your-dragon-collection-saga
     url_poster: https://theposterdb.com/api/assets/162990
 #    collection_order: alpha
     collection_mode: hide_items
@@ -1036,7 +1036,7 @@ collections:
   Le Flic de Beverly Hills - Saga:
     template: {name: Collection, collection: 85861, summary: 85861}
     trakt_list: 
-      - https://trakt.tv/users/eonder87/lists/beverly-hills-cop?sort=released,asc
+      - https://trakt.tv/users/pierredurrr/lists/beverly-hills-cop-collection-saga
     url_poster: https://theposterdb.com/api/assets/96922
 #    collection_order: alpha
     collection_mode: hide_items
