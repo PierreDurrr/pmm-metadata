@@ -99,14 +99,8 @@ collections:
     url_poster: https://theposterdb.com/api/assets/160329
     collection_mode: hide
 
-  Marvel Associated:
-    template: {name: Show, show: "331980, 281662, 284190, 304219, 317953, 326490, 263365, 281485, 341455, 320558, 332027, 328552, 368612"}
-    smart_label: year.asc
-    collection_mode: show_items
-    url_poster: https://theposterdb.com/api/assets/171159
-
   Marvel Cinematic Universe:
-    template: {name: Show, show: "362392, 362496, 362472, 367147, 367146, 368612"}
+    template: {name: Show, show: "263365, 281485, 320558, 281662, 284190, 304219, 317953, 326490, 331980, 332027, 341455, 364038, 362392, 362496, 362472, 367147, 368613, 368612, 393204, 393203, 368611, 367146, 393205, 393201, 412429, 412428, 412431, 361834, 361835, 367227, 92782, 92783"}
     smart_label: year.asc
     collection_mode: show_items
     url_poster: https://theposterdb.com/api/assets/43912
@@ -116,7 +110,6 @@ collections:
     trakt_list: https://trakt.tv/users/pierredurrr/lists/monogatari-series?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/86518
   
-
   Naruto:
     template: {name: Show, show: "78857, 79824, 321285"}
     collection_mode: hide
@@ -151,8 +144,14 @@ collections:
     url_poster: https://theposterdb.com/api/assets/92068  
     collection_mode: hide
 
+  Star Trek - Saga:
+    template: {name: Show, show: "253, 655, 1855, 314, 67198, 85949, 85948"}
+    collection_mode: hide
+    collection_order: alpha
+    url_poster: https://theposterdb.com/api/assets/222279
+
   Star Wars - Saga:
-    template: {name: Show, show: "361753, 393589, 393187, 83268, 393189, 393199"}
+    template: {name: Show, show: "85536, 71412, 3478, 105971, 92830, 83867, 60554, 82856, 115036, 114461, 202879, 114462, 114476, 114478, 79093"}
     smart_label: year.asc
     collection_mode: hide
     mdblist_list: https://mdblist.com/lists/ahasson/star-wars-shows
@@ -169,6 +168,12 @@ collections:
     collection_mode: hide
     collection_order: alpha
     url_poster: https://theposterdb.com/api/assets/247173
+
+  The Walking Dead - Saga:
+    template: {name: Show, show: "1402, 62286, 94305, 427464"}
+    collection_mode: hide
+    collection_order: alpha
+    url_poster: https://theposterdb.com/api/assets/276060
 
   Zootopie - Saga:
     template: {name: Show, show: "393206"}
