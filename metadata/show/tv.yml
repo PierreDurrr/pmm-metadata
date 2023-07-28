@@ -158,7 +158,7 @@ collections:
 
   Star Wars - Saga:
     template: {name: Show, show: "85536, 71412, 3478, 105971, 92830, 83867, 60554, 82856, 115036, 114461, 202879, 114462, 114476, 114478, 79093"}
-    smart_label: year.asc
+#    smart_label: year.asc
     collection_mode: show_items
 #    mdblist_list: https://mdblist.com/lists/ahasson/star-wars-shows
     url_poster: https://theposterdb.com/api/assets/128827
