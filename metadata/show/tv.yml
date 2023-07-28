@@ -35,7 +35,7 @@ collections:
   Dexter:
     template: {name: Show, show: "79349, 412366"}
     collection_mode: hide
-    url_poster: https://theposterdb.com/api/assets/155097
+    url_poster: https://theposterdb.com/api/assets/243523
 
   Downton Abbey - Saga:
     template: {name: Show, show: "193131"}
