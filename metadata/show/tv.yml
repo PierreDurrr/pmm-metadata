@@ -134,6 +134,12 @@ collections:
     collection_mode: hide
     url_poster: https://theposterdb.com/api/assets/180179
 
+  Pretty Little Liars - Saga:
+    template: {name: Show, show: "31917, 46958, 79863, 110531"}
+    collection_mode: hide
+    collection_order: alpha
+    url_poster: https://theposterdb.com/api/assets/330297
+
   Psychose - Saga:
     template: {name: Show, show: "262414"}
     url_poster: https://theposterdb.com/api/assets/161295
