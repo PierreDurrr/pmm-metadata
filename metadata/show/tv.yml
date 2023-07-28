@@ -113,7 +113,7 @@ collections:
   Naruto:
     template: {name: Show, show: "78857, 79824, 321285"}
     collection_mode: hide
-    url_poster: https://theposterdb.com/api/assets/59737
+    url_poster: https://theposterdb.com/api/assets/235264
 
   Olive et Tom - Saga: 
     template: {name: Show, show: "84045, 339203"}
