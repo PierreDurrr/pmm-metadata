@@ -1832,7 +1832,7 @@ collections:
 
   Star Wars - Saga:
     template: {name: Collection-Smart, summary: 10}
-    smart_label: title.asc  
+#    smart_label: title.asc  
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/star-wars-saga?sort=released,desc
     mdblist_list: https://mdblist.com/lists/ahasson/star-wars-nn6gnup5f8
