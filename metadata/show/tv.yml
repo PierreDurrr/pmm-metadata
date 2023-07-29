@@ -318,6 +318,32 @@ metadata:
     alt_title: "Le Flambeau, les aventuriers de Chupacabra"
     sort_title: "Flamme02"
 
+  "One Piece":
+#    url_poster: https://theposterdb.com/api/assets/58237
+    seasons:
+      0: {url_poster: https://theposterdb.com/api/assets/58238}
+      1: {url_poster: https://theposterdb.com/api/assets/58239}
+      2: {url_poster: https://theposterdb.com/api/assets/58240}
+      3: {url_poster: https://theposterdb.com/api/assets/58241}
+      4: {url_poster: https://theposterdb.com/api/assets/58242}
+      5: {url_poster: https://theposterdb.com/api/assets/58243}
+      6: {url_poster: https://theposterdb.com/api/assets/285864}
+      7: {url_poster: https://theposterdb.com/api/assets/58245}
+      8: {url_poster: https://theposterdb.com/api/assets/285866}
+      9: {url_poster: https://theposterdb.com/api/assets/285867}
+      10: {url_poster: https://theposterdb.com/api/assets/58248}
+      11: {url_poster: https://theposterdb.com/api/assets/58249}
+      12: {url_poster: https://theposterdb.com/api/assets/58250}
+      13: {url_poster: https://theposterdb.com/api/assets/58251}
+      14: {url_poster: https://theposterdb.com/api/assets/58252}
+      15: {url_poster: https://theposterdb.com/api/assets/58253}
+      16: {url_poster: https://theposterdb.com/api/assets/58254}
+      17: {url_poster: https://theposterdb.com/api/assets/58255}
+      18: {url_poster: https://theposterdb.com/api/assets/58256}
+      19: {url_poster: https://theposterdb.com/api/assets/285877}
+      20: {url_poster: https://theposterdb.com/api/assets/285878}
+      21: {url_poster: https://theposterdb.com/api/assets/58259}
+
   Super Dragon Ball Heroes:
     alt_title: Super Dragon Ball Heroes
     sort_title: Dragon Ball-05
