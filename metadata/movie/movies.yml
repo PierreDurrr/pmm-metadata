@@ -108,7 +108,7 @@ collections:
   Fantômas - Saga:
     template: {name: Collection, collection: 103001, summary: 103001}
     trakt_list: 
-      - https://trakt.tv/users/vargajoe/lists/fantomas?sort=rank,asc
+      - https://trakt.tv/users/pierredurrr/lists/fantomas-saga?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/318635
 #    collection_order: alpha
     collection_mode: hide_items
