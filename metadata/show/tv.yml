@@ -161,6 +161,7 @@ collections:
 #    smart_label: year.asc
     collection_mode: show_items
 #    mdblist_list: https://mdblist.com/lists/ahasson/star-wars-shows
+    trakt_list: https://trakt.tv/users/geekztor/lists/star-wars-shows-series?sort=released,asc
     url_poster: https://theposterdb.com/api/assets/128827
     
   That '70s & '90s Show - Saga:
