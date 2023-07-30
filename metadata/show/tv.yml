@@ -353,6 +353,34 @@ metadata:
       20: {url_poster: https://theposterdb.com/api/assets/58258}
       21: {url_poster: https://theposterdb.com/api/assets/58259}
 
+  "South Park":
+#    url_poster: https://theposterdb.com/api/assets/196137
+    seasons:
+      1: {url_poster: https://theposterdb.com/api/assets/196138}
+      2: {url_poster: https://theposterdb.com/api/assets/196139}
+      3: {url_poster: https://theposterdb.com/api/assets/196140}
+      4: {url_poster: https://theposterdb.com/api/assets/196141}
+      5: {url_poster: https://theposterdb.com/api/assets/196142}
+      6: {url_poster: https://theposterdb.com/api/assets/196143}
+      7: {url_poster: https://theposterdb.com/api/assets/196144}
+      8: {url_poster: https://theposterdb.com/api/assets/196145}
+      9: {url_poster: https://theposterdb.com/api/assets/196146}
+      10: {url_poster: https://theposterdb.com/api/assets/196147}
+      11: {url_poster: https://theposterdb.com/api/assets/196148}
+      12: {url_poster: https://theposterdb.com/api/assets/196149}
+      13: {url_poster: https://theposterdb.com/api/assets/196150}
+      14: {url_poster: https://theposterdb.com/api/assets/196151}
+      15: {url_poster: https://theposterdb.com/api/assets/196152}
+      16: {url_poster: https://theposterdb.com/api/assets/196153}
+      17: {url_poster: https://theposterdb.com/api/assets/196154}
+      18: {url_poster: https://theposterdb.com/api/assets/196155}
+      19: {url_poster: https://theposterdb.com/api/assets/196156}
+      20: {url_poster: https://theposterdb.com/api/assets/196157}
+      21: {url_poster: https://theposterdb.com/api/assets/196158}
+      22: {url_poster: https://theposterdb.com/api/assets/196159}
+      23: {url_poster: https://theposterdb.com/api/assets/196160}
+      25: {url_poster: https://theposterdb.com/api/assets/223725}
+
   Super Dragon Ball Heroes:
     alt_title: Super Dragon Ball Heroes
     sort_title: Dragon Ball-05
