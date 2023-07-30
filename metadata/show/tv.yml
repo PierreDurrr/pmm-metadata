@@ -104,6 +104,10 @@ collections:
     smart_label: year.asc
     collection_mode: show_items
     url_poster: https://theposterdb.com/api/assets/43912
+    sonarr_add_missing: true
+    sonarr_folder: "/mnt/_SYNOLOGY/Mediatheque/Series"
+    sonarr_tag: mediatheque, vf
+    sonarr_monitor: all
 
   Monogatari Series:
     collection_mode: hide_items
@@ -163,6 +167,10 @@ collections:
 #    mdblist_list: https://mdblist.com/lists/ahasson/star-wars-shows
     trakt_list: https://trakt.tv/users/geekztor/lists/star-wars-shows-series?sort=released,asc
     url_poster: https://theposterdb.com/api/assets/128827
+    sonarr_add_missing: true
+    sonarr_folder: "/mnt/_SYNOLOGY/Mediatheque/Series"
+    sonarr_tag: mediatheque, vf
+    sonarr_monitor: all
     
   That '70s & '90s Show - Saga:
     template: {name: Show, show: "73787, 411173"}
