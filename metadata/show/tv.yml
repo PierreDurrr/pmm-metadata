@@ -74,6 +74,12 @@ collections:
     url_poster: https://theposterdb.com/api/assets/180163
     summary: "L'Humanité a colonisé l'espace, avec des regroupements de colonies situés à chacun des cinq points de Lagrange Terre/Lune. Sur Terre, les nations se sont unies au sein de l'Alliance. L'Alliance dirige les colonies d'une main de fer, tandis que celles-ci se regroupent autour de Heero Yuy pour exprimer leur désir de paix. En l'an 175 de la colonisation, Yuy est tué par balle (probablement par Odin Lowe), ce qui contraint les colonies à envisager d'autres moyens pour parvenir à la paix. Cet assassinat provoque le départ de cinq scientifiques de l'Organisation de Oz, juste après qu'ils ont achevé le prototype de l'armure mobile Tallgeese."
 
+  How I Met Your... - Saga:
+    template: {name: Show, show: "75760, 401513"}
+    collection_mode: hide
+    url_poster: https://theposterdb.com/api/assets/243269
+    collection_order: release
+
   Le Caméléon - Saga:
     template: {name: Show, show: "70704"}
     collection_mode: hide
