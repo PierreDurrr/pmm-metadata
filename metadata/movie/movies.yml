@@ -815,6 +815,18 @@ collections:
   Il était une fois - Saga:
     template: {name: Collection, collection: 531799, summary: 531799}
     url_poster: https://theposterdb.com/api/assets/288102 
+
+  In Association With Marvel:
+    mdblist_list: https://mdblist.com/lists/plexmetamanager/external/15110
+    summary: "Les films sont classés dans l'ordre de visionnage chronologique de l'histoire et non par nom ou date de sortie."
+    url_poster: https://theposterdb.com/api/assets/203028
+    collection_order: custom
+    collection_mode: show
+    sync_mode: sync
+    radarr_add: true
+    radarr_search: true
+    radarr_monitor: true
+    
   Indian Palace - Saga:
     template: {name: Collection, collection: 306937, summary: 306937}
     trakt_list: 
