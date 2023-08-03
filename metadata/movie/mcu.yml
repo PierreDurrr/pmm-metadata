@@ -32,6 +32,17 @@ collections:
     radarr_search: true
     radarr_monitor: true
 
+  In Association With Marvel:
+    mdblist_list: https://mdblist.com/lists/plexmetamanager/external/15110
+    summary: "Les films sont classés dans l'ordre de visionnage chronologique de l'histoire et non par nom ou date de sortie."
+    url_poster: https://theposterdb.com/api/assets/203028
+    collection_order: custom
+    collection_mode: show
+    sync_mode: sync
+    radarr_add: true
+    radarr_search: true
+    radarr_monitor: true
+
 metadata:
 
   1771: # Captain America: The First Avenger
