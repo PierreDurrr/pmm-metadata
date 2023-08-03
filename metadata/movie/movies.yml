@@ -402,7 +402,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/163647
   Chroniques des Vampires - Saga:
     template: {name: Collection, collection: 217704, summary: 217704}
-    url_poster: https://theposterdb.com/api/assets/199527
+    url_poster: https://theposterdb.com/poster/308807
     collection_mode: show_items
   Chucky - Saga:
     template: {name: Collection, collection: 10455, summary: 10455}
@@ -959,7 +959,7 @@ collections:
   Kaamelott - Saga:
 #    template: {name: Collection, collection: 8580, summary: 8580}
     tmdb_movie: 577242
-    url_poster: https://theposterdb.com/api/assets/160329
+    url_poster: https://theposterdb.com/api/assets/216052
     collection_mode: hide
   Karaté Kid - Saga:
     template: {name: Collection, collection: 8580, summary: 8580}
@@ -1031,6 +1031,9 @@ collections:
   L'Histoire sans fin - Saga:
     template: {name: Collection, collection: 91430, summary: 91430}
     url_poster: https://theposterdb.com/api/assets/162152 
+  L'Île de Nim - Saga:
+    template: {name: Collection, collection: 232844, summary: 232844}
+    url_poster: https://theposterdb.com/api/assets/174972 
   L'incroyable voyage - Saga:
     template: {name: Collection, collection: 43058, summary: 43058}
     url_poster: https://theposterdb.com/api/assets/153248 
@@ -1198,7 +1201,7 @@ collections:
     url_poster: https://www.themoviedb.org/t/p/original/fXNYiUKkDsNWR0PXsieGxxK84gg.jpg  
   Les Aventures de Sammy - Saga:
     template: {name: Collection, collection: 166844, summary: 166844}
-    url_poster: https://image.tmdb.org/t/p/original//caBrlKvlRaOjd2gHbyyqaBDKyR7.jpg
+    url_poster: https://theposterdb.com/api/assets/382330
   Les aventures de Bullit & Riper - Saga:
     template: {name: Collection, collection: 297299, summary: 297299, poster: https://image.tmdb.org/t/p/original//fREA4sN9BapI5QkpzkXFwaApPj6.jpg}
     trakt_list: 
@@ -1412,6 +1415,7 @@ collections:
   Mon nom est Personne - Saga:
     template: {name: Collection}
     trakt_list: https://trakt.tv/users/pierredurrr/lists/mon-nom-est-personne-saga?sort=rank,asc
+    url_poster: https://www.filmspourenfants.net/wp-content/uploads/2020/09/mon-nom-est-personne-a-366x500.jpg
   Mon voisin le tueur - Saga:
     template: {name: Collection, collection: 103577, summary: 103577}
     trakt_list: 
