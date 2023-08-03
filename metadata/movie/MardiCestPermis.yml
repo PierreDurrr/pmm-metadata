@@ -7,7 +7,7 @@ collections:
       sort_by: random
       limit: 3
 #    schedule: all[weekly(tuesday), hourly(06)]
-    schedule: all[weekly(tuesday)
+    schedule: weekly(tuesday)
 #    delete_not_scheduled: weekly(tuesday)
     delete_not_scheduled: true
 #    smart_label: random
