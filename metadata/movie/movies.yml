@@ -820,6 +820,7 @@ collections:
     mdblist_list: https://mdblist.com/lists/plexmetamanager/external/15110
     summary: "Les films sont classés dans l'ordre de visionnage chronologique de l'histoire et non par nom ou date de sortie."
     url_poster: https://theposterdb.com/api/assets/203028
+    sort_title: "Marvel Cinematic Universe2"
     collection_order: custom
     collection_mode: show
     sync_mode: sync
