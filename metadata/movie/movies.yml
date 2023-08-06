@@ -2016,6 +2016,9 @@ collections:
 #      - https://trakt.tv/users/pierredurrr/lists/eastrail-177-copy?sort=rank,asc
 #    url_poster: https://theposterdb.com/api/assets/162389
 #    collection_mode: show_items
+  Venom - Saga:
+    template: {name: Collection, collection: 558216, summary: 558216}
+    url_poster: https://theposterdb.com/api/assets/107428 
   La Véritable Histoire du Petit Chaperon Rouge - Saga:
     template: {name: Collection, collection: 87255, summary: 87255}
     trakt_list: 
