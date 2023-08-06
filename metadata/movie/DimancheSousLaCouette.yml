@@ -1,7 +1,7 @@
 collections:
   Dimanche sous la couette:
     trakt_list: https://trakt.tv/users/pierredurrr/lists/dimanche-sous-la-couette?sort=random,asc
-#      sort_by: random
+      sort_by: random
 #      limit: 3
     schedule: weekly(sunday)
 #    delete_not_scheduled: weekly(monday)
