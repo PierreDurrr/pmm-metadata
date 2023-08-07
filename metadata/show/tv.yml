@@ -191,7 +191,8 @@ collections:
     url_poster: https://theposterdb.com/api/assets/247173
 
   The Walking Dead - Saga:
-    template: {name: Show, show: "1402, 62286, 94305, 427464"}
+#    template: {name: Show, show: "1402, 62286, 94305, 427464"}
+    trakt_list: https://trakt.tv/users/marcynas1/lists/the-walking-dead-universe?sort=released,asc
     collection_mode: hide
     collection_order: alpha
     url_poster: https://theposterdb.com/api/assets/276060
