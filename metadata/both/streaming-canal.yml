@@ -24,6 +24,7 @@ dynamic_collections:
       - shared
       - arr
     template_variables:
-        mdblist_list: https://mdblist.com/lists/pierredurrr/canal-<<library_type>>s
-        url_poster: https://theposterdb.com/api/assets/202699
-        
+      mdblist_list: https://mdblist.com/lists/pierredurrr/canal-<<library_type>>s
+      url_poster: https://theposterdb.com/api/assets/202699
+      translation_key:
+        default: streaming
