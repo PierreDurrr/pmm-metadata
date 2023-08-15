@@ -13,16 +13,11 @@ external_templates:
     smart_label: release.desc
     url_poster: https://theposterdb.com/api/assets/202699
 
-dynamic_collections:
-  Streaming:
-    type: custom
-    data:
-      canal: Canal+
-    title_format: <<key_name>
-    template:
-      - mdb_smart
-      - shared
-      - arr
-    template_variables:
-      mdblist_list: https://mdblist.com/lists/pierredurrr/canal-<<library_type>>s
-      url_poster: https://theposterdb.com/api/assets/202699
+Canal+:
+  template:
+    - mdb_smart
+    - shared
+    - arr
+  template_variables:
+    mdblist_list: https://mdblist.com/lists/pierredurrr/canal-<<library_type>>s
+    url_poster: https://theposterdb.com/api/assets/202699
