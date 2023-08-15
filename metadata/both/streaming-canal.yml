@@ -9,9 +9,25 @@ external_templates:
   pmm: templates
   template_variables:
     collection_section: "030"
-    collection_mode: show_items
-    smart_label: release.desc
-    url_poster: https://theposterdb.com/api/assets/202699
+
+templates:
+  mdb_streaming:
+    optional:
+      - use_<<key>>
+      - allowed_libraries
+    default:
+      sync_mode: sync
+      sync_mode_<<key>>: <<sync_mode>>
+      sort_by: release.desc
+      sort_by_<<key>>: <<sort_by>>
+    run_definition:
+      - <<use_<<key>>>>
+      - <<allowed_libraries>>
+      - <<allowed_streaming>>
+    cache_builders: 1
+    smart_label: <<sort_by_<<key>>>>
+    sync_mode: <<sync_mode_<<key>>>>
+    mdblist_list: https://mdblist.com/lists/pierredurrr/<<key>>-<<library_type>>s
 
 collections:
   Streaming Collections:
@@ -22,11 +38,19 @@ collections:
         translation_key: separator
 
 dynamic_collections:
-  Canal+:
+  Streaming:
+    type: custom
+    data:
+      canal: Canal+
+    title_format: <<key_name>>
     template:
-      - mdb_smart
+      - mdb_streaming
       - shared
       - arr
     template_variables:
-      mdblist_list: https://mdblist.com/lists/pierredurrr/canal-<<library_type>>s
-      url_poster: https://theposterdb.com/api/assets/202699
+      image:
+        default: https://theposterdb.com/api/assets/202699
+      translation_key:
+        default: streaming
+      dynamic:
+        default: true
