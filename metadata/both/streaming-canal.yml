@@ -22,8 +22,6 @@ templates:
       sort_by_<<key>>: <<sort_by>>
     run_definition:
       - <<use_<<key>>>>
-      - <<allowed_libraries>>
-      - <<allowed_streaming>>
     cache_builders: 1
     smart_label: <<sort_by_<<key>>>>
     sync_mode: <<sync_mode_<<key>>>>
