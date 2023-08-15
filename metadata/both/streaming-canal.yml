@@ -13,6 +13,14 @@ external_templates:
     smart_label: release.desc
     url_poster: https://theposterdb.com/api/assets/202699
 
+collections:
+  Streaming Collections:
+    template:
+      - name: separator
+        separator: streaming
+        key_name: Streaming
+        translation_key: separator
+
 dynamic_collections:
   Canal+:
     template:
