@@ -27,4 +27,4 @@ dynamic_collections:
       mdblist_list: https://mdblist.com/lists/pierredurrr/canal-<<library_type>>s
       url_poster: https://theposterdb.com/api/assets/202699
       translation_key:
-        default: streaming
+        - default: streaming
