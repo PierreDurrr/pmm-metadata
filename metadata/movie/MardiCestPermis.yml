@@ -4,9 +4,9 @@ collections:
       all:
         content_rating: "Tous publics"
         studio.not: Toei Animation
-        item_label.not: 
+        collection.not: 
           - "All I Want For Christmas..."
-          - "India"
+          - "Bollywood"
     sort_by: random
     limit: 3
 #    schedule: all[weekly(tuesday), hourly(06)]
