@@ -9,6 +9,7 @@ external_templates:
   pmm: templates
   template_variables:
     collection_section: "030"
+    url_poster: https://theposterdb.com/api/assets/202699
 
 templates:
   mdb_streaming:
@@ -40,7 +41,6 @@ templates:
     smart_label: <<sort_by_<<key>>>>
     sync_mode: <<sync_mode_<<key>>>>
     mdblist_list: https://mdblist.com/lists/pierredurrr/<<key>>-<<library_type>>s
-    url_poster: https://theposterdb.com/api/assets/202699
 
 collections:
   Streaming Collections:
