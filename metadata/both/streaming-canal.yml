@@ -40,6 +40,7 @@ templates:
     smart_label: <<sort_by_<<key>>>>
     sync_mode: <<sync_mode_<<key>>>>
     mdblist_list: https://mdblist.com/lists/pierredurrr/<<key>>-<<library_type>>s
+    url_poster: https://theposterdb.com/api/assets/202699
 
 collections:
   Streaming Collections:
@@ -60,10 +61,7 @@ dynamic_collections:
       - shared
       - arr
     template_variables:
-      image:
-        default: https://theposterdb.com/api/assets/202699
       translation_key:
         default: streaming
       dynamic:
         default: true
-      url_poster: https://theposterdb.com/api/assets/202699
