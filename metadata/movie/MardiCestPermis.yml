@@ -4,10 +4,9 @@ collections:
       all:
         content_rating: "Tous publics"
         studio.not: Toei Animation
-      filters:
-        filepath.not: 
-          - /mnt/_SYNOLOGY/video/Films/_Christmas/
-          - /mnt/_SYNOLOGY/video/Films/_Bollywood/        
+        item_label.not: 
+          - "All I Want For Christmas..."
+          - "India"
     sort_by: random
     limit: 3
 #    schedule: all[weekly(tuesday), hourly(06)]
