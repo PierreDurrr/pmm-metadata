@@ -5,7 +5,7 @@ collections:
         content_rating: "Tous publics"
         studio.not: Toei Animation
         collection.not: 
-          - "All I Want For Christmas..."
+          - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
           - "Bollywood"
     sort_by: random
     limit: 3
