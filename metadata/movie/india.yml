@@ -1,0 +1,12 @@
+Collections:
+  Bollywood: 
+    collection_order: alpha
+    collection_mode: hide_items
+    sort_title: 000single
+#    summary: "BrutX, c’est du contenu original exclusif, ainsi qu’une sélection de films, séries, courts-métrages et de documentaires -dont une partie inédite en exclusivité- ainsi que des productions originales (reportages, magazines, documentaires). C’est aussi une plateforme constituée de programmes qui seront recommandés par des talents référents (journalistes, influenceurs, artistes, militants, …) et une mise en avant de thèmes encore peu traités dans les grands médias."
+    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/country/color/India.jpg
+    plex_all: true
+    filters:
+      filepath: /mnt/_SYNOLOGY/video/Films/_Bollywood  
+    label: India
+    item_label: India
