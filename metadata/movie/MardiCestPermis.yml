@@ -4,12 +4,16 @@ collections:
       all:
         content_rating: "Tous publics"
         studio.not: Toei Animation
+    filters:
+      filepath.not: 
+        - /mnt/_SYNOLOGY/video/Films/_Christmas/
+        - /mnt/_SYNOLOGY/video/Films/_Bollywood/        
       sort_by: random
       limit: 3
 #    schedule: all[weekly(tuesday), hourly(06)]
-    schedule: weekly(tuesday)
+##    schedule: weekly(tuesday)
 #    delete_not_scheduled: weekly(tuesday)
-    delete_not_scheduled: true
+##    delete_not_scheduled: true
 #    smart_label: random
     visible_shared: weekly(tuesday)
     visible_library: weekly(tuesday)
