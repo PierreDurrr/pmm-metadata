@@ -8,8 +8,8 @@ collections:
       filepath.not: 
         - /mnt/_SYNOLOGY/video/Films/_Christmas/
         - /mnt/_SYNOLOGY/video/Films/_Bollywood/        
-      sort_by: random
-      limit: 3
+    sort_by: random
+    limit: 3
 #    schedule: all[weekly(tuesday), hourly(06)]
 ##    schedule: weekly(tuesday)
 #    delete_not_scheduled: weekly(tuesday)
