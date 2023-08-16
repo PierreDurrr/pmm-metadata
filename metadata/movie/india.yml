@@ -1,12 +1,28 @@
+templates:
+    Holiday:
+        url_poster: <<poster>>
+        sort_title: +++++++_<<collection_name>>
+        collection_order: alpha
+
 collections:
-  Bollywood: 
-    collection_order: alpha
-    collection_mode: hide_items
-    sort_title: 000single
-#    summary: "BrutX, c’est du contenu original exclusif, ainsi qu’une sélection de films, séries, courts-métrages et de documentaires -dont une partie inédite en exclusivité- ainsi que des productions originales (reportages, magazines, documentaires). C’est aussi une plateforme constituée de programmes qui seront recommandés par des talents référents (journalistes, influenceurs, artistes, militants, …) et une mise en avant de thèmes encore peu traités dans les grands médias."
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/country/color/India.jpg
-    plex_all: true
-    filters:
-      filepath: /mnt/_SYNOLOGY/video/Films/_Bollywood  
+  Bollywoodooo:
     label: India
     item_label: India
+    collection_order: alpha
+    collection_mode: hide_items
+    plex_all: true
+    filters:
+      filepath: /mnt/_SYNOLOGY/video/Films/_Bollywood 
+    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/country/color/India.jpg
+  Add Christmas:
+    name: 🎅 🎄 All I Want For Christmas... 🎄 🎅
+    blank_collection: true
+    label: All I Want For Christmas...
+    item_label: All I Want For Christmas...
+    schedule: range(01/15-11/15)
+  Remove Christmas:
+    name: 🎅 🎄 All I Want For Christmas... 🎄 🎅
+    blank_collection: true
+    label.remove: All I Want For Christmas...
+    item_label.remove: All I Want For Christmas...
+    schedule: range(11/15-01/15)
