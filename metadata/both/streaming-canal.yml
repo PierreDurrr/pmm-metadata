@@ -66,3 +66,4 @@ dynamic_collections:
         default: streaming
       dynamic:
         default: true
+      url_poster: https://theposterdb.com/api/assets/202699
