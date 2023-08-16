@@ -1,9 +1,3 @@
-templates:
-    Holiday:
-        url_poster: <<poster>>
-        sort_title: +++++++_<<collection_name>>
-        collection_order: alpha
-
 collections:
   Bollywoodooo:
     label: India
