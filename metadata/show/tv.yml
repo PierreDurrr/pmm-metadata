@@ -360,6 +360,36 @@ metadata:
       20: {url_poster: https://theposterdb.com/api/assets/58258}
       21: {url_poster: https://theposterdb.com/api/assets/58259}
 
+  "Pokémon":
+#    url_poster: https://theposterdb.com/api/assets/360091
+    seasons:
+      0: {url_poster: https://theposterdb.com/api/assets/360092}
+      1: {url_poster: https://theposterdb.com/api/assets/360093}
+      2: {url_poster: https://theposterdb.com/api/assets/360094}
+      3: {url_poster: https://theposterdb.com/api/assets/360095}
+      4: {url_poster: https://theposterdb.com/api/assets/360096}
+      5: {url_poster: https://theposterdb.com/api/assets/360097}
+      6: {url_poster: https://theposterdb.com/api/assets/360098}
+      7: {url_poster: https://theposterdb.com/api/assets/360099}
+      8: {url_poster: https://theposterdb.com/api/assets/360100}
+      9: {url_poster: https://theposterdb.com/api/assets/360101}
+      10: {url_poster: https://theposterdb.com/api/assets/360102}
+      11: {url_poster: https://theposterdb.com/api/assets/360103}
+      12: {url_poster: https://theposterdb.com/api/assets/360104}
+      13: {url_poster: https://theposterdb.com/api/assets/360105}
+      14: {url_poster: https://theposterdb.com/api/assets/360106}
+      15: {url_poster: https://theposterdb.com/api/assets/360107}
+      16: {url_poster: https://theposterdb.com/api/assets/360108}
+      17: {url_poster: https://theposterdb.com/api/assets/360109}
+      18: {url_poster: https://theposterdb.com/api/assets/360110}
+      19: {url_poster: https://theposterdb.com/api/assets/360111}
+      20: {url_poster: https://theposterdb.com/api/assets/360147}
+      21: {url_poster: https://theposterdb.com/api/assets/360148}
+      22: {url_poster: https://theposterdb.com/api/assets/360149}
+      23: {url_poster: https://theposterdb.com/api/assets/360150}
+      24: {url_poster: https://theposterdb.com/api/assets/360151}
+      25: {url_poster: https://theposterdb.com/api/assets/360152}
+
   "South Park":
 #    url_poster: https://theposterdb.com/api/assets/196137
     seasons:
