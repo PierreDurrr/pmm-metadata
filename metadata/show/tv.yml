@@ -361,7 +361,7 @@ metadata:
       21: {url_poster: https://theposterdb.com/api/assets/58259}
 
   "Pokémon":
-#    url_poster: https://theposterdb.com/api/assets/360091
+    url_poster: https://theposterdb.com/api/assets/72314
     seasons:
       0: {url_poster: https://theposterdb.com/api/assets/360092}
       1: {url_poster: https://theposterdb.com/api/assets/360093}
