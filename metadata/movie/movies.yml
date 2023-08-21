@@ -166,6 +166,9 @@ collections:
     url_poster: https://theposterdb.com/api/assets/166224
 #    collection_order: alpha
     collection_mode: hide_items
+  American Psycho - Saga:  
+    template: {name: Collection, collection: 86105, summary: 86105}
+    url_poster: https://theposterdb.com/api/assets/313206 
   American Werewolf - Saga:
     template: {name: Collection, collection: 9380, summary: 9380}
     url_poster: https://theposterdb.com/api/assets/180752
@@ -355,6 +358,9 @@ collections:
     url_poster: https://www.plexcollectionposters.com/images/2018/05/08/Bud-Spencer-Terence-Hill.md.jpg
 #    collection_order: alpha
     collection_mode: hide_items
+  Ça - Saga:  
+    template: {name: Collection, collection: 477962, summary: 477962}
+    url_poster: https://theposterdb.com/api/assets/161120  
   Caballeros - Saga:
     template: {name: Collection, collection: 271668, summary: 271668}
     url_poster: https://theposterdb.com/api/assets/236445
@@ -1635,6 +1641,9 @@ collections:
   Le Chat Potté - Saga:
     template: {name: Collection, collection: 94602, summary: 94602}
     url_poster: https://theposterdb.com/api/assets/286087    
+  The Punisher - Saga:
+    template: {name: Collection, collection: 635362, summary: 635362}
+    url_poster: https://theposterdb.com/api/assets/171137    
   Quatre Filles et un Jean - Saga:
     template: {name: Collection, collection: 17368, summary: 17368}
     url_poster: https://theposterdb.com/api/assets/168694
