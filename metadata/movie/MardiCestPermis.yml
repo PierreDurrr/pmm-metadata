@@ -7,7 +7,7 @@ collections:
         collection.not: 
           - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
           - "Bollywood"
-    sort_by: random
+#    sort_by: random
     limit: 3
 #    schedule: all[weekly(tuesday), hourly(06)]
     schedule: weekly(tuesday)
