@@ -390,6 +390,46 @@ metadata:
       24: {url_poster: https://theposterdb.com/api/assets/360151}
       25: {url_poster: https://theposterdb.com/api/assets/360152}
 
+"The Simpsons":
+#  url_poster: https://theposterdb.com/api/assets/246123
+  seasons:
+      0: {url_poster: https://theposterdb.com/api/assets/246124}
+      1: {url_poster: https://theposterdb.com/api/assets/246125}
+      2: {url_poster: https://theposterdb.com/api/assets/246126}
+      3: {url_poster: https://theposterdb.com/api/assets/246127}
+      4: {url_poster: https://theposterdb.com/api/assets/246128}
+      5: {url_poster: https://theposterdb.com/api/assets/246129}
+      6: {url_poster: https://theposterdb.com/api/assets/246130}
+      7: {url_poster: https://theposterdb.com/api/assets/246131}
+      8: {url_poster: https://theposterdb.com/api/assets/246132}
+      9: {url_poster: https://theposterdb.com/api/assets/246133}
+      10: {url_poster: https://theposterdb.com/api/assets/246134}
+      11: {url_poster: https://theposterdb.com/api/assets/246135}
+      12: {url_poster: https://theposterdb.com/api/assets/246136}
+      13: {url_poster: https://theposterdb.com/api/assets/246137}
+      14: {url_poster: https://theposterdb.com/api/assets/246138}
+      15: {url_poster: https://theposterdb.com/api/assets/246139}
+      16: {url_poster: https://theposterdb.com/api/assets/246140}
+      17: {url_poster: https://theposterdb.com/api/assets/246141}
+      18: {url_poster: https://theposterdb.com/api/assets/246142}
+      19: {url_poster: https://theposterdb.com/api/assets/246143}
+      20: {url_poster: https://theposterdb.com/api/assets/246144}
+      21: {url_poster: https://theposterdb.com/api/assets/246145}
+      22: {url_poster: https://theposterdb.com/api/assets/246146}
+      23: {url_poster: https://theposterdb.com/api/assets/246147}
+      24: {url_poster: https://theposterdb.com/api/assets/246148}
+      25: {url_poster: https://theposterdb.com/api/assets/246149}
+      26: {url_poster: https://theposterdb.com/api/assets/246150}
+      27: {url_poster: https://theposterdb.com/api/assets/246151}
+      28: {url_poster: https://theposterdb.com/api/assets/246152}
+      29: {url_poster: https://theposterdb.com/api/assets/246153}
+      30: {url_poster: https://theposterdb.com/api/assets/246154}
+      31: {url_poster: https://theposterdb.com/api/assets/246155}
+      32: {url_poster: https://theposterdb.com/api/assets/246156}
+      33: {url_poster: https://theposterdb.com/api/assets/246157}
+      34: {url_poster: https://theposterdb.com/api/assets/246158}
+      35: {url_poster: https://theposterdb.com/api/assets/390165}
+
   "South Park":
 #    url_poster: https://theposterdb.com/api/assets/196137
     seasons:
