@@ -1904,7 +1904,7 @@ collections:
     template: {name: Collection, collection: 492969, summary: 492969, poster: https://image.tmdb.org/t/p/w440_and_h660_face/qaA8zWYs1gmaGhuq8aVyQvNO75L.jpg}
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/tad-saga?sort=rank,asc
-    url_poster: https://image.tmdb.org/t/p/w440_and_h660_face/qaA8zWYs1gmaGhuq8aVyQvNO75L.jpg
+    url_poster: https://theposterdb.com/api/assets/395641
 #    collection_order: alpha
     collection_mode: hide_items
   Ted - Saga:
