@@ -85,6 +85,9 @@ collections:
     sort_title: A Couteaux Tires - Saga
     url_poster: https://theposterdb.com/api/assets/291317
     name_mapping: a couteaux tires - saga
+  Air Bud - Saga:  
+    template: {name: Collection, collection: 97445, summary: 97445}
+    url_poster: https://theposterdb.com/api/assets/392988    
   Aladdin - Saga:
     template: {name: Collection, collection: 86027, summary: 86027}
     url_poster: https://theposterdb.com/api/assets/163021
@@ -1052,6 +1055,9 @@ collections:
   Le Cercle - Saga:
     template: {name: Collection, collection: 14563, summary: 14563}
     url_poster: https://theposterdb.com/api/assets/161878
+  Le Cœur des Hommes - Saga:  
+    template: {name: Collection, collection: 260586, summary: 260586}
+#    url_poster: 
   Le Cygne et la Princesse - Saga:
     template: {name: Collection, collection: 144200, summary: 144200}
     url_poster: https://theposterdb.com/api/assets/313954
