@@ -12,7 +12,7 @@ collections:
 #    schedule: all[weekly(tuesday), hourly(06)]
     schedule: weekly(tuesday)
 #    delete_not_scheduled: weekly(tuesday)
-    delete_not_scheduled: true
+    delete_not_scheduled: false
 #    smart_label: random
     visible_shared: weekly(tuesday)
     visible_library: weekly(tuesday)
