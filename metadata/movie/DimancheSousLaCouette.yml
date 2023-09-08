@@ -5,7 +5,7 @@ collections:
 #      limit: 3
     schedule: weekly(sunday)
 #    delete_not_scheduled: weekly(monday)
-    delete_not_scheduled: true
+    delete_not_scheduled: false
 #    smart_label: random
     visible_shared: weekly(sunday)
     visible_library: weekly(sunday)
