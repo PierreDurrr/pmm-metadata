@@ -1,5 +1,6 @@
 collections:
   Dimanche sous la couette:
+    sort_title: zzz_Dimanche sous la couette
     trakt_list: https://trakt.tv/users/pierredurrr/lists/dimanche-sous-la-couette?sort=random,asc
 #      sort_by: random
 #      limit: 3
