@@ -16,6 +16,7 @@ collections:
     delete_not_scheduled: false
 #    smart_label: random
     visible_shared: weekly(tuesday)
-    visible_library: weekly(tuesday)
+    visible_library: false
+#    visible_library: weekly(tuesday)
     visible_home: weekly(tuesday)    
     label: REPLEXHERO
