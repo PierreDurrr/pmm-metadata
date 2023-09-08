@@ -10,5 +10,6 @@ collections:
     visible_shared: weekly(sunday)
     visible_library: weekly(sunday)
     visible_home: weekly(sunday)
+    label: REPLEXHERO
 
 
