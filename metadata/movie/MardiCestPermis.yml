@@ -1,5 +1,6 @@
 collections:
   Mardi c'est permis:
+    sort_title: "zzz_Mardi c'est permis"
     plex_search:
       all:
         content_rating: "Tous publics"
