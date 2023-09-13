@@ -23,15 +23,23 @@ collections:
   Remove Mardi c'est permis:
     name: "Mardi c'est permis"
     sort_title: "zzz_Mardi c'est permis"
-    plex_search:
+    summary: "En 1990, M6 diffuse tous ces films et téléfilms de prime time dans une case appelée Grand écran. Très vite, la chaîne crée une case nommée « Le Mardi c'est permis », dans laquelle elle diffuse des films et téléfilms pour la jeunesse ou familiaux. Sous entendu que le mardi, les enfants peuvent regarder la télévision le soir, puisque le lendemain ils n'ont pas école."
+    smart_filter:
       all:
-        label:
-          - "Mardi c'est permis"
+        content_rating: "Tous publics"
+        genre: "Comédie"
+        studio.not: Toei Animation
+        collection.not:
+          - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
+          - "Bollywood"
+      sort_by: random
+      limit: 3
     schedule: weekly(wednesday)
     delete_not_scheduled: false
     visible_shared: false
     visible_library: false
-    visible_home: false   
+    visible_home: false
+    label: REPLEXHERO 
 
 #  Mardi c'est permis:
 #    sort_title: "zzz_Mardi c'est permis"
