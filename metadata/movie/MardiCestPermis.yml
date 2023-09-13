@@ -1,22 +1,52 @@
 collections:
-  Mardi c'est permis:
+  Add Mardi c'est permis:
+    name: "Mardi c'est permis"
     sort_title: "zzz_Mardi c'est permis"
     plex_search:
       all:
         content_rating: "Tous publics"
+        genre: "Comédie"
         studio.not: Toei Animation
         collection.not: 
           - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
-          - "Bollywood"
-#    sort_by: random
-    limit: 3
-#    schedule: all[weekly(tuesday), hourly(06)]
-    schedule: weekly(tuesday)
-#    delete_not_scheduled: weekly(tuesday)
+          - "Bollywood"    
+      sort_by: random
+      limit: 3
+    schedule: weekly(wednesday)
     delete_not_scheduled: false
-#    smart_label: random
     visible_shared: weekly(tuesday)
     visible_library: false
-#    visible_library: weekly(tuesday)
-    visible_home: weekly(tuesday)    
+    visible_home: weekly(tuesday)  
     label: REPLEXHERO
+
+  Remove Mardi c'est permis:
+    name: "Mardi c'est permis"
+    sort_title: "zzz_Mardi c'est permis"
+    schedule: weekly(thursday)
+    delete_not_scheduled: false
+    visible_shared: false
+    visible_library: false
+    visible_home: false
+    item_label.remove: "Mardi c'est permis"    
+
+#  Mardi c'est permis:
+#    sort_title: "zzz_Mardi c'est permis"
+#    plex_search:
+#      all:
+#        content_rating: "Tous publics"
+#        studio.not: Toei Animation
+#        collection.not: 
+#          - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
+#          - "Bollywood"
+##    sort_by: random
+#    limit: 3
+##    schedule: all[weekly(tuesday), hourly(06)]
+#    schedule: weekly(tuesday)
+##    delete_not_scheduled: weekly(tuesday)
+#    delete_not_scheduled: false
+##    smart_label: random
+#    visible_shared: weekly(tuesday)
+#    visible_library: false
+##    visible_library: weekly(tuesday)
+#    visible_home: weekly(tuesday)    
+#    label: REPLEXHERO
