@@ -7,10 +7,12 @@
 
 external_templates:
   pmm: templates
+  repo: metadata/mytemplates.yml
 
 templates:
   holiday:
     default:
+      label: REPLEXHERO
       sync_mode: sync
       sync_mode_<<key>>: <<sync_mode>>
       sort_by: title.asc
