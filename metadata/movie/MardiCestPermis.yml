@@ -2,6 +2,7 @@ collections:
   Add Mardi c'est permis:
     name: "Mardi c'est permis"
     sort_title: "zzz_Mardi c'est permis"
+    smart_label: random
     plex_search:
       all:
         content_rating: "Tous publics"
@@ -10,7 +11,7 @@ collections:
         collection.not: 
           - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
           - "Bollywood"    
-      sort_by: random
+#      sort_by: random
       limit: 3
     schedule: weekly(wednesday)
     delete_not_scheduled: false
