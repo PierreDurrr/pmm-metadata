@@ -13,7 +13,7 @@ collections:
           - "Bollywood"    
 #      sort_by: random
       limit: 3
-    schedule: weekly(wednesday)
+    schedule: weekly(tuesday)
     delete_not_scheduled: false
     visible_shared: weekly(tuesday)
     visible_library: false
@@ -23,12 +23,12 @@ collections:
   Remove Mardi c'est permis:
     name: "Mardi c'est permis"
     sort_title: "zzz_Mardi c'est permis"
-    schedule: weekly(thursday)
+    schedule: weekly(wednesday)
     delete_not_scheduled: false
     visible_shared: false
     visible_library: false
     visible_home: false
-#    item_label.remove: "Mardi c'est permis"    
+    item_label.remove: "Mardi c'est permis"    
 
 #  Mardi c'est permis:
 #    sort_title: "zzz_Mardi c'est permis"
