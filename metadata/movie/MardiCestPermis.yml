@@ -23,6 +23,10 @@ collections:
   Remove Mardi c'est permis:
     name: "Mardi c'est permis"
     sort_title: "zzz_Mardi c'est permis"
+    plex_search:
+      all:
+        collection: 
+          - "Mardi c'est permis"    
     schedule: weekly(wednesday)
     delete_not_scheduled: false
     visible_shared: false
