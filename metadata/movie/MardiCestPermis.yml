@@ -27,7 +27,7 @@ collections:
     visible_shared: false
     visible_library: false
     visible_home: false
-    item_label.remove: "Mardi c'est permis"    
+#    item_label.remove: "Mardi c'est permis"    
 
 #  Mardi c'est permis:
 #    sort_title: "zzz_Mardi c'est permis"
