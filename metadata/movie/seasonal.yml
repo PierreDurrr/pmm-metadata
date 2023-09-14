@@ -10,9 +10,10 @@ external_templates:
   repo: metadata/mytemplates.yml
 
 templates:
+  replex:
+    label: REPLEXHERO
   holiday:
     default:
-      label: REPLEXHERO
       sync_mode: sync
       sync_mode_<<key>>: <<sync_mode>>
       sort_by: title.asc
@@ -89,6 +90,7 @@ dynamic_collections:
       christmas: Christmas
     title_format: <<key_name>> <<library_typeU>>s
     template:
+      - replex
       - holiday
       - shared
       - arr
