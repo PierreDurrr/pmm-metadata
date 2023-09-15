@@ -1,0 +1,46 @@
+collections:
+
+  Documentaires:
+#    collection_order: alpha
+    collection_mode: hide_items
+    sort_title: zzz_Docu
+    plex_all: true
+    filters:
+      filepath: 
+        - /mnt/_SYNOLOGY/Mediatheque/Documentaires/Docu_series
+        - /mnt/_SYNOLOGY/Mediatheque/Documentaires/Docu_films
+#    visible_home: true
+#    visible_shared: true
+    smart_label: release.desc    
+    label: REPLEXHERO
+#    url_poster:
+
+  BrutX: 
+    collection_order: alpha
+    collection_mode: hide_items
+    summary: "BrutX, c’est du contenu original exclusif, ainsi qu’une sélection de films, séries, courts-métrages et de documentaires -dont une partie inédite en exclusivité- ainsi que des productions originales (reportages, magazines, documentaires). C’est aussi une plateforme constituée de programmes qui seront recommandés par des talents référents (journalistes, influenceurs, artistes, militants, …) et une mise en avant de thèmes encore peu traités dans les grands médias."
+    url_poster: https://i.imgur.com/a3uc1Fz.jpg
+    plex_all: true
+    filters:
+      filepath: /mnt/_SYNOLOGY/Mediatheque/Documentaires/Docu_series/BrutX
+
+  Albert Lin:
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/albert-lin-saga?sort=rank,asc
+    collection_mode: hide
+
+  National Geographic:
+    plex_search:
+      all:
+        network: National Geographic
+    collection_mode: hide
+    summary: "National Geographic, connue sous l'ancien nom de National Geographic Channel, est une chaîne de télévision spécialisée américaine et internationale. Elle diffuse essentiellement des documentaires sur la nature et sur la science, mais également sur la culture et l'histoire."
+    url_poster: https://i.imgur.com/dwxYxwK.jpg
+
+  David Attenborough:
+    trakt_list:
+      - https://trakt.tv/users/agent531c/lists/the-planet-collection?sort=released%2Casc
+      - https://trakt.tv/users/blackysbd650/lists/attenborough?sort=rank,asc
+    collection_mode: hide 
+    url_poster: https://theposterdb.com/api/assets/208857
+   
