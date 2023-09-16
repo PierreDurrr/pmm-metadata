@@ -7,7 +7,6 @@ collections:
   Documentaires:
 #    collection_order: alpha
     collection_mode: hide_items
-    sort_title: zzz_Docu
     plex_all: true
     filters:
       filepath: 
@@ -17,7 +16,7 @@ collections:
 #    visible_shared: true
     smart_label: release.desc    
     label: REPLEXHERO
-#    url_poster:
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Documentary.jpg
 
   BrutX: 
     collection_order: alpha
