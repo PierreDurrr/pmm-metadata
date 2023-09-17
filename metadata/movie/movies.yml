@@ -411,7 +411,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/163647
   Chroniques des Vampires - Saga:
     template: {name: Collection, collection: 217704, summary: 217704}
-    url_poster: https://theposterdb.com/poster/308807
+    url_poster: https://theposterdb.com/api/assets/308807
     collection_mode: show_items
   Chucky - Saga:
     template: {name: Collection, collection: 10455, summary: 10455}
