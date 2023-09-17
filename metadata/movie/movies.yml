@@ -695,6 +695,9 @@ collections:
   Ghost Rider - Saga:
     template: {name: Collection, collection: 90306, summary: 90306}
     url_poster: https://theposterdb.com/api/assets/171142
+  Ghost in the Shell - Saga:
+    template: {name: Collection, collection: 23026, summary: 23026}
+    url_poster: https://theposterdb.com/api/assets/99281
   Godzilla - Saga:  
     template: {name: Collection, collection: 535313, summary: 535313}
     url_poster: https://theposterdb.com/api/assets/160929
