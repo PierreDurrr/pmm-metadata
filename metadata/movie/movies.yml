@@ -690,7 +690,7 @@ collections:
     template: {name: Collection, collection: 126221, summary: 126221}
     trakt_list: 
       - https://trakt.tv/users/gfsmt/lists/series-george-of-the-jungle?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/22402
+    url_poster: https://theposterdb.com/api/assets/308807
     collection_mode: hide_items 
   Ghost Rider - Saga:
     template: {name: Collection, collection: 90306, summary: 90306}
