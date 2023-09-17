@@ -372,7 +372,7 @@ collections:
 #    url_poster: https://theposterdb.com/api/assets/195499
   Carrie - Saga:
     template: {name: Collection, collection: 257053, summary: 257053}
-    url_poster: https://theposterdb.com/api/assets/123238
+    url_poster: https://theposterdb.com/api/assets/160796
   Casper - Saga:
     template: {name: Collection, collection: 8819, summary: 8819}
     url_poster: https://theposterdb.com/api/assets/310684
