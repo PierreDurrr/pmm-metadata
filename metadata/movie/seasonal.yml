@@ -87,7 +87,7 @@ dynamic_collections:
       labor: Labor Day
       halloween: Halloween
       thanksgiving: Thanksgiving
-      christmas: 🎅 🎄 All I Want For Christmas... 🎄 🎅  #before : Christmas
+      christmas: Christmas # 🎅 🎄 All I Want For Christmas... 🎄 🎅  #before : Christmas
     title_format: <<key_name>> <<library_typeU>>s
     template:
       - replex
