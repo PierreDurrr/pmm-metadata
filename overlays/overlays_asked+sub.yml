@@ -10,25 +10,25 @@ queues:
       vertical_align: top
 
 overlays:
-  YouAskedForIt:
-    overlay:
-      name: text(Demandé)
-      queue: pierredurrr_queue
-      weight: 20
-      font: fonts/Inter-Bold.ttf
-      font_size: 65
-      font_color: "#FFFFFF"
-      back_color: "#00000099"
-      back_radius: 30
-      back_width: 380
-      back_height: 105
-    plex_search:
-      all:
-        added: 18250
-    filters:
-      filepath:
-        - /mnt/_SYNOLOGY/video/Films/_Users
-        - /mnt/_SYNOLOGY/video/Series/_Users
+#  YouAskedForIt:
+#    overlay:
+#      name: text(Demandé)
+#      queue: pierredurrr_queue
+#      weight: 20
+#      font: fonts/Inter-Bold.ttf
+#      font_size: 65
+#      font_color: "#FFFFFF"
+#      back_color: "#00000099"
+#      back_radius: 30
+#      back_width: 380
+#      back_height: 105
+#    plex_search:
+#      all:
+#        added: 18250
+#    filters:
+#      filepath:
+#        - /mnt/_SYNOLOGY/video/Films/_Users
+#        - /mnt/_SYNOLOGY/video/Series/_Users
 
   Subtitled:
     overlay:
