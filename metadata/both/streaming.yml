@@ -79,6 +79,10 @@ templates:
     smart_label: <<sort_by_<<key>>>>
     sync_mode: <<sync_mode_<<key>>>>
     mdblist_list: https://mdblist.com/lists/plexmetamanager/<<key>>-<<url_part>>s<<watch_region>>
+  exclude_path:
+    filters:
+      filepath.not: 
+        - /mnt/_SYNOLOGY/Mediatheque/Documentaires/
 
 collections:
   Streaming Collections:
@@ -114,6 +118,7 @@ dynamic_collections:
       - mdb_streaming
       - shared
       - arr
+      - exclude_path
     template_variables:
       image:
         default: streaming/<<key_name_encoded>>
