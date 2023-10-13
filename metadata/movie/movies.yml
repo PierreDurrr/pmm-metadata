@@ -55,88 +55,88 @@ collections:
 
 ###########################################################################################
 
-  28 … Plus Tard - Saga:
-    template: {name: Collection, collection: 1565, summary: 1565}
-    trakt_list: 
-      - https://trakt.tv/users/murmelbahn/lists/28-collection?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/98336
-#    collection_order: alpha
-    collection_mode: hide_items
-  300 - Saga:
-    template: {name: Collection, collection: 125570, summary: 125570}
-    url_poster: https://theposterdb.com/api/assets/162103
-  47 Ronin - Saga:  
-    template: {name: Collection, collection: 732461, summary: 732461}
-    url_poster: https://theposterdb.com/api/assets/281419 
-  48 Heures - Saga:  
-    template: {name: Collection, collection: 93295, summary: 93295}
-    url_poster: https://theposterdb.com/api/assets/92652    
-  Les 4 Fantastiques - Saga:
-    template: {name: Collection, collection: 9744, summary: 9744}
-    url_poster: https://theposterdb.com/api/assets/94579
-  9 Semaines ½ - Saga:
-    template: {name: Collection, collection: 121195, summary: 121195}
-    url_poster: https://theposterdb.com/api/assets/167009 
-  La 7ème Compagnie - Saga:  
-    template: {name: Collection, collection: 93287, summary: 93287}
-    url_poster: https://www.themoviedb.org/t/p/original/5fPl5oJUVQfa0cdc6TkQ4xhY0gZ.jpg
-  "À couteaux tirés - Saga":
-    template: {name: Collection, collection: 722971, summary: 722971}
-    sort_title: A Couteaux Tires - Saga
-    url_poster: https://theposterdb.com/api/assets/291317
-    name_mapping: a couteaux tires - saga
-  Air Bud - Saga:  
-    template: {name: Collection, collection: 97445, summary: 97445}
-    url_poster: https://theposterdb.com/api/assets/392988    
-  Aladdin - Saga:
-    template: {name: Collection, collection: 86027, summary: 86027}
-    url_poster: https://theposterdb.com/api/assets/163021
-  Alice au Pays des Merveilles - Saga:
-    template: {name: Collection, collection: 261307, summary: 261307}
-    url_poster: https://theposterdb.com/api/assets/162010
-  Halloween - Saga:
-    template: {name: Collection, collection: 91361, summary: 91361}
-    trakt_list: 
-      - https://trakt.tv/users/paulison1966/lists/halloween?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/92808
-#    collection_order: alpha
-    collection_mode: hide_items
-  Le Gendarme - Saga:
-    template: {name: Collection, summary: 718511}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/le-gendarme-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/318606
-#    collection_order: alpha
-    collection_mode: hide_items
-  Fantômas - Saga:
-    template: {name: Collection, collection: 103001, summary: 103001}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/fantomas-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/318635
-#    collection_order: alpha
-    collection_mode: hide_items
-  Ace Ventura - Saga:
-    template: {name: Collection, collection: 3167, summary: 3167}
-    trakt_list: 
-      - https://trakt.tv/users/elionor-andrade/lists/ace-ventura?sort=rank,asc
-      - https://trakt.tv/users/rzepkowski/lists/ace-ventura-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/5599
-#    collection_order: alpha
-    collection_mode: hide_items
-  After - Saga:  
-    template: {name: Collection, collection: 702624, summary: 702624}
-    url_poster: https://theposterdb.com/api/assets/205008    
-#  All I Want For Christmas...:
-#    trakt_list: https://trakt.tv/users/pierredurrr/lists/all-i-want-for-christmas?sort=title,asc
-#    url_poster: https://i.imgur.com/wm2nUTn.jpeg
-#    collection_order: alpha
+#  28 … Plus Tard - Saga:
+#    template: {name: Collection, collection: 1565, summary: 1565}
+#    trakt_list: 
+#      - https://trakt.tv/users/murmelbahn/lists/28-collection?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/98336
+##    collection_order: alpha
 #    collection_mode: hide_items
+#  300 - Saga:
+#    template: {name: Collection, collection: 125570, summary: 125570}
+#    url_poster: https://theposterdb.com/api/assets/162103
+#  47 Ronin - Saga:  
+#    template: {name: Collection, collection: 732461, summary: 732461}
+#    url_poster: https://theposterdb.com/api/assets/281419 
+#  48 Heures - Saga:  
+#    template: {name: Collection, collection: 93295, summary: 93295}
+#    url_poster: https://theposterdb.com/api/assets/92652    
+#  Les 4 Fantastiques - Saga:
+#    template: {name: Collection, collection: 9744, summary: 9744}
+#    url_poster: https://theposterdb.com/api/assets/94579
+#  9 Semaines ½ - Saga:
+#    template: {name: Collection, collection: 121195, summary: 121195}
+#    url_poster: https://theposterdb.com/api/assets/167009 
+#  La 7ème Compagnie - Saga:  
+#    template: {name: Collection, collection: 93287, summary: 93287}
+#    url_poster: https://www.themoviedb.org/t/p/original/5fPl5oJUVQfa0cdc6TkQ4xhY0gZ.jpg
+#  "À couteaux tirés - Saga":
+#    template: {name: Collection, collection: 722971, summary: 722971}
+#    sort_title: A Couteaux Tires - Saga
+#    url_poster: https://theposterdb.com/api/assets/291317
+#    name_mapping: a couteaux tires - saga
+#  Air Bud - Saga:  
+#    template: {name: Collection, collection: 97445, summary: 97445}
+#    url_poster: https://theposterdb.com/api/assets/392988    
+#  Aladdin - Saga:
+#    template: {name: Collection, collection: 86027, summary: 86027}
+#    url_poster: https://theposterdb.com/api/assets/163021
+#  Alice au Pays des Merveilles - Saga:
+#    template: {name: Collection, collection: 261307, summary: 261307}
+#    url_poster: https://theposterdb.com/api/assets/162010
+#  Halloween - Saga:
+#    template: {name: Collection, collection: 91361, summary: 91361}
+#    trakt_list: 
+#      - https://trakt.tv/users/paulison1966/lists/halloween?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/92808
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Le Gendarme - Saga:
+#    template: {name: Collection, summary: 718511}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/le-gendarme-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/318606
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Fantômas - Saga:
+#    template: {name: Collection, collection: 103001, summary: 103001}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/fantomas-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/318635
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Ace Ventura - Saga:
+#    template: {name: Collection, collection: 3167, summary: 3167}
+#    trakt_list: 
+#      - https://trakt.tv/users/elionor-andrade/lists/ace-ventura?sort=rank,asc
+#      - https://trakt.tv/users/rzepkowski/lists/ace-ventura-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/5599
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  After - Saga:  
+#    template: {name: Collection, collection: 702624, summary: 702624}
+#    url_poster: https://theposterdb.com/api/assets/205008    
+##  All I Want For Christmas...:
+##    trakt_list: https://trakt.tv/users/pierredurrr/lists/all-i-want-for-christmas?sort=title,asc
+##    url_poster: https://i.imgur.com/wm2nUTn.jpeg
+##    collection_order: alpha
+##    collection_mode: hide_items
   Alfred Hitchcock Collection:
     template: {name: Collection, poster: https://theposterdb.com/api/assets/160913}
     trakt_list: 
       - https://trakt.tv/users/benevantmathew/lists/alfred-hitchcock?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/160913
-#   collection_order: alpha
+##   collection_order: alpha
     collection_mode: show_items
   Alexandre Astier:
     template: {name: Collection, poster: https://www.cvs-mediatheques.com/home/notices/1/018/109018z.jpg}
@@ -144,160 +144,160 @@ collections:
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/alexandre-astier-connection?sort=title,asc
     url_poster: https://www.cvs-mediatheques.com/home/notices/1/018/109018z.jpg
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
-  Alien - Saga:
-    template: {name: Collection, collection: 8091, summary: 8091}
-    trakt_list: 
-      - https://trakt.tv/users/benreilly97/lists/alien?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/168446
-#    collection_order: alpha
-    collection_mode: hide_items
-  Alien vs. Predator - Saga:  
-    template: {name: Collection, collection: 115762, summary: 115762}
-    url_poster: https://theposterdb.com/api/assets/94686
-  Allô Maman - Saga:  
-    template: {name: Collection, collection: 9521, summary: 9521}
-    url_poster: https://theposterdb.com/api/assets/163396
-  Alvin et les Chipmunks - Saga:  
-    template: {name: Collection, collection: 167613, summary: 167613}
-    url_poster: https://theposterdb.com/api/assets/163017 
-  American Pie - Saga:
-    template: {name: Collection, collection: 2806, summary: 2806}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/american-pie-movies-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/166224
-#    collection_order: alpha
-    collection_mode: hide_items
-  American Psycho - Saga:  
-    template: {name: Collection, collection: 86105, summary: 86105}
-    url_poster: https://theposterdb.com/api/assets/313206 
-  American Werewolf - Saga:
-    template: {name: Collection, collection: 9380, summary: 9380}
-    url_poster: https://theposterdb.com/api/assets/180752
-  Anastasia Collection:
-    url_poster: https://theposterdb.com/api/assets/193088
-    template: {name: Collection, collection: 920650, summary: 920650}
-  Angélique - Saga:
-    template: {name: Collection, collection: 91813, summary: 91813, poster: https://i.pinimg.com/originals/3f/7f/a7/3f7fa796f336bed8dc6154987fccc2bb.jpg}
-    trakt_list: 
-      - https://trakt.tv/users/plextor/lists/angelique-movie-series?sort=rank,asc
-    url_poster: https://i.pinimg.com/originals/3f/7f/a7/3f7fa796f336bed8dc6154987fccc2bb.jpg
-#    collection_order: alpha
-    collection_mode: hide_items
+#  Alien - Saga:
+#    template: {name: Collection, collection: 8091, summary: 8091}
+#    trakt_list: 
+#      - https://trakt.tv/users/benreilly97/lists/alien?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/168446
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Alien vs. Predator - Saga:  
+#    template: {name: Collection, collection: 115762, summary: 115762}
+#    url_poster: https://theposterdb.com/api/assets/94686
+#  Allô Maman - Saga:  
+#    template: {name: Collection, collection: 9521, summary: 9521}
+#    url_poster: https://theposterdb.com/api/assets/163396
+#  Alvin et les Chipmunks - Saga:  
+#    template: {name: Collection, collection: 167613, summary: 167613}
+#    url_poster: https://theposterdb.com/api/assets/163017 
+#  American Pie - Saga:
+#    template: {name: Collection, collection: 2806, summary: 2806}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/american-pie-movies-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/166224
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  American Psycho - Saga:  
+#    template: {name: Collection, collection: 86105, summary: 86105}
+#    url_poster: https://theposterdb.com/api/assets/313206 
+#  American Werewolf - Saga:
+#    template: {name: Collection, collection: 9380, summary: 9380}
+#    url_poster: https://theposterdb.com/api/assets/180752
+#  Anastasia Collection:
+#    url_poster: https://theposterdb.com/api/assets/193088
+#    template: {name: Collection, collection: 920650, summary: 920650}
+#  Angélique - Saga:
+#    template: {name: Collection, collection: 91813, summary: 91813, poster: https://i.pinimg.com/originals/3f/7f/a7/3f7fa796f336bed8dc6154987fccc2bb.jpg}
+#    trakt_list: 
+#      - https://trakt.tv/users/plextor/lists/angelique-movie-series?sort=rank,asc
+#    url_poster: https://i.pinimg.com/originals/3f/7f/a7/3f7fa796f336bed8dc6154987fccc2bb.jpg
+##    collection_order: alpha
+#    collection_mode: hide_items
   Ant-Man - Saga:
     template: {name: Collection-Smart, collection: 422834, summary: 422834}
     url_poster: https://theposterdb.com/api/assets/4818
     collection_mode: hide_items
     smart_label: title.asc
-  Aquaman - Saga:
-    template: {name: Collection, collection: 573693, summary: 573693}
-    url_poster: https://theposterdb.com/api/assets/162375
-  Arthur et les Minimoys - Saga:  
-    template: {name: Collection, collection: 85817, summary: 85817}
-    url_poster: https://theposterdb.com/api/assets/234619 
-  Astérix & Obélix - Saga:
-    template: {name: Collection, collection: 2396, summary: 2396}
-    url_poster: https://theposterdb.com/api/assets/239266
-  Astérix & Obélix (animation) - Saga:
-    template: {name: Collection, collection: 94039, summary: 94039, poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/11245/e1deQKIzEilru8Djo1wjYMwh1j69TjXpQwlPJZQ4.webp}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/asterix-and-obelix-animation-collection-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/226165
-#    collection_order: alpha
-    collection_mode: hide_items
-  Avatar - Saga:
-    template: {name: Collection, collection: 87096, summary: 87096}
-    url_poster: https://theposterdb.com/api/assets/234621
+#  Aquaman - Saga:
+#    template: {name: Collection, collection: 573693, summary: 573693}
+#    url_poster: https://theposterdb.com/api/assets/162375
+#  Arthur et les Minimoys - Saga:  
+#    template: {name: Collection, collection: 85817, summary: 85817}
+#    url_poster: https://theposterdb.com/api/assets/234619 
+#  Astérix & Obélix - Saga:
+#    template: {name: Collection, collection: 2396, summary: 2396}
+#    url_poster: https://theposterdb.com/api/assets/239266
+#  Astérix & Obélix (animation) - Saga:
+#    template: {name: Collection, collection: 94039, summary: 94039, poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/11245/e1deQKIzEilru8Djo1wjYMwh1j69TjXpQwlPJZQ4.webp}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/asterix-and-obelix-animation-collection-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/226165
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Avatar - Saga:
+#    template: {name: Collection, collection: 87096, summary: 87096}
+#    url_poster: https://theposterdb.com/api/assets/234621
   Avengers - Saga:
     template: {name: Collection-Smart, collection: 86311, summary: 86311}
     url_poster: https://theposterdb.com/api/assets/4816
     collection_mode: hide_items
     smart_label: title.asc
-  Austin Powers - Saga:
-    template: {name: Collection, collection: 1006, summary: 1006}
-    trakt_list: 
-      - https://trakt.tv/users/thecardinal/lists/austin-powers?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/52690
-#    collection_order: alpha
-    collection_mode: hide_items
-  Azumi - Saga:
-    template: {name: Collection, collection: 101246, summary: 101246}
-    trakt_list: 
-      - https://trakt.tv/users/wasmisch77/lists/azumi?sort=rank,asc
-    url_poster: https://i.ibb.co/n311x8K/b-N2e-HDlh6vxg-Chvim-Eo-Ij-Ll-Vk-Bv-2.jpg  
-#    url_poster: https://image.tmdb.org/t/p/original//bN2eHDlh6vxgChvimEoIjLlVkBv.jpg
-#    collection_order: alpha
-    collection_mode: hide_items
-  Babe - Saga:
-    template: {name: Collection, collection: 9435, summary: 9435, poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/31015/w7XnUPIQjsu8thiLSmVhziviBx6MAUNRQes5Rl4B.webp}
-#    trakt_list: https://trakt.tv/users/wasmisch77/lists/azumi?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/104726
-#    collection_order: alpha
-    collection_mode: hide_items
-  Baby Boss - Saga:
-    template: {name: Collection, collection: 519457, summary: 519457}
-    url_poster: https://theposterdb.com/api/assets/175833
-  Bad Boys - Saga:
-    template: {name: Collection, collection: 14890, summary: 14890}
-    trakt_list: 
-      - https://trakt.tv/users/pavon37/lists/bad-boys?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/163544
-#    collection_order: alpha  
-    collection_mode: hide_items
-  Balto - Saga:
-    template: {name: Collection, collection: 117693, summary: 117693}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/balto-saga?sort=rank,asc
-    url_poster: https://i.imgur.com/YbWw80k.png
-#    collection_order: alpha
-    collection_mode: hide_items
-  Bambi - Saga:
-    template: {name: Collection, collection: 87250, summary: 87250}
-    url_poster: https://theposterdb.com/api/assets/163013
-  Barbecue - Saga:
-    template: {name: Collection, collection: 926517, summary: 926517}
+#  Austin Powers - Saga:
+#    template: {name: Collection, collection: 1006, summary: 1006}
+#    trakt_list: 
+#      - https://trakt.tv/users/thecardinal/lists/austin-powers?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/52690
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Azumi - Saga:
+#    template: {name: Collection, collection: 101246, summary: 101246}
+#    trakt_list: 
+#      - https://trakt.tv/users/wasmisch77/lists/azumi?sort=rank,asc
+#    url_poster: https://i.ibb.co/n311x8K/b-N2e-HDlh6vxg-Chvim-Eo-Ij-Ll-Vk-Bv-2.jpg  
+##    url_poster: https://image.tmdb.org/t/p/original//bN2eHDlh6vxgChvimEoIjLlVkBv.jpg
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Babe - Saga:
+#    template: {name: Collection, collection: 9435, summary: 9435, poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/31015/w7XnUPIQjsu8thiLSmVhziviBx6MAUNRQes5Rl4B.webp}
+##    trakt_list: https://trakt.tv/users/wasmisch77/lists/azumi?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/104726
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Baby Boss - Saga:
+#    template: {name: Collection, collection: 519457, summary: 519457}
+#    url_poster: https://theposterdb.com/api/assets/175833
+#  Bad Boys - Saga:
+#    template: {name: Collection, collection: 14890, summary: 14890}
+#    trakt_list: 
+#      - https://trakt.tv/users/pavon37/lists/bad-boys?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/163544
+##    collection_order: alpha  
+#    collection_mode: hide_items
+#  Balto - Saga:
+#    template: {name: Collection, collection: 117693, summary: 117693}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/balto-saga?sort=rank,asc
+#    url_poster: https://i.imgur.com/YbWw80k.png
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Bambi - Saga:
+#    template: {name: Collection, collection: 87250, summary: 87250}
 #    url_poster: https://theposterdb.com/api/assets/163013
-  Battle Royale - Saga:
-    template: {name: Collection, collection: 16302, summary: 16302}
-    url_poster: https://theposterdb.com/api/assets/79664
-  Basic Instinct - Saga:
-    template: {name: Collection, collection: 86336, summary: 86336}
-    url_poster: https://theposterdb.com/api/assets/163545 
-  Batman - Saga:
-    template: {name: Collection, collection: 120794, summary: 120794}
-    url_poster: https://theposterdb.com/api/assets/162377
-  Batman 60s Collection (Adam West):
-    template: {name: Collection, collection: 626517, summary: 626517}
-    url_poster: https://theposterdb.com/api/assets/41197  
-  Batman (DC Universe Animated) - Saga:
-    template: {name: Collection, collection: 421904, summary: 421904}
-    url_poster: https://theposterdb.com/api/assets/193387    
-  Beethoven - Saga:
-    template: {name: Collection, collection: 168880, summary: 168880}
-    url_poster: https://theposterdb.com/api/assets/234623  
-  La Belle et la Bête - Saga:
-    template: {name: Collection, collection: 153010, summary: 153010}
-    url_poster: https://theposterdb.com/api/assets/163010
-  La Belle et le Clochard - Saga:
-    template: {name: Collection, collection: 97460, summary: 97460}
-    url_poster: https://theposterdb.com/api/assets/162982
-  Benjamin Gates - Saga:
-    template: {name: Collection, collection: 52984, summary: 52984}
-    url_poster: https://theposterdb.com/api/assets/176471
-  Belle et Sébastien - Saga:  
-    template: {name: Collection, collection: 455123, summary: 455123}
+#  Barbecue - Saga:
+#    template: {name: Collection, collection: 926517, summary: 926517}
+##    url_poster: https://theposterdb.com/api/assets/163013
+#  Battle Royale - Saga:
+#    template: {name: Collection, collection: 16302, summary: 16302}
+#    url_poster: https://theposterdb.com/api/assets/79664
+#  Basic Instinct - Saga:
+#    template: {name: Collection, collection: 86336, summary: 86336}
+#    url_poster: https://theposterdb.com/api/assets/163545 
+#  Batman - Saga:
+#    template: {name: Collection, collection: 120794, summary: 120794}
+#    url_poster: https://theposterdb.com/api/assets/162377
+#  Batman 60s Collection (Adam West):
+#    template: {name: Collection, collection: 626517, summary: 626517}
+#    url_poster: https://theposterdb.com/api/assets/41197  
+#  Batman (DC Universe Animated) - Saga:
+#    template: {name: Collection, collection: 421904, summary: 421904}
+#    url_poster: https://theposterdb.com/api/assets/193387    
+#  Beethoven - Saga:
+#    template: {name: Collection, collection: 168880, summary: 168880}
+#    url_poster: https://theposterdb.com/api/assets/234623  
+#  La Belle et la Bête - Saga:
+#    template: {name: Collection, collection: 153010, summary: 153010}
+#    url_poster: https://theposterdb.com/api/assets/163010
+#  La Belle et le Clochard - Saga:
+#    template: {name: Collection, collection: 97460, summary: 97460}
+#    url_poster: https://theposterdb.com/api/assets/162982
+#  Benjamin Gates - Saga:
+#    template: {name: Collection, collection: 52984, summary: 52984}
+#    url_poster: https://theposterdb.com/api/assets/176471
+#  Belle et Sébastien - Saga:  
+#    template: {name: Collection, collection: 455123, summary: 455123}
+##    url_poster: https://theposterdb.com/api/assets/162968
+#  Bernard et Bianca - Saga:
+#    template: {name: Collection, collection: 57971, summary: 57971}
 #    url_poster: https://theposterdb.com/api/assets/162968
-  Bernard et Bianca - Saga:
-    template: {name: Collection, collection: 57971, summary: 57971}
-    url_poster: https://theposterdb.com/api/assets/162968
-  Bill & Ted's Most Excellent Collection:
-    template: {name: Collection, collection: 91746, summary: 91746, poster: https://theposterdb.com/api/assets/81121}
-    trakt_list: 
-      - https://trakt.tv/users/gfsmt/lists/series-bill-ted?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/81121
-#    collection_order: alpha
-    collection_mode: hide_items
+#  Bill & Ted's Most Excellent Collection:
+#    template: {name: Collection, collection: 91746, summary: 91746, poster: https://theposterdb.com/api/assets/81121}
+#    trakt_list: 
+#      - https://trakt.tv/users/gfsmt/lists/series-bill-ted?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/81121
+##    collection_order: alpha
+#    collection_mode: hide_items
   Black Panther - Saga:
     template: {name: Collection-Smart, collection: 529892, summary: 529892}
     url_poster: https://theposterdb.com/api/assets/9792
@@ -308,74 +308,74 @@ collections:
     url_poster: https://theposterdb.com/api/assets/54982
     collection_mode: hide_items
     smart_label: title.asc  
-  Blade - Saga:
-    template: {name: Collection, collection: 735, summary: 735}
-    url_poster: https://theposterdb.com/api/assets/171125    
-  Blade Runner - Saga:
-    template: {name: Collection, collection: 422837, summary: 422837, poster: https://theposterdb.com/api/assets/78105}
-    trakt_list: 
-      - https://trakt.tv/users/eloy86/lists/blade-runner-universe?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/78105
-#    collection_order: alpha
-    collection_mode: hide_items
-  The Blues Brothers - Saga:
-    template: {name: Collection, collection: 112636, summary: 112636}
-    url_poster: https://theposterdb.com/api/assets/83457
-  La Boum - Saga:
-    template: {name: Collection, collection: 41649, summary: 41649}
+#  Blade - Saga:
+#    template: {name: Collection, collection: 735, summary: 735}
+#    url_poster: https://theposterdb.com/api/assets/171125    
+#  Blade Runner - Saga:
+#    template: {name: Collection, collection: 422837, summary: 422837, poster: https://theposterdb.com/api/assets/78105}
+#    trakt_list: 
+#      - https://trakt.tv/users/eloy86/lists/blade-runner-universe?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/78105
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  The Blues Brothers - Saga:
+#    template: {name: Collection, collection: 112636, summary: 112636}
 #    url_poster: https://theposterdb.com/api/assets/83457
-  Borat - Saga:
-    template: {name: Collection, collection: 747168, summary: 747168, poster: https://theposterdb.com/api/assets/107677}
-#    trakt_list: https://trakt.tv/users/eloy86/lists/blade-runner-universe?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/107677
-  Bob l'éponge - Saga:
-    template: {name: Collection, collection: 275402, summary: 275402}
-    url_poster: https://theposterdb.com/api/assets/162960
-#    collection_order: alpha
-    collection_mode: hide_items
+#  La Boum - Saga:
+#    template: {name: Collection, collection: 41649, summary: 41649}
+##    url_poster: https://theposterdb.com/api/assets/83457
+#  Borat - Saga:
+#    template: {name: Collection, collection: 747168, summary: 747168, poster: https://theposterdb.com/api/assets/107677}
+##    trakt_list: https://trakt.tv/users/eloy86/lists/blade-runner-universe?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/107677
+#  Bob l'éponge - Saga:
+#    template: {name: Collection, collection: 275402, summary: 275402}
+#    url_poster: https://theposterdb.com/api/assets/162960
+##    collection_order: alpha
+#    collection_mode: hide_items
   Bob's Burger - Saga:  
     trakt_list: https://trakt.tv/users/pierredurrr/lists/bob-s-burger-saga
     url_poster: https://theposterdb.com/api/assets/29890
     collection_mode: hide
-  Brice de Nice - Saga:  
-    template: {name: Collection, collection: 442352, summary: 442352}
-    url_poster: https://theposterdb.com/api/assets/195499
-  Bridget Jones - Saga:
-    template: {name: Collection, collection: 8936, summary: 8936, poster: https://theposterdb.com/api/assets/167011}
-    trakt_list: 
-      - https://trakt.tv/users/rzepkowski/lists/bridget-jones-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/167011
-#    collection_order: alpha
-    collection_mode: hide_items
+#  Brice de Nice - Saga:  
+#    template: {name: Collection, collection: 442352, summary: 442352}
+#    url_poster: https://theposterdb.com/api/assets/195499
+#  Bridget Jones - Saga:
+#    template: {name: Collection, collection: 8936, summary: 8936, poster: https://theposterdb.com/api/assets/167011}
+#    trakt_list: 
+#      - https://trakt.tv/users/rzepkowski/lists/bridget-jones-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/167011
+##    collection_order: alpha
+#    collection_mode: hide_items
   Bruce Lee Master Collection:
     template: {name: Collection, poster: https://i.imgur.com/Hz6Fse3.jpeg}
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/bruce-lee-master-collection?sort=released,asc
     url_poster: https://i.imgur.com/Hz6Fse3.jpeg
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
   Bud Spencer & Terence Hill Collection:
     template: {name: Collection, poster: https://www.plexcollectionposters.com/images/2018/05/08/Bud-Spencer-Terence-Hill.md.jpg}
     trakt_list: 
       - https://trakt.tv/users/-ryo-/lists/bud-spencer-terence-hill?sort=released,desc
     url_poster: https://www.plexcollectionposters.com/images/2018/05/08/Bud-Spencer-Terence-Hill.md.jpg
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
-  Ça - Saga:  
-    template: {name: Collection, collection: 477962, summary: 477962}
-    url_poster: https://theposterdb.com/api/assets/161120  
-  Caballeros - Saga:
-    template: {name: Collection, collection: 271668, summary: 271668}
-    url_poster: https://theposterdb.com/api/assets/236445
-  Camping - Saga:  
-    template: {name: Collection, collection: 52097, summary: 52097}
-#    url_poster: https://theposterdb.com/api/assets/195499
-  Carrie - Saga:
-    template: {name: Collection, collection: 257053, summary: 257053}
-    url_poster: https://theposterdb.com/api/assets/160796
-  Casper - Saga:
-    template: {name: Collection, collection: 8819, summary: 8819}
-    url_poster: https://theposterdb.com/api/assets/310684
+#  Ça - Saga:  
+#    template: {name: Collection, collection: 477962, summary: 477962}
+#    url_poster: https://theposterdb.com/api/assets/161120  
+#  Caballeros - Saga:
+#    template: {name: Collection, collection: 271668, summary: 271668}
+#    url_poster: https://theposterdb.com/api/assets/236445
+#  Camping - Saga:  
+#    template: {name: Collection, collection: 52097, summary: 52097}
+##    url_poster: https://theposterdb.com/api/assets/195499
+#  Carrie - Saga:
+#    template: {name: Collection, collection: 257053, summary: 257053}
+#    url_poster: https://theposterdb.com/api/assets/160796
+#  Casper - Saga:
+#    template: {name: Collection, collection: 8819, summary: 8819}
+#    url_poster: https://theposterdb.com/api/assets/310684
   Captain America - Saga:
     template: {name: Collection-Smart, collection: 131295, summary: 131295}
     url_poster: https://theposterdb.com/api/assets/4814
@@ -386,45 +386,45 @@ collections:
     url_poster: https://theposterdb.com/api/assets/63348
     collection_mode: hide_items
     smart_label: title.asc
-  Cars - Saga:
-    template: {name: Collection, collection: 87118, summary: 87118, poster: https://theposterdb.com/api/assets/163004}
-    trakt_list: 
-      - https://trakt.tv/users/chrisaber1/lists/cars?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/163004
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1274/YQrTx2rkxTs7A1mwF5yy4oL4rEZM1meUlUxVj88E.webp
-#    collection_order: alpha
-    collection_mode: hide_items
-  Cendrillon - Saga:
-    template: {name: Collection, collection: 55419, summary: 55419}
-    url_poster: https://theposterdb.com/api/assets/92760
-  Cinquante Nuances - Saga:
-    template: {name: Collection, collection: 344830, summary: 344830}    
-    url_poster: https://theposterdb.com/api/assets/79661    
-  Charlie et ses Drôles de Dames - Saga:
-    template: {name: Collection, collection: 86029, summary: 86029}    
-    url_poster: https://theposterdb.com/api/assets/52705
-  Chérie, j'ai rétréci les gosses - Saga: 
-    template: {name: Collection, collection: 72119, summary: 72119}
-    url_poster: https://theposterdb.com/api/assets/160950
-  Les Chroniques de Riddick - Saga:
-    template: {name: Collection, collection: 2794, summary: 2794}
-    url_poster: https://theposterdb.com/api/assets/163647
-  Chroniques des Vampires - Saga:
-    template: {name: Collection, collection: 217704, summary: 217704}
-    url_poster: https://theposterdb.com/api/assets/308807
-    collection_mode: show_items
-  Chucky - Saga:
-    template: {name: Collection, collection: 10455, summary: 10455}
-    url_poster: https://theposterdb.com/api/assets/176031
-  Clerks - Saga:
-    template: {name: Collection, collection: 182813, summary: 182813}
-    url_poster: https://theposterdb.com/api/assets/37131
-  La Coccinelle - Saga:
-    template: {name: Collection, collection: 12087, summary: 12087}
-    url_poster: https://theposterdb.com/api/assets/162040
-  Cocoon - Saga:
-    template: {name: Collection, collection: 86307, summary: 86307}
-    url_poster: https://theposterdb.com/api/assets/163530   
+#  Cars - Saga:
+#    template: {name: Collection, collection: 87118, summary: 87118, poster: https://theposterdb.com/api/assets/163004}
+#    trakt_list: 
+#      - https://trakt.tv/users/chrisaber1/lists/cars?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/163004
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1274/YQrTx2rkxTs7A1mwF5yy4oL4rEZM1meUlUxVj88E.webp
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Cendrillon - Saga:
+#    template: {name: Collection, collection: 55419, summary: 55419}
+#    url_poster: https://theposterdb.com/api/assets/92760
+#  Cinquante Nuances - Saga:
+#    template: {name: Collection, collection: 344830, summary: 344830}    
+#    url_poster: https://theposterdb.com/api/assets/79661    
+#  Charlie et ses Drôles de Dames - Saga:
+#    template: {name: Collection, collection: 86029, summary: 86029}    
+#    url_poster: https://theposterdb.com/api/assets/52705
+#  Chérie, j'ai rétréci les gosses - Saga: 
+#    template: {name: Collection, collection: 72119, summary: 72119}
+#    url_poster: https://theposterdb.com/api/assets/160950
+#  Les Chroniques de Riddick - Saga:
+#    template: {name: Collection, collection: 2794, summary: 2794}
+#    url_poster: https://theposterdb.com/api/assets/163647
+#  Chroniques des Vampires - Saga:
+#    template: {name: Collection, collection: 217704, summary: 217704}
+#    url_poster: https://theposterdb.com/api/assets/308807
+#    collection_mode: show_items
+#  Chucky - Saga:
+#    template: {name: Collection, collection: 10455, summary: 10455}
+#    url_poster: https://theposterdb.com/api/assets/176031
+#  Clerks - Saga:
+#    template: {name: Collection, collection: 182813, summary: 182813}
+#    url_poster: https://theposterdb.com/api/assets/37131
+#  La Coccinelle - Saga:
+#    template: {name: Collection, collection: 12087, summary: 12087}
+#    url_poster: https://theposterdb.com/api/assets/162040
+#  Cocoon - Saga:
+#    template: {name: Collection, collection: 86307, summary: 86307}
+#    url_poster: https://theposterdb.com/api/assets/163530   
   Collection Walt Disney:
     template: {name: Collection-Smart}
     smart_label: title.asc
@@ -435,14 +435,14 @@ collections:
       - Fée Clochette - Saga
     trakt_list:
       - https://trakt.tv/users/est781229/lists/frozen-complete-collection?sort=released,desc
-#      - https://trakt.tv/users/addvariety/lists/the-complete-walt-disney-picture-collection?sort=rank,asc
-#      - https://trakt.tv/users/pullsa/lists/classics-walt-disney-animation-studios-feature-films-collection?sort=released,desc
-#      - https://trakt.tv/users/channaceo/lists/walt-disney?sort=rank,asc
-#      - https://trakt.tv/users/pierredurrr/lists/dingo-et-max-saga?sort=rank,asc
+##      - https://trakt.tv/users/addvariety/lists/the-complete-walt-disney-picture-collection?sort=rank,asc
+##      - https://trakt.tv/users/pullsa/lists/classics-walt-disney-animation-studios-feature-films-collection?sort=released,desc
+##      - https://trakt.tv/users/channaceo/lists/walt-disney?sort=rank,asc
+##      - https://trakt.tv/users/pierredurrr/lists/dingo-et-max-saga?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/191971
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/34608/npeEHhCf2DxJhxfFU8kTumeYAVpmcV9z9ktt9RgN.webp
-#    url_poster: https://cdn.shopify.com/s/files/1/0054/5072/7489/products/Disney-The_Art_Of_Walt_Disney_66a09ce0-44f4-4793-a3b8-2fc41b39780b_2400x.jpg
-#    collection_order: alpha
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/34608/npeEHhCf2DxJhxfFU8kTumeYAVpmcV9z9ktt9RgN.webp
+##    url_poster: https://cdn.shopify.com/s/files/1/0054/5072/7489/products/Disney-The_Art_Of_Walt_Disney_66a09ce0-44f4-4793-a3b8-2fc41b39780b_2400x.jpg
+##    collection_order: alpha
     collection_mode: show_items 
   Collection Walt Disney - Les Trésors:
     template: {name: Collection, poster: https://plexcollectionposters.com/images/2019/05/16/Disney-Animation-Studios-Collection-Version-23baed5d615b7dc1b.jpg}
@@ -464,57 +464,57 @@ collections:
     radarr_add: true
     radarr_search: true
     radarr_monitor: true
-  La colline a des yeux (Reboot) - Saga:
-    template: {name: Collection, collection: 8918, summary: 8918}
-    url_poster: https://theposterdb.com/api/assets/177338
-  Comment Tuer son Boss - Saga:
-    template: {name: Collection, collection: 280588, summary: 280588}
-    url_poster: https://theposterdb.com/api/assets/79671
-  Conjuring - Saga:
-    template: {name: Collection, collection: 313086, summary: 313086}
-    url_poster: https://theposterdb.com/api/assets/94019
-  Combats de maître - Saga:
-    template: {name: Collection, collection: 12203, summary: 12203}
-#    trakt_list:
-    url_poster: https://theposterdb.com/api/assets/308271
-#    collection_order: alpha
-    collection_mode: hide_items
-  Comme des Bêtes - Saga:
-    template: {name: Collection, collection: 427084, summary: 427084, poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/20671/F9EJrVS5eUO9mM0a3pGdibcAXExOYST3zs0rYd7f.webp}
-#    trakt_list:
-    url_poster: https://theposterdb.com/api/assets/86266
-#    collection_order: alpha
-    collection_mode: hide_items  
-  Conan le Barbare - Saga:
-    template: {name: Collection, collection: 43055, summary: 43055}
-    url_poster: https://theposterdb.com/api/assets/162022    
-  Critters - Saga:
-    template: {name: Collection, collection: 10893, summary: 10893}
-    url_poster: https://theposterdb.com/api/assets/160849
-  Croc-Blanc - Saga:
-    template: {name: Collection, collection: 178654, summary: 178654}
-    url_poster: https://theposterdb.com/api/assets/163414  
-  Cœur de Dragon - Saga:
-    template: {name: Collection, collection: 169452, summary: 169452}
-    url_poster: https://theposterdb.com/api/assets/162037  
-  Crocodile Dundee - Saga:
-    template: {name: Collection, collection: 9332, summary: 9332}
-    url_poster: https://theposterdb.com/api/assets/165412
-  Cube - Saga:
-    template: {name: Collection, collection: 432, summary: 432, poster: https://theposterdb.com/api/assets/160926}
-    trakt_list: 
-      - https://trakt.tv/users/rzepkowski/lists/cube-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/160926
-#    collection_order: alpha
-    collection_mode: hide_items
-  "Batman - The Dark Knight - Saga" :
-    name_mapping: The Dark Knight - Saga
-    template: {name: Collection, collection: 263, summary: 263}
-    sort_title: Batman - The Dark Knight - Saga
-    url_poster: https://theposterdb.com/api/assets/52697
-  Darko - Saga:
-    template: {name: Collection, collection: 178106, summary: 178106}
-    url_poster: https://theposterdb.com/api/assets/208276
+#  La colline a des yeux (Reboot) - Saga:
+#    template: {name: Collection, collection: 8918, summary: 8918}
+#    url_poster: https://theposterdb.com/api/assets/177338
+#  Comment Tuer son Boss - Saga:
+#    template: {name: Collection, collection: 280588, summary: 280588}
+#    url_poster: https://theposterdb.com/api/assets/79671
+#  Conjuring - Saga:
+#    template: {name: Collection, collection: 313086, summary: 313086}
+#    url_poster: https://theposterdb.com/api/assets/94019
+#  Combats de maître - Saga:
+#    template: {name: Collection, collection: 12203, summary: 12203}
+##    trakt_list:
+#    url_poster: https://theposterdb.com/api/assets/308271
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Comme des Bêtes - Saga:
+#    template: {name: Collection, collection: 427084, summary: 427084, poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/20671/F9EJrVS5eUO9mM0a3pGdibcAXExOYST3zs0rYd7f.webp}
+##    trakt_list:
+#    url_poster: https://theposterdb.com/api/assets/86266
+##    collection_order: alpha
+#    collection_mode: hide_items  
+#  Conan le Barbare - Saga:
+#    template: {name: Collection, collection: 43055, summary: 43055}
+#    url_poster: https://theposterdb.com/api/assets/162022    
+#  Critters - Saga:
+#    template: {name: Collection, collection: 10893, summary: 10893}
+#    url_poster: https://theposterdb.com/api/assets/160849
+#  Croc-Blanc - Saga:
+#    template: {name: Collection, collection: 178654, summary: 178654}
+#    url_poster: https://theposterdb.com/api/assets/163414  
+#  Cœur de Dragon - Saga:
+#    template: {name: Collection, collection: 169452, summary: 169452}
+#    url_poster: https://theposterdb.com/api/assets/162037  
+#  Crocodile Dundee - Saga:
+#    template: {name: Collection, collection: 9332, summary: 9332}
+#    url_poster: https://theposterdb.com/api/assets/165412
+#  Cube - Saga:
+#    template: {name: Collection, collection: 432, summary: 432, poster: https://theposterdb.com/api/assets/160926}
+#    trakt_list: 
+#      - https://trakt.tv/users/rzepkowski/lists/cube-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/160926
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  "Batman - The Dark Knight - Saga" :
+#    name_mapping: The Dark Knight - Saga
+#    template: {name: Collection, collection: 263, summary: 263}
+#    sort_title: Batman - The Dark Knight - Saga
+#    url_poster: https://theposterdb.com/api/assets/52697
+#  Darko - Saga:
+#    template: {name: Collection, collection: 178106, summary: 178106}
+#    url_poster: https://theposterdb.com/api/assets/208276
   DC Animated Universe:
     template: {name: Collection-Smart}
     url_poster: https://theposterdb.com/api/assets/162413
@@ -530,7 +530,7 @@ collections:
     trakt_list: 
       - https://trakt.tv/users/wahab-alahmari/lists/deadpool?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/171133
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
   Les Deschiens - Saga:
     url_poster: https://image.tmdb.org/t/p/original//68dwGKd3g9Lmee03keG97f7hV6t.jpg
@@ -538,55 +538,55 @@ collections:
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/les-deschiens-saga?sort=rank,asc
     collection_mode: hide_items
-#    filters:
-#      filepath:
-#        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.1.+.Bonus.FRENCH.DVDRiP.XViD.T411.avi/
-#        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.2.+.Bonus.FRENCH.DVDRiP.XViD.T411/
-#        - /mnt/_SYNOLOGY/Mediatheque/Films/Robins.des.Bois.The.Story/        
-  Destination Finale - Saga:
-    template: {name: Collection, collection: 8864, summary: 8864}
-    url_poster: https://theposterdb.com/api/assets/79247  
-  Die Hard - Saga:
-    template: {name: Collection, collection: 1570, summary: 1570}
-    url_poster: https://theposterdb.com/api/assets/76879
-  Dingo et Max - Saga:
-    template: {name: Collection, collection: 410261, summary: 410261}
-    url_poster: https://theposterdb.com/api/assets/192178
-  Dirty Dancing - Saga:
-    template: {name: Collection, collection: 86058, summary: 86058}
-    url_poster: https://theposterdb.com/api/assets/254978
-  Divergente - Saga:
-    template: {name: Collection, collection: 283579, summary: 283579}
-    url_poster: https://theposterdb.com/api/assets/163697
-  Docteur Dolittle - Saga:
-    template: {name: Collection, collection: 3169, summary: 3169}
-    trakt_list: 
-      - https://trakt.tv/users/danpagotto/lists/doctor-dolittle?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/162026
-#    collection_order: alpha
-    collection_mode: hide_items
+##    filters:
+##      filepath:
+##        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.1.+.Bonus.FRENCH.DVDRiP.XViD.T411.avi/
+##        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.2.+.Bonus.FRENCH.DVDRiP.XViD.T411/
+##        - /mnt/_SYNOLOGY/Mediatheque/Films/Robins.des.Bois.The.Story/        
+#  Destination Finale - Saga:
+#    template: {name: Collection, collection: 8864, summary: 8864}
+#    url_poster: https://theposterdb.com/api/assets/79247  
+#  Die Hard - Saga:
+#    template: {name: Collection, collection: 1570, summary: 1570}
+#    url_poster: https://theposterdb.com/api/assets/76879
+#  Dingo et Max - Saga:
+#    template: {name: Collection, collection: 410261, summary: 410261}
+#    url_poster: https://theposterdb.com/api/assets/192178
+#  Dirty Dancing - Saga:
+#    template: {name: Collection, collection: 86058, summary: 86058}
+#    url_poster: https://theposterdb.com/api/assets/254978
+#  Divergente - Saga:
+#    template: {name: Collection, collection: 283579, summary: 283579}
+#    url_poster: https://theposterdb.com/api/assets/163697
+#  Docteur Dolittle - Saga:
+#    template: {name: Collection, collection: 3169, summary: 3169}
+#    trakt_list: 
+#      - https://trakt.tv/users/danpagotto/lists/doctor-dolittle?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/162026
+##    collection_order: alpha
+#    collection_mode: hide_items
   Doctor Strange - Saga:
     template: {name: Collection-Smart, collection: 618529, summary: 618529}
     url_poster: https://theposterdb.com/api/assets/263819
     collection_mode: hide_items
     smart_label: title.asc
-  Don Camillo - Saga:
-    template: {name: Collection, collection: 11582, summary: 11582}
-    url_poster: https://theposterdb.com/api/assets/87237    
-  Downton Abbey - Saga:
-    template: {name: Collection, collection: 925006, summary: 925006}
-    url_poster: https://theposterdb.com/api/assets/241848 
-  Dragons - Saga:
-    template: {name: Collection, collection: 89137, summary: 89137}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/how-to-train-your-dragon-collection-saga
-    url_poster: https://theposterdb.com/api/assets/162990
-#    collection_order: alpha
-    collection_mode: hide_items
-#  Dragon Ball ALL- Saga:
-#    collection_order: release
-#    trakt_list: https://trakt.tv/users/darr3ke/lists/dragon-ball-movies?sort=rank,asc
-#    url_poster: https://theposterdb.com/api/assets/305813
+#  Don Camillo - Saga:
+#    template: {name: Collection, collection: 11582, summary: 11582}
+#    url_poster: https://theposterdb.com/api/assets/87237    
+#  Downton Abbey - Saga:
+#    template: {name: Collection, collection: 925006, summary: 925006}
+#    url_poster: https://theposterdb.com/api/assets/241848 
+#  Dragons - Saga:
+#    template: {name: Collection, collection: 89137, summary: 89137}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/how-to-train-your-dragon-collection-saga
+#    url_poster: https://theposterdb.com/api/assets/162990
+##    collection_order: alpha
+#    collection_mode: hide_items
+##  Dragon Ball ALL- Saga:
+##    collection_order: release
+##    trakt_list: https://trakt.tv/users/darr3ke/lists/dragon-ball-movies?sort=rank,asc
+##    url_poster: https://theposterdb.com/api/assets/305813
   Dragon Ball - Saga:
     template: {name: Collection, collection: 386410, summary: 386410}
     url_poster: https://theposterdb.com/api/assets/318783
@@ -599,234 +599,234 @@ collections:
     template: {name: Collection, collection: 620873, summary: 620873}
     url_poster: https://theposterdb.com/api/assets/318788
     sort_title: Dragon Ball 03
-  Dumb & Dumber - Saga:
-    template: {name: Collection, collection: 96665, summary: 96665}
-    trakt_list: 
-      - https://trakt.tv/users/rzepkowski/lists/dumb-and-dumber-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/101267
-#    collection_order: alpha
-    collection_mode: hide_items
-  Dune - Saga:
-    template: {name: Collection, collection: 726871, summary: 726871}
-    url_poster: https://theposterdb.com/api/assets/208231    
+#  Dumb & Dumber - Saga:
+#    template: {name: Collection, collection: 96665, summary: 96665}
+#    trakt_list: 
+#      - https://trakt.tv/users/rzepkowski/lists/dumb-and-dumber-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/101267
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Dune - Saga:
+#    template: {name: Collection, collection: 726871, summary: 726871}
+#    url_poster: https://theposterdb.com/api/assets/208231    
   Incassable - Saga:
     template: {name: Collection, summary: 86283}
     trakt_list:
       - https://trakt.tv/users/pierredurrr/lists/eastrail-177-copy?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/162389
     collection_mode: show_items
-  École Paternelle - Saga:
-    template: {name: Collection, collection: 228887, summary: 228887}
-    url_poster: https://theposterdb.com/api/assets/62359
-    sort_title: Ecole Paternelle - Saga
-#  Eastrail 177:
-#    template: {name: Collection, summary: 86283}
-#    trakt_list:
-#      - https://trakt.tv/users/pierredurrr/lists/eastrail-177-copy?sort=rank,asc
-#    url_poster: https://theposterdb.com/api/assets/56425
-#    collection_mode: hide    
-#  The Eastrail 177 Trilogy:
-#    template: {name: Collection, summary: 86283}
-#     trakt_list:
-#      - https://trakt.tv/users/pierredurrr/lists/eastrail-177-copy?sort=rank,asc
-#    url_poster: https://theposterdb.com/api/assets/56425
-#    collection_mode: hide     
-  Emmanuelle - Saga:
-    template: {name: Collection, collection: 661152, summary: 661152, poster: https://image.tmdb.org/t/p/original//62Zv68qUxJMNt7OeghNWoJSMqsM.jpg}
-    trakt_list: 
-      - https://trakt.tv/users/josephg5/lists/emmanuelle?sort=released,desc
-    url_poster: https://image.tmdb.org/t/p/original//62Zv68qUxJMNt7OeghNWoJSMqsM.jpg
-#    collection_order: alpha
-    collection_mode: hide_items
+#  École Paternelle - Saga:
+#    template: {name: Collection, collection: 228887, summary: 228887}
+#    url_poster: https://theposterdb.com/api/assets/62359
+#    sort_title: Ecole Paternelle - Saga
+##  Eastrail 177:
+##    template: {name: Collection, summary: 86283}
+##    trakt_list:
+##      - https://trakt.tv/users/pierredurrr/lists/eastrail-177-copy?sort=rank,asc
+##    url_poster: https://theposterdb.com/api/assets/56425
+##    collection_mode: hide    
+##  The Eastrail 177 Trilogy:
+##    template: {name: Collection, summary: 86283}
+##     trakt_list:
+##      - https://trakt.tv/users/pierredurrr/lists/eastrail-177-copy?sort=rank,asc
+##    url_poster: https://theposterdb.com/api/assets/56425
+##    collection_mode: hide     
+#  Emmanuelle - Saga:
+#    template: {name: Collection, collection: 661152, summary: 661152, poster: https://image.tmdb.org/t/p/original//62Zv68qUxJMNt7OeghNWoJSMqsM.jpg}
+#    trakt_list: 
+#      - https://trakt.tv/users/josephg5/lists/emmanuelle?sort=released,desc
+#    url_poster: https://image.tmdb.org/t/p/original//62Zv68qUxJMNt7OeghNWoJSMqsM.jpg
+##    collection_order: alpha
+#    collection_mode: hide_items
   Les Éternels - Saga:
     tmdb_movie: 524434
     url_poster: https://theposterdb.com/api/assets/153775
     collection_mode: hide_items
     smart_label: title.asc  
-  Enola Holmes - Saga:  
-    template: {name: Collection, collection: 829314, summary: 829314}
-    url_poster: https://theposterdb.com/api/assets/283512    
-  La Famille Addams - Saga:
-    template: {name: Collection, collection: 11716, summary: 11716}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/la-famille-addams-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/78108
-#    collection_order: alpha
-    collection_mode: hide_items
-  Fantasia - Saga:
-    template: {name: Collection, collection: 55427, summary: 55427}
-    url_poster: https://theposterdb.com/api/assets/162996
+#  Enola Holmes - Saga:  
+#    template: {name: Collection, collection: 829314, summary: 829314}
+#    url_poster: https://theposterdb.com/api/assets/283512    
+#  La Famille Addams - Saga:
+#    template: {name: Collection, collection: 11716, summary: 11716}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/la-famille-addams-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/78108
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Fantasia - Saga:
+#    template: {name: Collection, collection: 55427, summary: 55427}
+#    url_poster: https://theposterdb.com/api/assets/162996
   Fast & Furious - Saga:
     template: {name: Collection, collection: 9485, summary: 9485}
     trakt_list: 
       - https://trakt.tv/users/any/lists/fast-and-furious?sort=rank,asc
       - https://trakt.tv/users/rzepkowski/lists/the-fast-and-the-furious-movies?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/193944
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
     radarr_add: true
     radarr_search: true
     radarr_monitor: true
-  Fée Clochette - Saga:
-    template: {name: Collection, collection: 315595, summary: 315595}
-    url_poster: https://theposterdb.com/api/assets/162956
-  Fist of Fury Collection:
-    template: {name: Collection, collection: 1068899, summary: 1068899}
-    url_poster: https://theposterdb.com/api/assets/311035   
-  Freddy Krueger - Saga:
-    template: {name: Collection, collection: 8581, summary: 8581}
-    url_poster: https://theposterdb.com/api/assets/161307   
-  Frère des ours - Saga:
-    template: {name: Collection, collection: 96472, summary: 96472}
-    url_poster: https://theposterdb.com/api/assets/163005
+#  Fée Clochette - Saga:
+#    template: {name: Collection, collection: 315595, summary: 315595}
+#    url_poster: https://theposterdb.com/api/assets/162956
+#  Fist of Fury Collection:
+#    template: {name: Collection, collection: 1068899, summary: 1068899}
+#    url_poster: https://theposterdb.com/api/assets/311035   
+#  Freddy Krueger - Saga:
+#    template: {name: Collection, collection: 8581, summary: 8581}
+#    url_poster: https://theposterdb.com/api/assets/161307   
+#  Frère des ours - Saga:
+#    template: {name: Collection, collection: 96472, summary: 96472}
+#    url_poster: https://theposterdb.com/api/assets/163005
   Friends - Saga:
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/friends-collection?sort=title,asc
     url_poster: https://theposterdb.com/api/assets/10685
-  Garfield - Saga:
-    template: {name: Collection, collection: 86115, summary: 86115}
-    url_poster: https://theposterdb.com/api/assets/163389
-  George de la jungle - Saga:
-    template: {name: Collection, collection: 126221, summary: 126221}
-    trakt_list: 
-      - https://trakt.tv/users/gfsmt/lists/series-george-of-the-jungle?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/308807
-    collection_mode: hide_items 
-  Ghost Rider - Saga:
-    template: {name: Collection, collection: 90306, summary: 90306}
-    url_poster: https://theposterdb.com/api/assets/171142
-  Ghost in the Shell - Saga:
-    template: {name: Collection, collection: 23026, summary: 23026}
-    url_poster: https://theposterdb.com/api/assets/99281
-  Godzilla - Saga:  
-    template: {name: Collection, collection: 535313, summary: 535313}
-    url_poster: https://theposterdb.com/api/assets/160929
+#  Garfield - Saga:
+#    template: {name: Collection, collection: 86115, summary: 86115}
+#    url_poster: https://theposterdb.com/api/assets/163389
+#  George de la jungle - Saga:
+#    template: {name: Collection, collection: 126221, summary: 126221}
+#    trakt_list: 
+#      - https://trakt.tv/users/gfsmt/lists/series-george-of-the-jungle?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/308807
+#    collection_mode: hide_items 
+#  Ghost Rider - Saga:
+#    template: {name: Collection, collection: 90306, summary: 90306}
+#    url_poster: https://theposterdb.com/api/assets/171142
+#  Ghost in the Shell - Saga:
+#    template: {name: Collection, collection: 23026, summary: 23026}
+#    url_poster: https://theposterdb.com/api/assets/99281
+#  Godzilla - Saga:  
+#    template: {name: Collection, collection: 535313, summary: 535313}
+#    url_poster: https://theposterdb.com/api/assets/160929
   Grand Détournement:
-#    template: {name: Collection, collection: 263, summary: 263}
+##    template: {name: Collection, collection: 263, summary: 263}
     trakt_list:
       - https://trakt.tv/users/pierredurrr/lists/grand-detournement-saga?sort=rank,asc
     summary: "Le Grand Détournement est une saga de téléfilms français écrits et réalisés par Michel Hazanavicius et Dominique Mézerette, diffusés pour la première fois en 1993. Le tryptique est composé de : Derrick contre Superman (septembre 1992), Ça détourne (décembre 1992), La Classe américaine : Le grand détournement (1993)"
-#    url_poster: https://theposterdb.com/api/assets/52697   
-  Grease - Saga:
-    template: {name: Collection, collection: 86083, summary: 86083}
-    url_poster: https://theposterdb.com/api/assets/160947
-  Gremlins - Saga:
-    template: {name: Collection, collection: 89151, summary: 89151}
-    trakt_list: 
-      - https://trakt.tv/users/benjamingunn/lists/gremlins?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/161052
-#    collection_order: alpha
-    collection_mode: hide_items
-  Grindhouse Collection :  
-    template: {name: Collection, collection: 1118142, summary: 1118142}
-    url_poster: https://theposterdb.com/api/assets/5820 
-  Gnomeo & Juliet - Saga:
-    template: {name: Collection, collection: 493668, summary: 493668, poster: https://image.tmdb.org/t/p/original//wi7GqaMzxaCcbFMcZ0ZepsMYXrW.jpg}
+##    url_poster: https://theposterdb.com/api/assets/52697   
+#  Grease - Saga:
+#    template: {name: Collection, collection: 86083, summary: 86083}
+#    url_poster: https://theposterdb.com/api/assets/160947
+#  Gremlins - Saga:
+#    template: {name: Collection, collection: 89151, summary: 89151}
 #    trakt_list: 
-#       - https://trakt.tv/users/benjamingunn/lists/gremlins?sort=released,desc
-#    url_poster: https://image.tmdb.org/t/p/original//wi7GqaMzxaCcbFMcZ0ZepsMYXrW.jpg
+#      - https://trakt.tv/users/benjamingunn/lists/gremlins?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/161052
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Grindhouse Collection :  
+#    template: {name: Collection, collection: 1118142, summary: 1118142}
+#    url_poster: https://theposterdb.com/api/assets/5820 
+#  Gnomeo & Juliet - Saga:
+#    template: {name: Collection, collection: 493668, summary: 493668, poster: https://image.tmdb.org/t/p/original//wi7GqaMzxaCcbFMcZ0ZepsMYXrW.jpg}
+##    trakt_list: 
+##       - https://trakt.tv/users/benjamingunn/lists/gremlins?sort=released,desc
+##    url_poster: https://image.tmdb.org/t/p/original//wi7GqaMzxaCcbFMcZ0ZepsMYXrW.jpg
+##    collection_order: alpha
+#    url_poster: https://theposterdb.com/api/assets/233383
+#    collection_mode: hide_items
+#  Halloween (Rob Zombie) - Saga:
+#    template: {name: Collection, collection: 126209, summary: 126209}
+#    url_poster: https://theposterdb.com/api/assets/177081
+#  Hannibal Lecter - Saga:
+#    template: {name: Collection, collection: 9743, summary: 9743}
+#    trakt_list: 
+#      - https://trakt.tv/users/ireallylovevids/lists/hannibal-lecter?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/164790
 #    collection_order: alpha
-    url_poster: https://theposterdb.com/api/assets/233383
-    collection_mode: hide_items
-  Halloween (Rob Zombie) - Saga:
-    template: {name: Collection, collection: 126209, summary: 126209}
-    url_poster: https://theposterdb.com/api/assets/177081
-  Hannibal Lecter - Saga:
-    template: {name: Collection, collection: 9743, summary: 9743}
-    trakt_list: 
-      - https://trakt.tv/users/ireallylovevids/lists/hannibal-lecter?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/164790
+#    collection_mode: hide_items
+#  Happy Feet - Saga:
+#    template: {name: Collection, collection: 92012, summary: 92012}
+#    url_poster: https://theposterdb.com/api/assets/162991
+#  Harold et Kumar - Saga:
+#    template: {name: Collection, collection: 30663, summary: 30663}
+#    trakt_list: 
+#      - https://trakt.tv/users/juggalokilla398/lists/harold-kumar-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/78104
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Harry Potter - Saga:
+#    template: {name: Collection, collection: 1241, summary: 1241}
+#    url_poster: https://theposterdb.com/api/assets/162216
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/2061/ytEZKyokawintAJ6weiVfKe31hNVlJgDQTXH66du.webp
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Hellboy - Saga:
+#    template: {name: Collection, collection: 17235, summary: 17235}
+#    url_poster: https://theposterdb.com/api/assets/162394
+#  Hercule Poirot (Kenneth Branagh) - Saga:
+#    template: {name: Collection, collection: 735384, summary: 735384}
+#    url_poster: https://theposterdb.com/api/assets/226035   
+#  Hercule Poirot (Peter Ustinov) - Saga:
+#    template: {name: Collection, collection: 752992, summary: 752992}
+#    url_poster: https://theposterdb.com/api/assets/311203 
+#  Highlander - Saga:
+#    template: {name: Collection, collection: 8050, summary: 8050}
+#    url_poster: https://theposterdb.com/api/assets/162044
+#  High School Musical - Saga:
+#    template: {name: Collection, collection: 87253, summary: 87253}
+#    url_poster: https://theposterdb.com/api/assets/160949
+#  Hitman - Saga:
+#    template: {name: Collection, collection: 737031, summary: 737031}
+#    url_poster: https://theposterdb.com/api/assets/164792
+#  The Hocus Pocus Collection:
+#    template: {name: Collection, collection: 751156, summary: 751156}
+#    url_poster: https://theposterdb.com/api/assets/270264
+#  Hostel - Saga:
+#    template: {name: Collection, collection: 86578, summary: 86578}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/hostel-collection-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/91453
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/10134/l6dzAowJppIOICA5KUaZvwtMj4xTDtMiMXENNn8B.webp
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Hot Shots ! - Saga:
+#    template: {name: Collection, collection: 52988, summary: 52988}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/hot-shots-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/98328
 #    collection_order: alpha
-    collection_mode: hide_items
-  Happy Feet - Saga:
-    template: {name: Collection, collection: 92012, summary: 92012}
-    url_poster: https://theposterdb.com/api/assets/162991
-  Harold et Kumar - Saga:
-    template: {name: Collection, collection: 30663, summary: 30663}
-    trakt_list: 
-      - https://trakt.tv/users/juggalokilla398/lists/harold-kumar-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/78104
-#    collection_order: alpha
-    collection_mode: hide_items
-  Harry Potter - Saga:
-    template: {name: Collection, collection: 1241, summary: 1241}
-    url_poster: https://theposterdb.com/api/assets/162216
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/2061/ytEZKyokawintAJ6weiVfKe31hNVlJgDQTXH66du.webp
-#    collection_order: alpha
-    collection_mode: hide_items
-  Hellboy - Saga:
-    template: {name: Collection, collection: 17235, summary: 17235}
-    url_poster: https://theposterdb.com/api/assets/162394
-  Hercule Poirot (Kenneth Branagh) - Saga:
-    template: {name: Collection, collection: 735384, summary: 735384}
-    url_poster: https://theposterdb.com/api/assets/226035   
-  Hercule Poirot (Peter Ustinov) - Saga:
-    template: {name: Collection, collection: 752992, summary: 752992}
-    url_poster: https://theposterdb.com/api/assets/311203 
-  Highlander - Saga:
-    template: {name: Collection, collection: 8050, summary: 8050}
-    url_poster: https://theposterdb.com/api/assets/162044
-  High School Musical - Saga:
-    template: {name: Collection, collection: 87253, summary: 87253}
-    url_poster: https://theposterdb.com/api/assets/160949
-  Hitman - Saga:
-    template: {name: Collection, collection: 737031, summary: 737031}
-    url_poster: https://theposterdb.com/api/assets/164792
-  The Hocus Pocus Collection:
-    template: {name: Collection, collection: 751156, summary: 751156}
-    url_poster: https://theposterdb.com/api/assets/270264
-  Hostel - Saga:
-    template: {name: Collection, collection: 86578, summary: 86578}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/hostel-collection-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/91453
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/10134/l6dzAowJppIOICA5KUaZvwtMj4xTDtMiMXENNn8B.webp
-#    collection_order: alpha
-    collection_mode: hide_items
-  Hot Shots ! - Saga:
-    template: {name: Collection, collection: 52988, summary: 52988}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/hot-shots-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/98328
-    collection_order: alpha
-    collection_mode: hide_items
-  Hôtel Transylvanie - Saga:
-    template: {name: Collection, collection: 185103, summary: 185103}
-    trakt_list: 
-      - https://trakt.tv/users/rzepkowski/lists/hotel-transylvania-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/106167
-#    collection_order: alpha
-    collection_mode: hide_items
-  How High - Saga:
-    template: {name: Collection, collection: 745296, summary: 745296}
-    trakt_list:
-      - https://trakt.tv/users/pierredurrr/lists/how-high-collection-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/277719  
-    collection_mode: hide_items 
-  The Human Centipede - Saga:
-    template: {name: Collection, collection: 96671, summary: 96671}
-    url_poster: https://theposterdb.com/api/assets/212616
-  Hunger Games - Saga:
-    template: {name: Collection, collection: 131635, summary: 131635}
-    trakt_list: 
-      - https://trakt.tv/users/thunder2000nt/lists/hunger-games?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/52670
-#    collection_order: alpha
-    collection_mode: hide_items
-  I Spit on Your Grave - Saga:
-    template: {name: Collection, collection: 219691, summary: 219691}
-    url_poster: https://theposterdb.com/api/assets/101133
+#    collection_mode: hide_items
+#  Hôtel Transylvanie - Saga:
+#    template: {name: Collection, collection: 185103, summary: 185103}
+#    trakt_list: 
+#      - https://trakt.tv/users/rzepkowski/lists/hotel-transylvania-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/106167
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  How High - Saga:
+#    template: {name: Collection, collection: 745296, summary: 745296}
+#    trakt_list:
+#      - https://trakt.tv/users/pierredurrr/lists/how-high-collection-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/277719  
+#    collection_mode: hide_items 
+#  The Human Centipede - Saga:
+#    template: {name: Collection, collection: 96671, summary: 96671}
+#    url_poster: https://theposterdb.com/api/assets/212616
+#  Hunger Games - Saga:
+#    template: {name: Collection, collection: 131635, summary: 131635}
+#    trakt_list: 
+#      - https://trakt.tv/users/thunder2000nt/lists/hunger-games?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/52670
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  I Spit on Your Grave - Saga:
+#    template: {name: Collection, collection: 219691, summary: 219691}
+#    url_poster: https://theposterdb.com/api/assets/101133
   L'Incroyable Hulk - Saga:
     tmdb_movie: 1724
     url_poster: https://theposterdb.com/api/assets/9775
     collection_mode: hide_items
     smart_label: title.asc 
-  Independence Day - Saga:
-    template: {name: Collection, collection: 304378, summary: 304378}
-    url_poster: https://theposterdb.com/api/assets/209247  
-  Il était une fois - Saga:
-    template: {name: Collection, collection: 531799, summary: 531799}
-    url_poster: https://theposterdb.com/api/assets/288102 
+#  Independence Day - Saga:
+#    template: {name: Collection, collection: 304378, summary: 304378}
+#    url_poster: https://theposterdb.com/api/assets/209247  
+#  Il était une fois - Saga:
+#    template: {name: Collection, collection: 531799, summary: 531799}
+#    url_poster: https://theposterdb.com/api/assets/288102 
 
   In Association With Marvel:
     mdblist_list: https://mdblist.com/lists/plexmetamanager/external/15110
@@ -840,45 +840,45 @@ collections:
     radarr_search: true
     radarr_monitor: true
     
-  Indian Palace - Saga:
-    template: {name: Collection, collection: 306937, summary: 306937}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/indian-palace-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/168692  
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/14759/yfqiMphgw8OUV4YxkCExHRyeIIQbIyW9S4DkdCon.webp
-#    collection_order: alpha
-    collection_mode: hide_items
-  Indiana Jones - Saga:
-    template: {name: Collection, collection: 84, summary: 84}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/indiana-jones-movies-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/93443
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/4658/uOQLI1NyBhUnFs8vQTB8IOCrg4JtXwaaQYy9nMeJ.webp
-#    collection_order: alpha
-    collection_mode: hide_items
-    collection_order: release
-  Insaisissables - Saga:
-    template: {name: Collection, collection: 382685, summary: 382685}
-    trakt_list: 
-      - https://trakt.tv/users/hottentott/lists/now-you-see-me-collection?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/164813
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/11897/KYBY69Z2XHEN2I25a03MPEsLV3s4TfKW7nyq7Gfw.webp
-#    collection_order: alpha
-    collection_mode: hide_items
-  Inside Man - Saga:
-    template: {name: Collection, collection: 631194, summary: 631194}
-    url_poster: https://theposterdb.com/api/assets/240727
-  Insidious - Saga:
-    template: {name: Collection, collection: 228446, summary: 228446}
-    url_poster: https://theposterdb.com/api/assets/161059
-  Ip Man - Saga:
-    template: {name: Collection, collection: 70068, summary: 70068}
-    trakt_list: 
-      - https://trakt.tv/users/arachn0id/lists/ip-man?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/76972  
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1008/ztHOtckHwM4Eb3u4n1eklDkVk1bFxe65t3wY2lTD.webp
-#    collection_order: alpha
-    collection_mode: hide_items
+#  Indian Palace - Saga:
+#    template: {name: Collection, collection: 306937, summary: 306937}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/indian-palace-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/168692  
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/14759/yfqiMphgw8OUV4YxkCExHRyeIIQbIyW9S4DkdCon.webp
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Indiana Jones - Saga:
+#    template: {name: Collection, collection: 84, summary: 84}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/indiana-jones-movies-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/93443
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/4658/uOQLI1NyBhUnFs8vQTB8IOCrg4JtXwaaQYy9nMeJ.webp
+##    collection_order: alpha
+#    collection_mode: hide_items
+#    collection_order: release
+#  Insaisissables - Saga:
+#    template: {name: Collection, collection: 382685, summary: 382685}
+#    trakt_list: 
+#      - https://trakt.tv/users/hottentott/lists/now-you-see-me-collection?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/164813
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/11897/KYBY69Z2XHEN2I25a03MPEsLV3s4TfKW7nyq7Gfw.webp
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Inside Man - Saga:
+#    template: {name: Collection, collection: 631194, summary: 631194}
+#    url_poster: https://theposterdb.com/api/assets/240727
+#  Insidious - Saga:
+#    template: {name: Collection, collection: 228446, summary: 228446}
+#    url_poster: https://theposterdb.com/api/assets/161059
+#  Ip Man - Saga:
+#    template: {name: Collection, collection: 70068, summary: 70068}
+#    trakt_list: 
+#      - https://trakt.tv/users/arachn0id/lists/ip-man?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/76972  
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1008/ztHOtckHwM4Eb3u4n1eklDkVk1bFxe65t3wY2lTD.webp
+##    collection_order: alpha
+#    collection_mode: hide_items
   Iron Man - Saga:
     template: {name: Collection-Smart, collection: 131292, summary: 131292}
     url_poster: https://theposterdb.com/api/assets/4817
@@ -892,147 +892,147 @@ collections:
     filters:
       filepath: 
         - "/mnt/_SYNOLOGY/Mediatheque/Films/Irreversible (2002)/"
-  Iwo Jima - Saga:
-    template: {name: Collection, collection: 261382, summary: 261382}
-    url_poster: https://theposterdb.com/api/assets/170438
-  Jackass - Saga:
-    template: {name: Collection, collection: 17178, summary: 17178}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/jackass-movies-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/163419
-#    collection_order: alpha   
-    collection_mode: hide_items
-  "Jackass Presents: Bad Grandpa Collection":
-    name_mapping: Jackass Presents Bad Grandpa Collection
-    template: {name: Collection, collection: 989621, summary: 989621}
+#  Iwo Jima - Saga:
+#    template: {name: Collection, collection: 261382, summary: 261382}
+#    url_poster: https://theposterdb.com/api/assets/170438
+#  Jackass - Saga:
+#    template: {name: Collection, collection: 17178, summary: 17178}
 #    trakt_list: 
 #      - https://trakt.tv/users/pierredurrr/lists/jackass-movies-copy?sort=rank,asc
-    url_poster: https://image.tmdb.org/t/p/original//j9zptJrVChVyDDXkhkD20MuOyvk.jpg
-#    collection_order: alpha   
-    collection_mode: hide_items  
-  Jason Bourne - Saga:
-    template: {name: Collection, collection: 31562, summary: 31562}
-    url_poster: https://theposterdb.com/api/assets/91501
-  James Bond 007 - Saga:
-    template: {name: Collection, collection: 645, summary: 645}
-    trakt_list: 
-      - https://trakt.tv/users/any/lists/james-bond?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/78411
-  Jay and Silent Bob Collection:
-    template: {name: Collection, collection: 726870, summary: 726870}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/jay-and-silent-bob-collection-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/307993
-  Jeepers Creepers - Saga:
-    template: {name: Collection, collection: 94899, summary: 94899}
-    url_poster: https://theposterdb.com/api/assets/185530
-  John Wick - Saga:
-    template: {name: Collection, collection: 404609, summary: 404609}
-    trakt_list: 
-      - https://trakt.tv/users/jjmalpz/lists/john-wick?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/52712
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/842/0J8nCl8wMQG9OkwOx4djmTq2VMCck2MCkv4kr2E9.webp
-#    collection_order: alpha
-    collection_mode: hide_items
-  Johnny English - Saga:
-    template: {name: Collection, collection: 86117, summary: 86117}
-    trakt_list: 
-      - https://trakt.tv/users/rzepkowski/lists/johnny-english?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/92692
-#    collection_order: alpha
-    collection_mode: hide_items    
-  Joe La Crasse - Saga:
-    template: {name: Collection, collection: 353325, summary: 353325}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/joe-la-crasse-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/166247
-#    collection_order: alpha
-    collection_mode: hide_items
-  Joséphine - Saga:
-    template: {name: Collection, collection: 479549, summary: 479549}
-#    url_poster: https://theposterdb.com/api/assets/52697    
-  Jumanji - Saga:
-    template: {name: Collection, collection: 495527, summary: 495527}
-    trakt_list: 
-      - https://trakt.tv/users/rzepkowski/lists/jumanji-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/163392
-#    collection_order: alpha
-    collection_mode: hide_items
-  Jump Street - Saga:  
-    template: {name: Collection, collection: 212562, summary: 212562}
-    url_poster: https://theposterdb.com/api/assets/164800
-  Jurassic Park - Saga:
-    template: {name: Collection, collection: 328, summary: 328}
-    trakt_list: 
-      - https://trakt.tv/users/arachn0id/lists/jurassic-park?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/92135
-    collection_order: release
-    collection_mode: hide_items
+#    url_poster: https://theposterdb.com/api/assets/163419
+##    collection_order: alpha   
+#    collection_mode: hide_items
+#  "Jackass Presents: Bad Grandpa Collection":
+#    name_mapping: Jackass Presents Bad Grandpa Collection
+#    template: {name: Collection, collection: 989621, summary: 989621}
+##    trakt_list: 
+##      - https://trakt.tv/users/pierredurrr/lists/jackass-movies-copy?sort=rank,asc
+#    url_poster: https://image.tmdb.org/t/p/original//j9zptJrVChVyDDXkhkD20MuOyvk.jpg
+##    collection_order: alpha   
+#    collection_mode: hide_items  
+#  Jason Bourne - Saga:
+#    template: {name: Collection, collection: 31562, summary: 31562}
+#    url_poster: https://theposterdb.com/api/assets/91501
+#  James Bond 007 - Saga:
+#    template: {name: Collection, collection: 645, summary: 645}
+#    trakt_list: 
+#      - https://trakt.tv/users/any/lists/james-bond?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/78411
+#  Jay and Silent Bob Collection:
+#    template: {name: Collection, collection: 726870, summary: 726870}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/jay-and-silent-bob-collection-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/307993
+#  Jeepers Creepers - Saga:
+#    template: {name: Collection, collection: 94899, summary: 94899}
+#    url_poster: https://theposterdb.com/api/assets/185530
+#  John Wick - Saga:
+#    template: {name: Collection, collection: 404609, summary: 404609}
+#    trakt_list: 
+#      - https://trakt.tv/users/jjmalpz/lists/john-wick?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/52712
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/842/0J8nCl8wMQG9OkwOx4djmTq2VMCck2MCkv4kr2E9.webp
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Johnny English - Saga:
+#    template: {name: Collection, collection: 86117, summary: 86117}
+#    trakt_list: 
+#      - https://trakt.tv/users/rzepkowski/lists/johnny-english?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/92692
+##    collection_order: alpha
+#    collection_mode: hide_items    
+#  Joe La Crasse - Saga:
+#    template: {name: Collection, collection: 353325, summary: 353325}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/joe-la-crasse-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/166247
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Joséphine - Saga:
+#    template: {name: Collection, collection: 479549, summary: 479549}
+##    url_poster: https://theposterdb.com/api/assets/52697    
+#  Jumanji - Saga:
+#    template: {name: Collection, collection: 495527, summary: 495527}
+#    trakt_list: 
+#      - https://trakt.tv/users/rzepkowski/lists/jumanji-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/163392
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Jump Street - Saga:  
+#    template: {name: Collection, collection: 212562, summary: 212562}
+#    url_poster: https://theposterdb.com/api/assets/164800
+#  Jurassic Park - Saga:
+#    template: {name: Collection, collection: 328, summary: 328}
+#    trakt_list: 
+#      - https://trakt.tv/users/arachn0id/lists/jurassic-park?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/92135
+#    collection_order: release
+#    collection_mode: hide_items
   Kaamelott - Saga:
 #    template: {name: Collection, collection: 8580, summary: 8580}
     tmdb_movie: 577242
     url_poster: https://theposterdb.com/api/assets/216052
     collection_mode: hide
-  Karaté Kid - Saga:
-    template: {name: Collection, collection: 8580, summary: 8580}
-    url_poster: https://theposterdb.com/api/assets/92958
-  Kick-Ass - Saga:
-    template: {name: Collection, collection: 179892, summary: 179892}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/kick-ass-collection-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/162397
-#    collection_order: alpha
-    collection_mode: hide_items
-  Kill Bill - Saga:
-    template: {name: Collection, collection: 2883, summary: 2883}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/kill-bill-collection-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/164801
-#    collection_order: alpha
-    collection_mode: hide_items
-  Kingsman - Saga:
-    template: {name: Collection, collection: 391860, summary: 391860}
-    trakt_list: 
-      - https://trakt.tv/users/rzepkowski/lists/kingsman-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/164805
-#    collection_order: alpha
-    collection_mode: hide_items
-  Kung Fu Panda - Saga:
-    template: {name: Collection, collection: 77816, summary: 77816}
-    trakt_list: 
-      - https://trakt.tv/users/rzepkowski/lists/kung-fu-panda-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/162983
-#    collection_order: alpha
-    collection_mode: hide_items
-  Kuzco - Saga:
-    template: {name: Collection, collection: 178117, summary: 178117}
-    url_poster: https://theposterdb.com/api/assets/162998
-  L'Âge de Glace - Saga:
-    template: {name: Collection, collection: 8354, summary: 8354}
-    url_poster: https://theposterdb.com/api/assets/162988
+#  Karaté Kid - Saga:
+#    template: {name: Collection, collection: 8580, summary: 8580}
+#    url_poster: https://theposterdb.com/api/assets/92958
+#  Kick-Ass - Saga:
+#    template: {name: Collection, collection: 179892, summary: 179892}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/kick-ass-collection-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/162397
 ##    collection_order: alpha
-    collection_mode: hide_items
-  L'Arme fatale - Saga:
-    template: {name: Collection, collection: 945, summary: 945}
-    url_poster: https://theposterdb.com/api/assets/22521
-  L'Armure de Dieu - Saga:
-    template: {name: Collection, collection: 146136, summary: 146136}
-    url_poster: https://theposterdb.com/api/assets/160912   
-  La Course au Jouet - Saga:
-    template: {name: Collection, collection: 307637, summary: 307637}
-    url_poster: https://theposterdb.com/api/assets/190435 
-  L'attaque des Tomates Tueuses - Saga:
-    template: {name: Collection, collection: 47983, summary: 47983}
-    url_poster: https://theposterdb.com/api/assets/161114
-  L'Atlantide - Saga:
-    template: {name: Collection, collection: 100965, summary: 100965}
-    url_poster: https://theposterdb.com/api/assets/163014
-  L'Effet papillon - Saga:
-    template: {name: Collection, collection: 52749, summary: 52749}
-    url_poster: https://theposterdb.com/api/assets/185481   
-  L'Exorciste - Saga:
-    template: {name: Collection, collection: 12263, summary: 12263}
-    url_poster: https://theposterdb.com/api/assets/160872
+#    collection_mode: hide_items
+#  Kill Bill - Saga:
+#    template: {name: Collection, collection: 2883, summary: 2883}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/kill-bill-collection-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/164801
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Kingsman - Saga:
+#    template: {name: Collection, collection: 391860, summary: 391860}
+#    trakt_list: 
+#      - https://trakt.tv/users/rzepkowski/lists/kingsman-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/164805
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Kung Fu Panda - Saga:
+#    template: {name: Collection, collection: 77816, summary: 77816}
+#    trakt_list: 
+#      - https://trakt.tv/users/rzepkowski/lists/kung-fu-panda-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/162983
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Kuzco - Saga:
+#    template: {name: Collection, collection: 178117, summary: 178117}
+#    url_poster: https://theposterdb.com/api/assets/162998
+#  L'Âge de Glace - Saga:
+#    template: {name: Collection, collection: 8354, summary: 8354}
+#    url_poster: https://theposterdb.com/api/assets/162988
+###    collection_order: alpha
+#    collection_mode: hide_items
+#  L'Arme fatale - Saga:
+#    template: {name: Collection, collection: 945, summary: 945}
+#    url_poster: https://theposterdb.com/api/assets/22521
+#  L'Armure de Dieu - Saga:
+#    template: {name: Collection, collection: 146136, summary: 146136}
+#    url_poster: https://theposterdb.com/api/assets/160912   
+#  La Course au Jouet - Saga:
+#    template: {name: Collection, collection: 307637, summary: 307637}
+#    url_poster: https://theposterdb.com/api/assets/190435 
+#  L'attaque des Tomates Tueuses - Saga:
+#    template: {name: Collection, collection: 47983, summary: 47983}
+#    url_poster: https://theposterdb.com/api/assets/161114
+#  L'Atlantide - Saga:
+#    template: {name: Collection, collection: 100965, summary: 100965}
+#    url_poster: https://theposterdb.com/api/assets/163014
+#  L'Effet papillon - Saga:
+#    template: {name: Collection, collection: 52749, summary: 52749}
+#    url_poster: https://theposterdb.com/api/assets/185481   
+#  L'Exorciste - Saga:
+#    template: {name: Collection, collection: 12263, summary: 12263}
+#    url_poster: https://theposterdb.com/api/assets/160872
   Le Caméléon - Saga:
     template: {name: Collection, poster: https://www.ecranlarge.com/media/cache/1600x1200/uploads/image/001/149/uoajodzavic81e4awkoudt2m8e2-862.jpg}
     trakt_list: 
@@ -1040,143 +1040,143 @@ collections:
     url_poster: https://www.ecranlarge.com/media/cache/1600x1200/uploads/image/001/149/uoajodzavic81e4awkoudt2m8e2-862.jpg
 #    collection_order: alpha
     collection_mode: hide_items
-  L'Histoire sans fin - Saga:
-    template: {name: Collection, collection: 91430, summary: 91430}
-    url_poster: https://theposterdb.com/api/assets/162152 
-  L'Île de Nim - Saga:
-    template: {name: Collection, collection: 232844, summary: 232844}
-    url_poster: https://theposterdb.com/api/assets/174972 
-  L'incroyable voyage - Saga:
-    template: {name: Collection, collection: 43058, summary: 43058}
-    url_poster: https://theposterdb.com/api/assets/153248 
-  L'Odyssée de l'Espace - Saga:
-    template: {name: Collection, collection: 4438, summary: 4438}
-    url_poster: https://theposterdb.com/api/assets/160992
-  Le Bossu de Notre-Dame - Saga:
-    template: {name: Collection, collection: 97456, summary: 97456}
-    url_poster: https://theposterdb.com/api/assets/162989 
-  Le Cercle - Saga:
-    template: {name: Collection, collection: 14563, summary: 14563}
-    url_poster: https://theposterdb.com/api/assets/161878
-  Le Cœur des Hommes - Saga:  
-    template: {name: Collection, collection: 260586, summary: 260586}
-#    url_poster: 
-  Le Cygne et la Princesse - Saga:
-    template: {name: Collection, collection: 144200, summary: 144200}
-    url_poster: https://theposterdb.com/api/assets/313954
-  Le Flic de Beverly Hills - Saga:
-    template: {name: Collection, collection: 85861, summary: 85861}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/beverly-hills-cop-collection-saga
-    url_poster: https://theposterdb.com/api/assets/96922
-#    collection_order: alpha
-    collection_mode: hide_items
-  Le Grand Blond - Saga:
-    template: {name: Collection, collection: 105764, summary: 105764}
-    url_poster: https://theposterdb.com/api/assets/82313    
-  Le Hobbit - Saga:
-    template: {name: Collection, collection: 121938, summary: 121938}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/middle-earth-movies-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/92060
-    collection_mode: hide_items
-    collection_order: release
-  Le Jeu de la mort - Saga:
-    template: {name: Collection, collection: 1077146, summary: 1077146}
-    url_poster: https://image.tmdb.org/t/p/original//pcHxhhsNRUquCWLSpFGzHTJGZBQ.jpg
+#  L'Histoire sans fin - Saga:
+#    template: {name: Collection, collection: 91430, summary: 91430}
+#    url_poster: https://theposterdb.com/api/assets/162152 
+#  L'Île de Nim - Saga:
+#    template: {name: Collection, collection: 232844, summary: 232844}
+#    url_poster: https://theposterdb.com/api/assets/174972 
+#  L'incroyable voyage - Saga:
+#    template: {name: Collection, collection: 43058, summary: 43058}
+#    url_poster: https://theposterdb.com/api/assets/153248 
+#  L'Odyssée de l'Espace - Saga:
+#    template: {name: Collection, collection: 4438, summary: 4438}
+#    url_poster: https://theposterdb.com/api/assets/160992
+#  Le Bossu de Notre-Dame - Saga:
+#    template: {name: Collection, collection: 97456, summary: 97456}
+#    url_poster: https://theposterdb.com/api/assets/162989 
+#  Le Cercle - Saga:
+#    template: {name: Collection, collection: 14563, summary: 14563}
+#    url_poster: https://theposterdb.com/api/assets/161878
+#  Le Cœur des Hommes - Saga:  
+#    template: {name: Collection, collection: 260586, summary: 260586}
+##    url_poster: 
+#  Le Cygne et la Princesse - Saga:
+#    template: {name: Collection, collection: 144200, summary: 144200}
+#    url_poster: https://theposterdb.com/api/assets/313954
+#  Le Flic de Beverly Hills - Saga:
+#    template: {name: Collection, collection: 85861, summary: 85861}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/beverly-hills-cop-collection-saga
+#    url_poster: https://theposterdb.com/api/assets/96922
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Le Grand Blond - Saga:
+#    template: {name: Collection, collection: 105764, summary: 105764}
+#    url_poster: https://theposterdb.com/api/assets/82313    
+#  Le Hobbit - Saga:
+#    template: {name: Collection, collection: 121938, summary: 121938}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/middle-earth-movies-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/92060
+#    collection_mode: hide_items
+#    collection_order: release
+#  Le Jeu de la mort - Saga:
+#    template: {name: Collection, collection: 1077146, summary: 1077146}
+#    url_poster: https://image.tmdb.org/t/p/original//pcHxhhsNRUquCWLSpFGzHTJGZBQ.jpg
   The Lego Batman Movie Collection:
     template: {name: Collection}
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/lego-batman-saga?sort=rank,asc
     url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2582/Qudlq3A0SFzlDL61d6Xs4jysHthcmfecUPZnxlvz.webp
+##    collection_order: alpha
+    collection_mode: hide_items
+#  La Cage aux folles - Saga:  
+#    template: {name: Collection, collection: 239968, summary: 239968}
+#    url_poster: https://theposterdb.com/api/assets/222721   
+#  La Grande Aventure LEGO - Saga:
+#    template: {name: Collection, collection: 325470, summary: 325470}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/lego-la-grande-aventure-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/109064  
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/4287/0syKdJPd2LVl3De5WbrLVs39BcEzqdZeZzGhYESZ.webp
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Lara Croft - Saga:
+#    template: {name: Collection, collection: 2467, summary: 2467}
+#    url_poster: https://theposterdb.com/api/assets/197564    
+#  Le Projet Blair Witch - Saga:
+#    template: {name: Collection, collection: 64750, summary: 64750}
+#    url_poster: https://theposterdb.com/api/assets/160773
+#  La revanche d'une blonde - Saga:
+#    template: {name: Collection, collection: 86024, summary: 86024}
+#    url_poster: https://theposterdb.com/api/assets/166248
+#  Le Jour des Morts-Vivants - Saga:
+#    template: {name: Collection, collection: 261590, summary: 261590}
+#    trakt_list: 
+#      - https://trakt.tv/users/rzepkowski/lists/living-dead-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/117614
+#  Le Labyrinthe - Saga:
+#    template: {name: Collection, collection: 295130, summary: 295130}
+#    url_poster: https://theposterdb.com/api/assets/79692
+#  Le Monde de Nemo - Saga:
+#    template: {name: Collection, collection: 137697, summary: 137697}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/finding-nemo-collection-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/162995
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Le Monde de Narnia - Saga:
+#    template: {name: Collection, collection: 420, summary: 420}
+#    trakt_list: 
+#      - https://trakt.tv/users/lena_d/lists/narnia?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/162017
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Le Parrain - Saga:
+#    template: {name: Collection, collection: 230, summary: 230}
+#    trakt_list: 
+#    - https://trakt.tv/users/ireallylovevids/lists/the-godfather?sort=released,asc
+#    url_poster: https://theposterdb.com/api/assets/97959 
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1388/CyTQLB3ijCqxEyiejcBdndNksFwcEuXhn7kPj0ex.webp
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Le Petit Dinosaure - Saga:
+#    template: {name: Collection, collection: 19163, summary: 19163}
+#    url_poster: https://theposterdb.com/api/assets/162981
+#  Le Professeur Foldingue - Saga:
+#    template: {name: Collection, collection: 86028, summary: 86028}
+#    url_poster: https://theposterdb.com/api/assets/163966
 #    collection_order: alpha
-    collection_mode: hide_items
-  La Cage aux folles - Saga:  
-    template: {name: Collection, collection: 239968, summary: 239968}
-    url_poster: https://theposterdb.com/api/assets/222721   
-  La Grande Aventure LEGO - Saga:
-    template: {name: Collection, collection: 325470, summary: 325470}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/lego-la-grande-aventure-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/109064  
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/4287/0syKdJPd2LVl3De5WbrLVs39BcEzqdZeZzGhYESZ.webp
-#    collection_order: alpha
-    collection_mode: hide_items
-  Lara Croft - Saga:
-    template: {name: Collection, collection: 2467, summary: 2467}
-    url_poster: https://theposterdb.com/api/assets/197564    
-  Le Projet Blair Witch - Saga:
-    template: {name: Collection, collection: 64750, summary: 64750}
-    url_poster: https://theposterdb.com/api/assets/160773
-  La revanche d'une blonde - Saga:
-    template: {name: Collection, collection: 86024, summary: 86024}
-    url_poster: https://theposterdb.com/api/assets/166248
-  Le Jour des Morts-Vivants - Saga:
-    template: {name: Collection, collection: 261590, summary: 261590}
-    trakt_list: 
-      - https://trakt.tv/users/rzepkowski/lists/living-dead-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/117614
-  Le Labyrinthe - Saga:
-    template: {name: Collection, collection: 295130, summary: 295130}
-    url_poster: https://theposterdb.com/api/assets/79692
-  Le Monde de Nemo - Saga:
-    template: {name: Collection, collection: 137697, summary: 137697}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/finding-nemo-collection-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/162995
-#    collection_order: alpha
-    collection_mode: hide_items
-  Le Monde de Narnia - Saga:
-    template: {name: Collection, collection: 420, summary: 420}
-    trakt_list: 
-      - https://trakt.tv/users/lena_d/lists/narnia?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/162017
-#    collection_order: alpha
-    collection_mode: hide_items
-  Le Parrain - Saga:
-    template: {name: Collection, collection: 230, summary: 230}
-    trakt_list: 
-    - https://trakt.tv/users/ireallylovevids/lists/the-godfather?sort=released,asc
-    url_poster: https://theposterdb.com/api/assets/97959 
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1388/CyTQLB3ijCqxEyiejcBdndNksFwcEuXhn7kPj0ex.webp
-#    collection_order: alpha
-    collection_mode: hide_items
-  Le Petit Dinosaure - Saga:
-    template: {name: Collection, collection: 19163, summary: 19163}
-    url_poster: https://theposterdb.com/api/assets/162981
-  Le Professeur Foldingue - Saga:
-    template: {name: Collection, collection: 86028, summary: 86028}
-    url_poster: https://theposterdb.com/api/assets/163966
-    collection_order: alpha
-  Le Roi Lion - Saga:
-    template: {name: Collection, collection: 94032, summary: 94032}
-    url_poster: https://theposterdb.com/api/assets/162978  
-  Le Roi Lion (Reboot) - Saga:
-    template: {name: Collection, collection: 762512, summary: 762512}
-    url_poster: https://theposterdb.com/api/assets/163395
-  Le Seigneur des anneaux - Saga:
-    template: {name: Collection, collection: 119, summary: 119}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/middle-earth-collection-copy?sort=rank,desc
-    url_poster: https://theposterdb.com/api/assets/92068  
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/331/iu9GUaIuYM4aFzX0g5hi8tiGFhk6MZ5Dkb4zICac.webp
-    collection_order: release
-    collection_mode: hide_items
-  Le Transporteur - Saga:
-    template: {name: Collection, collection: 9518, summary: 9518}
-    url_poster: https://theposterdb.com/api/assets/164843    
+#  Le Roi Lion - Saga:
+#    template: {name: Collection, collection: 94032, summary: 94032}
+#    url_poster: https://theposterdb.com/api/assets/162978  
+#  Le Roi Lion (Reboot) - Saga:
+#    template: {name: Collection, collection: 762512, summary: 762512}
+#    url_poster: https://theposterdb.com/api/assets/163395
+#  Le Seigneur des anneaux - Saga:
+#    template: {name: Collection, collection: 119, summary: 119}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/middle-earth-collection-copy?sort=rank,desc
+#    url_poster: https://theposterdb.com/api/assets/92068  
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/331/iu9GUaIuYM4aFzX0g5hi8tiGFhk6MZ5Dkb4zICac.webp
+#    collection_order: release
+#    collection_mode: hide_items
+#  Le Transporteur - Saga:
+#    template: {name: Collection, collection: 9518, summary: 9518}
+#    url_poster: https://theposterdb.com/api/assets/164843    
   LEGO DC Super Héros - Saga:
     template: {name: Collection, collection: 386162, summary: 386162}
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/lego-dc-super-heros-saga?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/234730
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
   LEGO Marvel Super Heroes Collection:
     template: {name: Collection, collection: 752937, summary: 752937}
     url_poster: https://theposterdb.com/api/assets/234731
   LEGO Ninjago - Saga: # Make this the title you want the item to be 
-#    alt_title: Ninjago Collection # make this the title that you want to search on to change to the other title
+##    alt_title: Ninjago Collection # make this the title that you want to search on to change to the other title
     sort_title: LEGO Ninjago - Saga # this will change sort title 
     template: {name: Collection, collection: 1072678, summary: 1072678}
     url_poster: https://image.tmdb.org/t/p/original//sZp3Q4pWyJZtf3Cb8MEr3cRNgzk.jpg    
@@ -1185,294 +1185,294 @@ collections:
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/lego-scooby-doo-saga?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/241350
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
   LEGO Star Wars - Saga:
     template: {name: Collection, collection: 302331, summary: 302331}
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/lego-star-wars-saga?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/234729
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
-#  LEGO Star Wars (Seasonal) - Saga:
-#    template: {name: Collection, collection: 1004630, summary: 1004630}
-#    url_poster: https://image.tmdb.org/t/p/original//jHITUzB6fZVOYZ13YCqVTS06iyw.jpg
-#    sort_title: LEGO Star Wars - Saga2
-  Les 101 Dalmatiens (Animation) - Saga:
-    template: {name: Collection, collection: 100693, summary: 100693}
-    url_poster: https://theposterdb.com/api/assets/163119
-  Les 101 Dalmatiens - Saga:
-    template: {name: Collection, collection: 124916, summary: 124916}
-    url_poster: https://theposterdb.com/api/assets/163120 
-  Les Animaux fantastiques - Saga:
-    template: {name: Collection, collection: 435259, summary: 435259}
-    trakt_list: 
-      - https://trakt.tv/users/user71/lists/fantastic-beasts?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/86373
-#    collection_order: alpha
-    collection_mode: hide_items
-  Les As de la Jungle Collection: 
-    template: {name: Collection, collection: 1139100, summary: 1139100}
-    url_poster: https://www.themoviedb.org/t/p/original/fXNYiUKkDsNWR0PXsieGxxK84gg.jpg  
-  Les Aventures de Sammy - Saga:
-    template: {name: Collection, collection: 166844, summary: 166844}
-    url_poster: https://theposterdb.com/api/assets/382330
-  Les aventures de Bullit & Riper - Saga:
-    template: {name: Collection, collection: 297299, summary: 297299, poster: https://image.tmdb.org/t/p/original//fREA4sN9BapI5QkpzkXFwaApPj6.jpg}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/les-aventures-de-bullit-riper-saga?sort=rank,asc
-    url_poster: https://image.tmdb.org/t/p/original//fREA4sN9BapI5QkpzkXFwaApPj6.jpg
-#    collection_order: alpha
-    collection_mode: hide_items
-  Les Bronzés - Saga:
-    template: {name: Collection, collection: 52835, summary: 52835, poster: https://image.tmdb.org/t/p/original//fQpzsDozHL6hcQdmPisU0cLSbfC.jpg}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/les-bronzes-saga?sort=rank,asc
-    url_poster: https://image.tmdb.org/t/p/original//hLwQmdHSJ8KfyXDtQtiuSRe7UIf.jpg
-#    collection_order: alpha
-    collection_mode: hide_items
-  Les Charlots - Saga:
-    template: {name: Collection, collection: 188133, summary: 188133}
-    trakt_list:
-      - https://trakt.tv/users/pierredurrr/lists/les-charlots-saga-copy?sort=rank,asc
-    url_poster: https://www.themoviedb.org/t/p/original/4oeps8SWJJmFMwwSkWKy8cOnEb0.jpg
-  Les Indestructibles - Saga:
-    template: {name: Collection, collection: 468222, summary: 468222}
-    trakt_list: 
-      - https://trakt.tv/users/jes-wan/lists/the-incredibles?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/162987
-#    collection_order: alpha
-    collection_mode: hide_items
-  Les Petits Mouchoirs - Saga:
-    template: {name: Collection, collection: 629597, summary: 629597}
-    url_poster: https://theposterdb.com/api/assets/208511
-  Les Razmoket - Saga:
-    template: {name: Collection, collection: 57129, summary: 57129}
-    url_poster: https://theposterdb.com/api/assets/162966 
-  Les rois de la glisse - Saga:
-    template: {name: Collection, collection: 436295, summary: 436295}
-    url_poster: https://theposterdb.com/api/assets/178906
-  Les Trolls - Saga:
-    template: {name: Collection, collection: 489724, summary: 489724}
-    url_poster: https://theposterdb.com/api/assets/162954
+##  LEGO Star Wars (Seasonal) - Saga:
+##    template: {name: Collection, collection: 1004630, summary: 1004630}
+##    url_poster: https://image.tmdb.org/t/p/original//jHITUzB6fZVOYZ13YCqVTS06iyw.jpg
+##    sort_title: LEGO Star Wars - Saga2
+#  Les 101 Dalmatiens (Animation) - Saga:
+#    template: {name: Collection, collection: 100693, summary: 100693}
+#    url_poster: https://theposterdb.com/api/assets/163119
+#  Les 101 Dalmatiens - Saga:
+#    template: {name: Collection, collection: 124916, summary: 124916}
+#    url_poster: https://theposterdb.com/api/assets/163120 
+#  Les Animaux fantastiques - Saga:
+#    template: {name: Collection, collection: 435259, summary: 435259}
+#    trakt_list: 
+#      - https://trakt.tv/users/user71/lists/fantastic-beasts?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/86373
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Les As de la Jungle Collection: 
+#    template: {name: Collection, collection: 1139100, summary: 1139100}
+#    url_poster: https://www.themoviedb.org/t/p/original/fXNYiUKkDsNWR0PXsieGxxK84gg.jpg  
+#  Les Aventures de Sammy - Saga:
+#    template: {name: Collection, collection: 166844, summary: 166844}
+#    url_poster: https://theposterdb.com/api/assets/382330
+#  Les aventures de Bullit & Riper - Saga:
+#    template: {name: Collection, collection: 297299, summary: 297299, poster: https://image.tmdb.org/t/p/original//fREA4sN9BapI5QkpzkXFwaApPj6.jpg}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/les-aventures-de-bullit-riper-saga?sort=rank,asc
+#    url_poster: https://image.tmdb.org/t/p/original//fREA4sN9BapI5QkpzkXFwaApPj6.jpg
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Les Bronzés - Saga:
+#    template: {name: Collection, collection: 52835, summary: 52835, poster: https://image.tmdb.org/t/p/original//fQpzsDozHL6hcQdmPisU0cLSbfC.jpg}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/les-bronzes-saga?sort=rank,asc
+#    url_poster: https://image.tmdb.org/t/p/original//hLwQmdHSJ8KfyXDtQtiuSRe7UIf.jpg
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Les Charlots - Saga:
+#    template: {name: Collection, collection: 188133, summary: 188133}
+#    trakt_list:
+#      - https://trakt.tv/users/pierredurrr/lists/les-charlots-saga-copy?sort=rank,asc
+#    url_poster: https://www.themoviedb.org/t/p/original/4oeps8SWJJmFMwwSkWKy8cOnEb0.jpg
+#  Les Indestructibles - Saga:
+#    template: {name: Collection, collection: 468222, summary: 468222}
+#    trakt_list: 
+#      - https://trakt.tv/users/jes-wan/lists/the-incredibles?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/162987
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Les Petits Mouchoirs - Saga:
+#    template: {name: Collection, collection: 629597, summary: 629597}
+#    url_poster: https://theposterdb.com/api/assets/208511
+#  Les Razmoket - Saga:
+#    template: {name: Collection, collection: 57129, summary: 57129}
+#    url_poster: https://theposterdb.com/api/assets/162966 
+#  Les rois de la glisse - Saga:
+#    template: {name: Collection, collection: 436295, summary: 436295}
+#    url_poster: https://theposterdb.com/api/assets/178906
+#  Les Trolls - Saga:
+#    template: {name: Collection, collection: 489724, summary: 489724}
+#    url_poster: https://theposterdb.com/api/assets/162954
   Looney Tunes - Films:
     template: {name: Collection}
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/looney-tunes-films?sort=rank,asc
     url_poster: https://walter.trakt.tv/images/shows/000/061/442/posters/thumb/11907cbdef.jpg.webp
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
-  L'Inspecteur Harry - Saga:
-    template: {name: Collection, collection: 10456, summary: 10456}
-#    trakt_list: 
-#       - https://trakt.tv/users/jes-wan/lists/the-incredibles?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/91452
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/4414/UOyso10NLWxZolgN71cOev8cA6N6bHVnJpYOM63L.webp
-#    collection_order: alpha
-    collection_mode: hide_items
-  Le Livre de la Jungle - Saga:
-    template: {name: Collection, collection: 97459, summary: 97459}
-    url_poster: https://theposterdb.com/api/assets/162985
-  Les Croods - Saga:
-    template: {name: Collection, collection: 464577, summary: 464577}
-#    trakt_list: 
-#       - https://trakt.tv/users/nidunc/lists/marvel-cinematic-universe-viewing-order-according-to-alltimelines-com
-    url_poster: https://theposterdb.com/api/assets/116454
-#    collection_order: alpha
-    collection_mode: hide_items
-#  Marvel Cinematic Universe:
-#    template: {name: Collection, poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1993/zoPRd86l6LiaNUIzQoof0227XIY0XMy1712m8GYL.webp}
-#    summary: "Les films sont classés dans l'ordre de visionnage chronologique de l'histoire et non par nom ou date de sortie."
-#    trakt_list: 
-#      - https://trakt.tv/users/nidunc/lists/marvel-cinematic-universe-viewing-order-according-to-alltimelines-com
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1993/zoPRd86l6LiaNUIzQoof0227XIY0XMy1712m8GYL.webp
-#    collection_order: alpha
+#  L'Inspecteur Harry - Saga:
+#    template: {name: Collection, collection: 10456, summary: 10456}
+##    trakt_list: 
+##       - https://trakt.tv/users/jes-wan/lists/the-incredibles?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/91452
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/4414/UOyso10NLWxZolgN71cOev8cA6N6bHVnJpYOM63L.webp
+##    collection_order: alpha
 #    collection_mode: hide_items
-#    radarr_add: true
-#    radarr_search: true
-#    radarr_monitor: true
-  Les Dents de la mer - Saga:
-    template: {name: Collection, collection: 2366, summary: 2366}
-    url_poster: https://theposterdb.com/api/assets/161117
+#  Le Livre de la Jungle - Saga:
+#    template: {name: Collection, collection: 97459, summary: 97459}
+#    url_poster: https://theposterdb.com/api/assets/162985
+#  Les Croods - Saga:
+#    template: {name: Collection, collection: 464577, summary: 464577}
+##    trakt_list: 
+##       - https://trakt.tv/users/nidunc/lists/marvel-cinematic-universe-viewing-order-according-to-alltimelines-com
+#    url_poster: https://theposterdb.com/api/assets/116454
+##    collection_order: alpha
+#    collection_mode: hide_items
+##  Marvel Cinematic Universe:
+##    template: {name: Collection, poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1993/zoPRd86l6LiaNUIzQoof0227XIY0XMy1712m8GYL.webp}
+##    summary: "Les films sont classés dans l'ordre de visionnage chronologique de l'histoire et non par nom ou date de sortie."
+##    trakt_list: 
+##      - https://trakt.tv/users/nidunc/lists/marvel-cinematic-universe-viewing-order-according-to-alltimelines-com
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1993/zoPRd86l6LiaNUIzQoof0227XIY0XMy1712m8GYL.webp
+##    collection_order: alpha
+##    collection_mode: hide_items
+##    radarr_add: true
+##    radarr_search: true
+##    radarr_monitor: true
+#  Les Dents de la mer - Saga:
+#    template: {name: Collection, collection: 2366, summary: 2366}
+#    url_poster: https://theposterdb.com/api/assets/161117
   Les Gardiens de la Galaxie - Saga:
     template: {name: Collection-Smart, collection: 284433, summary: 284433}
     url_poster: https://theposterdb.com/api/assets/4815
     collection_mode: hide_items
     smart_label: title.asc
-  Les Minions - Saga:
-    template: {name: Collection, collection: 544669, summary: 544669}
-    url_poster: https://theposterdb.com/api/assets/192196
-  Les Schtroumpfs - Saga:
-    template: {name: Collection, collection: 134897, summary: 134897}
-    url_poster: https://theposterdb.com/api/assets/162962
-  Les Sous-doués - Saga : 
-    template: {name: Collection, collection: 215293, summary: 215293}
-    url_poster: https://image.tmdb.org/t/p/original//nzQrDU01HLItnlg3NBWFcXYwCyB.jpg
-#    url_poster: https://theposterdb.com/api/assets/82492
-  Les Titans - Saga:  
-    template: {name: Collection, collection: 86780, summary: 86780}
-    url_poster: https://theposterdb.com/api/assets/162020   
-  Lupin III Collection:
-    template: {name: Collection}
-    trakt_list:
-      - https://trakt.tv/lists/official/lupin-iii-collection?sort=rank,asc
-      - https://trakt.tv/users/vivienb/lists/lupin-iii-movies?sort=rank,asc
-      - https://trakt.tv/users/jaimemcdohl/lists/lupin-iii?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/180162
-    radarr_add: true
-  La Maison des 1000 Morts - Saga:
-    template: {name: Collection, collection: 105625, summary: 105625}
-    url_poster: https://theposterdb.com/api/assets/161041
-  Machete - Saga:  
-    template: {name: Collection, collection: 210006, summary: 210006}
-    url_poster: https://theposterdb.com/api/assets/164804
-  Mad Max - Saga:
-    template: {name: Collection, collection: 8945, summary: 8945}
+#  Les Minions - Saga:
+#    template: {name: Collection, collection: 544669, summary: 544669}
+#    url_poster: https://theposterdb.com/api/assets/192196
+#  Les Schtroumpfs - Saga:
+#    template: {name: Collection, collection: 134897, summary: 134897}
+#    url_poster: https://theposterdb.com/api/assets/162962
+#  Les Sous-doués - Saga: 
+#    template: {name: Collection, collection: 215293, summary: 215293}
+#    url_poster: https://image.tmdb.org/t/p/original//nzQrDU01HLItnlg3NBWFcXYwCyB.jpg
+##    url_poster: https://theposterdb.com/api/assets/82492
+#  Les Titans - Saga:  
+#    template: {name: Collection, collection: 86780, summary: 86780}
+#    url_poster: https://theposterdb.com/api/assets/162020   
+#  Lupin III Collection:
+#    template: {name: Collection}
+#    trakt_list:
+#      - https://trakt.tv/lists/official/lupin-iii-collection?sort=rank,asc
+#      - https://trakt.tv/users/vivienb/lists/lupin-iii-movies?sort=rank,asc
+#      - https://trakt.tv/users/jaimemcdohl/lists/lupin-iii?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/180162
+#    radarr_add: true
+#  La Maison des 1000 Morts - Saga:
+#    template: {name: Collection, collection: 105625, summary: 105625}
+#    url_poster: https://theposterdb.com/api/assets/161041
+#  Machete - Saga:  
+#    template: {name: Collection, collection: 210006, summary: 210006}
+#    url_poster: https://theposterdb.com/api/assets/164804
+#  Mad Max - Saga:
+#    template: {name: Collection, collection: 8945, summary: 8945}
+##    trakt_list: 
+##       - https://trakt.tv/users/mandiemoo15/lists/madagascar?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/92140
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Madagascar - Saga:
+#    template: {name: Collection, collection: 14740, summary: 14740}
 #    trakt_list: 
-#       - https://trakt.tv/users/mandiemoo15/lists/madagascar?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/92140
-#    collection_order: alpha
-    collection_mode: hide_items
-  Madagascar - Saga:
-    template: {name: Collection, collection: 14740, summary: 14740}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/madagascar-movies-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/162976
-#    collection_order: alpha
-    collection_mode: hide_items
-  Mafia Blues - Saga:
-    template: {name: Collection, collection: 110127, summary: 110127}
+#      - https://trakt.tv/users/pierredurrr/lists/madagascar-movies-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/162976
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Mafia Blues - Saga:
+#    template: {name: Collection, collection: 110127, summary: 110127}
+##    url_poster: https://theposterdb.com/api/assets/162142
+#  Maléfique - Saga:
+#    template: {name: Collection, collection: 531331, summary: 531331}
 #    url_poster: https://theposterdb.com/api/assets/162142
-  Maléfique - Saga:
-    template: {name: Collection, collection: 531331, summary: 531331}
-    url_poster: https://theposterdb.com/api/assets/162142
-  Maman, j'ai raté l'avion ! - Saga:
-    template: {name: Collection, collection: 9888, summary: 9888}
-    trakt_list: 
-      - https://trakt.tv/users/jes-wan/lists/home-alone?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/104462  
+#  Maman, j'ai raté l'avion ! - Saga:
+#    template: {name: Collection, collection: 9888, summary: 9888}
+#    trakt_list: 
+#      - https://trakt.tv/users/jes-wan/lists/home-alone?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/104462  
 #    url_poster: https://theposterdb.com/api/assets/82750  
 #    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/6379/SMjnH6dlOfbj6SAZABn7Eza7YGOwbtVNDOs7ZJZj.webp
 #    collection_order: alpha
-    collection_mode: hide_items
-  Mamma Mia! - Saga:
-    template: {name: Collection, collection: 458558, summary: 458558}
-    url_poster: https://theposterdb.com/api/assets/160962
-  Man of Steel - Saga:
-    template: {name: Collection, collection: 209131, summary: 209131}
-    url_poster: https://theposterdb.com/api/assets/341273
-  The Mask - Saga:
-    template: {name: Collection, collection: 43072, summary: 43072}
-    url_poster: https://theposterdb.com/api/assets/187753
+#    collection_mode: hide_items
+#  Mamma Mia! - Saga:
+#    template: {name: Collection, collection: 458558, summary: 458558}
+#    url_poster: https://theposterdb.com/api/assets/160962
+#  Man of Steel - Saga:
+#    template: {name: Collection, collection: 209131, summary: 209131}
+#    url_poster: https://theposterdb.com/api/assets/341273
+#  The Mask - Saga:
+#    template: {name: Collection, collection: 43072, summary: 43072}
+#    url_poster: https://theposterdb.com/api/assets/187753
   The Man with No Name Collection:
     url_poster: https://theposterdb.com/api/assets/92673
     trakt_list:
       - https://trakt.tv/users/astrolansen/lists/the-man-with-no-name?sort=released,desc
-  Mary Poppins - Saga:
-    template: {name: Collection, collection: 527439, summary: 527439}
-    url_poster: https://theposterdb.com/api/assets/160967
-  Matrix - Saga:
-    template: {name: Collection, collection: 2344, summary: 2344}
-    trakt_list: 
-      - https://trakt.tv/users/thiag0santos/lists/matrix?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/128835
-    collection_order: release
-    collection_mode: hide_items
-  Men in Black - Saga:
-    template: {name: Collection, collection: 86055, summary: 86055}
-    trakt_list: 
-      - https://trakt.tv/users/ireallylovevids/lists/men-in-black?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/52759
-#    collection_order: alpha
-    collection_mode: hide_items
-  Mesrine - Saga:
-    template: {name: Collection, collection: 85945, summary: 85945}
+#  Mary Poppins - Saga:
+#    template: {name: Collection, collection: 527439, summary: 527439}
 #    url_poster: https://theposterdb.com/api/assets/160967
-  Millénium - Saga:
-    template: {name: Collection, collection: 575987, summary: 575987}
-    trakt_list: 
-      - https://trakt.tv/users/rzepkowski/lists/millennium-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/76894
-#    collection_order: alpha
-    collection_mode: hide_items
-  Mince Alors ! - Saga:
-    template: {name: Collection, collection: 953177, summary: 953177}
-#    url_poster:
-  "Mission : Impossible - Saga":
-    template: {name: Collection, collection: 87359, summary: 87359}
-    url_poster: https://theposterdb.com/api/assets/164810
-  Mode d'emploi - Saga:
-    template: {name: Collection, collection: 779062, summary: 779062}
-    url_poster: https://theposterdb.com/api/assets/254306
-  Moi, Moche et Méchant - Saga:
-    template: {name: Collection, collection: 86066, summary: 86066}
-    trakt_list: 
-      - https://trakt.tv/users/rzepkowski/lists/despicable-me-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/101264
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/8231/57iz7Ic4gVHQTxBt9Vxutw9llsMxfdNgCh1SItyY.webp
-#    collection_order: alpha
-    collection_mode: hide_items
-  La Momie - Saga:
-    template: {name: Collection, collection: 1733, summary: 1733}
-    trakt_list: 
-      - https://trakt.tv/users/aloaes22/lists/la-momie?sort=released,asc
-    url_poster: https://theposterdb.com/api/assets/93442
-#    collection_order: alpha
-    collection_mode: hide_items
-  Mon beau-père - Saga:
-    template: {name: Collection, collection: 51509, summary: 51509}
-    trakt_list: 
-      - https://trakt.tv/users/marezare1991/lists/meet-the-parents-franchise?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/166252
-#    url_poster: https://image.tmdb.org/t/p/original/bsdtq7d5o1Q25AzMeyMfJrLkeZY.jpg
-#    collection_order: alpha
-    collection_mode: hide_items
+#  Matrix - Saga:
+#    template: {name: Collection, collection: 2344, summary: 2344}
+#    trakt_list: 
+#      - https://trakt.tv/users/thiag0santos/lists/matrix?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/128835
+#    collection_order: release
+#    collection_mode: hide_items
+#  Men in Black - Saga:
+#    template: {name: Collection, collection: 86055, summary: 86055}
+#    trakt_list: 
+#      - https://trakt.tv/users/ireallylovevids/lists/men-in-black?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/52759
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Mesrine - Saga:
+#    template: {name: Collection, collection: 85945, summary: 85945}
+##    url_poster: https://theposterdb.com/api/assets/160967
+#  Millénium - Saga:
+#    template: {name: Collection, collection: 575987, summary: 575987}
+#    trakt_list: 
+#      - https://trakt.tv/users/rzepkowski/lists/millennium-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/76894
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Mince Alors ! - Saga:
+#    template: {name: Collection, collection: 953177, summary: 953177}
+##    url_poster:
+#  "Mission : Impossible - Saga":
+#    template: {name: Collection, collection: 87359, summary: 87359}
+#    url_poster: https://theposterdb.com/api/assets/164810
+#  Mode d'emploi - Saga:
+#    template: {name: Collection, collection: 779062, summary: 779062}
+#    url_poster: https://theposterdb.com/api/assets/254306
+#  Moi, Moche et Méchant - Saga:
+#    template: {name: Collection, collection: 86066, summary: 86066}
+#    trakt_list: 
+#      - https://trakt.tv/users/rzepkowski/lists/despicable-me-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/101264
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/8231/57iz7Ic4gVHQTxBt9Vxutw9llsMxfdNgCh1SItyY.webp
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  La Momie - Saga:
+#    template: {name: Collection, collection: 1733, summary: 1733}
+#    trakt_list: 
+#      - https://trakt.tv/users/aloaes22/lists/la-momie?sort=released,asc
+#    url_poster: https://theposterdb.com/api/assets/93442
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Mon beau-père - Saga:
+#    template: {name: Collection, collection: 51509, summary: 51509}
+#    trakt_list: 
+#      - https://trakt.tv/users/marezare1991/lists/meet-the-parents-franchise?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/166252
+##    url_poster: https://image.tmdb.org/t/p/original/bsdtq7d5o1Q25AzMeyMfJrLkeZY.jpg
+##    collection_order: alpha
+#    collection_mode: hide_items
   Mon nom est Personne - Saga:
     template: {name: Collection}
     trakt_list: https://trakt.tv/users/pierredurrr/lists/mon-nom-est-personne-saga?sort=rank,asc
     url_poster: https://www.filmspourenfants.net/wp-content/uploads/2020/09/mon-nom-est-personne-a-366x500.jpg
-  Mon voisin le tueur - Saga:
-    template: {name: Collection, collection: 103577, summary: 103577}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/the-whole-nine-ten-yards-collection-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/82612
-#    collection_order: alpha
-    collection_mode: hide_items
-  Monstres & Cie - Saga:
-    template: {name: Collection, collection: 137696, summary: 137696}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/monsters-inc-collection-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/162975
-#    collection_order: alpha
-    collection_mode: hide_items
-  Les Mondes de Ralph - Saga:
-    template: {name: Collection, collection: 404825, summary: 404825}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/les-mondes-de-ralph-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/162950
-#    collection_order: alpha
-    collection_mode: hide_items
-  La Mouche - Saga: 
-    template: {name: Collection, collection: 109609, summary: 109609}
-    url_poster: https://theposterdb.com/api/assets/177233
-    trakt_list:
-      - https://trakt.tv/users/pierredurrr/lists/the-fly-1986-collection-copy?sort=rank,asc
-  Mortal Kombat - Saga: 
-    template: {name: Collection, collection: 9818, summary: 9818}
-    url_poster: https://theposterdb.com/api/assets/160972
-  Mr. Bean - Saga:
-    template: {name: Collection, collection: 103372, summary: 103372}
-    url_poster: https://theposterdb.com/api/assets/166257
-  Les Pierrafeu - Saga:
-    template: {name: Collection, collection: 351684, summary: 351684}
-    url_poster: https://theposterdb.com/api/assets/160943
-  Les Rebelles de la forêt - Saga:
-    template: {name: Collection, collection: 66761, summary: 66761}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/les-rebelles-de-la-foret-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/178905
-#    collection_order: alpha
-    collection_mode: hide_items
+#  Mon voisin le tueur - Saga:
+#    template: {name: Collection, collection: 103577, summary: 103577}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/the-whole-nine-ten-yards-collection-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/82612
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Monstres & Cie - Saga:
+#    template: {name: Collection, collection: 137696, summary: 137696}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/monsters-inc-collection-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/162975
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Les Mondes de Ralph - Saga:
+#    template: {name: Collection, collection: 404825, summary: 404825}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/les-mondes-de-ralph-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/162950
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  La Mouche - Saga: 
+#    template: {name: Collection, collection: 109609, summary: 109609}
+#    url_poster: https://theposterdb.com/api/assets/177233
+#    trakt_list:
+#      - https://trakt.tv/users/pierredurrr/lists/the-fly-1986-collection-copy?sort=rank,asc
+#  Mortal Kombat - Saga: 
+#    template: {name: Collection, collection: 9818, summary: 9818}
+#    url_poster: https://theposterdb.com/api/assets/160972
+#  Mr. Bean - Saga:
+#    template: {name: Collection, collection: 103372, summary: 103372}
+#    url_poster: https://theposterdb.com/api/assets/166257
+#  Les Pierrafeu - Saga:
+#    template: {name: Collection, collection: 351684, summary: 351684}
+#    url_poster: https://theposterdb.com/api/assets/160943
+#  Les Rebelles de la forêt - Saga:
+#    template: {name: Collection, collection: 66761, summary: 66761}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/les-rebelles-de-la-foret-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/178905
+##    collection_order: alpha
+#    collection_mode: hide_items
   Les robins des bois - Collection:
     template: {name: Collection, poster: https://i.imgur.com/x9lnN14.png}
     summary: "L'intégrale des Robins des Bois"
@@ -1486,70 +1486,70 @@ collections:
         - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.1.+.Bonus.FRENCH.DVDRiP.XViD.T411.avi/
         - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.2.+.Bonus.FRENCH.DVDRiP.XViD.T411/
         - /mnt/_SYNOLOGY/Mediatheque/Films/Robins.des.Bois.The.Story/
-  Les Tuche - Saga:
-    template: {name: Collection, collection: 389544, summary: 389544}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/les-tuche-saga?sort=rank,asc
-    url_poster: https://image.tmdb.org/t/p/original//28eywElpNovdba7l3eNDPs9ZQEX.jpg
-#    collection_order: alpha
-    collection_mode: hide_items
-  Les Visiteurs - Saga:
-    template: {name: Collection, collection: 52888, summary: 52888}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/les-visiteurs-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/167016
-#    collection_order: alpha
-    collection_mode: hide_items
-  Lilo & Stitch - Saga:
-    template: {name: Collection, collection: 97461, summary: 97461}
-    url_poster: https://theposterdb.com/api/assets/163076
-  Lucky Luke - Saga:
-    template: {name: Collection, collection: 94050, summary: 94050}
-    url_poster: https://theposterdb.com/api/assets/82173
-  Lucky Stars - Saga:
-    template: {name: Collection, collection: 300431, summary: 300431}
-    url_poster: https://image.tmdb.org/t/p/original//4JaAnOKwbVYXecpn8SkbOnwa5hg.jpg
-  Mulan - Saga:
-    template: {name: Collection, collection: 87236, summary: 87236}
-    url_poster: https://theposterdb.com/api/assets/162973
-  Nanny McPhee - Saga:
-    template: {name: Collection, collection: 35792, summary: 35792}
-    url_poster: https://theposterdb.com/api/assets/162151
-  Niko le petit renne - Saga:  
-    template: {name: Collection, collection: 141615, summary: 141615}
-    url_poster: https://image.tmdb.org/t/p/original//z4pHMEQlUBqwuYEjlkozzsZ8EyC.jpg  
-  Nymphomaniac - Saga:
-    template: {name: Collection, collection: 258664, summary: 258664}
-    url_poster: https://theposterdb.com/api/assets/208871 
-  La nuit au musée - Saga:
-    template: {name: Collection, collection: 85943, summary: 85943}
-    url_poster: https://theposterdb.com/api/assets/162153
-    collection_order: release
-  OSS 117 - Saga:
-    template: {name: Collection, collection: 91588, summary: 91588}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/oss-117-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/194854
-#    collection_order: alpha
-    collection_mode: hide_items
-  Ong-Bak - Saga:
-    template: {name: Collection, collection: 94589, summary: 94589}
-    url_poster: https://theposterdb.com/api/assets/77089
-  Ocean's - Saga:
-    template: {name: Collection, collection: 304, summary: 304}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/ocean-s-collection-copy?sort=rank,desc
-    url_poster: https://theposterdb.com/api/assets/81085
-    collection_order: release
-    collection_mode: hide_items
-  Oz - Saga:
-    template: {name: Collection, collection: 627517, summary: 627517}
-    url_poster: https://theposterdb.com/api/assets/160957
-  Paddington - Saga:
-    template: {name: Collection, collection: 488924, summary: 488924}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/paddington-saga?sort=rank,asc
-    url_poster: https://www.themoviedb.org/t/p/original/fn8nOJd72KmhSOWm1E12EiC3JgZ.jpg
+#  Les Tuche - Saga:
+#    template: {name: Collection, collection: 389544, summary: 389544}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/les-tuche-saga?sort=rank,asc
+#    url_poster: https://image.tmdb.org/t/p/original//28eywElpNovdba7l3eNDPs9ZQEX.jpg
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Les Visiteurs - Saga:
+#    template: {name: Collection, collection: 52888, summary: 52888}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/les-visiteurs-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/167016
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Lilo & Stitch - Saga:
+#    template: {name: Collection, collection: 97461, summary: 97461}
+#    url_poster: https://theposterdb.com/api/assets/163076
+#  Lucky Luke - Saga:
+#    template: {name: Collection, collection: 94050, summary: 94050}
+#    url_poster: https://theposterdb.com/api/assets/82173
+#  Lucky Stars - Saga:
+#    template: {name: Collection, collection: 300431, summary: 300431}
+#    url_poster: https://image.tmdb.org/t/p/original//4JaAnOKwbVYXecpn8SkbOnwa5hg.jpg
+#  Mulan - Saga:
+#    template: {name: Collection, collection: 87236, summary: 87236}
+#    url_poster: https://theposterdb.com/api/assets/162973
+#  Nanny McPhee - Saga:
+#    template: {name: Collection, collection: 35792, summary: 35792}
+#    url_poster: https://theposterdb.com/api/assets/162151
+#  Niko le petit renne - Saga:  
+#    template: {name: Collection, collection: 141615, summary: 141615}
+#    url_poster: https://image.tmdb.org/t/p/original//z4pHMEQlUBqwuYEjlkozzsZ8EyC.jpg  
+#  Nymphomaniac - Saga:
+#    template: {name: Collection, collection: 258664, summary: 258664}
+#    url_poster: https://theposterdb.com/api/assets/208871 
+#  La nuit au musée - Saga:
+#    template: {name: Collection, collection: 85943, summary: 85943}
+#    url_poster: https://theposterdb.com/api/assets/162153
+#    collection_order: release
+#  OSS 117 - Saga:
+#    template: {name: Collection, collection: 91588, summary: 91588}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/oss-117-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/194854
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Ong-Bak - Saga:
+#    template: {name: Collection, collection: 94589, summary: 94589}
+#    url_poster: https://theposterdb.com/api/assets/77089
+#  Ocean's - Saga:
+#    template: {name: Collection, collection: 304, summary: 304}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/ocean-s-collection-copy?sort=rank,desc
+#    url_poster: https://theposterdb.com/api/assets/81085
+#    collection_order: release
+#    collection_mode: hide_items
+#  Oz - Saga:
+#    template: {name: Collection, collection: 627517, summary: 627517}
+#    url_poster: https://theposterdb.com/api/assets/160957
+#  Paddington - Saga:
+#    template: {name: Collection, collection: 488924, summary: 488924}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/paddington-saga?sort=rank,asc
+#    url_poster: https://www.themoviedb.org/t/p/original/fn8nOJd72KmhSOWm1E12EiC3JgZ.jpg
   Palmashow:
     template: {name: Collection, poster: https://image.tmdb.org/t/p/original//l9zrjgie6kfloh91kl4DKt6y3Ni.jpg}
     summary: "L'intégrale du Palmashow"
@@ -1565,218 +1565,218 @@ collections:
         - /mnt/_SYNOLOGY/Mediatheque/Films/Palmashow/Palmashow.le.Palmashow.fait.son.cinema/
         - /mnt/_SYNOLOGY/Mediatheque/Films/Palmashow/Palmashow.ça.continue.(1.et.2).(2019).720p.WEB-DL.x264-BTFX/
       filepath.regex: '(?i)(palmashow)'        
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
-  La Panthère Rose (Original) - Saga:
-    template: {name: Collection, collection: 937, summary: 937}
-    url_poster: https://theposterdb.com/api/assets/164817
-  Papa ou Maman - Saga:
-    template: {name: Collection, collection: 437608, summary: 437608}
-    url_poster: https://image.tmdb.org/t/p/original//ePDqFLwv7isN6sJ5Klqhrub8gLr.jpg
-  Pee-wee's - Saga: 
-    template: {name: Collection, collection: 179244, summary: 179244}
-    url_poster: https://theposterdb.com/api/assets/163401
-  Peter Pan - Saga:
-    template: {name: Collection, collection: 55422, summary: 55422}
-    url_poster: https://theposterdb.com/api/assets/162155
-  Percy Jackson - Saga:
-    template: {name: Collection, collection: 179919, summary: 179919}
-    url_poster: https://theposterdb.com/api/assets/163402
-  La Petite Sirène - Saga:
-    template: {name: Collection, collection: 33085, summary: 33085}
-    url_poster: https://theposterdb.com/api/assets/162977
-  Pirates des Caraïbes - Saga:
-    template: {name: Collection, collection: 295, summary: 295}
-    trakt_list: 
-      - https://trakt.tv/users/bertjj/lists/pirates-of-the-caribbean?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/79703
-#    collection_order: alpha
-    collection_mode: hide_items
+#  La Panthère Rose (Original) - Saga:
+#    template: {name: Collection, collection: 937, summary: 937}
+#    url_poster: https://theposterdb.com/api/assets/164817
+#  Papa ou Maman - Saga:
+#    template: {name: Collection, collection: 437608, summary: 437608}
+#    url_poster: https://image.tmdb.org/t/p/original//ePDqFLwv7isN6sJ5Klqhrub8gLr.jpg
+#  Pee-wee's - Saga: 
+#    template: {name: Collection, collection: 179244, summary: 179244}
+#    url_poster: https://theposterdb.com/api/assets/163401
+#  Peter Pan - Saga:
+#    template: {name: Collection, collection: 55422, summary: 55422}
+#    url_poster: https://theposterdb.com/api/assets/162155
+#  Percy Jackson - Saga:
+#    template: {name: Collection, collection: 179919, summary: 179919}
+#    url_poster: https://theposterdb.com/api/assets/163402
+#  La Petite Sirène - Saga:
+#    template: {name: Collection, collection: 33085, summary: 33085}
+#    url_poster: https://theposterdb.com/api/assets/162977
+#  Pirates des Caraïbes - Saga:
+#    template: {name: Collection, collection: 295, summary: 295}
+#    trakt_list: 
+#      - https://trakt.tv/users/bertjj/lists/pirates-of-the-caribbean?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/79703
+##    collection_order: alpha
+#    collection_mode: hide_items
   La Planète des Singes - Saga Original:
     template: {name: Collection, collection: 1709, summary: 1709}
     trakt_list: 
       - https://trakt.tv/users/bizarrebehavior/lists/movies-planet-of-the-apes-chronological-order-old?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/76945
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
   La Planète des Singes - Saga:
     template: {name: Collection, collection: 173710, summary: 173710}
     trakt_list: 
       - https://trakt.tv/users/dinkysniff/lists/collection-the-planet-of-the-apes-reboot-series?sort=released,desc
     url_poster: https://theposterdb.com/api/assets/184312
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
-  Planes - Saga:
-    template: {name: Collection, collection: 270252, summary: 270252}
-    url_poster: https://theposterdb.com/api/assets/199867
-  Pocahontas - Saga:
-    template: {name: Collection, collection: 136214, summary: 136214}
-    url_poster: https://theposterdb.com/api/assets/191948
+#  Planes - Saga:
+#    template: {name: Collection, collection: 270252, summary: 270252}
+#    url_poster: https://theposterdb.com/api/assets/199867
+#  Pocahontas - Saga:
+#    template: {name: Collection, collection: 136214, summary: 136214}
+#    url_poster: https://theposterdb.com/api/assets/191948
   Pokémon - Saga:
     template: {name: Collection, collection: 34055, summary: 34055}
     url_poster: https://theposterdb.com/api/assets/180179
     trakt_list:
       - https://trakt.tv/users/danielpissarra/lists/pokemon?sort=released,asc
     collection_mode: hide_items
-  Police Academy - Saga:
-    template: {name: Collection, collection: 9338, summary: 9338}
-    trakt_list: 
-      - https://trakt.tv/users/benjamingunn/lists/police-academy?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/124019
-#    collection_order: alpha
-    collection_mode: hide_items
-  Police Story - Saga:
-    template: {name: Collection, collection: 269098, summary: 269098}
-    url_poster: https://theposterdb.com/api/assets/160978
-  Predator - Saga:
-    template: {name: Collection, collection: 399, summary: 399, poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1796/v3jL8bZciaNd5sDvyZhCohO6klxPc2wjijmJKKKH.webp}
-    trakt_list: 
-      - https://trakt.tv/users/ireallylovevids/lists/predator?sort=released,asc
-    url_poster: https://theposterdb.com/api/assets/76898
-#    collection_order: alpha
-    collection_mode: hide_items
-  Princesse Malgré Elle - Saga:
-    template: {name: Collection, collection: 107674, summary: 107674}
-    url_poster: https://theposterdb.com/api/assets/163406
-  Prudence et Bélisaire Beresford - Saga:
-    template: {name: Collection, collection: 160792, summary: 160792}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/prudence-et-belisaire-beresford-collection-copy?sort=rank,asc
-    url_poster: https://i.imgur.com/CmvmgNi.png
-    collection_mode: hide_items
-  Psychose - Saga:
-    template: {name: Collection, collection: 119674, summary: 119674}
-    url_poster: https://theposterdb.com/api/assets/161295
-  Le Chat Potté - Saga:
-    template: {name: Collection, collection: 94602, summary: 94602}
-    url_poster: https://theposterdb.com/api/assets/286087    
-  The Punisher - Saga:
-    template: {name: Collection, collection: 635362, summary: 635362}
-    url_poster: https://theposterdb.com/api/assets/171137    
-  Quatre Filles et un Jean - Saga:
-    template: {name: Collection, collection: 17368, summary: 17368}
-    url_poster: https://theposterdb.com/api/assets/168694
-  Rambo - Saga:  
-    template: {name: Collection, collection: 5039, summary: 5039}
-    url_poster: https://theposterdb.com/api/assets/164821     
-  RED - Saga:
-    template: {name: Collection, collection: 163902, summary: 163902}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/red-collection-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/162399
-#    collection_order: alpha
-    collection_mode: hide_items
-  La Reine des neiges - Saga:
-    template: {name: Collection, collection: 386382, summary: 386382}
-    url_poster: https://theposterdb.com/api/assets/98326
-  Resident Evil - Saga:
-    template: {name: Collection, collection: 17255, summary: 17255}
-    url_poster: https://theposterdb.com/api/assets/161290
-    trakt_list:
-      - https://trakt.tv/users/samyjr/lists/resident-evil?sort=rank,asc
-  Retour vers le futur - Trilogie:
-    template: {name: Collection, collection: 264, summary: 264}
-    trakt_list: 
-      - https://trakt.tv/users/strangerer/lists/back-to-the-future?sort=rank,asc
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/3028/qwRhwbxT6Sx5RlJFlODDXKxlck3DjrqqCmKZgzCK.webp
-    url_poster: https://theposterdb.com/api/assets/76874
-#    collection_order: alpha
-    collection_mode: hide_items      
-  Les Ripoux - Saga:  
-    template: {name: Collection, collection: 238448, summary: 238448}
-    url_poster: https://theposterdb.com/api/assets/82493
-  Les Rivières Pourpres - Saga:  
-    template: {name: Collection, collection: 3963, summary: 3963}
-    url_poster: https://theposterdb.com/api/assets/217019 
-  Robert Langdon - Saga:
-    template: {name: Collection, collection: 115776, summary: 115776}
-    trakt_list: 
-      - https://trakt.tv/users/shadowerwtas/lists/robert-langdon?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/148894
-#    collection_order: alpha
-    collection_mode: show_items
-  RoboCop - Saga:
-    template: {name: Collection, collection: 5547, summary: 5547}
-    url_poster: https://theposterdb.com/api/assets/164016
-  Rocky - Saga:
-    template: {name: Collection, collection: 1575, summary: 1575}
-    url_poster: https://theposterdb.com/api/assets/163422    
-  Rox et Rouky - Saga:
-    template: {name: Collection, collection: 100970, summary: 100970}
-    url_poster: https://theposterdb.com/api/assets/163001
-  Rio - Saga:
-    template: {name: Collection, collection: 229932, summary: 229932}
-    url_poster: https://theposterdb.com/api/assets/162967 
-  Rush Hour - Saga:
-    template: {name: Collection, collection: 90863, summary: 90863}
-    trakt_list: 
-      - https://trakt.tv/users/wasmisch77/lists/rush-hour?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/164824
-#    collection_order: alpha
-    collection_mode: hide_items
-  Sanjuro Collection:
-    template: {name: Collection, collection: 627389, summary: 627389}
-    url_poster: https://theposterdb.com/api/assets/229966
-  Sauvez Willy - Saga:
-    template: {name: Collection, collection: 9328, summary: 9328}
-    url_poster: https://theposterdb.com/api/assets/163387    
-  Saw - Saga:
-    template: {name: Collection, collection: 656, summary: 656}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/saw-movies-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/128823
-#    collection_order: alpha
-    collection_mode: hide_items
-  Qu'est-ce qu'on a fait au Bon Dieu ? - Saga:
-    template: {name: Collection, collection: 579870, summary: 579870}
-#    url_poster: https://theposterdb.com/api/assets/52697
-    collection_order: release
-    name_mapping: Serial (Bad) Weddings Collection
-    sort_title: "Qu'est-ce qu'on a fait au Bon Dieu ? - Saga"
-  Scary Movie - Saga:
-    template: {name: Collection, collection: 4246, summary: 4246}
-    trakt_list: 
-      - https://trakt.tv/users/dk1992/lists/scary-movie?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/94574
-#    collection_order: alpha
-    collection_mode: hide_items
-  Scream - Saga:
-    template: {name: Collection, collection: 2602, summary: 2602}
-    url_poster: https://theposterdb.com/api/assets/161544    
-  Sexe Intentions - Saga:
-    template: {name: Collection, collection: 52789, summary: 52789}
-    url_poster: https://theposterdb.com/api/assets/168693
-  Sexy Dance - Saga:  
-    template: {name: Collection, collection: 86092, summary: 86092}
-    url_poster: https://theposterdb.com/api/assets/189581   
+#  Police Academy - Saga:
+#    template: {name: Collection, collection: 9338, summary: 9338}
+#    trakt_list: 
+#      - https://trakt.tv/users/benjamingunn/lists/police-academy?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/124019
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Police Story - Saga:
+#    template: {name: Collection, collection: 269098, summary: 269098}
+#    url_poster: https://theposterdb.com/api/assets/160978
+#  Predator - Saga:
+#    template: {name: Collection, collection: 399, summary: 399, poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1796/v3jL8bZciaNd5sDvyZhCohO6klxPc2wjijmJKKKH.webp}
+#    trakt_list: 
+#      - https://trakt.tv/users/ireallylovevids/lists/predator?sort=released,asc
+#    url_poster: https://theposterdb.com/api/assets/76898
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Princesse Malgré Elle - Saga:
+#    template: {name: Collection, collection: 107674, summary: 107674}
+#    url_poster: https://theposterdb.com/api/assets/163406
+#  Prudence et Bélisaire Beresford - Saga:
+#    template: {name: Collection, collection: 160792, summary: 160792}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/prudence-et-belisaire-beresford-collection-copy?sort=rank,asc
+#    url_poster: https://i.imgur.com/CmvmgNi.png
+#    collection_mode: hide_items
+#  Psychose - Saga:
+#    template: {name: Collection, collection: 119674, summary: 119674}
+#    url_poster: https://theposterdb.com/api/assets/161295
+#  Le Chat Potté - Saga:
+#    template: {name: Collection, collection: 94602, summary: 94602}
+#    url_poster: https://theposterdb.com/api/assets/286087    
+#  The Punisher - Saga:
+#    template: {name: Collection, collection: 635362, summary: 635362}
+#    url_poster: https://theposterdb.com/api/assets/171137    
+#  Quatre Filles et un Jean - Saga:
+#    template: {name: Collection, collection: 17368, summary: 17368}
+#    url_poster: https://theposterdb.com/api/assets/168694
+#  Rambo - Saga:  
+#    template: {name: Collection, collection: 5039, summary: 5039}
+#    url_poster: https://theposterdb.com/api/assets/164821     
+#  RED - Saga:
+#    template: {name: Collection, collection: 163902, summary: 163902}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/red-collection-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/162399
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  La Reine des neiges - Saga:
+#    template: {name: Collection, collection: 386382, summary: 386382}
+#    url_poster: https://theposterdb.com/api/assets/98326
+#  Resident Evil - Saga:
+#    template: {name: Collection, collection: 17255, summary: 17255}
+#    url_poster: https://theposterdb.com/api/assets/161290
+#    trakt_list:
+#      - https://trakt.tv/users/samyjr/lists/resident-evil?sort=rank,asc
+#  Retour vers le futur - Trilogie:
+#    template: {name: Collection, collection: 264, summary: 264}
+#    trakt_list: 
+#      - https://trakt.tv/users/strangerer/lists/back-to-the-future?sort=rank,asc
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/3028/qwRhwbxT6Sx5RlJFlODDXKxlck3DjrqqCmKZgzCK.webp
+#    url_poster: https://theposterdb.com/api/assets/76874
+##    collection_order: alpha
+#    collection_mode: hide_items      
+#  Les Ripoux - Saga:  
+#    template: {name: Collection, collection: 238448, summary: 238448}
+#    url_poster: https://theposterdb.com/api/assets/82493
+#  Les Rivières Pourpres - Saga:  
+#    template: {name: Collection, collection: 3963, summary: 3963}
+#    url_poster: https://theposterdb.com/api/assets/217019 
+#  Robert Langdon - Saga:
+#    template: {name: Collection, collection: 115776, summary: 115776}
+#    trakt_list: 
+#      - https://trakt.tv/users/shadowerwtas/lists/robert-langdon?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/148894
+##    collection_order: alpha
+#    collection_mode: show_items
+#  RoboCop - Saga:
+#    template: {name: Collection, collection: 5547, summary: 5547}
+#    url_poster: https://theposterdb.com/api/assets/164016
+#  Rocky - Saga:
+#    template: {name: Collection, collection: 1575, summary: 1575}
+#    url_poster: https://theposterdb.com/api/assets/163422    
+#  Rox et Rouky - Saga:
+#    template: {name: Collection, collection: 100970, summary: 100970}
+#    url_poster: https://theposterdb.com/api/assets/163001
+#  Rio - Saga:
+#    template: {name: Collection, collection: 229932, summary: 229932}
+#    url_poster: https://theposterdb.com/api/assets/162967 
+#  Rush Hour - Saga:
+#    template: {name: Collection, collection: 90863, summary: 90863}
+#    trakt_list: 
+#      - https://trakt.tv/users/wasmisch77/lists/rush-hour?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/164824
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Sanjuro Collection:
+#    template: {name: Collection, collection: 627389, summary: 627389}
+#    url_poster: https://theposterdb.com/api/assets/229966
+#  Sauvez Willy - Saga:
+#    template: {name: Collection, collection: 9328, summary: 9328}
+#    url_poster: https://theposterdb.com/api/assets/163387    
+#  Saw - Saga:
+#    template: {name: Collection, collection: 656, summary: 656}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/saw-movies-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/128823
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Qu'est-ce qu'on a fait au Bon Dieu ? - Saga:
+#    template: {name: Collection, collection: 579870, summary: 579870}
+##    url_poster: https://theposterdb.com/api/assets/52697
+#    collection_order: release
+#    name_mapping: Serial (Bad) Weddings Collection
+#    sort_title: "Qu'est-ce qu'on a fait au Bon Dieu ? - Saga"
+#  Scary Movie - Saga:
+#    template: {name: Collection, collection: 4246, summary: 4246}
+#    trakt_list: 
+#      - https://trakt.tv/users/dk1992/lists/scary-movie?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/94574
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Scream - Saga:
+#    template: {name: Collection, collection: 2602, summary: 2602}
+#    url_poster: https://theposterdb.com/api/assets/161544    
+#  Sexe Intentions - Saga:
+#    template: {name: Collection, collection: 52789, summary: 52789}
+#    url_poster: https://theposterdb.com/api/assets/168693
+#  Sexy Dance - Saga:  
+#    template: {name: Collection, collection: 86092, summary: 86092}
+#    url_poster: https://theposterdb.com/api/assets/189581   
   Shang-Chi - Saga:
     template: {name: Collection-Smart, collection: 912503, summary: 912503}
     url_poster: https://theposterdb.com/api/assets/170437
     collection_mode: hide_items
     smart_label: title.asc
-  Shanghaï Kid - Saga:
-    template: {name: Collection, collection: 59567, summary: 59567}
-    url_poster: https://theposterdb.com/api/assets/165782
+#  Shanghaï Kid - Saga:
+#    template: {name: Collection, collection: 59567, summary: 59567}
+#    url_poster: https://theposterdb.com/api/assets/165782
   Shaun le Mouton - Saga:
     template: {name: Collection, summary: 624521}
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/shaun-le-mouton-saga?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/162964
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
-  Sharknado - Saga:
-    template: {name: Collection, collection: 286023, summary: 286023}
-    url_poster: https://theposterdb.com/api/assets/162221
-  Sherlock Holmes - Saga:
-    template: {name: Collection, collection: 102322, summary: 102322}
-    url_poster: https://theposterdb.com/api/assets/191404
-  Shining - Saga:
-    template: {name: Collection, collection: 530064, summary: 530064}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/shining-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/161873
-#    collection_order: alpha
-    collection_mode: hide_items
+#  Sharknado - Saga:
+#    template: {name: Collection, collection: 286023, summary: 286023}
+#    url_poster: https://theposterdb.com/api/assets/162221
+#  Sherlock Holmes - Saga:
+#    template: {name: Collection, collection: 102322, summary: 102322}
+#    url_poster: https://theposterdb.com/api/assets/191404
+#  Shining - Saga:
+#    template: {name: Collection, collection: 530064, summary: 530064}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/shining-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/161873
+##    collection_order: alpha
+#    collection_mode: hide_items
   Shaft - Saga:
     template: {name: Collection, collection: 495, summary: 495}
     url_poster: https://theposterdb.com/api/assets/164826    
@@ -1787,51 +1787,51 @@ collections:
   Shazam! - Saga: 
     template: {name: Collection, collection: 724848, summary: 724848}
     url_poster: https://theposterdb.com/api/assets/341267
-  Shrek - Saga:
-    template: {name: Collection, collection: 2150, summary: 2150}
-    trakt_list: 
-      - https://trakt.tv/users/bargainyak/lists/shrek?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/160988
-#    collection_order: alpha
-    collection_mode: hide_items
-  Silent Hill - Saga:
-    template: {name: Collection, collection: 64748, summary: 64748}
-    url_poster: https://theposterdb.com/api/assets/161872
-  Sin City - Saga:
-    template: {name: Collection, collection: 135179, summary: 135179}
-    url_poster: https://theposterdb.com/api/assets/162400
-  Sissi - Saga:
-    template: {name: Collection, collection: 456, summary: 456, poster: https://image.tmdb.org/t/p/original//kKmWGoKpoQZcoJzcFQQlybfxUWb.jpg}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/sissi-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/240331
-#    collection_order: alpha
-    collection_mode: hide_items
-  Sister Act - Saga:
-    template: {name: Collection, collection: 103573, summary: 103573}
-    trakt_list: 
-      - https://trakt.tv/users/benjamingunn/lists/sister-act?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/166216
-#    collection_order: alpha
-    collection_mode: hide_items
-  S.O.S. Fantômes - Saga:
-    template: {name: Collection, collection: 2980, summary: 2980}
-    url_poster: https://theposterdb.com/api/assets/92965  
-  Sonic - Saga:
-    template: {name: Collection, collection: 720879, summary: 720879}
-    url_poster: https://theposterdb.com/api/assets/234937
-  Souviens-toi... l'été dernier - Saga:  
-    template: {name: Collection, collection: 3601, summary: 3601}
-    url_poster: https://theposterdb.com/api/assets/161060
-  Space Jam - Saga:
-    template: {name: Collection, collection: 722961, summary: 722961}
-    url_poster: https://theposterdb.com/api/assets/167165
+#  Shrek - Saga:
+#    template: {name: Collection, collection: 2150, summary: 2150}
+#    trakt_list: 
+#      - https://trakt.tv/users/bargainyak/lists/shrek?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/160988
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Silent Hill - Saga:
+#    template: {name: Collection, collection: 64748, summary: 64748}
+#    url_poster: https://theposterdb.com/api/assets/161872
+#  Sin City - Saga:
+#    template: {name: Collection, collection: 135179, summary: 135179}
+#    url_poster: https://theposterdb.com/api/assets/162400
+#  Sissi - Saga:
+#    template: {name: Collection, collection: 456, summary: 456, poster: https://image.tmdb.org/t/p/original//kKmWGoKpoQZcoJzcFQQlybfxUWb.jpg}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/sissi-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/240331
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Sister Act - Saga:
+#    template: {name: Collection, collection: 103573, summary: 103573}
+#    trakt_list: 
+#      - https://trakt.tv/users/benjamingunn/lists/sister-act?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/166216
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  S.O.S. Fantômes - Saga:
+#    template: {name: Collection, collection: 2980, summary: 2980}
+#    url_poster: https://theposterdb.com/api/assets/92965  
+#  Sonic - Saga:
+#    template: {name: Collection, collection: 720879, summary: 720879}
+#    url_poster: https://theposterdb.com/api/assets/234937
+#  Souviens-toi... l'été dernier - Saga:  
+#    template: {name: Collection, collection: 3601, summary: 3601}
+#    url_poster: https://theposterdb.com/api/assets/161060
+#  Space Jam - Saga:
+#    template: {name: Collection, collection: 722961, summary: 722961}
+#    url_poster: https://theposterdb.com/api/assets/167165
   Spider-Man - Saga:
     template: {name: Collection, collection: 125574, summary: 125574}
     trakt_list: 
       - https://trakt.tv/users/officalkiira/lists/spider-man-trilogy?sort=released,desc
     url_poster: https://theposterdb.com/api/assets/171148
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
   Spider-Man (Avengers) - Saga:
     template: {name: Collection-Smart, collection: 531241, summary: 531241}
@@ -1847,36 +1847,36 @@ collections:
     url_poster: https://theposterdb.com/api/assets/171152
     collection_mode: hide_items
     sort_title: The Amazing Spider-Man - Saga
-  Suicide Squad - Saga:
-    template: {name: Collection, collection: 531242, summary: 531242}
-    url_poster: https://theposterdb.com/api/assets/174225   
-  Super Noël - Saga:  
-    template: {name: Collection, collection: 53159, summary: 53159}
-    url_poster: https://theposterdb.com/api/assets/168200
-  Super Size Me - Saga:
-    template: {name: Collection, collection: 475802, summary: 475802}
-    url_poster: https://theposterdb.com/api/assets/369471
-  Star Trek - Saga:  
-    template: {name: Collection, collection: 115575, summary: 115575}
-    url_poster: https://theposterdb.com/api/assets/308179    
-  "Star Trek : La série originale - Saga": 
-    name_mapping: Star Trek La serie originale - Saga
-    template: {name: Collection, collection: 151, summary: 151}
-    url_poster: https://theposterdb.com/api/assets/308181
-  "Star Trek : La nouvelle génération - Saga":  
-    name_mapping: Star Trek La nouvelle generation - Saga
-    template: {name: Collection, collection: 115570, summary: 115570}
-    url_poster: https://theposterdb.com/api/assets/308180 
+#  Suicide Squad - Saga:
+#    template: {name: Collection, collection: 531242, summary: 531242}
+#    url_poster: https://theposterdb.com/api/assets/174225   
+#  Super Noël - Saga:  
+#    template: {name: Collection, collection: 53159, summary: 53159}
+#    url_poster: https://theposterdb.com/api/assets/168200
+#  Super Size Me - Saga:
+#    template: {name: Collection, collection: 475802, summary: 475802}
+#    url_poster: https://theposterdb.com/api/assets/369471
+#  Star Trek - Saga:  
+#    template: {name: Collection, collection: 115575, summary: 115575}
+#    url_poster: https://theposterdb.com/api/assets/308179    
+#  "Star Trek : La série originale - Saga": 
+#    name_mapping: Star Trek La serie originale - Saga
+#    template: {name: Collection, collection: 151, summary: 151}
+#    url_poster: https://theposterdb.com/api/assets/308181
+#  "Star Trek : La nouvelle génération - Saga":  
+#    name_mapping: Star Trek La nouvelle generation - Saga
+#    template: {name: Collection, collection: 115570, summary: 115570}
+#    url_poster: https://theposterdb.com/api/assets/308180 
 
   Star Wars - Saga:
     template: {name: Collection-Smart, summary: 10}
-#    smart_label: title.asc  
+##    smart_label: title.asc  
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/star-wars-saga?sort=released,desc
     mdblist_list: https://mdblist.com/lists/ahasson/star-wars-nn6gnup5f8
     tmdb_movie: 74849
     url_poster: https://theposterdb.com/api/assets/128827
-#    collection_order: custom
+##    collection_order: custom
     collection_mode: hide_items
     radarr_add: true
     radarr_search: true
@@ -1888,63 +1888,63 @@ collections:
     trakt_list: 
       - https://trakt.tv/users/benjamingunn/lists/ewoks?sort=released,desc
     url_poster: https://theposterdb.com/api/assets/163385  
-#    url_poster: https://image.tmdb.org/t/p/original/juYBsmUX9JAOOOgjTLGCuJ4xCRU.jpg
+##    url_poster: https://image.tmdb.org/t/p/original/juYBsmUX9JAOOOgjTLGCuJ4xCRU.jpg
     collection_order: alpha
     collection_mode: hide_items
-  Starship Troopers - Saga:
-    template: {name: Collection, collection: 10522, summary: 10522}
-    url_poster: https://theposterdb.com/api/assets/160994   
-  Stuart Little - Saga:
-    template: {name: Collection, collection: 99727, summary: 99727}
-    url_poster: https://theposterdb.com/api/assets/163411
-  Superman - Saga:
-    template: {name: Collection, collection: 8537, summary: 8537}
-    url_poster: https://theposterdb.com/api/assets/162402
-  Spy Kids - Saga:
-    template: {name: Collection, collection: 86486, summary: 86486}
-    url_poster: https://theposterdb.com/api/assets/163410
-  Tad - Saga:
-    template: {name: Collection, collection: 492969, summary: 492969, poster: https://image.tmdb.org/t/p/w440_and_h660_face/qaA8zWYs1gmaGhuq8aVyQvNO75L.jpg}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/tad-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/395641
-#    collection_order: alpha
-    collection_mode: hide_items
-  Ted - Saga:
-    template: {name: Collection, collection: 266672, summary: 266672}
-    url_poster: https://theposterdb.com/api/assets/166268    
-  Taken - Saga:
-    template: {name: Collection, collection: 135483, summary: 135483}
-    url_poster: https://theposterdb.com/api/assets/52750
-  Tanguy - Saga:
-    template: {name: Collection, collection: 622394, summary: 622394}
-    url_poster: https://theposterdb.com/api/assets/70690
-  Tarzan (Animation) - Saga:
-    template: {name: Collection, collection: 106768, summary: 106768}
-    url_poster: https://theposterdb.com/api/assets/162958
-  Taxi - Saga:
-    template: {name: Collection, collection: 211721, summary: 211721}
-    url_poster: https://theposterdb.com/api/assets/164841  
-  Teen Wolf - Saga:
-    template: {name: Collection, collection: 43066, summary: 43066}
-    url_poster: https://theposterdb.com/api/assets/161863
-  Tempête de Boulettes Géantes - Saga:
-    template: {name: Collection, collection: 177467, summary: 17746}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/tempete-de-boulettes-geantes-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/101263  
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/13789/HbRJmkO6p3pHyc7e19mXHZH7oQqTeEkOWoGtV2OJ.webp
-#    collection_order: alpha
-    collection_mode: hide_items
-  Terminator - Saga:
-    template: {name: Collection, collection: 528, summary: 528}
-    url_poster: https://theposterdb.com/api/assets/98295
-  Tigre et Dragon - Saga:
-    template: {name: Collection, collection: 290973, summary: 290973}
-    url_poster: https://theposterdb.com/api/assets/160925
-  Top Gun - Saga:
-    template: {name: Collection, collection: 531330, summary: 531330}
-    url_poster: https://theposterdb.com/api/assets/196947    
+#  Starship Troopers - Saga:
+#    template: {name: Collection, collection: 10522, summary: 10522}
+#    url_poster: https://theposterdb.com/api/assets/160994   
+#  Stuart Little - Saga:
+#    template: {name: Collection, collection: 99727, summary: 99727}
+#    url_poster: https://theposterdb.com/api/assets/163411
+#  Superman - Saga:
+#    template: {name: Collection, collection: 8537, summary: 8537}
+#    url_poster: https://theposterdb.com/api/assets/162402
+#  Spy Kids - Saga:
+#    template: {name: Collection, collection: 86486, summary: 86486}
+#    url_poster: https://theposterdb.com/api/assets/163410
+#  Tad - Saga:
+#    template: {name: Collection, collection: 492969, summary: 492969, poster: https://image.tmdb.org/t/p/w440_and_h660_face/qaA8zWYs1gmaGhuq8aVyQvNO75L.jpg}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/tad-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/395641
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Ted - Saga:
+#    template: {name: Collection, collection: 266672, summary: 266672}
+#    url_poster: https://theposterdb.com/api/assets/166268    
+#  Taken - Saga:
+#    template: {name: Collection, collection: 135483, summary: 135483}
+#    url_poster: https://theposterdb.com/api/assets/52750
+#  Tanguy - Saga:
+#    template: {name: Collection, collection: 622394, summary: 622394}
+#    url_poster: https://theposterdb.com/api/assets/70690
+#  Tarzan (Animation) - Saga:
+#    template: {name: Collection, collection: 106768, summary: 106768}
+#    url_poster: https://theposterdb.com/api/assets/162958
+#  Taxi - Saga:
+#    template: {name: Collection, collection: 211721, summary: 211721}
+#    url_poster: https://theposterdb.com/api/assets/164841  
+#  Teen Wolf - Saga:
+#    template: {name: Collection, collection: 43066, summary: 43066}
+#    url_poster: https://theposterdb.com/api/assets/161863
+#  Tempête de Boulettes Géantes - Saga:
+#    template: {name: Collection, collection: 177467, summary: 17746}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/tempete-de-boulettes-geantes-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/101263  
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/13789/HbRJmkO6p3pHyc7e19mXHZH7oQqTeEkOWoGtV2OJ.webp
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Terminator - Saga:
+#    template: {name: Collection, collection: 528, summary: 528}
+#    url_poster: https://theposterdb.com/api/assets/98295
+#  Tigre et Dragon - Saga:
+#    template: {name: Collection, collection: 290973, summary: 290973}
+#    url_poster: https://theposterdb.com/api/assets/160925
+#  Top Gun - Saga:
+#    template: {name: Collection, collection: 531330, summary: 531330}
+#    url_poster: https://theposterdb.com/api/assets/196947    
   Cornetto Trilogy:
     url_poster: https://theposterdb.com/api/assets/72024
     trakt_list:
@@ -1968,194 +1968,194 @@ collections:
     url_poster: https://image.tmdb.org/t/p/w500/4iCmNgvbYUefl4fsRcY3TvRMxbh.jpg
     collection_order: alpha
     collection_mode: hide_items
-  La Tour Infernale - Saga:
-    template: {name: Collection, collection: 403603, summary: 403603}
-    url_poster: https://www.themoviedb.org/t/p/original/m4p2YLVqeCJefbOiIXslPby2QDC.jpg   
-  Tous en scène - Saga:
-    template: {name: Collection, collection: 544670, summary: 544670}
-    url_poster: https://theposterdb.com/api/assets/202172
-  Les tout-puissants - Saga:
-    template: {name: Collection, collection: 124949, summary: 124949}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/tout-puissant-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/162011  
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/6483/YUUpJqrlSgJ5Su2IclgWLyaIT7pAeVdttMs39lyo.webp
-#    collection_order: alpha
-    collection_mode: hide_items
-  Toy Story - Saga:
-    template: {name: Collection, collection: 10194, summary: 10194}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/toy-story-collection-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/162955  
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1501/fN4mh46Wb4M8jR3hIw4llLhpPYPz1kNHDMgfij55.webp
-#    collection_order: alpha
-    collection_mode: hide_items
-  Transformers - Saga:
-    template: {name: Collection, collection: 8650, summary: 8650}
-    trakt_list: 
-      - https://trakt.tv/users/ireallylovevids/lists/transformers?sort=released,asc
-    url_poster: https://theposterdb.com/api/assets/52742
-#    collection_order: alpha
-    collection_mode: hide_items
-  Trainspotting - Saga:
-    template: {name: Collection, collection: 424202, summary: 42420}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/trainspotting-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/164842
-#    collection_order: alpha
-    collection_mode: hide_items
-  Treize à la Douzaine - Saga:
-    template: {name: Collection, collection: 114783, summary: 114783}
-    url_poster: https://theposterdb.com/api/assets/192238
-  La Trilogie Klapisch - Saga:
-    template: {name: Collection-Smart, collection: 239766, summary: 239766}
-    smart_label: year.asc
-#    url_poster: https://theposterdb.com/api/assets/52697  
-  TRON - Saga:
-    template: {name: Collection, collection: 63043, summary: 63043}
-    url_poster: https://theposterdb.com/api/assets/160998
-  Twilight - Saga:
-    template: {name: Collection, collection: 33514, summary: 33514}
-    url_poster: https://theposterdb.com/api/assets/161853
-  Underworld - Saga:
-    template: {name: Collection, collection: 2326, summary: 2326}
-    url_poster: https://theposterdb.com/api/assets/161852
-  Un Flic à la Maternelle - Saga:
-    template: {name: Collection, collection: 397444, summary: 397444}
+#  La Tour Infernale - Saga:
+#    template: {name: Collection, collection: 403603, summary: 403603}
+#    url_poster: https://www.themoviedb.org/t/p/original/m4p2YLVqeCJefbOiIXslPby2QDC.jpg   
+#  Tous en scène - Saga:
+#    template: {name: Collection, collection: 544670, summary: 544670}
+#    url_poster: https://theposterdb.com/api/assets/202172
+#  Les tout-puissants - Saga:
+#    template: {name: Collection, collection: 124949, summary: 124949}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/tout-puissant-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/162011  
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/6483/YUUpJqrlSgJ5Su2IclgWLyaIT7pAeVdttMs39lyo.webp
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Toy Story - Saga:
+#    template: {name: Collection, collection: 10194, summary: 10194}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/toy-story-collection-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/162955  
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1501/fN4mh46Wb4M8jR3hIw4llLhpPYPz1kNHDMgfij55.webp
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Transformers - Saga:
+#    template: {name: Collection, collection: 8650, summary: 8650}
+#    trakt_list: 
+#      - https://trakt.tv/users/ireallylovevids/lists/transformers?sort=released,asc
+#    url_poster: https://theposterdb.com/api/assets/52742
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Trainspotting - Saga:
+#    template: {name: Collection, collection: 424202, summary: 42420}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/trainspotting-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/164842
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Treize à la Douzaine - Saga:
+#    template: {name: Collection, collection: 114783, summary: 114783}
+#    url_poster: https://theposterdb.com/api/assets/192238
+#  La Trilogie Klapisch - Saga:
+#    template: {name: Collection-Smart, collection: 239766, summary: 239766}
+#    smart_label: year.asc
+##    url_poster: https://theposterdb.com/api/assets/52697  
+#  TRON - Saga:
+#    template: {name: Collection, collection: 63043, summary: 63043}
+#    url_poster: https://theposterdb.com/api/assets/160998
+#  Twilight - Saga:
+#    template: {name: Collection, collection: 33514, summary: 33514}
 #    url_poster: https://theposterdb.com/api/assets/161853
-  Un prince à New York - Saga:
-    template: {name: Collection, collection: 647077, summary: 647077}
-    url_poster: https://theposterdb.com/api/assets/135010
-  Une Nuit en Enfer - Saga:
-    template: {name: Collection, collection: 10924, summary: 10924}
-    url_poster: https://theposterdb.com/api/assets/180301  
-#  Unbreakable Collection:
+#  Underworld - Saga:
+#    template: {name: Collection, collection: 2326, summary: 2326}
+#    url_poster: https://theposterdb.com/api/assets/161852
+#  Un Flic à la Maternelle - Saga:
+#    template: {name: Collection, collection: 397444, summary: 397444}
+##    url_poster: https://theposterdb.com/api/assets/161853
+#  Un prince à New York - Saga:
+#    template: {name: Collection, collection: 647077, summary: 647077}
+#    url_poster: https://theposterdb.com/api/assets/135010
+#  Une Nuit en Enfer - Saga:
+#    template: {name: Collection, collection: 10924, summary: 10924}
+#    url_poster: https://theposterdb.com/api/assets/180301  
+##  Unbreakable Collection:
+##    trakt_list:
+##      - https://trakt.tv/users/pierredurrr/lists/eastrail-177-copy?sort=rank,asc
+##    url_poster: https://theposterdb.com/api/assets/162389
+##    collection_mode: show_items
+#  Venom - Saga:
+#    template: {name: Collection, collection: 558216, summary: 558216}
+#    url_poster: https://theposterdb.com/api/assets/107428 
+#  La Véritable Histoire du Petit Chaperon Rouge - Saga:
+#    template: {name: Collection, collection: 87255, summary: 87255}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/la-veritable-histoire-du-petit-chaperon-rouge-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/307970
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  La Vérité si je mens ! - Saga:
+#    template: {name: Collection, collection: 115840, summary: 115840, poster: https://image.tmdb.org/t/p/original//zHNB1c9ABRWhMknTuUXvz2XtV9B.jpg}
 #    trakt_list:
-#      - https://trakt.tv/users/pierredurrr/lists/eastrail-177-copy?sort=rank,asc
-#    url_poster: https://theposterdb.com/api/assets/162389
-#    collection_mode: show_items
-  Venom - Saga:
-    template: {name: Collection, collection: 558216, summary: 558216}
-    url_poster: https://theposterdb.com/api/assets/107428 
-  La Véritable Histoire du Petit Chaperon Rouge - Saga:
-    template: {name: Collection, collection: 87255, summary: 87255}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/la-veritable-histoire-du-petit-chaperon-rouge-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/307970
-#    collection_order: alpha
-    collection_mode: hide_items
-  La Vérité si je mens ! - Saga:
-    template: {name: Collection, collection: 115840, summary: 115840, poster: https://image.tmdb.org/t/p/original//zHNB1c9ABRWhMknTuUXvz2XtV9B.jpg}
-    trakt_list:
-      - https://trakt.tv/users/pierredurrr/lists/la-verite-si-je-mens-saga?sort=rank,asc
-    url_poster: https://image.tmdb.org/t/p/original//zHNB1c9ABRWhMknTuUXvz2XtV9B.jpg
-#    collection_order: alpha
-    collection_mode: hide_items
-  Very Bad Trip - Saga:
-    template: {name: Collection, collection: 86119, summary: 86119}
-    trakt_list: 
-      - https://trakt.tv/users/ireallylovevids/lists/the-hangover?sort=released,asc
-    url_poster: https://theposterdb.com/api/assets/165414
-#    collection_order: alpha
-    collection_mode: hide_items
-  Vice Academy - Saga:
-    template: {name: Collection, collection: 314638, summary: 314638}
-    url_poster: https://theposterdb.com/api/assets/164846
+#      - https://trakt.tv/users/pierredurrr/lists/la-verite-si-je-mens-saga?sort=rank,asc
+#    url_poster: https://image.tmdb.org/t/p/original//zHNB1c9ABRWhMknTuUXvz2XtV9B.jpg
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Very Bad Trip - Saga:
+#    template: {name: Collection, collection: 86119, summary: 86119}
+#    trakt_list: 
+#      - https://trakt.tv/users/ireallylovevids/lists/the-hangover?sort=released,asc
+#    url_poster: https://theposterdb.com/api/assets/165414
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Vice Academy - Saga:
+#    template: {name: Collection, collection: 314638, summary: 314638}
+#    url_poster: https://theposterdb.com/api/assets/164846
   Vixens - Saga:
     template: {name: Collection, poster: https://image.tmdb.org/t/p/original//qtE5tyjDedFeqw5JQYxs19opDa8.jpg}
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/vixens-saga?sort=rank,asc
     tmdb_movie: 5651
     url_poster: https://image.tmdb.org/t/p/original//qtE5tyjDedFeqw5JQYxs19opDa8.jpg
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
-  Voyage au centre de la Terre - Saga:
-    template: {name: Collection, collection: 605516, summary: 605516}
-    trakt_list: 
-      - https://trakt.tv/users/rzepkowski/lists/journey-to-the-center-of-the-earth-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/162513
-#    collection_order: alpha
-    collection_mode: hide_items
+#  Voyage au centre de la Terre - Saga:
+#    template: {name: Collection, collection: 605516, summary: 605516}
+#    trakt_list: 
+#      - https://trakt.tv/users/rzepkowski/lists/journey-to-the-center-of-the-earth-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/162513
+##    collection_order: alpha
+#    collection_mode: hide_items
   Wallace & Gromit - Saga:
     template: {name: Collection, collection: 529, summary: 529}
     trakt_list: 
       - https://trakt.tv/users/thecardinal/lists/wallace-gromit?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/162952
-#    collection_order: alpha
+##    collection_order: alpha
     collection_mode: hide_items
-  Wayne's World - Saga:
-    template: {name: Collection, collection: 8979, summary: 8979}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/wayne-s-world-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/166273
-#    collection_order: alpha
-    collection_mode: hide_items
-  Week-end chez Bernie - Saga:
-    template: {name: Collection, collection: 118221, summary: 118221}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/week-end-chez-bernie-saga?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/166218
-#    collection_order: alpha
-    collection_mode: hide_items
-#  What We Do in the Shadow - Saga:
-#    tmdb_movie: 246741
-#    url_poster: https://theposterdb.com/api/assets/167540
-  Wolverine - Saga:
-    template: {name: Collection, collection: 453993, summary: 453993}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/the-wolverine-collection-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/171121
-#    collection_order: alpha
-    collection_mode: hide_items
-  Wonder Woman - Saga:
-    template: {name: Collection, collection: 468552, summary: 468552}
-    url_poster: https://theposterdb.com/api/assets/162410
-  X-Men - Saga:
-    template: {name: Collection, collection: 748, summary: 748}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/x-men-copy?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/171112
-#    collection_order: alpha
-    collection_mode: hide_items
-  Y a-t-il Un Flic ? - Saga:
-    template: {name: Collection, collection: 37139, summary: 37139}
-    trakt_list: 
-      - https://trakt.tv/users/rzepkowski/lists/the-naked-gun-movies?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/94706
-#    collection_order: alpha
-    collection_mode: hide_items
-  Y a-t-il un pilote dans l'avion ? - Saga:
-    template: {name: Collection, collection: 91663, summary: 91663}
-    trakt_list: 
-      - https://trakt.tv/users/benjamingunn/lists/airplane?sort=released,desc
-    url_poster: https://theposterdb.com/api/assets/195494  
-#    url_poster: https://www.themoviedb.org/t/p/original/e8aI0x8jW6ltdhW7ISsQv3VhlsM.jpg
-#    collection_order: alpha
-    collection_mode: hide_items
-  Yamakasi - Saga:
-    template: {name: Collection, collection: 107471, summary: 107471}
-#    url_poster: https://theposterdb.com/api/assets/94686
+#  Wayne's World - Saga:
+#    template: {name: Collection, collection: 8979, summary: 8979}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/wayne-s-world-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/166273
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Week-end chez Bernie - Saga:
+#    template: {name: Collection, collection: 118221, summary: 118221}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/week-end-chez-bernie-saga?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/166218
+##    collection_order: alpha
+#    collection_mode: hide_items
+##  What We Do in the Shadow - Saga:
+##    tmdb_movie: 246741
+##    url_poster: https://theposterdb.com/api/assets/167540
+#  Wolverine - Saga:
+#    template: {name: Collection, collection: 453993, summary: 453993}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/the-wolverine-collection-copy?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/171121
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Wonder Woman - Saga:
+#    template: {name: Collection, collection: 468552, summary: 468552}
+#    url_poster: https://theposterdb.com/api/assets/162410
+#  X-Men - Saga:
+#    template: {name: Collection, collection: 748, summary: 748}
+#    trakt_list: 
+#      - https://trakt.tv/users/pierredurrr/lists/x-men-copy?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/171112
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Y a-t-il Un Flic ? - Saga:
+#    template: {name: Collection, collection: 37139, summary: 37139}
+#    trakt_list: 
+#      - https://trakt.tv/users/rzepkowski/lists/the-naked-gun-movies?sort=rank,asc
+#    url_poster: https://theposterdb.com/api/assets/94706
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Y a-t-il un pilote dans l'avion ? - Saga:
+#    template: {name: Collection, collection: 91663, summary: 91663}
+#    trakt_list: 
+#      - https://trakt.tv/users/benjamingunn/lists/airplane?sort=released,desc
+#    url_poster: https://theposterdb.com/api/assets/195494  
+##    url_poster: https://www.themoviedb.org/t/p/original/e8aI0x8jW6ltdhW7ISsQv3VhlsM.jpg
+##    collection_order: alpha
+#    collection_mode: hide_items
+#  Yamakasi - Saga:
+#    template: {name: Collection, collection: 107471, summary: 107471}
+##    url_poster: https://theposterdb.com/api/assets/94686
   Studio Ghibli:
     template: {name: Collection}
     url_poster: https://theposterdb.com/api/assets/113472
-#    trakt_list:
-#    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1712/w7ez7ZYcXK89jCsueE1GPQXX5AXXauOB18cAXLEZ.webp
+##    trakt_list:
+##    url_poster: https://images.theposterdb.com/prod/public/images/posters/optimized/collections/1712/w7ez7ZYcXK89jCsueE1GPQXX5AXXauOB18cAXLEZ.webp
     collection_order: alpha
     collection_mode: show_items
     tmdb_company: https://www.themoviedb.org/company/10342
-  Zombieland - Saga:
-    template: {name: Collection, collection: 537982, summary: 537982}
-    url_poster: https://theposterdb.com/api/assets/208229
-  Zoolander - Saga:
-    template: {name: Collection, collection: 352789, summary: 352789}
-    url_poster: https://theposterdb.com/api/assets/166274 
+#  Zombieland - Saga:
+#    template: {name: Collection, collection: 537982, summary: 537982}
+#    url_poster: https://theposterdb.com/api/assets/208229
+#  Zoolander - Saga:
+#    template: {name: Collection, collection: 352789, summary: 352789}
+#    url_poster: https://theposterdb.com/api/assets/166274 
   Zootopie - Saga:
     trakt_list: https://trakt.tv/users/pierredurrr/lists/zootopia-saga?sort=rank,asc
     collection_mode: hide
     url_poster: https://theposterdb.com/api/assets/191991
-  Zorro - Saga:
-    template: {name: Collection, collection: 1657, summary: 1657}
-    url_poster: https://theposterdb.com/api/assets/165425
+#  Zorro - Saga:
+#    template: {name: Collection, collection: 1657, summary: 1657}
+#    url_poster: https://theposterdb.com/api/assets/165425
 
 #########################################################################################
 
