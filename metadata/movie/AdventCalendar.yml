@@ -1,0 +1,157 @@
+templates:
+
+  christmas:
+    sort_title: "zzz_Advent Calendar"
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/advent-calendar?sort=rank,asc
+    collection_order: custom
+    visible_home: true
+    visible_shared: true
+    label: REPLEXHERO
+
+collections:
+
+  Advent Calendar:
+    template: {name: christmas}
+    schedule: yearly(12/01)
+    limit: 1
+
+  Advent Calendar:
+    template: {name: christmas}
+    schedule: yearly(12/01)
+    limit: 2
+
+  Advent Calendar:
+    template: {name: christmas}
+    schedule: yearly(12/01)
+    limit: 3
+
+  Advent Calendar:
+    template: {name: christmas}
+    schedule: yearly(12/01)
+    limit: 4
+    
+  Advent Calendar:
+    template: {name: christmas}
+    schedule: yearly(12/01)
+    limit: 5
+    
+  Advent Calendar:
+    sort_title: "zzz_Advent Calendar"
+    schedule: yearly(12/02)
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/advent-calendar?sort=rank,asc
+    limit: 2
+    collection_order: custom
+    visible_home: true
+    visible_shared: true
+    label: REPLEXHERO
+
+  Advent Calendar:
+    sort_title: "zzz_Advent Calendar"
+    schedule: yearly(12/03)
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/advent-calendar?sort=rank,asc
+    limit: 3
+    collection_order: custom
+    visible_home: true
+    visible_shared: true
+    label: REPLEXHERO
+
+
+  Advent Calendar:
+    sort_title: "zzz_Advent Calendar"
+    schedule: yearly(12/03)
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/advent-calendar?sort=rank,asc
+    limit: 3
+    collection_order: custom
+    visible_home: true
+    visible_shared: true
+    label: REPLEXHERO
+
+
+  Advent Calendar:
+    sort_title: "zzz_Advent Calendar"
+    schedule: yearly(12/03)
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/advent-calendar?sort=rank,asc
+    limit: 3
+    collection_order: custom
+    visible_home: true
+    visible_shared: true
+    label: REPLEXHERO
+
+
+  Advent Calendar:
+    sort_title: "zzz_Advent Calendar"
+    schedule: yearly(12/03)
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/advent-calendar?sort=rank,asc
+    limit: 3
+    collection_order: custom
+    visible_home: true
+    visible_shared: true
+    label: REPLEXHERO
+
+
+  Advent Calendar:
+    sort_title: "zzz_Advent Calendar"
+    schedule: yearly(12/03)
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/advent-calendar?sort=rank,asc
+    limit: 3
+    collection_order: custom
+    visible_home: true
+    visible_shared: true
+    label: REPLEXHERO
+
+
+  Advent Calendar:
+    sort_title: "zzz_Advent Calendar"
+    schedule: yearly(12/03)
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/advent-calendar?sort=rank,asc
+    limit: 3
+    collection_order: custom
+    visible_home: true
+    visible_shared: true
+    label: REPLEXHERO
+
+
+  Advent Calendar:
+    sort_title: "zzz_Advent Calendar"
+    schedule: yearly(12/03)
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/advent-calendar?sort=rank,asc
+    limit: 3
+    collection_order: custom
+    visible_home: true
+    visible_shared: true
+    label: REPLEXHERO
+
+
+  Advent Calendar:
+    sort_title: "zzz_Advent Calendar"
+    schedule: yearly(12/03)
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/advent-calendar?sort=rank,asc
+    limit: 3
+    collection_order: custom
+    visible_home: true
+    visible_shared: true
+    label: REPLEXHERO
+
+
+  Advent Calendar:
+    sort_title: "zzz_Advent Calendar"
+    schedule: yearly(12/03)
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/advent-calendar?sort=rank,asc
+    limit: 3
+    collection_order: custom
+    visible_home: true
+    visible_shared: true
+    label: REPLEXHERO
+
+    
