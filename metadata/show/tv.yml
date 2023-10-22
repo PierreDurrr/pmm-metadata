@@ -390,9 +390,14 @@ metadata:
       24: {url_poster: https://theposterdb.com/api/assets/360151}
       25: {url_poster: https://theposterdb.com/api/assets/360152}
 
-"The Simpsons":
-#  url_poster: https://theposterdb.com/api/assets/246123
-  seasons:
+  Shameless (US): # Make this the title you want the item to be 
+    alt_title: Shameless # make this the title that you want to search on to change to the other title
+    sort_title: Shameless (US) # this will change sort title  
+
+
+  "The Simpsons":
+  #  url_poster: https://theposterdb.com/api/assets/246123
+    seasons:
       0: {url_poster: https://theposterdb.com/api/assets/246124}
       1: {url_poster: https://theposterdb.com/api/assets/246125}
       2: {url_poster: https://theposterdb.com/api/assets/246126}
