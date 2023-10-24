@@ -15,7 +15,6 @@ collections:
         collection.not:
           - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
           - "Bollywood"
-          - "Documentaires" 
       sort_by: random
       limit: 3
     schedule: weekly(tuesday)
