@@ -2,7 +2,7 @@ collections:
   Add Mardi c'est permis:
     name: "Mardi c'est permis"
     sort_title: "zzz_Mardi c'est permis"
-    summary: >-
+    summary: |
         En 1990, M6 diffuse tous ces films et téléfilms de prime time dans une case appelée Grand écran. 
         Très vite, la chaîne crée une case nommée « Le Mardi c'est permis », dans laquelle elle diffuse des films et téléfilms pour la jeunesse ou familiaux. 
         
@@ -27,7 +27,7 @@ collections:
   Remove Mardi c'est permis:
     name: "Mardi c'est permis"
     sort_title: "zzz_Mardi c'est permis"
-    summary: >-
+    summary: |
         En 1990, M6 diffuse tous ces films et téléfilms de prime time dans une case appelée Grand écran. 
         Très vite, la chaîne crée une case nommée « Le Mardi c'est permis », dans laquelle elle diffuse des films et téléfilms pour la jeunesse ou familiaux. 
         
