@@ -15,10 +15,7 @@ collections:
         collection.not:
           - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
           - "Bollywood"
-        filepath.not: 
-          - /mnt/_SYNOLOGY/video/Films/_Christmas/
-          - /mnt/_SYNOLOGY/video/Films/_Bollywood/
-          - /mnt/_SYNOLOGY/Mediatheque/Documentaires/ 
+          - "Documentaires" 
       sort_by: random
       limit: 3
     schedule: weekly(tuesday)
