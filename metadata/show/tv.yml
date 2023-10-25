@@ -80,6 +80,10 @@ collections:
     url_poster: https://theposterdb.com/api/assets/243269
     collection_order: release
 
+  John Wick - Saga:
+    template: {name: Show, show: "414734"}
+    collection_mode: hide
+
   Le Caméléon - Saga:
     template: {name: Show, show: "70704"}
     collection_mode: hide
@@ -189,6 +193,12 @@ collections:
     collection_mode: hide
     collection_order: alpha
     url_poster: https://theposterdb.com/api/assets/247173
+
+  The Boys - Saga:
+    template: {name: Show, show: "355567, 417909"}
+    collection_mode: hide
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/416630
 
   The Walking Dead - Saga:
 #    template: {name: Show, show: "1402, 62286, 94305, 427464"}
