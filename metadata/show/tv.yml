@@ -82,6 +82,7 @@ collections:
 
   John Wick - Saga:
     template: {name: Show, show: "414734"}
+    url_poster: https://theposterdb.com/api/assets/52712
     collection_mode: hide
 
   Le Caméléon - Saga:
