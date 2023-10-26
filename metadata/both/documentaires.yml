@@ -8,15 +8,10 @@ collections:
 #    collection_order: alpha
     collection_mode: hide_items
     sort_title: "!!!!!0007!_Documentaires"
-    plex_search:
-      all:
-        filepath:
-          - /mnt/_SYNOLOGY/Mediatheque/Documentaires/Docu_series
-          - /mnt/_SYNOLOGY/Mediatheque/Documentaires/Docu_films
-#    plex_all: true
-#    filters:
-#      filepath: 
-#        - /mnt/_SYNOLOGY/Mediatheque/Documentaires/Docu_series
+    plex_all: true
+    filters:
+      filepath: 
+        - /mnt/_SYNOLOGY/Mediatheque/Documentaires/Docu_series
 #        - /mnt/_SYNOLOGY/Mediatheque/Documentaires/Docu_films
 #    visible_home: true
 #    visible_shared: true
