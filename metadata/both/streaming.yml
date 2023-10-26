@@ -81,8 +81,9 @@ templates:
     mdblist_list: https://mdblist.com/lists/plexmetamanager/<<key>>-<<url_part>>s<<watch_region>>
   exclude_path:
     filters:
-      filepath.not: 
-        - /mnt/_SYNOLOGY/Mediatheque/Documentaires/
+#      filepath.not: 
+#        - /mnt/_SYNOLOGY/Mediatheque/Documentaires/
+      filepath.regex: '(?i)(Documentaires)'
 
 collections:
   Streaming Collections:
