@@ -930,6 +930,7 @@ metadata:
               \r\r\nCe film couvre les épisodes 68, 69, 46 et 47 puis 45 à 53 soit
               des couvertures de chapitres puis les chapitres 45 à 53."
       2:
+        title: Saison 2 - Baroque Works      
         episodes:
           8:
             title: La Route de tous les Périls
@@ -1013,6 +1014,7 @@ metadata:
               réalise que la bombe ne peut être stoppée aussi facilement.\r\n\r\r\r
               \r\nCe film couvre les épisodes 125 à 130 soit les chapitres 206 à 218."
       3:
+        title: Saison 3 - Île Céleste
         episodes:
           17:
             title: Les Yeux dans les Cieux
@@ -1063,6 +1065,7 @@ metadata:
             originally_available:
             summary: ''
       4:
+        title: Saison 4 - CP-9
         episodes:
           23:
             title: Davy Back Fight
@@ -1234,6 +1237,7 @@ metadata:
               qu'il s'agit de son grand-père.\r\n\r\r\r\r\nCe film couvre les épisodes
               313 à 325 soit les chapitres 431 à 441."
       5:
+        title: Saison 5 - Thriller Bark
         episodes:
           38:
             title: Thriller Bark
@@ -1294,6 +1298,7 @@ metadata:
               \n\r\r\r\r\nCe film couvre les épisodes 374 à 381 soit les chapitres
               481 à 490."
       6:
+        title: Saison 6 - Guerre au Sommet
         episodes:
           43:
             title: Duval
@@ -1458,6 +1463,7 @@ metadata:
               Ce film couvre les épisodes 510 à 516 soit les chapitres 591 puis 593
               à 597."
       7:
+        title: Saison 7 - Île des Hommes-Poissons
         episodes:
           61:
             title: Retrouvailles
@@ -1550,6 +1556,7 @@ metadata:
               son équipage si Luffy est toujours consentant.\r\r\r\n\r\r\r\nCe film
               couvre les épisodes 569 à 573 soit les chapitres 649 à 653."
       8:
+        title: Saison 8 - Dressrosa
         episodes:
           70:
             title: Punk Hazard, l'île bipolaire
@@ -1852,6 +1859,7 @@ metadata:
               il n'a pas encore appréhendé les Chapeaux de Paille.\r\r\r\n\r\r\r\n
               Ce film couvre les épisodes 740 à 745 soit les chapitres 796 à 800."
       9:
+        title: Saison 9 - Whole Cake Island
         episodes:
           97:
             title: Vers Zo
@@ -2068,6 +2076,7 @@ metadata:
               \r\r\r\nCe film couvre les épisodes 878 à 889 soit les chapitres 903
               à 908."
       10:
+        title: Saison 10 - Wano Kuni
         episodes:
           114:
             title: Koinobori
