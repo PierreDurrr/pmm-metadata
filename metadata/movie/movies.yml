@@ -1666,9 +1666,11 @@ collections:
 #    url_poster: https://theposterdb.com/api/assets/162399
 ##    collection_order: alpha
 #    collection_mode: hide_items
-#  La Reine des neiges - Saga:
-#    template: {name: Collection, collection: 386382, summary: 386382}
-#    url_poster: https://theposterdb.com/api/assets/98326
+  La Reine des neiges - Saga:
+    template: {name: Collection, collection: 386382, summary: 386382}
+    url_poster: https://theposterdb.com/api/assets/98326
+    trakt_list:
+      - https://trakt.tv/users/amarantha/lists/frozen?sort=rank,asc
 #  Resident Evil - Saga:
 #    template: {name: Collection, collection: 17255, summary: 17255}
 #    url_poster: https://theposterdb.com/api/assets/161290
