@@ -15,7 +15,8 @@ collections:
         - /mnt/_SYNOLOGY/Mediatheque/Documentaires/Docu_films
 #    visible_home: true
 #    visible_shared: true
-    smart_label: release.desc    
+#    smart_label: release.desc    
+    smart_label: added.desc
     label: REPLEXHERO
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Documentary.jpg
 
