@@ -6,6 +6,7 @@ templates:
     collection_order: custom
     visible_home: true
     visible_shared: true
+    visible_library: true
     delete_not_scheduled: true
     label: REPLEXHERO
     summary: |
