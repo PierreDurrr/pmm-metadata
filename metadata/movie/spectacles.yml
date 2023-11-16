@@ -1,0 +1,24 @@
+external_templates:
+  pmm: templates
+  repo: metadata/mytemplates.yml
+
+collections:
+
+  Spectacles:
+#    collection_order: alpha
+    collection_mode: hide_items
+    sort_title: "!!!!!0008!_Spectacles"
+    plex_all: true
+    filters:
+      filepath: 
+        - /mnt/_SYNOLOGY/Mediatheque/???
+#    visible_home: true
+#    visible_shared: true
+#    smart_label: release.desc 
+    trakt_list:
+      - list
+      - list
+      - list
+    smart_label: added.desc
+    label: MAINTENANCE
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/???.jpg
