@@ -31,4 +31,3 @@ collections:
     radarr_tag: spectacles
     radarr_folder: /mnt/_SYNOLOGY/video/_Spectacles
     radarr_add_missing: true
-    radarr_monitor: movie
