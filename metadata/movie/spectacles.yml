@@ -11,7 +11,7 @@ collections:
     plex_all: true
     filters:
       filepath: 
-        - /mnt/_SYNOLOGY/Mediatheque/???
+        - /mnt/_SYNOLOGY/video/_Spectacles/
 #    visible_home: true
 #    visible_shared: true
 #    smart_label: release.desc 
@@ -20,5 +20,7 @@ collections:
       - list
       - list
     smart_label: added.desc
-    label: MAINTENANCE
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/???.jpg
+    label: 
+      - MAINTENANCE
+      - spectacles
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/spectacles.jpg
