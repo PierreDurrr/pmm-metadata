@@ -16,9 +16,10 @@ collections:
 #    visible_shared: true
 #    smart_label: release.desc 
     trakt_list:
-      - list
-      - list
-      - list
+      - https://trakt.tv/users/franckie999/lists/spectacles?sort=rank,asc
+      - https://trakt.tv/users/foulou/lists/spectacles-fr?sort=rank,asc
+      - https://trakt.tv/users/chagouhier/lists/spectacle-humoristique?sort=rank,asc
+      - https://trakt.tv/users/mraniki/lists/theme-spectacles-francais?sort=released,asc
     smart_label: added.desc
     label: 
       - MAINTENANCE
