@@ -7,7 +7,7 @@ templates:
     visible_home: true
     visible_shared: true
     visible_library: true
-    delete_not_scheduled: true
+    delete_not_scheduled: false
     label: REPLEXHERO
     summary: |
         Il est temps !
