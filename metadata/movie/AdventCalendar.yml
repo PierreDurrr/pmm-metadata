@@ -18,6 +18,12 @@ templates:
         NOTE: cette collection sera mise à jour chaque jour, et sera disponible jusqu'au 05/01.
 
 collections:
+  Advent Calendar0:
+    name: Advent Calendar
+    template:
+      name: christmas
+    schedule: yearly(11/30)
+    limit: 1
   Advent Calendar:
     name: Advent Calendar
     template:
