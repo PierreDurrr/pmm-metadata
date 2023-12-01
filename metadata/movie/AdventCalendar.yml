@@ -19,42 +19,42 @@ templates:
 
 collections:
   Advent Calendar:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅" 
     template:
       name: christmas
     schedule: yearly(12/01)
     limit: 1
     
   Advent Calendar02:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/02)
     limit: 2
     
   Advent Calendar03:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/03)
     limit: 3
     
   Advent Calendar04:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/04)
     limit: 4
     
   Advent Calendar05:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/05)
     limit: 5
     
   Advent Calendar06:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/06)
