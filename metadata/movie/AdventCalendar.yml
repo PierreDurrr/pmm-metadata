@@ -61,133 +61,133 @@ collections:
     limit: 6
     
   Advent Calendar07:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/07)
     limit: 7
     
   Advent Calendar08:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/08)
     limit: 8
     
   Advent Calendar09:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/09)
     limit: 9
     
   Advent Calendar10:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/10)
     limit: 10
     
   Advent Calendar11:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/11)
     limit: 11
     
   Advent Calendar12:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/12)
     limit: 12
     
   Advent Calendar13:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/13)
     limit: 13
     
   Advent Calendar14:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/14)
     limit: 14
     
   Advent Calendar15:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/15)
     limit: 15
     
   Advent Calendar16:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/16)
     limit: 16
     
   Advent Calendar17:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/17)
     limit: 17
     
   Advent Calendar18:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/18)
     limit: 18
     
   Advent Calendar19:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/19)
     limit: 19
     
   Advent Calendar20:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/20)
     limit: 20
     
   Advent Calendar21:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/21)
     limit: 21
     
   Advent Calendar22:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/22)
     limit: 22
     
   Advent Calendar23:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/23)
     limit: 23
     
   Advent Calendar24:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: yearly(12/24)
     limit: 24
     
   Advent Calendar25:
-    name: 🎅 🎄 All I Want For Christmas is youuu 🎄 🎅
+    name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
     schedule: range(12/25-01/05)
