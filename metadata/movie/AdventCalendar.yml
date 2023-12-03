@@ -3,7 +3,7 @@ templates:
     sort_title: zzz_Advent_Calendar
     trakt_list:
       - https://trakt.tv/users/pierredurrr/lists/advent-calendar?sort=rank,asc
-    collection_order: custom
+    collection_order: custom.desc
     visible_home: true
     visible_shared: true
     visible_library: true
