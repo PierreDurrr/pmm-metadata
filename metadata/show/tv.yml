@@ -20,12 +20,6 @@ collections:
     collection_mode: hide
     url_poster: https://theposterdb.com/api/assets/29890
 
-  The Boys - Saga:
-    template: {name: Show, show: "355567, 417909"}
-    collection_mode: hide
-    collection_order: release
-    url_poster: https://theposterdb.com/api/assets/242071
-
   Chasse Aux Trésors:
     collection_mode: hide
     trakt_list: https://trakt.tv/users/pierredurrr/lists/treasure-hunting-shows?sort=rank,asc
