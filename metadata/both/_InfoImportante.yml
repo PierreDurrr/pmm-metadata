@@ -1,10 +1,11 @@
 collections:
-  Information Importante:
+  Ma rétrospective 2023:
     collection_order: alpha
     collection_mode: hide_items
     sort_title: +++++++__00000AddedThisWeek
     plex_all: true
     filters:
       filepath: /mnt/_SYNOLOGY/video/Films/_info
-#    visible_home: true
-#    visible_shared: true
+    visible_home: true
+    visible_shared: true
+    label: REPLEXHERO
