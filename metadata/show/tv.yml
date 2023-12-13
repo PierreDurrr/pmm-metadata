@@ -160,6 +160,10 @@ collections:
     url_poster: https://theposterdb.com/api/assets/161295
     collection_mode: hide
 
+  Les Razmoket - Saga:
+    template: {name: Show, show: "77038"}
+    url_poster: https://theposterdb.com/api/assets/162966 
+
   Le Seigneur des anneaux - Saga:
     template: {name: Show, show: "367506"}
     url_poster: https://theposterdb.com/api/assets/92068  
