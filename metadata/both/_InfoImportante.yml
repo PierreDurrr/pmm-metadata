@@ -2,7 +2,8 @@ collections:
   Ma rétrospective 2023:
     collection_order: alpha
     collection_mode: hide_items
-    sort_title: +++++++__00000AddedThisWeek
+    sort_title: !!!!!!0000001!_!Lexique Pierreflix 
+#    sort_title: +++++++__00000AddedThisWeek
     plex_all: true
     filters:
       filepath: /mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/info/2023_retrospective.mp4
