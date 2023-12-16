@@ -31,5 +31,5 @@ collections:
 
   "Queen Elisabeth's Death":
     template: { name: Prerolls }
-    schedule: range(09/08-09/16)
+    schedule: range(09/08-09/08)
     server_preroll: "/mnt/_SYNOLOGY/Mediatheque/Pierreflix_intro/her_majesty/Elizabeth_II_et_l'ours_Paddington_ouvrent_le_concert_du_jubile.mp4"
