@@ -85,6 +85,12 @@ collections:
     url_poster: https://theposterdb.com/api/assets/52712
     collection_mode: hide
 
+  La Casa de Papel - Saga:
+    template: {name: Show, show: "327417, 413033"}
+    collection_mode: hide
+    collection_order: release
+    url_poster: https://theposterdb.com/api/assets/325898
+
   Le Caméléon - Saga:
     template: {name: Show, show: "70704"}
     collection_mode: hide
