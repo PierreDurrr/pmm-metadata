@@ -9,16 +9,19 @@ collections:
 ### PILOTS #########
 ####################
 
-  "Et si on essayait une nouvelle serie":
+  "Envie de découvrir quelque chose ?":
     builder_level: episode
     plex_pilots: true
     smart_label:
       sort_by: random
       all:
         label: <<smart_label>>
+        unplayed: true
     collection_mode: hide
     visible_home: true
-    url_poster: https://i.ibb.co/nM5GB0g/coverlabs-poster.jpg
-    schedule:
-     - weekly(sunday)
-     - hourly(02)
+    visible_shared: true
+#    url_poster: https://i.ibb.co/nM5GB0g/coverlabs-poster.jpg
+#    schedule:
+#     - weekly(sunday)
+#     - hourly(02)
+    label: REPLEXHERO
