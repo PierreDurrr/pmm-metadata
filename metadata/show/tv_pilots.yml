@@ -16,7 +16,7 @@ collections:
       sort_by: random
       all:
         label: <<smart_label>>
-        unplayed: true
+        unplayed_episodes: true
     collection_mode: hide
     visible_home: true
     visible_shared: true
