@@ -3,20 +3,45 @@ templates:
     tvdb_show: <<show>>
     sort_title: <<collection_name>>
 
-collections:
+#collections:
 
 ####################
 ### PILOTS #########
 ####################
 
-  "Envie de découvrir quelque chose":
-    builder_level: episode
-    plex_pilots: true
-    smart_label:
-      sort_by: random
-      all:
-        label: <<smart_label>>
+#  "Envie de découvrir quelque chose":
+#    builder_level: episode
+#    plex_pilots: true
+#    smart_label:
+#      sort_by: random
+#      all:
+#        label: <<smart_label>>
 #        unplayed_episodes: true
+#    collection_mode: hide
+#    visible_home: true
+#    visible_shared: true
+##    url_poster: https://i.ibb.co/nM5GB0g/coverlabs-poster.jpg
+##    schedule:
+##     - weekly(sunday)
+##     - hourly(02)
+#    label: REPLEXHERO
+
+collections:
+  Label Pilots:
+    plex_pilots: true
+    item_label: Pilot
+    builder_level: episode
+    build_collection: false
+  'Envie de découvrir une nouvelle série ?':
+    sort_title: 'zzzz"Envie de découvrir quelque chose"'
+    summary: Unwatched TV Show Pilots
+    collection_mode: hide
+    collection_filtering: user
+    builder_level: episode
+    smart_filter:
+      all:
+        episode_label: Pilot
+        episode_unplayed: true
     collection_mode: hide
     visible_home: true
     visible_shared: true
@@ -24,4 +49,4 @@ collections:
 #    schedule:
 #     - weekly(sunday)
 #     - hourly(02)
-    label: REPLEXHERO
+    label: REPLEXHERO        
