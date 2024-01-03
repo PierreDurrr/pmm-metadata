@@ -42,7 +42,6 @@ collections:
       all:
         episode_label: Pilot
         episode_unplayed: true
-    collection_mode: hide
     visible_home: true
     visible_shared: true
 #    url_poster: https://i.ibb.co/nM5GB0g/coverlabs-poster.jpg
