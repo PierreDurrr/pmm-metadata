@@ -33,7 +33,7 @@ collections:
     builder_level: episode
     build_collection: false
   'Envie de découvrir une nouvelle série ?':
-    sort_title: 'zzzz"Envie de découvrir quelque chose"'
+    sort_title: 'zzzzEnvie de découvrir une nouvelle série ?'
     summary: Unwatched TV Show Pilots
     collection_mode: hide
     collection_filtering: user
