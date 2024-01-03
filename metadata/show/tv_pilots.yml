@@ -9,7 +9,7 @@ collections:
 ### PILOTS #########
 ####################
 
-  "Envie de découvrir quelque chose ?":
+  "Envie de découvrir quelque chose":
     builder_level: episode
     plex_pilots: true
     smart_label:
