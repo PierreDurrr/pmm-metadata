@@ -53,7 +53,7 @@ overlays:
       all:
         added: 18250
     filters:
-      filepath.regex: '(?i)(vostfr|vost|fastsub|subfrench|subtitled|multisub)'
+      filepath.regex: '(?i)(vostfr|vastfr|vost|fastsub|subfrench|subtitled|multisub)'
 #        - VOSTFR
 #        - vostfr
 #        - vost
