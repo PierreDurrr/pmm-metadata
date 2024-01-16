@@ -7,7 +7,7 @@ collections:
 #        Très vite, la chaîne crée une case nommée « Le Mardi c'est permis », dans laquelle elle diffuse des films et téléfilms pour la jeunesse ou familiaux. 
 #        
 #        Sous entendu que le mardi, les enfants peuvent regarder la télévision le soir, puisque le lendemain ils n'ont pas école.
-    smart_filter:
+    plex_search:
       all:
         content_rating: "Tous publics"
         genre: "Comédie"
