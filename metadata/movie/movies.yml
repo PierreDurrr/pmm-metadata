@@ -1962,6 +1962,13 @@ collections:
     url_poster: https://theposterdb.com/api/assets/4819
     collection_mode: hide_items
     smart_label: release.asc
+  This is England - Saga:
+    template: {name: Collection, #poster: https://www.cvs-mediatheques.com/home/notices/1/018/109018z.jpg}
+#    tmdb_movie: 11798
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/this-is-england-saga?sort=rank,asc
+#    url_poster: https://www.cvs-mediatheques.com/home/notices/1/018/109018z.jpg
+##    collection_order: alpha
+    collection_mode: hide_items    
   Titi et Grosminet Retrospective:
     template: {name: Collection, poster: https://image.tmdb.org/t/p/w500/4iCmNgvbYUefl4fsRcY3TvRMxbh.jpg}
     trakt_list: 
