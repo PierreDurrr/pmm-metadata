@@ -218,6 +218,12 @@ collections:
     collection_order: alpha
     url_poster: https://theposterdb.com/api/assets/276060
 
+  This is England - Saga:
+    template: {name: Show, show: "187351"}
+    collection_mode: hide
+    collection_order: release
+#    url_poster: https://theposterdb.com/api/assets/416630
+
   Zootopie - Saga:
     template: {name: Show, show: "393206"}
     trakt_list: https://trakt.tv/users/pierredurrr/lists/zootopia-saga?sort=rank,asc
