@@ -1,15 +1,7 @@
 metadata:
 
-#  This Is England:
-#    alt_title: This Is England '86
-#    sort_title: This Is England
-
   "This Is England":
     title: This Is England
-#    match:
-#      title: 
-#        - "This Is England '86"
-#        - This Is England
     sort_title: This Is England
     original_title: This Is England '86
     content_rating: 17 ans et +
