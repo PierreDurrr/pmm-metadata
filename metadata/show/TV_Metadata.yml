@@ -1,6 +1,17 @@
 metadata:
 
-  This Is England '86:
+#  This Is England:
+#    alt_title: This Is England '86
+#    sort_title: This Is England
+
+  "This Is England":
+    title: This Is England
+#    match:
+#      title: 
+#        - "This Is England '86"
+#        - This Is England
+    sort_title: This Is England
+    original_title: This Is England '86
     content_rating: 17 ans et +
     genre.sync:
     - Drama
@@ -9,6 +20,7 @@ metadata:
     label.sync: Overlay
     seasons:
       1:
+        title: Saison 1 - '86
         episodes:
           1:
             label.sync:
@@ -21,20 +33,22 @@ metadata:
           4:
             label.sync: Overlay
       2:
+        title: Saison 2 - '88
+        summary: "Noël 1988.\n Lol est hantée par les événements qui ont eu lieu 2 ans et demi auparavant. Woody et elle se retrouvent à faire face à leurs vies chacun de leur côté après qu'il ait quitté le groupe. Lol porte le poids de sa culpabilité, pendant que Woody essaye de se construire une vie normale avec une nouvelle petite amie et une probable promotion au travail. Shaun a commencé une école de théâtre, et bien qu'il soit toujours en couple avec Smell, il se rapproche dangereusement d'une fille avec qui il joue dans la pièce de Noël."
         episodes:
           1:
             label.sync:
-            - Pilot
             - Overlay
           2:
             label.sync: Overlay
           3:
             label.sync: Overlay
       3:
+        title: Saison 3 - '90
+        summary: "1990.\n La scène rave vient de faire son entrée en Angleterre. Woody et Lol vivent dans un bonheur domestique, ils sont à nouveau heureux. Mais d'énormes changements sont à prévoir."
         episodes:
           1:
             label.sync:
-            - Pilot
             - Overlay
           2:
             label.sync: Overlay
