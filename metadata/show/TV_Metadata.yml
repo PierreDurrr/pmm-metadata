@@ -1,0 +1,44 @@
+metadata:
+
+  This Is England '86:
+    content_rating: 17 ans et +
+    genre.sync:
+    - Drama
+    - Crime
+    - Comédie
+    label.sync: Overlay
+    seasons:
+      1:
+        episodes:
+          1:
+            label.sync:
+            - Pilot
+            - Overlay
+          2:
+            label.sync: Overlay
+          3:
+            label.sync: Overlay
+          4:
+            label.sync: Overlay
+      2:
+        episodes:
+          1:
+            label.sync:
+            - Pilot
+            - Overlay
+          2:
+            label.sync: Overlay
+          3:
+            label.sync: Overlay
+      3:
+        episodes:
+          1:
+            label.sync:
+            - Pilot
+            - Overlay
+          2:
+            label.sync: Overlay
+          3:
+            label.sync: Overlay
+          4:
+            label.sync: Overlay
