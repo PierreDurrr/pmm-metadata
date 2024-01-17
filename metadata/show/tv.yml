@@ -220,7 +220,7 @@ collections:
 
   This is England - Saga:
     template: {name: Show, show: "187351"}
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/this-is-england-saga?sort=rank,asc
+#    trakt_list: https://trakt.tv/users/pierredurrr/lists/this-is-england-saga?sort=rank,asc
     collection_mode: hide
     collection_order: release
 #    url_poster: https://theposterdb.com/api/assets/416630
