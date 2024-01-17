@@ -10,7 +10,7 @@ metadata:
     - Crime
     - Comédie
     label.sync: Overlay
-    summary: film en premier
+    summary: "Il est recommandé de voir le film avant la série.\n Sur fond de culture skinhead, de Coupe du monde de football et de chômage, un groupe d’adolescents cherche sa voie dans l'Angleterre de la fin des années 1980. Un formidable récit d'apprentissage, dans lequel Shane Meadows prolonge les aventures de Shaun, le jeune héros de son film "This is England" (2006)."
     seasons:
       1:
         title: Saison 1 - '86
