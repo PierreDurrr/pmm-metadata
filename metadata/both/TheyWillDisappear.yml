@@ -2,8 +2,8 @@ external_templates:
   pmm: templates
 
 collections:
-  Ils nous quittent...:
-    name_mapping: Ils nous quittent
+  Dernière chance:
+    name_mapping: Dernière chance
 #    variables:
 #      key: TheyWillDisappear
     sort_title: "!!!!!!0001!_!Lexique Pierreflix"
