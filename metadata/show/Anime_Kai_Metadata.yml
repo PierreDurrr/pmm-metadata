@@ -634,7 +634,7 @@ metadata:
     - Family
     - Fantasy
     - Science Fiction
-    Saisons:
+    seasons:
       1:
         title: Saison 1
         summary: ''
