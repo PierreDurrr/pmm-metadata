@@ -346,7 +346,7 @@ metadata:
     - Fantasy
     - Science Fiction
     - Thriller
-    saisons:
+    seasons:
       1:
         title: saison 1
         summary: ''
@@ -466,7 +466,7 @@ metadata:
     - Comedy
     - Fantasy
     - Science Fiction
-    saisons:
+    seasons:
       1:
         title: saison 1
         summary: ''
