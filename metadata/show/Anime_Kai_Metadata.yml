@@ -20,7 +20,7 @@ metadata:
     - Animation
     - Anime
     - Fantasy
-    seasons:
+    saisons:
       1:
         episodes:
           1:
@@ -346,9 +346,9 @@ metadata:
     - Fantasy
     - Science Fiction
     - Thriller
-    seasons:
+    saisons:
       1:
-        title: Season 1
+        title: saison 1
         summary: ''
         episodes:
           1:
@@ -364,7 +364,7 @@ metadata:
             content_rating:
             summary: "Nos amis s'approchent de la montagne mystérieuse et la chaleur augmente à l'approche du volcan...\n\n\n\n\n\nCe film couvre les épisodes 7 à 13."
       2:
-        title: Season 2
+        title: saison 2
         summary: ''
         episodes:
           3:
@@ -380,7 +380,7 @@ metadata:
             content_rating:
             summary: "Sangoku, Krilin et Yamcha font partie des 8 finalistes du Tournoi des arts martiaux. Ils prennent connaissance de leur premier combat. Krilin affronte Bactérie, l'homme qui ne s'est jamais lavé !\n\n\n\n\n\nCe film couvre les épisodes 21 à 28."
       3:
-        title: Season 3
+        title: saison 3
         summary: ''
         episodes:
           5:
@@ -414,7 +414,7 @@ metadata:
             content_rating:
             summary: "Alors que tout le monde s'est inscrit, Son Goku n'est toujours pas présent et ses amis commencent à s'inquiéter. On apprend également que Tenshihan et Chaozu sont les élèves de Tsuru Sennin, le rival de Tortue géniale depuis toujours.\n\n\n\n\n\nCe film couvre les épisodes 84 à 101."
       4:
-        title: Season 4
+        title: saison 4
         summary: ''
         episodes:
           10:
@@ -466,9 +466,9 @@ metadata:
     - Comedy
     - Fantasy
     - Science Fiction
-    seasons:
+    saisons:
       1:
-        title: Season 1
+        title: saison 1
         summary: ''
         episodes:
           1:
@@ -490,7 +490,7 @@ metadata:
             content_rating:
             summary: "Vegeta se préparant pour le combat, Nappa se rend compte qu'il a finalement perdu, et se prépare à attaquer Son Gohan et Krilin, mais Son Goku utilise l'aura de Kaio pour vaincre Nappa. Son Goku apporte à Son Gohan et Krilin de l'aide et des explications sur le l'aura de Kaio et indique qu'il doit être très prudent car cette technique peut détruire tout son corps s'il dépasse le double aura, voire le tuer. Son Goku s'étant défait facilement de Nappa, Végéta tue celui-ci. Son Goku dit à Son Gohan et Krilin de le quitter pour qu'il puisse lutter tout seul contre Vegeta sans distraction. Après avoir déménagé sur un nouveau champ de bataille c'est le début de la lutte, Son Goku se rend compte que le double aura n'est pas assez puissant pour vaincre Végéta et décide d'entrer en action avec le triple aura de Kaio.\n\n\n\n\n\nCe film couvre les épisodes 13 à 17."
       2:
-        title: Season 2
+        title: saison 2
         summary: ''
         episodes:
           4:
@@ -524,7 +524,7 @@ metadata:
             content_rating:
             summary: "Son Goku est prêt à venger les Nameks et les Saiyans. Le combat qui va faire trembler la planète commence mais aucun des deux n'est à sa force maximale.\n\n\n\n\n\nCe film couvre les épisodes 43 à 54."
       3:
-        title: Season 3
+        title: saison 3
         summary: ''
         episodes:
           9:
@@ -564,7 +564,7 @@ metadata:
             content_rating:
             summary: "Cell continue d'attaquer Son Gohan afin de lui permettre de révéler sa véritable nature et il va même jusqu'à le torturer. Piccolo s'en prend à Son Goku et lui reproche de n'avoir rien dit à son fils à propos de son plan. Il lui reproche également d'avoir laissé son fils entre les mains d'un monstre sans lui venir en aide. Piccolo s'apprête à aller aider son jeune apprenti, mais Son Goku se ressaisit et demande à Krilin un senzu.\n\n\n\n\n\nCe film couvre les épisodes 91 à 98."
       4:
-        title: Season 4
+        title: saison 4
         summary: ''
         episodes:
           15:
@@ -635,9 +635,9 @@ metadata:
     - Family
     - Fantasy
     - Science Fiction
-    seasons:
+    saisons:
       1:
-        title: Season 1
+        title: saison 1
         summary: ''
         episodes:
           1:
@@ -657,7 +657,7 @@ metadata:
             director.sync:
             writer.sync:
       2:
-        title: Season 2
+        title: saison 2
         summary: ''
         episodes:
           3:
@@ -673,7 +673,7 @@ metadata:
             content_rating:
             summary: "Le combat opposant Son Goku à Botamo a commencé.\n\n\n\n\n\nCe film couvre les épisodes 33 à 41."
       3:
-        title: Season 3
+        title: saison 3
         summary: ''
         episodes:
           5:
@@ -689,7 +689,7 @@ metadata:
             content_rating:
             summary: "Alors que Goku et les autres se remettent de leur défaite contre Black et Zamasu du futur, Whis, Beerus et Shin (Dieu Kaio de l’est) font leur apparition et avertissent que Zamasu du présent a questionné Zuno à propos de Goku et des Super Dragon Ball. Ensemble, ils élaborent la théorie selon laquelle Zamasu demanderait au Super Shenron l’immortalité et la naissance d’un guerrier possédant le corps de Goku. Craignant pour la vie de Gowasu (l’actuel Dieu Kaio de l’univers 10), Goku, Beerus, Whis et Kaio Shin de l’Est se rendent sur sa planète.\n\n\n\n\n\nCe film couvre les épisodes 58 à 67."
       4:
-        title: Season 4
+        title: saison 4
         summary: ''
         episodes:
           7:
@@ -742,9 +742,9 @@ metadata:
     - Fantastique
     - Science-Fiction
     - Thriller
-    seasons:
+    saisons:
       1:
-        title: Season 1
+        title: saison 1
         summary: ''
         episodes:
           1:
@@ -803,7 +803,7 @@ metadata:
     - Anime
     - Comedy
     - Fantasy
-    seasons:
+    saisons:
       1:
         episodes:
           1:
@@ -994,7 +994,7 @@ metadata:
     - Comedy
     - Drama
     - Fantasy
-    seasons:
+    saisons:
       1:
         episodes:
           1:
@@ -1282,8 +1282,8 @@ metadata:
               six chemins demande à Sasuke et Naruto d'annuler les « Arcanes lunaires
               infinis ».\n\nCe film couvre les épisodes 475 à 479."
   One Piece Kaï:
-    alt_title: One Piece
-    sort_title: One Piece Kai
+    alt_title: One Piece Kaï
+    sort_title: One Piece Kaï
     original_title:
     originally_available: '1999-10-19'
     content_rating: FR
@@ -1298,9 +1298,9 @@ metadata:
     - Comédie
     - Drame
     - Fantastique
-    seasons:
+    saisons:
       1:
-        title: Season 1
+        title: Saison 1 - East Blue
         summary: ''
         episodes:
           1:
@@ -1346,7 +1346,7 @@ metadata:
             content_rating: FR
             summary: "Kobby et Hermep sont désormais des membres à part entière de la Marine. Ils essaient, tant bien que mal et chacun à leur manière, de s'adapter à leurs nouvelles fonctions. Un jour, ils rejoignent l'équipage du navire chargé de remettre Morgan, l'ancien chef de la base, au Vice-Amiral Garp du QG de la Marine. Mais les choses tournent mal...\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 68, 69, 46 et 47 puis 45 à 53 soit des couvertures de chapitres puis les chapitres 45 à 53."
       2:
-        title: Season 2
+        title: Saison 2 - Baroque Works
         summary: ''
         episodes:
           8:
@@ -1404,7 +1404,7 @@ metadata:
             content_rating: FR
             summary: "Vivi essaie de trouver la bombe à l'intérieur de l'horloge mais Mr.7 et son compère sont là pour la défendre. Vivi les bat mais elle réalise que la bombe ne peut être stoppée aussi facilement.\r\n\r\r\r\r\nCe film couvre les épisodes 125 à 130 soit les chapitres 206 à 218."
       3:
-        title: Season 3
+        title: Saison 3 - Île Céleste
         summary: ''
         episodes:
           17:
@@ -1444,7 +1444,7 @@ metadata:
             content_rating: FR
             summary: ''
       4:
-        title: Season 4
+        title: Saison 4 - CP-9
         summary: ''
         episodes:
           23:
@@ -1538,7 +1538,7 @@ metadata:
             content_rating: FR
             summary: "De retour d'Enies Lobby, l'équipage du Chapeau de Paille se repose à Water 7, où leur nouveau navire est construit par Franky et la Galley-La Company. Mais leur joie est de courte durée, car un Vice-Amiral de la Marine leur rend visite. À la surprise générale, Luffy révèle qu'il s'agit de son grand-père.\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 313 à 325 soit les chapitres 431 à 441."
       5:
-        title: Season 5
+        title: Saison 5 - Thriller Bark
         summary: ''
         episodes:
           38:
@@ -1572,7 +1572,7 @@ metadata:
             content_rating: FR
             summary: "Luffy utilise son Gear Second et commence à combattre Moria. Ce dernier utilise sa technique Shadows Asgard, qui lui donne la force de 1000 ombres. Pendant ce temps, les personnes dont les ombres ont été volées par Moria se retrouvent menacées par le soleil levant...\r\n\r\r\r\r\nCe film couvre les épisodes 374 à 381 soit les chapitres 481 à 490."
       6:
-        title: Season 6
+        title: Saison 6 - Guerre au Sommet
         summary: ''
         episodes:
           43:
@@ -1654,7 +1654,7 @@ metadata:
             content_rating: FR
             summary: "Garp revient dans le village natal de Luffy et y retrouve Dadan. En colère, elle lui demande pourquoi il n’a pas aidé Ace. De retour sur l'île des femmes, Jimbei explique à Luffy qu’il doit surmonter la mort d'Ace, et que d’autres personnes l’attendent. Luffy repense à ses amis qu’il veut revoir.\n\nCe film couvre les épisodes 505 à 516 soit les chapitres 590 à 597."
       7:
-        title: Season 7
+        title: Saison 7 - Île des Hommes-Poissons
         summary: ''
         episodes:
           56:
@@ -1712,7 +1712,7 @@ metadata:
             content_rating: FR
             summary: "Luffy et son équipage quittent la place. En effet, Luffy et Zoro ont peur d'être considérés comme des héros et ainsi de partager la nourriture et le saké. Sur le Sunny, Jinbe repousse l'offre de Luffy, en lui disant qu'il a encore des choses à régler. Cependant, il promet à Luffy de venir à sa rencontre lorsque cela sera réglé et rejoindra son équipage si Luffy est toujours consentant.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 569 à 573 soit les chapitres 649 à 653."
       8:
-        title: Season 8
+        title: Saison 8 - Dressrosa
         summary: ''
         episodes:
           65:
@@ -1878,7 +1878,7 @@ metadata:
             content_rating: FR
             summary: "Trois jours après la défaite de Doflamingo et la victoire de Luffy, l'Amiral Issho reçoit la visite surprise de Sengoku et Tsuru qui se sont rendus personnellement à Dressrosa afin de savoir pourquoi il n'a pas encore appréhendé les Chapeaux de Paille.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 740 à 745 soit les chapitres 796 à 800."
       9:
-        title: Season 9
+        title: Saison 9 - Whole Cake Island
         summary: ''
         episodes:
           92:
@@ -1984,7 +1984,7 @@ metadata:
             content_rating: FR
             summary: "Alors que l'équipage au chapeau de paille fait voile loin du territoire de Big Mom, le reste du monde découvre avec stupeur l'audace et toute l'étendue de la puissance de Luffy et des siens.\r\r\r\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 878 à 889 soit les chapitres 903 à 908."
       10:
-        title: Season 10
+        title: Saison 10 - Wano Kuni
         summary: ''
         episodes:
           109:
