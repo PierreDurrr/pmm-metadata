@@ -45,6 +45,18 @@ collections:
     template: {name: Show, show: "295068, 81472, 76666, 79275, 88031, 347734, 272910, 347734"}
     collection_mode: hide
     url_poster: https://theposterdb.com/api/assets/170776
+
+  Dragon Ball - version Kai:
+#    collection_mode: hide
+    plex_search:
+      any:
+        title.is:
+          - "Dragon Ball Yabai"
+          - "Dragon Ball Z Yabai"
+          - "Dragon Ball Super Kaï"
+          - "Dragon Ball GT Fan-Cut"
+    url_poster: https://theposterdb.com/api/assets/170776
+    summary: "Dragon Ball Kai (ドラゴンボール 改, Doragon Bōru Kai ; Dragon Ball à nouveau) est un anime se voulant plus fidèle \nau manga Dragon Ball d’Akira Toriyama et basé sur la série d'animation Dragon Ball Z, pour célébrer les vingt ans de la série (1989-2009). \nLa Tôei Animation a ainsi décidé de remonter et de remastériser Dragon Ball Z avec notamment une réduction d’épisodes, \nle tout en HD"
     
   Flamme et Flambeau:
     template: {name: Show, show: "371079, 420289"}
@@ -135,6 +147,15 @@ collections:
     template: {name: Show, show: "78857, 79824, 321285"}
     collection_mode: hide
     url_poster: https://theposterdb.com/api/assets/235264
+
+  Naruto - Version Kai:
+    plex_search:
+      any:
+        title.is:
+          - "Naruto Yabaï"
+          - "Naruto Shippuden Kaï"
+#    collection_mode: hide
+    url_poster: https://theposterdb.com/api/assets/235264    
 
   Olive et Tom - Saga: 
     template: {name: Show, show: "84045, 339203"}
