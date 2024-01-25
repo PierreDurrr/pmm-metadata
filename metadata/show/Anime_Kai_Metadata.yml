@@ -328,6 +328,407 @@ metadata:
             summary: "Dépouillé de son Fullbring, l'impuissant Ichigo Kurosaki se
               fait planter par Rukia Kuchiki afin de lui rendre ses pouvoirs de Shinigami.\n
               \n\n\n\n\nCe film couvre les épisodes 361 à 366."
+
+  Dragon Ball Yabai:
+    sort_title: Dragon Ball 1
+    original_title:
+    originally_available: '1986-02-25'
+    content_rating:
+    studio: Mixouille - Fan-Kai
+    tagline:
+    summary: Alors qu'elle parcourt les routes de montagnes à moto, Bulma fait une bien étrange rencontre en la personne de Sangoku, un petit garçon étonnamment fort, résistant et possédant une queue, comme les singes. Il possède un trésor qu'elle recherche, une boule de cristal, mais ne veut pas la lui céder, c'est un cadeaux que lui a laissé son grand-père Sangohan. Ils trouvent finalement un compromis, et Sangoku part avec elle à la recherche des 7 boules de cristal dont on dit qu'elles exaucent n'importe quel souhait une fois réunis.
+    genre.sync:
+    - Yabai
+    - Action
+    - Adventure
+    - Animation
+    - Anime
+    - Fantasy
+    - Science Fiction
+    - Thriller
+    seasons:
+      1:
+        title: Season 1
+        summary: ''
+        episodes:
+          1:
+            title: A la recherche des Dragon Balls
+            sort_title: la recherche des Dragon Balls
+            originally_available: '2018-05-31'
+            content_rating:
+            summary: "Fille de l'inventeur de la Capsule Corp, l'intrépide Bulma vient d'achever sa première invention, un radar qui permettrait de localiser les 7 boules de cristal. Selon la légende, les boules de cristal, dispersées à travers le monde, permettraient une fois regroupées, d'invoquer le grand dragon qui en retour exaucerait le moindre voeu de leur possesseur. Perdue dans une région mondagneuse, Bulma rencontre un drôle de petit garçon doté d'une queue de singe : Son goku.\n\n\n\n\n\nCe film couvre les épisodes 1 à 6."
+          2:
+            title: Le roi et le Singe
+            sort_title: Le roi et le Singe
+            originally_available: '2018-05-31'
+            content_rating:
+            summary: "Nos amis s'approchent de la montagne mystérieuse et la chaleur augmente à l'approche du volcan...\n\n\n\n\n\nCe film couvre les épisodes 7 à 13."
+      2:
+        title: Season 2
+        summary: ''
+        episodes:
+          3:
+            title: L'Entraînement selon l'Ermite
+            sort_title: L'Entrainement selon l'Ermite
+            originally_available: '2018-05-31'
+            content_rating:
+            summary: "Son Goku se sépare de Bulma, Yamcha et Oolong, il désire rejoindre Tortue géniale pour qu'il lui apprenne de nouvelles techniques.\n\n\n\n\n\nCe film couvre les épisodes 14 à 20."
+          4:
+            title: Le 21e Tenkaichi Budokai
+            sort_title: Le 21e Tenkaichi Budokai
+            originally_available: '2018-05-31'
+            content_rating:
+            summary: "Sangoku, Krilin et Yamcha font partie des 8 finalistes du Tournoi des arts martiaux. Ils prennent connaissance de leur premier combat. Krilin affronte Bactérie, l'homme qui ne s'est jamais lavé !\n\n\n\n\n\nCe film couvre les épisodes 21 à 28."
+      3:
+        title: Season 3
+        summary: ''
+        episodes:
+          5:
+            title: Le Red Ribon
+            sort_title: Le Red Ribon
+            originally_available: '2018-05-31'
+            content_rating:
+            summary: "Le tournoi étant terminé, nos amis se séparent et repartent chacun de leur côté. Krilin reste avec Kamé Sennin, Yamcha avec Bulma, Oolong et Puerh, Son Goku quant à lui repart à la recherche des Dragon Balls. En chemin, il traverse un désert dans lequel il retrouve Nam en fort mauvaise posture. Ce dernier cherche à comprendre pourquoi la rivière qui traverse son désert est asséchée. Son Goku vient en aide à son ami et lève le mystère sur la rivière asséchée.\n\n\n\n\n\nCe film couvre les épisodes 29 à 42."
+          6:
+            title: Le Commandant Blue
+            sort_title: Le Commandant Blue
+            originally_available: '2018-05-31'
+            content_rating:
+            summary: "Avant son départ, un vieil homme annonce au jeune garçon que Kinto-un ne peut être détruit par une arme classique. Son Goku l'appelle et son nuage apparaît. Il fait ses adieux à tout le monde et part rejoindre Bulma pour qu'elle puisse réparer son radar. Arrivé en pleine ville, Son Goku est complètement perdu, trop de monde, trop de voitures, trop d'immeubles. Il n'est pas habitué à tout ça. Mais grâce à un policier, il retrouve la maison de Bulma : la Capsule Corporation. Pendant ce temps, le Général Red retrouve la trace de Son Goku.\n\n\n\n\n\nCe film couvre les épisodes 43 à 57."
+          7:
+            title: La Tour Karin
+            sort_title: Tour Karin
+            originally_available: '2018-05-31'
+            content_rating:
+            summary: "Blue est sur le chemin du retour pour ramener au Général Red le Dragon Radar fabriqué par Bulma. Son Goku, quant à lui, se dirige vers des terres volcaniques, dirigées par le Commandant Yellow, qui abritent une Dragon Ball. Alors que son équipe est à deux doigt d'attraper la boule magique, une éruption volcanique a lieu.\n\n\n\n\n\nCe film couvre les épisodes 58 à 68."
+          8:
+            title: Baba la voyante
+            sort_title: Baba la voyante
+            originally_available: '2018-05-31'
+            content_rating:
+            summary: "Alors que le dragon radar fonctionne correctement, nos héros n'arrivent pas à localiser la dernière boule magique. Bulma avance l'hypothèse qu'un animal a dû l'avaler. Tortue géniale suggère l'idée d'aller voir Baba la voyante qui devrait pouvoir trouver la boule manquante grâce à ses pouvoirs.\n\n\n\n\n\nCe film couvre les épisodes 69 à 78."
+          9:
+            title: Le 22e Tenkaichi Budokai
+            sort_title: Le 22e Tenkaichi Budokai
+            originally_available: '2018-05-31'
+            content_rating:
+            summary: "Alors que tout le monde s'est inscrit, Son Goku n'est toujours pas présent et ses amis commencent à s'inquiéter. On apprend également que Tenshihan et Chaozu sont les élèves de Tsuru Sennin, le rival de Tortue géniale depuis toujours.\n\n\n\n\n\nCe film couvre les épisodes 84 à 101."
+      4:
+        title: Season 4
+        summary: ''
+        episodes:
+          10:
+            title: Le Roi Démon
+            sort_title: Le Roi Demon
+            originally_available: '2018-05-31'
+            content_rating:
+            summary: "Tous les héros arrivent au pas de course rejoindre Son Goku et Krilin. Ils constatent la triste nouvelle de la mort de Krilin. Son Goku est au bord de l’explosion. Il demande le dragon radar à Bulma et fonce à la poursuite du monstre qui a tué son ami et pris le dragon ball de Son Goku.\n\n\n\n\n\nCe film couvre les épisodes 102 à 112."
+          11:
+            title: Le King Castle
+            sort_title: Le King Castle
+            originally_available: '2018-05-31'
+            content_rating:
+            summary: "Son Goku est transporté par Yajirobé à la terre sainte, où il revoit Upa et son père. Son Goku est blessé. Le père d'Upa conseille à Yajirobé d'escalader la tour Karine avec Son Goku.\n\n\n\n\n\nCe film couvre les épisodes 113 à 122."
+          12:
+            title: Le Temple Céleste
+            sort_title: Le Temple Celeste
+            originally_available: '2018-05-31'
+            content_rating:
+            summary: "Après la victoire de Son Goku face au démon Piccolo, Yajirobé transporte Son Goku jusqu'à la tour Karin pour que celui-ci soigne les blessures de Son Goku. Après avoir appris pour la mort de Shenron, Karin apprendra à Son Goku que Nyoibo était initialement conçu pour relier la tour Karin au temple dans lequel vit le Tout-Puissant.\n\n\n\n\n\nCe film couvre les épisodes 123 à 135."
+          13:
+            title: Le 23e Tenkaichi Budokai
+            sort_title: Le 23e Tenkaichi Budokai
+            originally_available: '2018-05-31'
+            content_rating:
+            summary: "Ten Shin Han doit se mesurer à Tao Pai Pai. Celui-ci veut le tuer, ainsi que Son Goku.\n\n\n\n\n\nCe film couvre les épisodes 136 à 141."
+          14:
+            title: Piccolo
+            sort_title: Piccolo
+            originally_available: '2018-05-31'
+            content_rating:
+            summary: "Le tournoi continue, Shen et Piccolo s'affrontent.\n\n\n\n\n\nCe film couvre les épisodes 142 à 148."
+
+  Dragon Ball Z Yabai:
+    alt_title: Dragon Ball Z
+    sort_title: Dragon Ball 2
+    original_title:
+    originally_available: '1989-04-25'
+    content_rating:
+    studio: Mixouille - Fan-Kai
+    tagline:
+    summary: Dragon Ball Z reprend cinq ans après le mariage de Son Goku. Radditz, un mystérieux guerrier de l'espace, arrive sur Terre pour retrouver Goku, qui apprend alors qu'il vient d'une planète de guerriers dont il ne reste plus que quatre survivants. La trame de l'histoire repose sur une succession d'adversaires à combattre, de plus en plus forts, mais il y a aussi fréquemment un contexte de quête ou de voyage qui donne un intérêt autre que les simples duels.
+    genre.sync:
+    - Yabai
+    - Action
+    - Adventure
+    - Animation
+    - Anime
+    - Comedy
+    - Fantasy
+    - Science Fiction
+    seasons:
+      1:
+        title: Season 1
+        summary: ''
+        episodes:
+          1:
+            title: La menace Saiyenne
+            sort_title: menace Saiyenne
+            originally_available: '2018-04-06'
+            content_rating:
+            summary: "On retrouve Goku qui, une fois arrivé à Kamé House, présente son fils à Bulma, Krilin et Kamé Sennin. Un étranger arrive peu de temps après et parle à Goku d'une manière familière. Krilin ne se méfiant pas et croyant qu'il s'agit d'un ivrogne se prend un coup de queue de la part de l'inconnu faisant comprendre à tous qu'il est de la même race que Son Goku, c'est-à-dire la race des Saiyans.\n\n\n\n\n\nCe film couvre les épisodes 1 à 5."
+          2:
+            title: L'Autre Monde
+            sort_title: L'Autre Monde
+            originally_available: '2018-04-06'
+            content_rating:
+            summary: "Après que Son Gohan a recouvert ses esprits à la suite de ce dernier incident, il continue sa formation. Pendant ce temps, Son Goku est enfin arrivé à la fin de la route du serpent et rencontre Maître Kaio. Il se rend compte que la gravité de sa planète est 10 fois supérieure à celle de la planète Terre et il doit s'y habituer. Pour que Son Goku puisse suivre la formation de Kaio, il doit d'abord le faire mourir de rire. Ayant réussi l'épreuve, Son Goku doit attraper le singe Bubbles. Celui-ci courant autour de la planète, Goku doit le poursuivre tout en ayant une masse corporelle 10 fois plus élevée.\n\n\n\n\n\nCe film couvre les épisodes 6 à 12."
+          3:
+            title: Vegeta
+            sort_title: Vegeta
+            originally_available: '2018-04-10'
+            content_rating:
+            summary: "Vegeta se préparant pour le combat, Nappa se rend compte qu'il a finalement perdu, et se prépare à attaquer Son Gohan et Krilin, mais Son Goku utilise l'aura de Kaio pour vaincre Nappa. Son Goku apporte à Son Gohan et Krilin de l'aide et des explications sur le l'aura de Kaio et indique qu'il doit être très prudent car cette technique peut détruire tout son corps s'il dépasse le double aura, voire le tuer. Son Goku s'étant défait facilement de Nappa, Végéta tue celui-ci. Son Goku dit à Son Gohan et Krilin de le quitter pour qu'il puisse lutter tout seul contre Vegeta sans distraction. Après avoir déménagé sur un nouveau champ de bataille c'est le début de la lutte, Son Goku se rend compte que le double aura n'est pas assez puissant pour vaincre Végéta et décide d'entrer en action avec le triple aura de Kaio.\n\n\n\n\n\nCe film couvre les épisodes 13 à 17."
+      2:
+        title: Season 2
+        summary: ''
+        episodes:
+          4:
+            title: La Planète Namek
+            sort_title: Planete Namek
+            originally_available: '2018-05-19'
+            content_rating:
+            summary: "Goku, Krilin, Son Gohan sont à l'hôpital pour se remettre de leur bataille avec Vegeta. Leurs amis et la famille viennent leur rendre visite. Lorsque le téléviseur est allumé, ils voient un rapport sur la navette spatiale de Nappa. Bulma, pensant avoir appuyé sur le bouton qui ferai décoller la navette jusqu'à eux, enclenche l'auto-destruction de l'appareil. Avant que tout le monde ne perde espoir, Mr. Popo arrive, et leur dit qu'il existe un autre vaisseau spatial à déplacement très rapide. C'est le navire Namek que Kami avait pris lors de sa venue sur Terre quand il était enfant. Bulma accepte à contrecœur de l'inspecter et ils se retrouvent tous deux au mont Yunzabit. Ils se rendent compte que le bâtiment est à commande vocale et qu'il faut donner ses instructions dans la langue Namek. Bulma convertit la langue en japonais. Quelques semaines plus tard, Son Gohan et Krilin décident de l'accompagner dans son voyage vers la planète Namek, à la recherche des Dragon Balls.\r\r\n\r\r\nCe film couvre les épisodes 18 à 23."
+          5:
+            title: Le Commando Ginyu
+            sort_title: Le Commando Ginyu
+            originally_available: '2018-05-19'
+            content_rating:
+            summary: "Alors que Son Goku progresse à vue d'œil, Kaio entre en contact avec lui pour lui annoncer que Yamcha, Ten Shin Han, Chaozu et Piccolo sont arrivés chez lui pour y suivre un entraînement encore plus difficile que lorsqu'il s'y trouvait lui-même. Ce dernier le met au courant de la situation sur Namek, laquelle inquiète grandement Kaio. En effet, connaissant la cruauté et la puissance colossales de Freezer et du danger qu'il pourrait représenter, il demande à notre héros d'éviter tout contact avec lui, sa force étant de loin supérieure à la sienne. Sur Namek, alors que Krilin et Dendé partent rejoindre le Doyen des Aînés, un combat s'engage entre Vegeta et Zabon. Le Saiyan a l'avantage jusqu'à ce que Zabon dévoile sa véritable et monstrueuse apparence.\n\n\n\n\n\nCe film couvre les épisodes 24 à 30."
+          6:
+            title: L'apparition de Polunga
+            sort_title: L'apparition de Polunga
+            originally_available: '2018-05-24'
+            content_rating:
+            summary: "Son Goku est enfin arrivé sur Namek et porte rapidement secours à ses amis à l'aide des Senzus restants. Ce dernier est mis au courant de la situation et décide d'entamer le combat face au commando Ginyu mais seul. Ses amis comme ses adversaires estiment qu'il n'est pas de taille (les scouters indiquent une puissance de 5 000 à peine) mais à la surprise de tout le monde, Son Goku déploie une puissance colossale. En effet, ce dernier est capable d'augmenter sa force un bref instant afin de ne pas gaspiller inutilement son énergie. Résultat, il parvient à mettre Reacum au tapis en un seul coup et à tourner en ridicule les deux autres membres restants et déploie sa puissance à Burter ce qui le mettra KO.\n\n\n\n\n\nCe film couvre les épisodes 31 à 36."
+          7:
+            title: Freezer
+            sort_title: Freezer
+            originally_available: '2018-06-08'
+            content_rating:
+            summary: "Le combat pour la survie a débuté : Freezer fait preuve d'une rudesse et d'un pouvoir monstrueux ; cependant Vegeta parvient à lui tenir tête. Ce n'est que temporaire ; Vegeta conscient que Freezer se retient lui demande de se métamorphoser. Bien mal lui en a pris : Freezer double de taille et se voit doté à présent d'une force proche de 1 000 000.\n\n\n\n\n\nCe film couvre les épisodes 37 à 42."
+          8:
+            title: Le Choc des Titans
+            sort_title: Le Choc des Titans
+            originally_available: '2018-06-15'
+            content_rating:
+            summary: "Son Goku est prêt à venger les Nameks et les Saiyans. Le combat qui va faire trembler la planète commence mais aucun des deux n'est à sa force maximale.\n\n\n\n\n\nCe film couvre les épisodes 43 à 54."
+      3:
+        title: Season 3
+        summary: ''
+        episodes:
+          9:
+            title: Le Visiteur du Futur
+            sort_title: Le Visiteur du Futur
+            originally_available: '2018-06-18'
+            content_rating:
+            summary: "Un an s'est écoulé depuis que Freezer a été vaincu par Goku mais ce dernier n'est toujours pas revenu. Alors que tous attendent avec impatience son retour, le cauchemar reprend : Freezer a survécu. Complètement rétabli et accompagné de son père, le roi Cold, celui-ci se rend sur Terre pour assouvir sa vengeance.\n\n\n\n\n\nCe film couvre les épisodes 55 à 61."
+          10:
+            title: Les Guerriers de Métal
+            sort_title: Les Guerriers de Metal
+            originally_available: '2018-07-07'
+            content_rating:
+            summary: "Devant la puissance de Vegeta, C-20 n'a d'autre choix que de dérober l'énergie de ses adversaires afin de le surpasser. Alors qu'il parvient à piéger Piccolo en premier, ce dernier parvient à s'en défaire grâce à l'intervention de Gohan, rejoint rapidement par les autres super combattants. Un affrontement s'engage par la suite entre Piccolo et C-20, mené d'une main de maître par le Namek. Alors qu'il s'apprête à en finir, Trunks fait une arrivée surprise et annonce à la stupéfaction de tous que les cyborgs C-19 et C-20 lui sont totalement étrangers. C-20, qui concocte un plan qui consiste à libérer C-17 et C-18, s'enfuit en faisant exploser les montagnes.\n\n\n\n\n\nCe film couvre les épisodes 62 à 67."
+          11:
+            title: En quête de perfection
+            sort_title: En quete de perfection
+            originally_available: '2018-07-29'
+            content_rating:
+            summary: "La créature inconnue a tôt fait d'attirer l'attention ; cette dernière a décimé toute la population d'une ville et devant la gravité de la situation, Kami prend sa décision : il est temps pour le Démon et Dieu de ne faire plus qu'un.\n\n\n\n\n\nCe film couvre les épisodes 68 à 75."
+          12:
+            title: Super Vegeta
+            sort_title: Super Vegeta
+            originally_available: '2018-08-16'
+            content_rating:
+            summary: "Face à un Cell ayant endommagé C-16 et s'apprêtant à absorber C-18, Ten Shin Han intervient et lance une série de Kikohos sur le monstre afin de permettre aux deux androïdes de prendre la fuite. Un répit bref car consommant trop d'énergie, il s'effondre et se retrouve à la merci de Cell, jusqu'à ce que Goku le sauve in extremis lui et Piccolo par téléportation.\n\n\n\n\n\nCe film couvre les épisodes 76 à 83."
+          13:
+            title: Cell Game
+            sort_title: Cell Game
+            originally_available: '2018-08-16'
+            content_rating:
+            summary: "Goku et Gohan sortent enfin de la salle de l'Esprit et du Temps. Ils apprennent par Trunks tout ce qui s'est passé pendant leur absence. Malgré les progrès que Son Goku a fait, ce dernier pense qu'il n'est pas assez fort pour vaincre Cell. Cependant, il semble très calme et très détendu, ce qui inquiètent ses amis.\n\n\n\n\n\nCe film couvre les épisodes 84 à 90."
+          14:
+            title: La Relève
+            sort_title: Releve
+            originally_available: '2018-08-16'
+            content_rating:
+            summary: "Cell continue d'attaquer Son Gohan afin de lui permettre de révéler sa véritable nature et il va même jusqu'à le torturer. Piccolo s'en prend à Son Goku et lui reproche de n'avoir rien dit à son fils à propos de son plan. Il lui reproche également d'avoir laissé son fils entre les mains d'un monstre sans lui venir en aide. Piccolo s'apprête à aller aider son jeune apprenti, mais Son Goku se ressaisit et demande à Krilin un senzu.\n\n\n\n\n\nCe film couvre les épisodes 91 à 98."
+      4:
+        title: Season 4
+        summary: ''
+
+  Dragon Ball Super Kaï:
+    alt_title: Dragon Ball Super
+    sort_title: Dragon Ball 3
+    original_title:
+    originally_available: '2015-07-04'
+    content_rating:
+    studio: Kaimisama - Fan-Kai
+    tagline:
+    summary: Après le combat contre Boo, la Terre connait une période de paix. Cependant, le dieu de la destruction, Beerus, vient de se réveiller d'un sommeil de 39 ans avec l'intention d'affronter le Super Saïyen Divin, le guerrier légendaire dont parle une ancienne prophétie exprimée par le Poisson Oracle.
+    genre.sync:
+    - Kaï
+    - Action
+    - Adventure
+    - Animation
+    - Anime
+    - Comedy
+    - Family
+    - Fantasy
+    - Science Fiction
+    seasons:
+      1:
+        title: Season 1
+        summary: ''
+        episodes:
+          1:
+            title: Dieu contre Dieu
+            sort_title: Dieu contre Dieu
+            originally_available: '2018-08-10'
+            content_rating:
+            summary: "Six mois se sont écoulés depuis la disparition de Boo, les Dragon Balls l'ont effacé de la mémoire des Terriens. Mr Satan a reçu le « prix mondial de la paix » pour avoir sauvé la Terre et a été récompensé par 100 millions de Zeni. Pendant ce temps, Son Goku, contraint par Chichi, se retrouve à travailler comme agriculteur. Trunks et Son Goten, quant à eux, se mettent en route pour trouver un cadeau à Videl, mariée depuis peu à Son Gohan.\n\n\n\n\n\nCe film couvre les épisodes 1 à 14."
+            director.sync:
+            writer.sync:
+          2:
+            title: La Résurrection de l'empereur
+            sort_title: Resurrection de l'empereur
+            originally_available: '2018-08-14'
+            content_rating:
+            summary: "Après la bataille contre Beerus, un visiteur inattendu rend visite à Mr Satan pour le défier dans un duel.\n\n\n\n\n\nCe film couvre les épisodes 15 à 27."
+            director.sync:
+            writer.sync:
+      2:
+        title: Season 2
+        summary: ''
+        episodes:
+          3:
+            title: Les Super Dragon Balls
+            sort_title: Les Super Dragon Balls
+            originally_available: '2018-08-17'
+            content_rating:
+            summary: "N’étant pas habitué à sa transformation en Golden Freezer, il perd progressivement sa force. Alors que Son Goku reprend l’avantage, Freezer décide de passer au plan de secours qu’il avait établi. Sorbet transperce Goku qui a baissé sa garde. Vegeta vient le sauver et se transforme à son tour en Super Saiyan bleu pour combattre Golden Freezer.\n\n\n\n\n\nCe film couvre les épisodes 28 à 32."
+          4:
+            title: Univers 6 VS Univers 7
+            sort_title: Univers 6 VS Univers 7
+            originally_available: '2018-08-24'
+            content_rating:
+            summary: "Le combat opposant Son Goku à Botamo a commencé.\n\n\n\n\n\nCe film couvre les épisodes 33 à 41."
+      3:
+        title: Season 3
+        summary: ''
+        episodes:
+          5:
+            title: Un SOS venu du futur
+            sort_title: Un SOS venu du futur
+            originally_available: '2018-08-31'
+            content_rating:
+            summary: "17 ans dans le futur, Trunks fait face à un terrible nouvel ennemi. Un homme nommé \"Black\" apparaît. Trunks essaie de se défendre. Il se fait écraser, même en Super Saiyan. Bulma est alors résolu à recréer une machine à remonter le temps pour demander de l'aide à Goku et Vegeta du passé, mais 6 mois après, elle n'arrive toujours pas à terminer sa machine. Elle a juste assez de carburant pour faire un aller simple dans le passé... C'est alors que \"Black\" apparaît à nouveau devant Bulma et Trunks !!\"\n\n\n\n\n\nCe film couvre les épisodes 47 à 57."
+          6:
+            title: La justice divine !
+            sort_title: justice divine !
+            originally_available: '2018-09-07'
+            content_rating:
+            summary: "Alors que Goku et les autres se remettent de leur défaite contre Black et Zamasu du futur, Whis, Beerus et Shin (Dieu Kaio de l’est) font leur apparition et avertissent que Zamasu du présent a questionné Zuno à propos de Goku et des Super Dragon Ball. Ensemble, ils élaborent la théorie selon laquelle Zamasu demanderait au Super Shenron l’immortalité et la naissance d’un guerrier possédant le corps de Goku. Craignant pour la vie de Gowasu (l’actuel Dieu Kaio de l’univers 10), Goku, Beerus, Whis et Kaio Shin de l’Est se rendent sur sa planète.\n\n\n\n\n\nCe film couvre les épisodes 58 à 67."
+      4:
+        title: Season 4
+        summary: ''
+        episodes:
+          7:
+            title: Le tournoi du pouvoir
+            sort_title: Le tournoi du pouvoir
+            originally_available: '2018-09-28'
+            content_rating:
+            summary: "La paix continue sur Terre et Goku sent son corps perdre en vitalité. Il décide d’aller sur la planète de Beerus pour s’entrainer de nouveau et se rappelle la promesse faîte par Zen’o : organiser un tournoi des arts martiaux inter-univers. Cependant, Beerus le déconseille d’en parler à Zen’o, les conséquences pouvant être catastrophiques.\n\n\n\n\n\nCe film couvre les épisodes 77 à 82."
+          8:
+            title: Le recrutement
+            sort_title: Le recrutement
+            originally_available: '2018-10-05'
+            content_rating:
+            summary: "Goku retourne sur Terre pour former l’équipe de l’univers 7. Il vient d’abord recruter Vegeta mais ce dernier est confronté à un problème : Bulma est enceinte et il ne bougera pas tant qu’elle n’aura pas accouché.\n\n\n\n\n\nCe film couvre les épisodes 83 à 96."
+          9:
+            title: Battle Royale
+            sort_title: Battle Royale
+            originally_available: '2018-10-12'
+            content_rating:
+            summary: "Le tournoi a commencé. Très rapidement, Goku, Freezer, Vegeta, C-17 et C-18 décident d’opérer dans leur coin et abandonnent le travail d’équipe.\n\n\nDe son côté, Goku se bat tout en observant ses autres adversaires et cherche à combattre Toppo ou Jiren. Tout à coup, un guerrier de l’univers 4 l’immobilise par surprise et cherche à sortir du ring avec lui. Cependant, Goku parvient à se dégager de justesse puis se retrouve encerclé par plusieurs guerriers.\n\n\n\n\n\nCe film couvre les épisodes 97 à 110."
+          10:
+            title: Les dernières minutes !
+            sort_title: Les dernieres minutes !
+            originally_available: '2018-10-19'
+            content_rating:
+            summary: "Après Goku, Hit décide d'affronter Jiren. Un autre combat titanesque est sur le point de commencer.\n\n\n\n\n\nCe film couvre les épisodes 111 à 121."
+          11:
+            title: L'Ultime combat pour la survie !
+            sort_title: L'Ultime combat pour la survie !
+            originally_available: '2018-10-26'
+            content_rating:
+            summary: "Il ne reste plus que les cinq champions de l'univers 7 et les trois de l'univers 11 : Jiren, Toppo et Dyspo. Vegeta défie Jiren pour se battre à la place de Goku. Dyspo tente de déstabiliser les guerriers de l'univers 7 avec sa vitesse inégalable. N'aimant pas cette stratégie, Freezer décide de l'affronter.\n\n\n\n\n\nCe film couvre les épisodes 122 à 131."
+
+  Dragon Ball GT Fan-Cut:
+    alt_title: Dragon Ball GT
+    sort_title: Dragon Ball 4
+    original_title:
+    originally_available: '1996-02-06'
+    content_rating:
+    studio: Kaimisama - Fan-Kai
+    tagline:
+    summary: L'histoire commence dix ans après la fin de Dragon Ball Z, quand Son Gokû est transformé en enfant, à cause de Pilaf, par le Dragon sacré. Il doit rechercher les Dragon Balls pour redevenir normal et surtout sauver la terre qui, si les dragon balls ne sont pas réunies au bout d'un an, se désintègrera. Il part donc avec Trunks et Pan (qui s'est invitée sans leur autorisation) rechercher ces boules de cristal éparpillées dans toute la galaxie.
+    genre.sync:
+    - Fan-Cut
+    - Action
+    - Aventure
+    - Animation
+    - Anime
+    - Comédie
+    - Fantastique
+    - Science-Fiction
+    - Thriller
+    seasons:
+      1:
+        title: Season 1
+        summary: ''
+        episodes:
+          1:
+            title: Le grand voyage
+            sort_title: Le grand voyage
+            originally_available: '2018-12-27'
+            content_rating:
+            summary: "Dix années sont passées et Son Goku s'est occupé du jeune Oob. Mais voilà que Pilaf est de retour ! Il s'apprête à formuler un vœu grâce aux boules de cristal...\n\n\n\n\n\n\n\n\n\nCe film couvre les épisodes 1 à 24."
+          2:
+            title: La vengeance Tsuful
+            sort_title: vengeance Tsuful
+            originally_available: '2019-10-11'
+            content_rating:
+            summary: "Contre toute attente, le bébé mutant a débarqué sur la planète terre. Son plan est simple : S'approprier les super pouvoirs de Son Goten et repartir à la recherche de Sangoku. Mais Songoten n'est plus un enfant et il sait se battre. Au même moment, à l'autre bout de la galaxie, Trunks et ses compagnons continuent leur voyage sans douter du danger qui les guette.\n\n\n\n\n\n\n\n\n\nCe film couvre les épisodes 25 à 32."
+          3:
+            title: La niveau 4
+            sort_title: niveau 4
+            originally_available: '2019-10-27'
+            content_rating:
+            summary: "Son Goku laisse parler ses origines et va se transformer en gorille géant.\n\n\n\n\n\n\n\n\n\nCe film couvre les épisodes 33 à 40."
+          4:
+            title: L'enfer sur Terre
+            sort_title: L'enfer sur Terre
+            originally_available: '2019-10-27'
+            content_rating:
+            summary: "C'est le début d'un autre Budôkai, et le petit Sangoku doit se battre avec les autres enfants, au lieu de combattre les adultes.\n\n\n\n\n\n\n\n\n\nCe film couvre les épisodes 41 à 46."
+          5:
+            title: Les Dragons Maléfiques
+            sort_title: Les Dragons Malefiques
+            originally_available: '2020-02-15'
+            content_rating:
+            summary: "Dans le combat qui l'oppose à C.17, Son Goku se retrouve en bien mauvaise posture et alors que tout semblait perdu, C.18 intervient, fermement décidée à venger la mort de Krilin.\n\n\n\n\n\n\n\n\n\nCe film couvre les épisodes 47 à 64."
+
   Naruto Yabaï:
     alt_title: Naruto Yabaï
     sort_title: Naruto 2
