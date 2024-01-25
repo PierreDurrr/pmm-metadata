@@ -1282,1416 +1282,846 @@ metadata:
               six chemins demande à Sasuke et Naruto d'annuler les « Arcanes lunaires
               infinis ».\n\nCe film couvre les épisodes 475 à 479."
   One Piece Kaï:
-    alt_title: One Piece Kaï
-    sort_title: One Piece Kaï
+    alt_title: One Piece
+    sort_title: One Piece Kai
     original_title:
     originally_available: '1999-10-19'
+    content_rating: FR
     studio: Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai
-    tagline:
-    summary: Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir
-      le nouveau "Roi des Pirates". Après avoir mangé un fruit du démon, il possède
-      un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver
-      un équipage pour partir à l'aventure !
+    summary: Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau "Roi des Pirates". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !
     genre.sync:
     - Kaï
     - Action
-    - Adventure
+    - Aventure
     - Animation
     - Anime
-    - Comedy
-    - Drama
-    - Fantasy
+    - Comédie
+    - Drame
+    - Fantastique
     seasons:
       1:
-        title: Saison 1 - East Blue
+        title: Season 1
+        summary: ''
         episodes:
           1:
             title: Chapeau de Paille
             sort_title: Chapeau de Paille
             originally_available: '2018-12-25'
-            summary: "Lors de son exécution publique, Gold Roger, le Roi des Pirates,
-              défie le monde entier de trouver son trésor, le One Piece. Monkey D.
-              Luffy, un garçon impulsif transformé en homme-élastique après avoir
-              mangé un fruit du démon, part en quête d’un équipage pour mettre la
-              main sur le fameux butin et devenir ainsi le nouveau Roi des pirates
-              !\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 1 à 8 ainsi que l'épisode
-              19 soit les chapitres 1 à 21."
+            content_rating: FR
+            summary: "Lors de son exécution publique, Gold Roger, le Roi des Pirates, défie le monde entier de trouver son trésor, le One Piece. Monkey D. Luffy, un garçon impulsif transformé en homme-élastique après avoir mangé un fruit du démon, part en quête d’un équipage pour mettre la main sur le fameux butin et devenir ainsi le nouveau Roi des pirates !\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 1 à 8 ainsi que l'épisode 19 soit les chapitres 1 à 21."
           2:
             title: Le Garçon qui criait au Loup
             sort_title: Le Garcon qui criait au Loup
             originally_available: '2019-01-03'
-            summary: "Accompagné de Nami et Zoro, Luffy continue son aventure sur
-              les mers. Ils accostent sur une île appelée « Sirop », où ils espèrent
-              dégoter un meilleur bateau afin de naviguer sur Grand Line en toute
-              sécurité. L'équipage du Chapeau de Paille font alors la rencontre de
-              Usopp, un étrange personnage, ainsi que de 3 petits moussaillons…\r\r
-              \n\r\r\r\r\r\nCe film couvre les épisodes 9 à 17 soit les chapitres
-              23 à 42."
+            content_rating: FR
+            summary: "Accompagné de Nami et Zoro, Luffy continue son aventure sur les mers. Ils accostent sur une île appelée « Sirop », où ils espèrent dégoter un meilleur bateau afin de naviguer sur Grand Line en toute sécurité. L'équipage du Chapeau de Paille font alors la rencontre de Usopp, un étrange personnage, ainsi que de 3 petits moussaillons…\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 9 à 17 soit les chapitres 23 à 42."
           3:
             title: Cuisine et Déliquance
             sort_title: Cuisine et Deliquance
             originally_available: '2019-01-08'
-            summary: "De nouveau sur les mers avec un nouveau navire et un nouveau
-              membre, l’équipage au chapeau de paille continue son aventure. Luffy
-              et ses amis débarquent alors sur une île au trésor, où ils font la connaissance
-              de Gaimon, un personnage pour le moins étrange, accompagné de compagnons
-              tout aussi étranges que lui…\r\r\n\r\r\r\r\r\nCe film couvre les épisodes
-              18 à 24 soit les chapitres 22 puis 42 à 52."
+            content_rating: FR
+            summary: "De nouveau sur les mers avec un nouveau navire et un nouveau membre, l’équipage au chapeau de paille continue son aventure. Luffy et ses amis débarquent alors sur une île au trésor, où ils font la connaissance de Gaimon, un personnage pour le moins étrange, accompagné de compagnons tout aussi étranges que lui…\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 18 à 24 soit les chapitres 22 puis 42 à 52."
           4:
             title: Seigneur de Guerre
             sort_title: Seigneur de Guerre
             originally_available: '2019-01-15'
-            summary: "Don Krieg ne compte pas en rester là, ses hommes attaquent le
-              Baratie. Luffy contre aussitôt cette première salve. Pearl, un sbire
-              à la solde de Krieg, monte sur le Baratie et affronte alors Sanji. Ce
-              dernier ne se bat qu'avec la partie basse de son corps : ses genoux,
-              jambes et ses pieds, afin de ne pas abimer ses mains qui lui servent
-              à cuisiner.\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 25 à 30 soit
-              les chapitres 53 à 68."
+            content_rating: FR
+            summary: "Don Krieg ne compte pas en rester là, ses hommes attaquent le Baratie. Luffy contre aussitôt cette première salve. Pearl, un sbire à la solde de Krieg, monte sur le Baratie et affronte alors Sanji. Ce dernier ne se bat qu'avec la partie basse de son corps : ses genoux, jambes et ses pieds, afin de ne pas abimer ses mains qui lui servent à cuisiner.\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 25 à 30 soit les chapitres 53 à 68."
           5:
             title: Le Gang du Requin
             sort_title: Le Gang du Requin
             originally_available: '2019-01-23'
-            summary: "Luffy, Sanji et Yosaku partent immédiatement à la recherche
-              de Nami en se dirigeant vers l'archipel de Konomi, où se trouvent les
-              pirates d'Arlong, dont fait partie Nami ! Peu après l'arrivée de la
-              navigatrice, Zoro, Usopp et Johnny débarquent également. Mais une fois
-              sur place, Zoro se fait capturer par la bande d'Arlong...\r\r\n\r\r\r
-              \r\r\nCe film couvre les épisodes 31 à 37 soit les chapitres 69 à 81."
+            content_rating: FR
+            summary: "Luffy, Sanji et Yosaku partent immédiatement à la recherche de Nami en se dirigeant vers l'archipel de Konomi, où se trouvent les pirates d'Arlong, dont fait partie Nami ! Peu après l'arrivée de la navigatrice, Zoro, Usopp et Johnny débarquent également. Mais une fois sur place, Zoro se fait capturer par la bande d'Arlong...\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 31 à 37 soit les chapitres 69 à 81."
           6:
             title: Ma Partenaire
             sort_title: Ma Partenaire
             originally_available: '2019-01-30'
-            summary: "Remontés comme jamais, Luffy et ses compagnons avancent d'un
-              seul homme, vers Arlong et sa bande, après les larmes de Nami. C'est
-              le début du combat ! Cependant, l'équipage du Chapeau de Paille éprouve
-              des difficultés face à leurs adversaires, notamment Luffy qui se retrouve
-              dans une drôle de situation...\r\r\n\r\r\r\r\r\nCe film couvre les épisodes
-              38 à 44 soit les chapitres 82 à 95."
+            content_rating: FR
+            summary: "Remontés comme jamais, Luffy et ses compagnons avancent d'un seul homme, vers Arlong et sa bande, après les larmes de Nami. C'est le début du combat ! Cependant, l'équipage du Chapeau de Paille éprouve des difficultés face à leurs adversaires, notamment Luffy qui se retrouve dans une drôle de situation...\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 38 à 44 soit les chapitres 82 à 95."
           7:
             title: Tout se termine... et tout commence !
             sort_title: Tout se termine... et tout commence !
             originally_available: '2019-02-06'
-            summary: "Kobby et Hermep sont désormais des membres à part entière de
-              la Marine. Ils essaient, tant bien que mal et chacun à leur manière,
-              de s'adapter à leurs nouvelles fonctions. Un jour, ils rejoignent l'équipage
-              du navire chargé de remettre Morgan, l'ancien chef de la base, au Vice-Amiral
-              Garp du QG de la Marine. Mais les choses tournent mal...\r\r\n\r\r\r
-              \r\r\nCe film couvre les épisodes 68, 69, 46 et 47 puis 45 à 53 soit
-              des couvertures de chapitres puis les chapitres 45 à 53."
+            content_rating: FR
+            summary: "Kobby et Hermep sont désormais des membres à part entière de la Marine. Ils essaient, tant bien que mal et chacun à leur manière, de s'adapter à leurs nouvelles fonctions. Un jour, ils rejoignent l'équipage du navire chargé de remettre Morgan, l'ancien chef de la base, au Vice-Amiral Garp du QG de la Marine. Mais les choses tournent mal...\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 68, 69, 46 et 47 puis 45 à 53 soit des couvertures de chapitres puis les chapitres 45 à 53."
       2:
-        title: Saison 2 - Baroque Works      
+        title: Season 2
+        summary: ''
         episodes:
           8:
             title: La Route de tous les Périls
             sort_title: Route de tous les Perils
             originally_available: '2019-02-13'
-            summary: "Erik affronte Luffy et les siens mais est de nouveau battu.
-              Après cette victoire, l'équipage de pirates dit au revoir à Apis et
-              aux membres de son village et reprennent leur route. Une fois arrivés
-              au Cap des Jumeaux, ils commencent l'ascension. L'entrée de Grand Line
-              est une montagne ?!\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 55
-              puis 61 à 67 soit les chapitres 101 à 114."
+            content_rating: FR
+            summary: "Erik affronte Luffy et les siens mais est de nouveau battu. Après cette victoire, l'équipage de pirates dit au revoir à Apis et aux membres de son village et reprennent leur route. Une fois arrivés au Cap des Jumeaux, ils commencent l'ascension. L'entrée de Grand Line est une montagne ?!\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 55 puis 61 à 67 soit les chapitres 101 à 114."
           9:
             title: Le Monde Perdu
             sort_title: Le Monde Perdu
             originally_available: '2019-02-27'
-            summary: "L'équipage de Luffy arrive sur Little Garden. Ils remarquent
-              rapidement d'étranges animaux et entendent des bruits bizarres. Peu
-              de temps après avoir accosté, Luffy débarque sur l'île avec Vivi et
-              Karoo, alors que Zoro et Sanji se lancent un défi de chasse. Nami et
-              Usopp se retrouvent seuls sur le Vogue Merry et ne sont pas au bout
-              de leur surprise...\r\n\r\r\r\r\nCe film couvre les épisodes 70 à 77
-              soit les chapitres 115 à 129."
+            content_rating: FR
+            summary: "L'équipage de Luffy arrive sur Little Garden. Ils remarquent rapidement d'étranges animaux et entendent des bruits bizarres. Peu de temps après avoir accosté, Luffy débarque sur l'île avec Vivi et Karoo, alors que Zoro et Sanji se lancent un défi de chasse. Nami et Usopp se retrouvent seuls sur le Vogue Merry et ne sont pas au bout de leur surprise...\r\n\r\r\r\r\nCe film couvre les épisodes 70 à 77 soit les chapitres 115 à 129."
           10:
             title: Le Retour du Roi
             sort_title: Le Retour du Roi
             originally_available: '2019-03-05'
-            summary: "L'équipage de Luffy parvient à échapper au poisson rouge gobeur
-              d'îles grâce à l'aide de Dorry et Brogy. À la suite de leur aventure
-              sur Little Garden, Nami tombe gravement malade. Ses amis s'inquiètent
-              pour elle et souhaitent accoster sur l'île la plus proche pour trouver
-              un médecin et ce, malgré la réticence d'une certaine personne...\r\n
-              \r\r\r\r\nCe film couvre les épisodes 78 à 84 soit les chapitres 128
-              à 140."
+            content_rating: FR
+            summary: "L'équipage de Luffy parvient à échapper au poisson rouge gobeur d'îles grâce à l'aide de Dorry et Brogy. À la suite de leur aventure sur Little Garden, Nami tombe gravement malade. Ses amis s'inquiètent pour elle et souhaitent accoster sur l'île la plus proche pour trouver un médecin et ce, malgré la réticence d'une certaine personne...\r\n\r\r\r\r\nCe film couvre les épisodes 78 à 84 soit les chapitres 128 à 140."
           11:
             title: Le Temps des Cerisiers
             sort_title: Le Temps des Cerisiers
             originally_available: '2019-03-11'
-            summary: "Luffy souhaite que Chopper intègre son équipage et ce, contre
-              son gré. Il le poursuit afin de le convaincre. Après avoir entendu les
-              paroles du garçon au chapeau de paille, le Dr. Kureha raconte alors
-              à Nami et Sanji le passé de Chopper, et notamment qui est la seule personne
-              à qui il a ouvert son coeur : Hiluluk, un docteur raté fan des pirates.\r
-              \n\r\r\r\r\nCe film couvre les épisodes 85 à 91 soit les chapitres 141
-              à 155."
+            content_rating: FR
+            summary: "Luffy souhaite que Chopper intègre son équipage et ce, contre son gré. Il le poursuit afin de le convaincre. Après avoir entendu les paroles du garçon au chapeau de paille, le Dr. Kureha raconte alors à Nami et Sanji le passé de Chopper, et notamment qui est la seule personne à qui il a ouvert son coeur : Hiluluk, un docteur raté fan des pirates.\r\n\r\r\r\r\nCe film couvre les épisodes 85 à 91 soit les chapitres 141 à 155."
           12:
             title: La Traversée du Désert
             sort_title: Traversee du Desert
             originally_available: '2019-03-21'
-            summary: "Nos héros font la rencontre surprise en pleine mer d'un des
-              membres de Baroque Works, ou plutôt d'un des plus proches lieutenants
-              de leur leader, Crocodile, le Capitaine Corsaire... Il s'agit de Mister
-              Two, alias Bon Clay !\r\n\r\r\r\r\nCe film couvre les épisodes 92 à
-              103 soit les chapitres 155 à 164."
+            content_rating: FR
+            summary: "Nos héros font la rencontre surprise en pleine mer d'un des membres de Baroque Works, ou plutôt d'un des plus proches lieutenants de leur leader, Crocodile, le Capitaine Corsaire... Il s'agit de Mister Two, alias Bon Clay !\r\n\r\r\r\r\nCe film couvre les épisodes 92 à 103 soit les chapitres 155 à 164."
           13:
             title: Le Ventre du Crocodile
             sort_title: Le Ventre du Crocodile
             originally_available: '2019-04-23'
-            summary: "L'équipage de Luffy doit se résigner à quitter Yuba pour revenir
-              à Katorea, là où les rebelles viennent d'être localisés.\r\n\r\r\r\r
-              \nCe film couvre les épisodes 104 à 109 soit les chapitres 165 à 176."
+            content_rating: FR
+            summary: "L'équipage de Luffy doit se résigner à quitter Yuba pour revenir à Katorea, là où les rebelles viennent d'être localisés.\r\n\r\r\r\r\nCe film couvre les épisodes 104 à 109 soit les chapitres 165 à 176."
           14:
             title: Insurrection
             sort_title: Insurrection
             originally_available: '2019-04-28'
-            summary: "L'heure de la confrontation entre Crocodile et Luffy est arrivée
-              !\r\n\r\r\r\r\nCe film couvre les épisodes 110 à 118 soit les chapitres
-              176 à 193."
+            content_rating: FR
+            summary: "L'heure de la confrontation entre Crocodile et Luffy est arrivée !\r\n\r\r\r\r\nCe film couvre les épisodes 110 à 118 soit les chapitres 176 à 193."
           15:
             title: Contre la Montre
             sort_title: Contre la Montre
             originally_available: '2019-05-02'
-            summary: "Zoro affronte Mr.1, un homme capable de changer son corps entier
-              en acier, ce que Zoro ne peut pas découper.\r\n\r\r\r\r\nCe film couvre
-              les épisodes 119 à 124 soit les chapitres 193 à 205."
+            content_rating: FR
+            summary: "Zoro affronte Mr.1, un homme capable de changer son corps entier en acier, ce que Zoro ne peut pas découper.\r\n\r\r\r\r\nCe film couvre les épisodes 119 à 124 soit les chapitres 193 à 205."
           16:
             title: Jour de Pluie
             sort_title: Jour de Pluie
             originally_available: '2019-05-08'
-            summary: "Vivi essaie de trouver la bombe à l'intérieur de l'horloge mais
-              Mr.7 et son compère sont là pour la défendre. Vivi les bat mais elle
-              réalise que la bombe ne peut être stoppée aussi facilement.\r\n\r\r\r
-              \r\nCe film couvre les épisodes 125 à 130 soit les chapitres 206 à 218."
+            content_rating: FR
+            summary: "Vivi essaie de trouver la bombe à l'intérieur de l'horloge mais Mr.7 et son compère sont là pour la défendre. Vivi les bat mais elle réalise que la bombe ne peut être stoppée aussi facilement.\r\n\r\r\r\r\nCe film couvre les épisodes 125 à 130 soit les chapitres 206 à 218."
       3:
-        title: Saison 3 - Île Céleste
+        title: Season 3
+        summary: ''
         episodes:
           17:
             title: Les Yeux dans les Cieux
             sort_title: Les Yeux dans les Cieux
             originally_available: '2019-05-21'
-            summary: "Le Log Pose de Nami commence à pointer vers le ciel, après quoi
-              un grand navire vieux de 200 ans tombe du ciel. L'équipage trouve une
-              carte d'une île nommée «Skypiea».\r\n\r\r\r\r\nCe film couvre les épisodes
-              144 à 152 soit les chapitres 218 à 236."
+            content_rating: FR
+            summary: "Le Log Pose de Nami commence à pointer vers le ciel, après quoi un grand navire vieux de 200 ans tombe du ciel. L'équipage trouve une carte d'une île nommée «Skypiea».\r\n\r\r\r\r\nCe film couvre les épisodes 144 à 152 soit les chapitres 218 à 236."
           18:
             title: Le Jugement Divin
             sort_title: Le Jugement Divin
             originally_available: '2019-05-29'
-            summary: "Le Vogue Merry est lancé jusqu'à la mer Blanche, où les Pirates
-              du Chapeau de Paille rencontrent des créatures étranges et des personnes
-              dangereuses, avant d'atteindre les portes de l'île céleste de Skypiea.\r
-              \n\r\r\r\r\nCe film couvre les 153 à 164 soit les chapitres 237 à 251."
+            content_rating: FR
+            summary: "Le Vogue Merry est lancé jusqu'à la mer Blanche, où les Pirates du Chapeau de Paille rencontrent des créatures étranges et des personnes dangereuses, avant d'atteindre les portes de l'île céleste de Skypiea.\r\n\r\r\r\r\nCe film couvre les 153 à 164 soit les chapitres 237 à 251."
           19:
             title: Jeu de Survie
             sort_title: Jeu de Survie
             originally_available: '2019-06-13'
-            summary: "Luffy, Sanji et Usopp continuent d'avancer vers l'autel du sacrifice.
-              De son côté, Nami explique que la moitié de l'île de Jaya serait, en
-              réalité, la cité d'Or. Pendant ce temps, la bataille continue entre
-              les Shandia et les prêtres de la Haute Cour.\r\n\r\r\r\r\nCe film couvre
-              les épisodes 165 à 174 soit les chapitres 252 à 266 puis 268 et 272."
+            content_rating: FR
+            summary: "Luffy, Sanji et Usopp continuent d'avancer vers l'autel du sacrifice. De son côté, Nami explique que la moitié de l'île de Jaya serait, en réalité, la cité d'Or. Pendant ce temps, la bataille continue entre les Shandia et les prêtres de la Haute Cour.\r\n\r\r\r\r\nCe film couvre les épisodes 165 à 174 soit les chapitres 252 à 266 puis 268 et 272."
           20:
             title: L'Arche Divine
             sort_title: L'Arche Divine
             originally_available: '2019-07-31'
-            summary: "Chopper s'aventure dans les ruines, où il rencontre le prélat
-              Ohm et Holy, son chien géant. Ohm lui annonce que dans son Ordalie du
-              Fer, ses chances de survie sont de 0%. Luffy, de son côté, cherche toujours
-              la sortie de la grotte.\r\n\r\r\r\r\nCe film couvre les épisodes 175
-              à 184 soit les chapitres 266 à 282."
+            content_rating: FR
+            summary: "Chopper s'aventure dans les ruines, où il rencontre le prélat Ohm et Holy, son chien géant. Ohm lui annonce que dans son Ordalie du Fer, ses chances de survie sont de 0%. Luffy, de son côté, cherche toujours la sortie de la grotte.\r\n\r\r\r\r\nCe film couvre les épisodes 175 à 184 soit les chapitres 266 à 282."
           21:
             title: Montblanc Norland
             sort_title: Montblanc Norland
             originally_available: '2020-12-24'
-            summary: "Usopp et Sanji arrivent sur le pont pour sauver Nami. Usopp
-              est presque tué par une attaque d'Ener mais sauvé à la dernière seconde
-              par Sanji, qui reste en arrière pour permettre à Usopp et Nami de s'échapper.\r
-              \n\r\r\r\r\nCe film couvre les épisodes 185 à 189 soit les chapitres
-              283 à 293."
+            content_rating: FR
+            summary: "Usopp et Sanji arrivent sur le pont pour sauver Nami. Usopp est presque tué par une attaque d'Ener mais sauvé à la dernière seconde par Sanji, qui reste en arrière pour permettre à Usopp et Nami de s'échapper.\r\n\r\r\r\r\nCe film couvre les épisodes 185 à 189 soit les chapitres 283 à 293."
           22:
             title: Ranimer la flamme de Shandora
             sort_title: Ranimer la flamme de Shandora
             originally_available:
+            content_rating: FR
             summary: ''
       4:
-        title: Saison 4 - CP-9
+        title: Season 4
+        summary: ''
         episodes:
           23:
             title: Davy Back Fight
             sort_title: Davy Back Fight
             originally_available: '2021-06-24'
-            summary: "L'équipage du Chapeau de Paille arrive sur l'île de Long Ring
-              Long Land, où tous les animaux et les plantes sont plus grands et/ou
-              plus longs que la normale. Ils se retrouvent encerclés par un équipage
-              pirate anonyme. Leur capitaine leur propose de jouer au Davy Back Fight,
-              un jeu dans lequel les membres de chaque équipage s'affrontent dans
-              diverses épreuves. Le vainqueur de chaque épreuve peut voler un membre
-              de l'équipage ennemi, y compris le capitaine...\r\n\r\r\r\r\nCe film
-              couvre les épisodes 203 puis 207 à 219 soit les chapitres 303 à 318."
+            content_rating: FR
+            summary: "L'équipage du Chapeau de Paille arrive sur l'île de Long Ring Long Land, où tous les animaux et les plantes sont plus grands et/ou plus longs que la normale. Ils se retrouvent encerclés par un équipage pirate anonyme. Leur capitaine leur propose de jouer au Davy Back Fight, un jeu dans lequel les membres de chaque équipage s'affrontent dans diverses épreuves. Le vainqueur de chaque épreuve peut voler un membre de l'équipage ennemi, y compris le capitaine...\r\n\r\r\r\r\nCe film couvre les épisodes 203 puis 207 à 219 soit les chapitres 303 à 318."
           24:
             title: Le Faisan Bleu
             sort_title: Le Faisan Bleu
             originally_available: '2021-07-01'
-            summary: "Luffy et son équipage rencontrent un homme étrange, le faisan
-              bleu Aokiji, un amiral de la marine qui terrifie Robin.\r\n\r\r\r\r\n
-              Ce film couvre les épisodes 225 à 228 soit les chapitres 303 puis 318
-              à 321."
+            content_rating: FR
+            summary: "Luffy et son équipage rencontrent un homme étrange, le faisan bleu Aokiji, un amiral de la marine qui terrifie Robin.\r\n\r\r\r\r\nCe film couvre les épisodes 225 à 228 soit les chapitres 303 puis 318 à 321."
           25:
             title: Le Métropole aquatique
             sort_title: Le Metropole aquatique
             originally_available: '2021-07-04'
-            summary: "L'équipage du Chapeau de Paille tombe sur une gare en pleine
-              mer. La chef de gare, Kokoro, leur explique alors que le Puffing Tom,
-              un train capable de rouler sur des rails flottants, relie plusieurs
-              îles des environs. L'équipage arrive ensuite à Water Seven avec la ferme
-              intention de réparer le Vogue Merry.\r\n\r\r\r\r\nCe film couvre les
-              épisodes 228 à 232 soit les chapitres 322 à 327."
+            content_rating: FR
+            summary: "L'équipage du Chapeau de Paille tombe sur une gare en pleine mer. La chef de gare, Kokoro, leur explique alors que le Puffing Tom, un train capable de rouler sur des rails flottants, relie plusieurs îles des environs. L'équipage arrive ensuite à Water Seven avec la ferme intention de réparer le Vogue Merry.\r\n\r\r\r\r\nCe film couvre les épisodes 228 à 232 soit les chapitres 322 à 327."
           26:
             title: L'avenir du Vogue Merry
             sort_title: L'avenir du Vogue Merry
             originally_available: '2021-07-05'
-            summary: "Luffy refuse de croire que le Vogue Merry n'est pas réparable.
-              Nami décide de se rendre à la Franky House, et trouve Usopp sur la route
-              dans un état ​​pitoyable. Comme elle se dirige vers le navire pour demander
-              de l'aide, Usopp va à la Franky House lui-même.\r\n\r\r\r\r\nCe film
-              couvre les épisodes 233 à 236 soit les chapitres 328 à 333."
+            content_rating: FR
+            summary: "Luffy refuse de croire que le Vogue Merry n'est pas réparable. Nami décide de se rendre à la Franky House, et trouve Usopp sur la route dans un état ​​pitoyable. Comme elle se dirige vers le navire pour demander de l'aide, Usopp va à la Franky House lui-même.\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 233 à 236 soit les chapitres 328 à 333."
           27:
             title: Le Cyborg
             sort_title: Le Cyborg
             originally_available: '2021-07-12'
-            summary: "Nami retrouve son équipage avec des nouvelles inquiétantes :
-              quelqu'un a tiré sur Iceburg. Alors que Galley La Company recherche
-              des réponses, Nami et Luffy décident de vérifier l'état de santé d'Iceburg,
-              mais ils se heurtent à des portes fermées. Franky apparaît alors pour
-              exercer sa vengeance, avec style.\r\n\r\r\r\r\nCe film couvre les épisodes
-              237 à 241 soit les chapitres 334 à 340."
+            content_rating: FR
+            summary: "Nami retrouve son équipage avec des nouvelles inquiétantes : quelqu'un a tiré sur Iceburg. Alors que Galley La Company recherche des réponses, Nami et Luffy décident de vérifier l'état de santé d'Iceburg, mais ils se heurtent à des portes fermées. Franky apparaît alors pour exercer sa vengeance, avec style.\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 237 à 241 soit les chapitres 334 à 340."
           28:
             title: La Part d'Ombre
             sort_title: Part d'Ombre
             originally_available: '2021-07-19'
-            summary: "Chopper retrouve les autres sans Sanji et ils discutent de ce
-              qui s'est passé. Luffy décide que pour connaître toute la vérité, ils
-              doivent attraper Robin. Usopp tente de réparer le navire pour qu'il
-              résiste à l'Aqua Laguna, tandis que Franky a l'intention de capturer
-              Usopp pour faire sortir Luffy de sa cachette. Les Pirates du Chapeau
-              de Paille se rendent à la Galley-La Compagnie.\r\n\r\r\r\r\nCe film
-              couvre les épisodes 241 à 246 soit les chapitres 341 à 349."
+            content_rating: FR
+            summary: "Chopper retrouve les autres sans Sanji et ils discutent de ce qui s'est passé. Luffy décide que pour connaître toute la vérité, ils doivent attraper Robin. Usopp tente de réparer le navire pour qu'il résiste à l'Aqua Laguna, tandis que Franky a l'intention de capturer Usopp pour faire sortir Luffy de sa cachette. Les Pirates du Chapeau de Paille se rendent à la Galley-La Compagnie.\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 241 à 246 soit les chapitres 341 à 349."
           29:
             title: Les Artisans de Tom
             sort_title: Les Artisans de Tom
             originally_available: '2021-07-26'
-            summary: "Lucci se débarrasse rapidement de l'équipage du Chapeau de Paille.
-              Les autres agents du CP9 attachent Pauly et Iceburg, les laissant à
-              la merci du bâtiment en flamme. Dans l'entrepôt de Franky, Usopp raconte
-              sa malheureuse histoire. Franky, ému, lui parle un petit peu des contributions
-              de Tom pour Water Seven.\r\n\r\r\r\r\nCe film couvre les épisodes 246
-              à 251 soit les chapitres 350 à 358."
+            content_rating: FR
+            summary: "Lucci se débarrasse rapidement de l'équipage du Chapeau de Paille. Les autres agents du CP9 attachent Pauly et Iceburg, les laissant à la merci du bâtiment en flamme. Dans l'entrepôt de Franky, Usopp raconte sa malheureuse histoire. Franky, ému, lui parle un petit peu des contributions de Tom pour Water Seven.\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 246 à 251 soit les chapitres 350 à 358."
           30:
             title: Sacrifice en eaux troubles
             sort_title: Sacrifice en eaux troubles
             originally_available: '2021-08-02'
-            summary: "Chopper s'échappe du bâtiment en feu avec Pauly et Iceburg.
-              Ce dernier explique à Nami que Robin voulait que l'équipage du Chapeau
-              de Paille survive. Elle s'est donc rendue au Gouvernement Mondial, qui
-              a accepté de laisser libres ses compagnons. Nami et Chopper tentent
-              de retrouver le reste de l'équipage. Ailleurs, le Vogue Merry s'élance
-              en mer. Il semble prêt à être détruit par l'Aqua Laguna qui approche.\r
-              \n\r\r\r\r\nCe film couvre les épisodes 251 à 255 soit les chapitres
-              359 à 367."
+            content_rating: FR
+            summary: "Chopper s'échappe du bâtiment en feu avec Pauly et Iceburg. Ce dernier explique à Nami que Robin voulait que l'équipage du Chapeau de Paille survive. Elle s'est donc rendue au Gouvernement Mondial, qui a accepté de laisser libres ses compagnons. Nami et Chopper tentent de retrouver le reste de l'équipage. Ailleurs, le Vogue Merry s'élance en mer. Il semble prêt à être détruit par l'Aqua Laguna qui approche.\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 251 à 255 soit les chapitres 359 à 367."
           31:
             title: Un long, long voyage
             sort_title: Un long, long voyage
             originally_available: '2021-08-09'
-            summary: "Le train part du vieil entrepôt, passant par les égouts pour
-              rejoindre la mer. Luffy, qui s'amuse comme toujours, la mamie essaye
-              de placer le train sur les rails pour obtenir la vitesse maximale. Cependant,
-              la petite fille qui s'était introduit sur le train, glisse et s'accroche
-              désespérément. Alors Luffy arrive mais à ce moment-là, le train se met
-              sur les rails et une fulgurante accélération fait envoler Luffy et Chimney
-              mais ils sont rattraper par la Franky Family. Tout le monde se rejoint
-              dans un wagon; Pauly, mais aussi les ingénieurs de la Galley-la Company
-              sont à bords. Maintenant alliés, ils foncent dans la prochaine vague
-              de l'Aqua Laguna. Pendant ce temps, Franky se remémore 4 ans auparavant,
-              les retrouvailles avec Icebarg.\r\r\r\r\n\r\r\r\r\nCe film couvre les
-              épisodes 256 à 264 soit les chapitres 368 à 375."
+            content_rating: FR
+            summary: "Le train part du vieil entrepôt, passant par les égouts pour rejoindre la mer. Luffy, qui s'amuse comme toujours, la mamie essaye de placer le train sur les rails pour obtenir la vitesse maximale. Cependant, la petite fille qui s'était introduit sur le train, glisse et s'accroche désespérément. Alors Luffy arrive mais à ce moment-là, le train se met sur les rails et une fulgurante accélération fait envoler Luffy et Chimney mais ils sont rattraper par la Franky Family. Tout le monde se rejoint dans un wagon; Pauly, mais aussi les ingénieurs de la Galley-la Company sont à bords. Maintenant alliés, ils foncent dans la prochaine vague de l'Aqua Laguna. Pendant ce temps, Franky se remémore 4 ans auparavant, les retrouvailles avec Icebarg.\r\r\r\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 256 à 264 soit les chapitres 368 à 375."
           32:
             title: Jour de Jugement
             sort_title: Jour de Jugement
             originally_available: '2021-08-24'
-            summary: "Luffy passe facilement la seconde porte pendant que les hommes
-              de la Franky Family et de Galley-La Company brisent les défenses de
-              la première porte. Mais alors que tout semble facile, des marines appellent
-              à l'aide. Les gardes des portes Oimo et Kashi se rendent alors à leur
-              poste pour défendre les portes avant.\r\r\n\r\r\r\r\nCe film couvre
-              les épisodes 264 à 273 soit les chapitres 376 à 388."
+            content_rating: FR
+            summary: "Luffy passe facilement la seconde porte pendant que les hommes de la Franky Family et de Galley-La Company brisent les défenses de la première porte. Mais alors que tout semble facile, des marines appellent à l'aide. Les gardes des portes Oimo et Kashi se rendent alors à leur poste pour défendre les portes avant.\r\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 264 à 273 soit les chapitres 376 à 388."
           33:
             title: Le Dernier Démon d'Ohara
             sort_title: Le Dernier Demon d'Ohara
             originally_available: '2021-09-06'
-            summary: "Franky ne comprend pas pourquoi Robin refuse d'être sauvé après
-              que Spandam a rompu sa promesse. Alors que Luffy leur hurle dessus,
-              Franky décide de faire face à Robin. Il utilise son cola restant pour
-              gonfler ses fesses. Avec son pet, il parvient à s'échapper avec Robin
-              tout brisant ses chaînes dans le processus et à être à portée de Luffy.
-              Luffy veut les rejoindre pour sauver Robin, mais elle lui dit de rester
-              car elle veut mourir. Devant le tribunal, Yokozuna succombe aux attaques
-              des Jurés. Les marines sont sur le point de pénétrer dans l'enceinte
-              mais les géants arrivent alors reprendre le contrôle de la situation.
-              Kashi jette Usopp dans les airs, où il rejoint l'équipage des Chapeaux
-              de Paille. De nouveau rassemblés, ils font face à Robin et au CP9, en
-              attendant que le pont-levis soit abaissé.\r\r\r\r\n\r\r\r\r\nCe film
-              couvre les épisodes 274 à 278 soit les chapitres 389 à 398."
+            content_rating: FR
+            summary: "Franky ne comprend pas pourquoi Robin refuse d'être sauvé après que Spandam a rompu sa promesse. Alors que Luffy leur hurle dessus, Franky décide de faire face à Robin. Il utilise son cola restant pour gonfler ses fesses. Avec son pet, il parvient à s'échapper avec Robin tout brisant ses chaînes dans le processus et à être à portée de Luffy. Luffy veut les rejoindre pour sauver Robin, mais elle lui dit de rester car elle veut mourir. Devant le tribunal, Yokozuna succombe aux attaques des Jurés. Les marines sont sur le point de pénétrer dans l'enceinte mais les géants arrivent alors reprendre le contrôle de la situation. Kashi jette Usopp dans les airs, où il rejoint l'équipage des Chapeaux de Paille. De nouveau rassemblés, ils font face à Robin et au CP9, en attendant que le pont-levis soit abaissé.\r\r\r\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 274 à 278 soit les chapitres 389 à 398."
           34:
             title: La Clé de la Liberté
             sort_title: Cle de la Liberte
             originally_available: '2021-09-15'
-            summary: "Franky avait caché les plans de l'arme antique Pluton dans son
-              corps. Il les montre au CP9, expliquant qu'ils existaient uniquement
-              pour être construits en opposition aux réveils éventuels des armes antiques
-              . Ayant réalisé que Robin, n'était pas le démon décrit, il parie le
-              destin du monde sur la capacité des Chapeaux de Paille à la sauver et
-              brûle les plans. Enragé, Spandam jette Franky hors du balcon. Kokoro
-              fait monter Rocketman sur le pont-levis à moitié abaissé. Les Chapeaux
-              de Paille sautent à bord. Frappant Franky en chemin, le train saute
-              par-dessus la cascade et s'écrase dans à l'intérieur de la Tour de la
-              Justice.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 284 à 293 soit
-              les chapitres 388 à 408."
+            content_rating: FR
+            summary: "Franky avait caché les plans de l'arme antique Pluton dans son corps. Il les montre au CP9, expliquant qu'ils existaient uniquement pour être construits en opposition aux réveils éventuels des armes antiques . Ayant réalisé que Robin, n'était pas le démon décrit, il parie le destin du monde sur la capacité des Chapeaux de Paille à la sauver et brûle les plans. Enragé, Spandam jette Franky hors du balcon. Kokoro fait monter Rocketman sur le pont-levis à moitié abaissé. Les Chapeaux de Paille sautent à bord. Frappant Franky en chemin, le train saute par-dessus la cascade et s'écrase dans à l'intérieur de la Tour de la Justice.\r\r\r\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 284 à 293 soit les chapitres 388 à 408."
           35:
             title: Chasseurs vs Chasseurs
             sort_title: Chasseurs vs Chasseurs
             originally_available: '2021-09-21'
-            summary: "Franky fait une rencontre douloureuse avec le monstre Chopper.\r
-              \r\r\r\n\r\r\r\r\nCe film couvre les épisodes 294 à 302 soit les chapitres
-              409 à 420."
+            content_rating: FR
+            summary: "Franky fait une rencontre douloureuse avec le monstre Chopper.\r\r\r\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 294 à 302 soit les chapitres 409 à 420."
           36:
             title: Justice Absolue
             sort_title: Justice Absolue
             originally_available: '2021-09-27'
-            summary: "Tandis qu'Usopp, Sanji et Zoro aperçoivent les bateaux de la
-              Navy qui arrivent, Luffy poursuit son combat contre Rob Lucci. Mais
-              l'attaque de ce dernier provoque une infiltration d'eau dans le tunnel
-              où arrivent Nami et les autres, les mettant en danger. Franky et Robin
-              continuent de repousser les Marines, qui arrivent par vagues successives.
-              Oimo et Karsee sont en difficulté, car les bateaux du Buster Call détruisent
-              l'île, inéluctablement.\r\n\r\r\r\r\nCe film couvre les épisodes 302
-              à 312 soit les chapitres 420 à 430."
+            content_rating: FR
+            summary: "Tandis qu'Usopp, Sanji et Zoro aperçoivent les bateaux de la Navy qui arrivent, Luffy poursuit son combat contre Rob Lucci. Mais l'attaque de ce dernier provoque une infiltration d'eau dans le tunnel où arrivent Nami et les autres, les mettant en danger. Franky et Robin continuent de repousser les Marines, qui arrivent par vagues successives. Oimo et Karsee sont en difficulté, car les bateaux du Buster Call détruisent l'île, inéluctablement.\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 302 à 312 soit les chapitres 420 à 430."
           37:
             title: Casus Belli
             sort_title: Casus Belli
             originally_available: '2021-10-03'
-            summary: "De retour d'Enies Lobby, l'équipage du Chapeau de Paille se
-              repose à Water 7, où leur nouveau navire est construit par Franky et
-              la Galley-La Company. Mais leur joie est de courte durée, car un Vice-Amiral
-              de la Marine leur rend visite. À la surprise générale, Luffy révèle
-              qu'il s'agit de son grand-père.\r\n\r\r\r\r\nCe film couvre les épisodes
-              313 à 325 soit les chapitres 431 à 441."
+            content_rating: FR
+            summary: "De retour d'Enies Lobby, l'équipage du Chapeau de Paille se repose à Water 7, où leur nouveau navire est construit par Franky et la Galley-La Company. Mais leur joie est de courte durée, car un Vice-Amiral de la Marine leur rend visite. À la surprise générale, Luffy révèle qu'il s'agit de son grand-père.\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 313 à 325 soit les chapitres 431 à 441."
       5:
-        title: Saison 5 - Thriller Bark
+        title: Season 5
+        summary: ''
         episodes:
           38:
             title: Thriller Bark
             sort_title: Thriller Bark
             originally_available: '2022-01-29'
-            summary: "L'Équipage du Chapeau de Paille découvre un baril au milieu
-              de l'océan. Après l'avoir ouvert, une fusée rouge s'envole dans le ciel.
-              Le Thousand Sunny se retrouve alors piégé dans le Triangle de Florian,
-              où apparaît un navire en ruines. Luffy, Nami et Sanji décident de monter
-              à bord et rencontrent un mystérieux squelette vivant. Admiratif, Luffy
-              lui demande immédiatement de rejoindre son équipage !\r\n\r\r\r\r\n
-              Ce film couvre les épisodes 326 puis 337 à 343 soit les chapitres 442
-              à 449."
+            content_rating: FR
+            summary: "L'Équipage du Chapeau de Paille découvre un baril au milieu de l'océan. Après l'avoir ouvert, une fusée rouge s'envole dans le ciel. Le Thousand Sunny se retrouve alors piégé dans le Triangle de Florian, où apparaît un navire en ruines. Luffy, Nami et Sanji décident de monter à bord et rencontrent un mystérieux squelette vivant. Admiratif, Luffy lui demande immédiatement de rejoindre son équipage !\r\n\r\r\r\r\nCe film couvre les épisodes 326 puis 337 à 343 soit les chapitres 442 à 449."
           39:
             title: La Chasse Nocturne
             sort_title: Chasse Nocturne
             originally_available: '2022-02-12'
-            summary: "Usopp, Nami et Chopper tentent en vain de s'échapper, mais sont
-              capturés par le général zombie Ryuma (dont la voix et le comportement
-              sont très similaires à ceux de Brook), qui les enferme dans un cercueil.
-              Luffy et son groupe, quant à eux, pénètrent dans le manoir et vainquent
-              facilement les zombies qui s'y trouvent. Cependant, Sanji disparaît.
-              Luffy oblige alors Buhichuck à les guider dans le manoir. Alors que
-              les zombies de Thriller Bark célèbrent le début de la chasse nocturne,
-              Absalom réveille les autres généraux zombies pour qu'ils puissent s'occuper
-              des membres de l'équipage du Chapeau de Paille.\r\n\r\r\r\r\nCe film
-              couvre les épisodes 344 à 354 soit les chapitres 450 à 459."
+            content_rating: FR
+            summary: "Usopp, Nami et Chopper tentent en vain de s'échapper, mais sont capturés par le général zombie Ryuma (dont la voix et le comportement sont très similaires à ceux de Brook), qui les enferme dans un cercueil. Luffy et son groupe, quant à eux, pénètrent dans le manoir et vainquent facilement les zombies qui s'y trouvent. Cependant, Sanji disparaît. Luffy oblige alors Buhichuck à les guider dans le manoir. Alors que les zombies de Thriller Bark célèbrent le début de la chasse nocturne, Absalom réveille les autres généraux zombies pour qu'ils puissent s'occuper des membres de l'équipage du Chapeau de Paille.\r\n\r\r\r\r\nCe film couvre les épisodes 344 à 354 soit les chapitres 450 à 459."
           40:
             title: Les Trois Mystérieux
             sort_title: Les Trois Mysterieux
             originally_available: '2022-02-19'
-            summary: "Ayant décidé d'aider Brook et de le recruter dans leur équipage,
-              les pirates du Chapeau de Paille se séparent pour l'aider à retrouver
-              son ombre, sauver Nami et vaincre Gecko Moria. Hogback, frustré par
-              le fait qu'Absalom organise un mariage avec les zombies généraux comme
-              invités, devient le second commandant des forces zombies. Luffy et Sanji,
-              enragés, déciment la plupart des zombies, mais sont arrêtés par l'attaque
-              Negative Hollow de Perona.\r\n\r\r\r\r\nCe film couvre les épisodes
-              355 à 364 soit les chapitres 459 à 469."
+            content_rating: FR
+            summary: "Ayant décidé d'aider Brook et de le recruter dans leur équipage, les pirates du Chapeau de Paille se séparent pour l'aider à retrouver son ombre, sauver Nami et vaincre Gecko Moria. Hogback, frustré par le fait qu'Absalom organise un mariage avec les zombies généraux comme invités, devient le second commandant des forces zombies. Luffy et Sanji, enragés, déciment la plupart des zombies, mais sont arrêtés par l'attaque Negative Hollow de Perona.\r\n\r\r\r\r\nCe film couvre les épisodes 355 à 364 soit les chapitres 459 à 469."
           41:
             title: Oz, le démon
             sort_title: Oz, le demon
             originally_available: '2022-02-26'
-            summary: "Luffy continue de poursuivre Gecko Moria, mais il est bloqué
-              par les attaques de l'ombre de Moria. Le reste des Pirates du Chapeau
-              de Paille continue d'affronter Oz. Ce dernier les élimine rapidement,
-              déclarant qu'il ne les connaît pas et que son maître est Moria.\r\n\r
-              \r\r\r\nCe film couvre les épisodes 365 à 373 soit les chapitres 470
-              à 481."
+            content_rating: FR
+            summary: "Luffy continue de poursuivre Gecko Moria, mais il est bloqué par les attaques de l'ombre de Moria. Le reste des Pirates du Chapeau de Paille continue d'affronter Oz. Ce dernier les élimine rapidement, déclarant qu'il ne les connaît pas et que son maître est Moria.\r\n\r\r\r\r\nCe film couvre les épisodes 365 à 373 soit les chapitres 470 à 481."
           42:
             title: Le bon rhum de Binks
             sort_title: Le bon rhum de Binks
             originally_available: '2022-03-05'
-            summary: "Luffy utilise son Gear Second et commence à combattre Moria.
-              Ce dernier utilise sa technique Shadows Asgard, qui lui donne la force
-              de 1000 ombres. Pendant ce temps, les personnes dont les ombres ont
-              été volées par Moria se retrouvent menacées par le soleil levant...\r
-              \n\r\r\r\r\nCe film couvre les épisodes 374 à 381 soit les chapitres
-              481 à 490."
+            content_rating: FR
+            summary: "Luffy utilise son Gear Second et commence à combattre Moria. Ce dernier utilise sa technique Shadows Asgard, qui lui donne la force de 1000 ombres. Pendant ce temps, les personnes dont les ombres ont été volées par Moria se retrouvent menacées par le soleil levant...\r\n\r\r\r\r\nCe film couvre les épisodes 374 à 381 soit les chapitres 481 à 490."
       6:
-        title: Saison 6 - Guerre au Sommet
+        title: Season 6
+        summary: ''
         episodes:
           43:
-            title: Duval
-            sort_title: Duval
-            originally_available: '2022-08-20'
-            summary: "Sengoku, l'Amiral en chef de la Marine, se plaint de l'indulgence
-              qu'a fait preuve Kuma envers les Chapeaux de Paille. Cependant, Garp,
-              le grand père de Luffy est convaincu que son petit fils ne se vantera
-              pas de sa victoire contre Moria. De leur côté, les Chapeaux de Paille
-              atteignent Red Line, l'autre côté du monde, d'où ils sont entrés sur
-              Grand Line, et réfléchissent brièvement par quel moyen ils sont venus
-              et jusqu'où ils doivent aller.\r\r\r\n\r\r\r\nCe film couvre les épisodes
-              385 à 392 soit les chapitres 490 à 498."
+            title: Duval au masque de fer
+            sort_title: Duval au masque de fer
+            originally_available: '2022-03-12'
+            content_rating: FR
+            summary: "Sengoku, l'Amiral en chef de la Marine, se plaint de l'indulgence qu'a fait preuve Kuma envers les Chapeaux de Paille. Cependant, Garp, le grand père de Luffy est convaincu que son petit fils ne se vantera pas de sa victoire contre Moria. De leur côté, les Chapeaux de Paille atteignent Red Line, l'autre côté du monde, d'où ils sont entrés sur Grand Line, et réfléchissent brièvement par quel moyen ils sont venus et jusqu'où ils doivent aller.\r\r\n\r\r\nCe film couvre les épisodes 385 à 390 soit les chapitres 490 à 498."
           44:
-            title: Sabaody - Les onze Supernovas
-            sort_title: Sabaody - Les onze Supernovas
-            originally_available: '2022-08-20'
-            summary: "Luffy et son groupe tentent de trouver Rayleigh, mais devient
-              vite distraits par le Sabaody Park. Zoro, ayant été impoli envers Saint
-              Charlos, a failli être tué ou plutôt le contraire. Il évite le boulet
-              qui lui était destiné et avant d'avoir pu couper en deux le Dragon Céleste,
-              Jewelry Bonney intervient en le poussant par terre. Par la suite, Sanji
-              reçoit un appel de Chopper déclarant que Camie s'est fait kidnappé.\r
-              \r\r\n\r\r\r\nCe film couvre les épisodes 393 à 398 soit les chapitres
-              499 à 504."
+            title: Les Dragons Célestes
+            sort_title: Les Dragons Celestes
+            originally_available: '2022-07-01'
+            content_rating: FR
+            summary: "Duval reprend ses esprits et découvre avec stupeur son nouveau portrait. De leur côté, les Mugiwara dégustent des boulettes de poulpe préparées par Octy à bord du Sunny.. Pappag, l'étoile de mer et ami de la sirène Camie explique alors aux Chapeaux de Paille les différentes routes menant vers l'île des Hommes-Poissons. L'équipage s'amarre donc sur l'Archipel des Sabaody ! Mais à peine arrivés sur l'Archipel, Octy explique aux Mugiwara qu'ils risquent de croiser des membres de la Noblesse Mondiale et qu'il ne faudrait surtout pas les importuner...\r\r\n\r\r\nCe film couvre les épisodes 390 à 396 soit les chapitres 499 à 504."
           45:
-            title: Point de non-retour
-            sort_title: Point de non-retour
-            originally_available: '2022-08-20'
-            summary: "Luffy, Law, Kid et son équipage se joignent à la lutte contre
-              la Marine en dehors de la salle de vente. Les trois capitaines promettent
-              de se rencontrer et de se combattre dans le Nouveau Monde. Pendant ce
-              temps, l'équipage de Luffy parvient à s'échapper avec l'aide des Rosy
-              Life Riders. Cependant, un personnage mystérieux qui semble être Kuma,
-              mais qui est en fait un Pacifista, intercepte Kid et Trafalgar Law,
-              et commence à les attaquer avec des lasers...\r\r\r\n\r\r\r\nCe film
-              couvre les épisodes 399 à 405 soit les chapitres 505 à 513."
+            title: Le Singe Jaune
+            sort_title: Le Singe Jaune
+            originally_available: '2022-07-02'
+            content_rating: FR
+            summary: "Les personnes présentes dans la salle des ventes sont abasourdies par l'action de Luffy envers le Dragon Céleste ! De son côté, Franky part à a recherche de la clef permettant de délivrer Camie pendant que Chopper s'occupe des blessures d'Octy. Pris de panique par l'acte de Luffy, les gens se bousculent pour sortir de la salle. Pendant ce temps, Sanji attaque les gardes des dragons célestes avec ses \"Concasses\".\r\r\n\r\r\nCe film couvre les épisodes 397 à 405 soit les chapitres 505 à 513."
           46:
-            title: Un Homme ?!
-            sort_title: Un Homme ?!
-            originally_available: '2022-08-20'
-            summary: "Après avoir été propulsé par Kuma, Luffy atterrit sur une mystérieuse
-              île interdite aux hommes, Amazon Lily. Malheureusement, il l'apprend
-              à ses dépens et se retrouve face aux féroces guerrières de l'île qui
-              font tout pour le capturer et le tuer, les Amazones...\r\r\r\n\r\r\r
-              \nCe film couvre les épisodes 408 à 411 soit les chapitres 514 à 517."
-          47:
-            title: Luffy le séducteur
-            sort_title: Luffy le seducteur
-            originally_available: '2022-08-20'
-            summary: "Luffy étant tombé à côté d'une grande baignoire, a vu le dos
-              de Boa Hancock, ce qui la rend furieuse. Pourtant Luffy, se rappelle
-              avoir déjà vu ce logo auparavant...\r\r\r\n\r\r\r\nCe film couvre les
-              épisodes 412 à 417 soit les chapitres 518 à 523."
-          48:
-            title: Perdus aux quatre vents
-            sort_title: Perdus aux quatre vents
-            originally_available: '2022-08-20'
-            summary: "Après avoir été séparé du reste de l'équipage, Nami se retrouve
-              sur une île céleste tandis que Franky atterrit sur une île enneigée...\r
-              \r\r\n\r\r\r\nCe film couvre les épisodes 418 à 421 soit les chapitres
-              523 à 524."
-          49:
-            title: Impel Down - Infiltration
-            sort_title: Impel Down - Infiltration
-            originally_available: '2022-08-20'
-            summary: "Alors que chaque Mugiwara (excepté Luffy) essaye de se débrouiller
-              dans son environnement, Luffy arrive à la grande prison avec l'aide
-              de Hancock.\r\r\r\n\r\r\r\nCe film couvre les épisodes 422 à 425 puis
-              les épisodes 430 à 431 soit les chapitres 525 à 530."
-          50:
-            title: Magellan
-            sort_title: Magellan
-            originally_available: '2022-08-20'
-            summary: "Alors que Luffy continue son avancée vers le niveau 4, Mr. 3
-              et Baggy délivrent Bonclay de sa cellule. Lorsque ce dernier apprend
-              la présence de Luffy au niveau 3, il part immédiatement à sa recherche.
-              Dehors, les Marines chargés d'escorter Ace souhaitent entrer dans Impel
-              Down pour aider à la capture de Luffy.\r\r\r\n\r\r\r\nCe film couvre
-              les épisodes 432 à 437 soit les chapitres 530 à 536."
-          51:
-            title: Deuxième chance
-            sort_title: Deuxieme chance
-            originally_available: '2022-08-20'
-            summary: "Alors que Mr. 2 délivre Luffy de sa cellule, Mr. 3 et Baggy,
-              eux, font face aux Loups Blancs du niveau 5. De leur côté, les grandes
-              figures du personnel d'Impel Down ne sont qu'a moitié rassuré.\r\r\r
-              \n\r\r\r\nCe film couvre les épisodes 438 à 444 soit les chapitres 536
-              à 542."
-          52:
-            title: Évasion sans précédent
-            sort_title: Evasion sans precedent
-            originally_available: '2022-08-20'
-            summary: "Luffy, Jinbe, Crocodile, Mr. 2, Mr. 1, Ivankov, Inazuma et les
-              New Kamas continuent de se battre au niveau 4. Pendant se temps, Barbe
-              Noire, s'étant introduit lui aussi dans Impel Down, rencontre Shiliew
-              au niveau 1.\r\r\r\n\r\r\r\nCe film couvre les épisodes 445 à 451 soit
-              les chapitres 542 à 548."
-          53:
-            title: Arc Marineford - Guerre totale
-            sort_title: Arc Marineford - Guerre totale
+            title: L'Île des femmes
+            sort_title: L'Ile des femmes
             originally_available:
+            content_rating: FR
             summary: ''
-          54:
-            title: Luffy et Barbe Blanche
-            sort_title: Luffy et Barbe Blanche
-            originally_available: '2022-08-20'
-            summary: "Luffy et son alliance formée avec les prisonniers évadés d'Impel
-              Down arrivent enfin sur le champ de bataille.\r\r\r\n\r\r\r\nCe film
-              couvre les épisodes 466 à 473 soit les chapitres 557 à 564."
-          55:
-            title: Libération
-            sort_title: Liberation
-            originally_available: '2022-08-20'
-            summary: "Alors que les communications provenant de Marine Ford sont coupées,
-              les pirates de Barbe-Banche sont toujours encerclés dans la baie et
-              à la merci des tirs de la Marine.\r\r\r\n\r\r\r\nCe film couvre les
-              épisodes 474 à 483 soit les chapitres 565 à 574."
-          56:
+          47:
+            title: La Prison Sous marine
+            sort_title: Prison Sous marine
+            originally_available: '2022-07-05'
+            content_rating: FR
+            summary: "Alors que Luffy essaye de fuir les femmes de l'île, qui veulent le tuer, un Vice-Amiral vient voir Boa Hancock, la Capitaine Corsaire qui arrive sur son navire. Il lui demande alors de venir au Q.G de la Marine afin de se battre contre Barbe Blanche.\r\r\r\n\r\r\r\nCe film couvre les épisodes 418 à 436 soit les chapitres 523 à 535."
+          48:
+            title: La Résistance fluide
+            sort_title: Resistance fluide
+            originally_available: '2022-07-09'
+            content_rating: FR
+            summary: "Magellan ordonne l’emprisonnement de Luffy dans une cellule du niveau 5 : l'enfer des glaces. Au niveau 5, les prisonniers souffrent tellement du froid que leur corps gèle…\r\r\n\r\r\nCe film couvre les épisodes 437 à 444 soit les chapitres 535 à 541."
+          49:
+            title: Par la grande porte
+            sort_title: Par la grande porte
+            originally_available: '2022-07-12'
+            content_rating: FR
+            summary: "Toutes les troupes d'Impel Down se rendent au niveau 4 pour stopper le groupe de Luffy qui continue de se battre. Pendant ce temps, Baggy et Mr. 3 atteignent le niveau 2 et libèrent des prisonniers afin de couvrir leur fuite. C'est le chaos à Impel Down !\r\r\r\n\r\r\r\nCe film couvre les épisodes 444 à 452 soit les chapitres 542 à 549 ainsi que des couvertures de chapitres."
+          50:
+            title: Guerre totale
+            sort_title: Guerre totale
+            originally_available: '2023-02-26'
+            content_rating: FR
+            summary: "Alors qu'il ne reste que trois heures avant l'exécution d'Ace, Luffy atteint Marine Ford mais trouve la Porte de la Justice fermée. Partout dans le monde, la nouvelle d'une guerre opposant Barbe Blanche aux forces de la Marine se répand.\r\r\n\r\r\nCe film couvre les épisodes 459 à 465 soit les chapitres 550 à 556."
+          51:
+            title: Le pouvoir le plus redoutable
+            sort_title: Le pouvoir le plus redoutable
+            originally_available: '2023-02-27'
+            content_rating: FR
+            summary: "Luffy et son alliance formée avec les prisonniers évadés d'Impel Down arrivent enfin sur le champ de bataille.\r\r\n\r\r\nCe film couvre les épisodes 466 à 471 soit les chapitres 557 à 562."
+          52:
+            title: Le sauvetage d'Ace
+            sort_title: Le sauvetage d'Ace
+            originally_available: '2023-03-04'
+            content_rating: FR
+            summary: "L'ensemble des pirates et même des Marines sont surpris par l'énorme trahison de Squardo. Ce dernier explique à Barbe Blanche qu'il est au courant du complot orchestré par l'Empereur qui consiste à livrer les 43 capitaines alliés à la Marine en échange de Portgas D. Ace.\r\r\n\r\r\nCe film couvre les épisodes 472 à 483 soit les chapitres 563 à 574."
+          53:
             title: Fuir ou mourir
             sort_title: Fuir ou mourir
-            originally_available: '2022-08-20'
-            summary: "A l'instar de celui de Garp, le chagrin de Luffy est insurmontable.
-              En état de choc, Marco le protège d'une nouvelle attaque d'Akainu. Pendant
-              ce temps, Jinbe prend Luffy dans ses bras et s'enfuit.\r\r\r\n\r\r\r
-              \nCe film couvre les épisodes 484 à 490 soit les chapitres 574 à 581."
-          57:
-            title: Passé de Luffy - Frères
-            sort_title: Passe de Luffy - Freres
-            originally_available: '2022-08-20'
-            summary: "Nous suivons un flashback qui se déroule 10 ans avant l'histoire
-              actuelle. Garp emmène Luffy au dessus du village Fuschia, au Mont Corvo,
-              où vit la famille Dadan.\r\r\r\n\r\r\r\nCe film couvre les épisodes
-              493 à 499 soit les chapitres 582 à 585."
-          58:
-            title: Passé de Luffy - Départs
-            sort_title: Passe de Luffy - Departs
-            originally_available: '2022-08-20'
-            summary: "Bluejam retrouve Ace, Luffy et Sabo, et le père Sabo contraint
-              celui-ci à revenir dans la ville noble. Sabo, d'abord réticent, accepte
-              pour protéger ses frères. Une fois rentré, il apprend qu'un incendie
-              va être déclenché dans le Grey Terminal. Il court donc dans le but de
-              prévenir Ace et Luffy, qui au même moment travaillent pour Bluejam et
-              ignorent tout de l'incendie.\r\r\r\n\r\r\r\nCe film couvre les épisodes
-              500 à 504 soit les chapitres 595 et 599."
-          59:
-            title: Nouvelle ère - Message
-            sort_title: Nouvelle ere - Message
-            originally_available: '2022-08-20'
-            summary: "Garp revient dans le village natal de Luffy et y retrouve Dadan.
-              En colère, elle lui demande pourquoi il n’a pas aidé Ace et le frappe.
-              Garp se laisse frapper mais Makino fini par s'interposer.\r\r\r\n\r\r
-              \r\nCe film couvre les épisodes 491 puis 505 à 509 soit les chapitres
-              581, 582 puis 590 à 592."
-          60:
-            title: Nouvelle ère - Préparations et Rendez-vous
-            sort_title: Nouvelle ere - Preparations et Rendez-vous
-            originally_available: '2022-08-20'
-            summary: "Luffy se rend à Marine Ford, accompagné de Jinbei et Rayleigh.
-              De son côté, Chopper part à Sabaody sur le dos d'un oiseau mais lorsqu'il
-              reçoit le journal, il pousse un cri de stupéfaction.\r\r\r\n\r\r\r\n
-              Ce film couvre les épisodes 510 à 516 soit les chapitres 591 puis 593
-              à 597."
+            originally_available: '2023-03-05'
+            content_rating: FR
+            summary: "A l'instar de celui de Garp, le chagrin de Luffy est insurmontable. En état de choc, Marco le protège d'une nouvelle attaque d'Akainu. Pendant ce temps, Jinbe prend Luffy dans ses bras et s'enfuit.\r\r\n\r\r\nCe film couvre les épisodes 484 à 491 soit les chapitres 575 à 582."
+          54:
+            title: Frères
+            sort_title: Freres
+            originally_available: '2023-04-03'
+            content_rating: FR
+            summary: "Cet épisode est un flashback qui se déroule 10 ans avant l'histoire actuelle. Garp emmène Luffy au dessus du village Fuschia, au Mont Corvo, où vit la famille Dadan.\r\r\n\r\r\nCe film couvre les épisodes 493 à 504 soit les chapitres 583 à 589."
+          55:
+            title: Nouvelle ère
+            sort_title: Nouvelle ere
+            originally_available: '2023-10-19'
+            content_rating: FR
+            summary: "Garp revient dans le village natal de Luffy et y retrouve Dadan. En colère, elle lui demande pourquoi il n’a pas aidé Ace. De retour sur l'île des femmes, Jimbei explique à Luffy qu’il doit surmonter la mort d'Ace, et que d’autres personnes l’attendent. Luffy repense à ses amis qu’il veut revoir.\n\nCe film couvre les épisodes 505 à 516 soit les chapitres 590 à 597."
       7:
-        title: Saison 7 - Île des Hommes-Poissons
+        title: Season 7
+        summary: ''
         episodes:
-          61:
+          56:
             title: Retrouvailles
             sort_title: Retrouvailles
             originally_available: '2022-08-20'
-            summary: "Luffy a bien grandi. Au bout de ses deux ans d'entraînement
-              intensif, il est même devenu le maître de l'île de Rusukaina. Une fois
-              ses adieux fait aux animaux avec qui il est devenu ami, il repart direction
-              l'Archipel Sabaody où l'attendent Rayleigh et les membres de l'Équipage
-              du Chapeau de Paille. Zoro qui arrive le premier se rend dans le bar
-              tenu par Shakky.\r\r\r\n\r\r\r\nCe film couvre les épisodes 517 à 521
-              soit les chapitres 598 à 601."
-          62:
+            content_rating: FR
+            summary: "Luffy a bien grandi. Au bout de ses deux ans d'entraînement intensif, il est même devenu le maître de l'île de Rusukaina. Une fois ses adieux fait aux animaux avec qui il est devenu ami, il repart direction l'Archipel Sabaody où l'attendent Rayleigh et les membres de l'Équipage du Chapeau de Paille. Zoro qui arrive le premier se rend dans le bar tenu par Shakky.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 517 à 521 soit les chapitres 598 à 601."
+          57:
             title: Vingt mille lieues sous les mers
             sort_title: Vingt mille lieues sous les mers
             originally_available: '2022-08-20'
-            summary: "L'équipage parvient à se réunir alors que la Marine essaye de
-              les stopper avant leur départ. C'est alors que Boa Hancock, Héraclès,
-              Perona, Rayleigh, Haredas, les Okamas ainsi que l'Oiseau Géant qui a
-              ramené Chopper, protègent tour à tour les membres de l'Équipage au Chapeau
-              de Paille. Ces derniers sont alors enfin prêts. Le Thousand Sunny se
-              submerge donc dans l'eau afin de se diriger vers leur prochaine destination
-              : l'île des Hommes-Poissons !\r\r\r\n\r\r\r\nCe film couvre les épisodes
-              522 à 523 soit les chapitres 602 à 607."
-          63:
+            content_rating: FR
+            summary: "L'équipage parvient à se réunir alors que la Marine essaye de les stopper avant leur départ. C'est alors que Boa Hancock, Héraclès, Perona, Rayleigh, Haredas, les Okamas ainsi que l'Oiseau Géant qui a ramené Chopper, protègent tour à tour les membres de l'Équipage au Chapeau de Paille. Ces derniers sont alors enfin prêts. Le Thousand Sunny se submerge donc dans l'eau afin de se diriger vers leur prochaine destination : l'île des Hommes-Poissons !\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 522 à 523 soit les chapitres 602 à 607."
+          58:
             title: Amis ou ennemis
             sort_title: Amis ou ennemis
             originally_available: '2022-08-20'
-            summary: "Alors qu'ils viennent juste d'arrivés devant l'île de Hommes-Poissons,
-              les Chapeau de Paille se font déjà attaquer par un groupe de monstre-marins
-              chevauchés par des Hommes-Poissons qui se font appeler «Les nouveaux
-              pirates Hommes-Poissons». Franky enclenche alors un Coup de Burst qui
-              propulse l'équipage sur l'île.\r\r\r\n\r\r\r\nCe film couvre les épisodes
-              527 à 532 soit les chapitres 607 à 613."
-          64:
+            content_rating: FR
+            summary: "Alors qu'ils viennent juste d'arrivés devant l'île de Hommes-Poissons, les Chapeau de Paille se font déjà attaquer par un groupe de monstre-marins chevauchés par des Hommes-Poissons qui se font appeler «Les nouveaux pirates Hommes-Poissons». Franky enclenche alors un Coup de Burst qui propulse l'équipage sur l'île.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 527 à 532 soit les chapitres 607 à 613."
+          59:
             title: Double assaut
             sort_title: Double assaut
             originally_available: '2022-08-20'
-            summary: "Au palais Ryugu, Zoro bat Neptune et ses hommes avant de les
-              prendre en otages. Arrivé à l'entrée du palais, le prince Fukaboshi
-              et ses deux frères, Ryuboshi et Manboshi, passent un message à Zoro
-              destiné à Luffy.\r\r\r\n\r\r\r\nCe film couvre les épisodes 533 à 539
-              soit les chapitres 614 à 620."
-          65:
+            content_rating: FR
+            summary: "Au palais Ryugu, Zoro bat Neptune et ses hommes avant de les prendre en otages. Arrivé à l'entrée du palais, le prince Fukaboshi et ses deux frères, Ryuboshi et Manboshi, passent un message à Zoro destiné à Luffy.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 533 à 539 soit les chapitres 614 à 620."
+          60:
             title: Otohime et Fisher Tiger
             sort_title: Otohime et Fisher Tiger
             originally_available: '2022-08-20'
-            summary: "Jinbe débute son récit : un flaskback retraçant des évènements
-              vieux de 16 ans sur l'île des Hommes-Poissons commence. Otohime interrompt
-              la fuite d'un voleur en ville.\r\r\r\n\r\r\r\nCe film couvre les épisodes
-              540 à 547 soit les chapitres 621 à 627."
-          66:
+            content_rating: FR
+            summary: "Jinbe débute son récit : un flaskback retraçant des évènements vieux de 16 ans sur l'île des Hommes-Poissons commence. Otohime interrompt la fuite d'un voleur en ville.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 540 à 547 soit les chapitres 621 à 627."
+          61:
             title: Rassemblement
             sort_title: Rassemblement
             originally_available: '2022-08-20'
-            summary: "Hody annonce son plan, qui consiste à exécuter Neptune et à
-              prendre sa place. Il a également enfermé Zoro, Usopp et Brook dans une
-              cage surélevée se trouvant dans une pièce du château. Hody ordonne d’inonder
-              cette pièce pour les tuer. Luffy veut aller se battre au palais mais
-              Jinbe s'interpose.\r\r\r\n\r\r\r\nCe film couvre les épisodes 548 à
-              553 soit les chapitres 628 à 633."
-          67:
+            content_rating: FR
+            summary: "Hody annonce son plan, qui consiste à exécuter Neptune et à prendre sa place. Il a également enfermé Zoro, Usopp et Brook dans une cage surélevée se trouvant dans une pièce du château. Hody ordonne d’inonder cette pièce pour les tuer. Luffy veut aller se battre au palais mais Jinbe s'interpose.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 548 à 553 soit les chapitres 628 à 633."
+          62:
             title: Cent mille VS Dix
             sort_title: Cent mille VS Dix
             originally_available: '2022-08-20'
-            summary: "La capture de Jinbe et Shirahoshi était un plan destiné à récupérer
-              la lettre des dragons célestes et à ce que Luffy combatte Hody afin
-              de devenir le héros de l'île. Luffy élimine 50000 ennemis grâce au fluide
-              royal qu'il semble maîtriser à présent.\r\r\r\n\r\r\r\nCe film couvre
-              les épisodes 554 à 561 soit les chapitres 634 à 640."
-          68:
+            content_rating: FR
+            summary: "La capture de Jinbe et Shirahoshi était un plan destiné à récupérer la lettre des dragons célestes et à ce que Luffy combatte Hody afin de devenir le héros de l'île. Luffy élimine 50000 ennemis grâce au fluide royal qu'il semble maîtriser à présent.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 554 à 561 soit les chapitres 634 à 640."
+          63:
             title: Hody Jones
             sort_title: Hody Jones
             originally_available: '2022-08-20'
-            summary: "Les trois princes tentent de s’interposer devant Hody pour défendre
-              leur sœur et Luffy, mais ils sont tous les trois vaincus par Hody. L’arche
-              Noah se rapproche de l’île des hommes-poissons. Le tank à air de l’île
-              prépare une tentative désespérée pour arrêter le Noah : l’englober dans
-              une bulle en envoyant tout l’air possible.\r\r\r\n\r\r\r\nCe film couvre
-              les épisodes 562 à 568 soit les chapitres 641 à 648."
-          69:
+            content_rating: FR
+            summary: "Les trois princes tentent de s’interposer devant Hody pour défendre leur sœur et Luffy, mais ils sont tous les trois vaincus par Hody. L’arche Noah se rapproche de l’île des hommes-poissons. Le tank à air de l’île prépare une tentative désespérée pour arrêter le Noah : l’englober dans une bulle en envoyant tout l’air possible.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 562 à 568 soit les chapitres 641 à 648."
+          64:
             title: Nouveau Départ
             sort_title: Nouveau Depart
             originally_available: '2022-08-20'
-            summary: "Luffy et son équipage quittent la place. En effet, Luffy et
-              Zoro ont peur d'être considérés comme des héros et ainsi de partager
-              la nourriture et le saké. Sur le Sunny, Jinbe repousse l'offre de Luffy,
-              en lui disant qu'il a encore des choses à régler. Cependant, il promet
-              à Luffy de venir à sa rencontre lorsque cela sera réglé et rejoindra
-              son équipage si Luffy est toujours consentant.\r\r\r\n\r\r\r\nCe film
-              couvre les épisodes 569 à 573 soit les chapitres 649 à 653."
+            content_rating: FR
+            summary: "Luffy et son équipage quittent la place. En effet, Luffy et Zoro ont peur d'être considérés comme des héros et ainsi de partager la nourriture et le saké. Sur le Sunny, Jinbe repousse l'offre de Luffy, en lui disant qu'il a encore des choses à régler. Cependant, il promet à Luffy de venir à sa rencontre lorsque cela sera réglé et rejoindra son équipage si Luffy est toujours consentant.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 569 à 573 soit les chapitres 649 à 653."
       8:
-        title: Saison 8 - Dressrosa
+        title: Season 8
+        summary: ''
         episodes:
-          70:
+          65:
             title: Punk Hazard, l'île bipolaire
             sort_title: Punk Hazard, l'ile bipolaire
             originally_available: '2022-08-20'
-            summary: "Les chapeaux de paille, pendant leur remontée vers le Nouveau
-              Monde, rencontrent un tourbillon dans lequel ils sont emportés. Sortis
-              d'affaire grâce à un banc de baleine, ils arrivent enfin jusqu'à la
-              surface.\r\r\r\n\r\r\r\nCe film couvre les épisodes 574 puis 579 à 584
-              soit les chapitres 654 à 659."
-          71:
+            content_rating: FR
+            summary: "Les chapeaux de paille, pendant leur remontée vers le Nouveau Monde, rencontrent un tourbillon dans lequel ils sont emportés. Sortis d'affaire grâce à un banc de baleine, ils arrivent enfin jusqu'à la surface.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 574 puis 579 à 584 soit les chapitres 654 à 659."
+          66:
             title: La face visible de l'iceberg
             sort_title: face visible de l'iceberg
             originally_available: '2022-08-20'
-            summary: "Nami et les autres essayant de trouver la sortie tombe nez à
-              nez avec Smoker et Trafalgar. Ils font alors demi-tour tandis que Trafalgar
-              et Smoker se mettent en garde...\r\r\r\n\r\r\r\nCe film couvre les épisodes
-              585 à 593 soit les chapitres 660 à 667."
-          72:
+            content_rating: FR
+            summary: "Nami et les autres essayant de trouver la sortie tombe nez à nez avec Smoker et Trafalgar. Ils font alors demi-tour tandis que Trafalgar et Smoker se mettent en garde...\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 585 à 593 soit les chapitres 660 à 667."
+          67:
             title: Smiley
             sort_title: Smiley
             originally_available: '2022-08-20'
-            summary: "Luffy accepte l'alliance de Trafalgar Law, mais l'équipage au
-              chapeau de paille refuse de quitter l'île tant que les enfants ne sont
-              pas en sécurité.\r\r\r\n\r\r\r\nCe film couvre les épisodes 594 à 602
-              soit les chapitres 668 à 676."
-          73:
+            content_rating: FR
+            summary: "Luffy accepte l'alliance de Trafalgar Law, mais l'équipage au chapeau de paille refuse de quitter l'île tant que les enfants ne sont pas en sécurité.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 594 à 602 soit les chapitres 668 à 676."
+          68:
             title: Coalition
             sort_title: Coalition
             originally_available: '2022-08-20'
-            summary: "Law a une technique qui pourrait changer la donne. Zoro et le
-              reste se rassemblent avec Nami et Sanji, mais peuvent-ils être en sécurité
-              avant de finir sous le nuage empoisonné ?\r\r\r\n\r\r\r\nCe film couvre
-              les épisodes 603 à 610 soit les chapitres 667 à 684."
-          74:
+            content_rating: FR
+            summary: "Law a une technique qui pourrait changer la donne. Zoro et le reste se rassemblent avec Nami et Sanji, mais peuvent-ils être en sécurité avant de finir sous le nuage empoisonné ?\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 603 à 610 soit les chapitres 667 à 684."
+          69:
             title: César et le S.A.D.
             sort_title: Cesar et le S.A.D.
             originally_available: '2022-08-20'
-            summary: "Luffy devient ami avec un humain devenu dragon. Smoker continue
-              son combat avec Vergo.\r\r\r\n\r\r\r\nCe film couvre les épisodes 611
-              à 617 soit les chapitres 685 à 692."
-          75:
+            content_rating: FR
+            summary: "Luffy devient ami avec un humain devenu dragon. Smoker continue son combat avec Vergo.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 611 à 617 soit les chapitres 685 à 692."
+          70:
             title: Exécution du plan
             sort_title: Execution du plan
             originally_available: '2022-08-20'
-            summary: "La nouvelle de l'alliance de Luffy et de Law fait le tour du
-              globe. Chopper et Brook fuient le gaz mortel et Joker envoie une équipe
-              pour secourir César !\r\r\r\n\r\r\r\nCe film couvre les épisodes 618
-              à 625 soit les chapitres 692 à 699."
-          76:
+            content_rating: FR
+            summary: "La nouvelle de l'alliance de Luffy et de Law fait le tour du globe. Chopper et Brook fuient le gaz mortel et Joker envoie une équipe pour secourir César !\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 618 à 625 soit les chapitres 692 à 699."
+          71:
             title: Dressrosa, le pays de l'amour, de la passion...
             sort_title: Dressrosa, le pays de l'amour, de la passion...
             originally_available: '2022-08-20'
-            summary: "Le monde est sous le choc en apprenant que Doflamingo quitte
-              les Grands Corsaires. Pendant ce temps, Law donne des informations quant
-              à la position et les conditions pour livrer César tout en cachant ses
-              vraies intentions, c'est à dire de détruire l'usine à Smiles.\r\r\r\n
-              \r\r\r\nCe film couvre les épisodes 628 à 634 soit les chapitres 700
-              à 706."
-          77:
+            content_rating: FR
+            summary: "Le monde est sous le choc en apprenant que Doflamingo quitte les Grands Corsaires. Pendant ce temps, Law donne des informations quant à la position et les conditions pour livrer César tout en cachant ses vraies intentions, c'est à dire de détruire l'usine à Smiles.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 628 à 634 soit les chapitres 700 à 706."
+          72:
             title: Colosseum - Bloc B
             sort_title: Colosseum - Bloc B
             originally_available: '2022-08-20'
-            summary: "Luffy revoit une connaissance du passé inattendue, Bellamy.
-              Pendant ce temps, l'équipe qui s'occupe de César découvrent à quel point
-              Green Bit est dangereux.\r\r\r\n\r\r\r\nCe film couvre les épisodes
-              635 à 638 soit les chapitres 705 à 709."
-          78:
+            content_rating: FR
+            summary: "Luffy revoit une connaissance du passé inattendue, Bellamy. Pendant ce temps, l'équipe qui s'occupe de César découvrent à quel point Green Bit est dangereux.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 635 à 638 soit les chapitres 705 à 709."
+          73:
             title: Le piège
             sort_title: Le piege
             originally_available: '2022-08-20'
-            summary: "Alors que l'équipe livrant César approche de Green Bit, ils
-              se font attaquer par un grand poisson qui vit par là. Le problème est
-              qu'ils découvrent que le pont est cassé en deux !\r\r\r\n\r\r\r\nCe
-              film couvre les épisodes 639 à 642 soit les chapitres 710 à 712."
-          79:
+            content_rating: FR
+            summary: "Alors que l'équipe livrant César approche de Green Bit, ils se font attaquer par un grand poisson qui vit par là. Le problème est qu'ils découvrent que le pont est cassé en deux !\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 639 à 642 soit les chapitres 710 à 712."
+          74:
             title: Colosseum - Bloc C
             sort_title: Colosseum - Bloc C
             originally_available: '2022-08-20'
-            summary: "À Green Bit, Trafalgar Law et Doflamingo se font face. Law se
-              demande si il ne fallait pas revoir les clauses de l'échange car Doflamingo
-              ne les avait pas respectés. Ce dernier lui intime l'ordre de relâcher
-              tout de suite César Clown. Un soldat de la Marine avertit Issho que
-              l'ancien maître de Punk Hazard est présent sur les lieux et ce dernier
-              lui répond que si ce n'est qu'un subalterne de Doflamingo, il ne fallait
-              pas le capturer.\r\r\r\n\r\r\r\nCe film couvre les épisodes 643 à 646
-              soit les chapitres 713 à 716."
-          80:
+            content_rating: FR
+            summary: "À Green Bit, Trafalgar Law et Doflamingo se font face. Law se demande si il ne fallait pas revoir les clauses de l'échange car Doflamingo ne les avait pas respectés. Ce dernier lui intime l'ordre de relâcher tout de suite César Clown. Un soldat de la Marine avertit Issho que l'ancien maître de Punk Hazard est présent sur les lieux et ce dernier lui répond que si ce n'est qu'un subalterne de Doflamingo, il ne fallait pas le capturer.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 643 à 646 soit les chapitres 713 à 716."
+          75:
             title: Les Oubliés de Dressrosa
             sort_title: Les Oublies de Dressrosa
             originally_available: '2022-08-20'
-            summary: "Le combat s'engage entre Lucy et la légende, Don Chinjao. A
-              la surprise de tous il fond en larmes à plusieurs reprises en se remémorant
-              la raison de la perte de son trésor. Alors que les deux combattants
-              se font face, Boo, avec son frère dans les eaux entourant l'arène, se
-              demande pourquoi Sai n'est pas allé en finale comme convenu. Dans les
-              rues de Dressrosa, Franky accompagné du Soldat Fureur Éclair, avance
-              vers le Champ de Fleurs.\r\r\r\n\r\r\r\nCe film couvre les épisodes
-              647 à 651 soit les chapitres 717 à 721."
-          81:
+            content_rating: FR
+            summary: "Le combat s'engage entre Lucy et la légende, Don Chinjao. A la surprise de tous il fond en larmes à plusieurs reprises en se remémorant la raison de la perte de son trésor. Alors que les deux combattants se font face, Boo, avec son frère dans les eaux entourant l'arène, se demande pourquoi Sai n'est pas allé en finale comme convenu. Dans les rues de Dressrosa, Franky accompagné du Soldat Fureur Éclair, avance vers le Champ de Fleurs.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 647 à 651 soit les chapitres 717 à 721."
+          76:
             title: La Paria du Bloc D
             sort_title: Paria du Bloc D
             originally_available: '2022-08-20'
-            summary: "Au Colisée Corrida, la foule continue à huer Rebecca jusqu'à
-              ce que Cavendish, chevauchant son cheval blanc, leur ordonne de se taire.
-              La jeune gladiatrice le remercie mais \"le Magnifique Capitaine Pirate\"\
-              \ lui rappelle qu'ils sont tous les deux ennemis. Gats donne le coup
-              d'envoi de la Bataille Royale du Bloc D qui commence après avoir fait
-              résonner le gong avec 137 compétiteurs prêts à se battre jusqu'à la
-              mort dans l'arène du Colisée.\r\r\r\n\r\r\r\nCe film couvre les épisodes
-              652 à 657 soit les chapitres 722 à 726."
-          82:
+            content_rating: FR
+            summary: "Au Colisée Corrida, la foule continue à huer Rebecca jusqu'à ce que Cavendish, chevauchant son cheval blanc, leur ordonne de se taire. La jeune gladiatrice le remercie mais \"le Magnifique Capitaine Pirate\" lui rappelle qu'ils sont tous les deux ennemis. Gats donne le coup d'envoi de la Bataille Royale du Bloc D qui commence après avoir fait résonner le gong avec 137 compétiteurs prêts à se battre jusqu'à la mort dans l'arène du Colisée.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 652 à 657 soit les chapitres 722 à 726."
+          77:
             title: La nuit où tout a basculé
             sort_title: nuit ou tout a bascule
             originally_available: '2022-08-20'
-            summary: "Alors que Luffy se dirige vers l'arène pour admirer de plus
-              près la performance de Rebecca qui combat pour sa vie, il croise le
-              chemin de Bartolomeo qui le reconnaît malgré son déguisement. Ce dernier
-              est fou de joie de rencontrer enfin son idole mais le Chapeau de Paille
-              n'en a rien à faire et poursuit sa course. Cependant, il est interpelé
-              par le gagnant du Bloc B et doit discuter avec lui pour savoir ce qu'il
-              lui veux.\r\r\r\n\r\r\r\nCe film couvre les épisodes 658 à 662 soit
-              les chapitres 726 à 730."
-          83:
+            content_rating: FR
+            summary: "Alors que Luffy se dirige vers l'arène pour admirer de plus près la performance de Rebecca qui combat pour sa vie, il croise le chemin de Bartolomeo qui le reconnaît malgré son déguisement. Ce dernier est fou de joie de rencontrer enfin son idole mais le Chapeau de Paille n'en a rien à faire et poursuit sa course. Cependant, il est interpelé par le gagnant du Bloc B et doit discuter avec lui pour savoir ce qu'il lui veux.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 658 à 662 soit les chapitres 726 à 730."
+          78:
             title: Le Revenant
             sort_title: Le Revenant
             originally_available: '2022-08-20'
-            summary: "Dellinger, un subordonné de Doflamingo, administre une cuisante
-              correction à Bellamy dans les sombres couloirs du Colisée Corrida. L'ancien
-              ennemi de Luffy tente par tous les moyens de se défendre mais il ne
-              peut rien faire contre l'agilité de son adversaire. Bellamy tente de
-              fuir en utilisant ses pouvoirs mais il est vite rattrapé par Dellinger.
-              Alors que ce dernier allait lui donnait le coup de grâce, Bellamy, qui
-              gît grièvement blessé, est sauvé par Bartolomeo qui dresse une barrière
-              infranchissable entre Dellinger et sa proie.\r\r\r\n\r\r\r\nCe film
-              couvre les épisodes 663 à 667 soit les chapitres 731 à 735."
-          84:
+            content_rating: FR
+            summary: "Dellinger, un subordonné de Doflamingo, administre une cuisante correction à Bellamy dans les sombres couloirs du Colisée Corrida. L'ancien ennemi de Luffy tente par tous les moyens de se défendre mais il ne peut rien faire contre l'agilité de son adversaire. Bellamy tente de fuir en utilisant ses pouvoirs mais il est vite rattrapé par Dellinger. Alors que ce dernier allait lui donnait le coup de grâce, Bellamy, qui gît grièvement blessé, est sauvé par Bartolomeo qui dresse une barrière infranchissable entre Dellinger et sa proie.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 663 à 667 soit les chapitres 731 à 735."
+          79:
             title: Opération S.O.P.
             sort_title: Operation S.O.P.
             originally_available: '2022-08-20'
-            summary: "Alors que les gagnants respectifs des différentes manches de
-              la Bataille Royale entrent sur le ring en compagnie de Diamante sous
-              les acclamations et les huées du public du Colisée Corrida, trois gladiateurs
-              du Bloc D s'élancent sur Rebecca pour l'attaquer car ils n'ont pas accepté
-              l'idée que la jeune femme, haïe de tous, soit sortie gagnante de leur
-              groupe. Mais Diamante est là pour remettre de l'ordre et neutralise
-              les trois guerriers malchanceux en révélant à tous les pouvoirs de son
-              Fruit du Démon.\r\r\r\n\r\r\r\nCe film couvre les épisodes 668 à 672
-              soit les chapitres 736 à 740."
-          85:
+            content_rating: FR
+            summary: "Alors que les gagnants respectifs des différentes manches de la Bataille Royale entrent sur le ring en compagnie de Diamante sous les acclamations et les huées du public du Colisée Corrida, trois gladiateurs du Bloc D s'élancent sur Rebecca pour l'attaquer car ils n'ont pas accepté l'idée que la jeune femme, haïe de tous, soit sortie gagnante de leur groupe. Mais Diamante est là pour remettre de l'ordre et neutralise les trois guerriers malchanceux en révélant à tous les pouvoirs de son Fruit du Démon.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 668 à 672 soit les chapitres 736 à 740."
+          80:
             title: Le Gladiateur Légendaire
             sort_title: Le Gladiateur Legendaire
             originally_available: '2022-08-20'
-            summary: "Toujours aux prises avec l'un des bras droits de Doflamingo,
-              Zoro se bat en duel contre Pica afin que Luffy et Violette puissent
-              avoir le temps de s'échapper et d'atteindre l'étage supérieur du Palais
-              Royal où se trouve déjà le Soldat Fureur Éclair. Ce dernier se bat farouchement
-              contre les gardes du palais leur infligeant de lourdes pertes grâce
-              à l'aide apportée par Rambo et Kabu, les deux Nains qui l'accompagnent.
-              Mais Gladius, l'un des subordonnés de Doflamingo, lui barre la route.
-              Rambo et Kabu s'interposent pour laisser à leur chef le temps de redevenir
-              humain et combattre Doflamingo. Mais la lutte est inégale pour les deux
-              Nains qui sont rapidement capturés par Gladius.\r\r\r\n\r\r\r\nCe film
-              couvre les épisodes 673 à 676 soit les chapitres 740 à 742."
-          86:
+            content_rating: FR
+            summary: "Toujours aux prises avec l'un des bras droits de Doflamingo, Zoro se bat en duel contre Pica afin que Luffy et Violette puissent avoir le temps de s'échapper et d'atteindre l'étage supérieur du Palais Royal où se trouve déjà le Soldat Fureur Éclair. Ce dernier se bat farouchement contre les gardes du palais leur infligeant de lourdes pertes grâce à l'aide apportée par Rambo et Kabu, les deux Nains qui l'accompagnent. Mais Gladius, l'un des subordonnés de Doflamingo, lui barre la route. Rambo et Kabu s'interposent pour laisser à leur chef le temps de redevenir humain et combattre Doflamingo. Mais la lutte est inégale pour les deux Nains qui sont rapidement capturés par Gladius.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 673 à 676 soit les chapitres 740 à 742."
+          81:
             title: Dressrosa tremble
             sort_title: Dressrosa tremble
             originally_available: '2022-08-20'
-            summary: "La défaite de Sugar déclenche une réaction en chaîne que rien
-              ni personne, sur Dressrosa, ne peut arrêter, provoquant le chaos et
-              l'anarchie à l'intérieur de l'île. En effet, en s'évanouissant, Sugar
-              a perdu son pouvoir et ses victimes retrouvent instantanément leur état
-              normal ainsi que leur mémoire. Les habitants du royaume de Doflamingo
-              s'alarment lorsqu'ils constatent que les anciens jouets avec qui ils
-              vivaient depuis toujours étaient par le passé des membres de la Marine,
-              des pirates, des agents du Gouvernement Mondial, des civils et même
-              des animaux ! De leur côté, les Nains, comprenant que l'Opération SOP
-              est un succès, sont reconnaissants envers Usopp, toujours inconscient,
-              d'avoir pu défaire la malédiction qui pesait sur Dressrosa depuis tant
-              d'années.\r\r\r\n\r\r\r\nCe film couvre les épisodes 677 à 680 soit
-              les chapitres 743 à 745."
-          87:
+            content_rating: FR
+            summary: "La défaite de Sugar déclenche une réaction en chaîne que rien ni personne, sur Dressrosa, ne peut arrêter, provoquant le chaos et l'anarchie à l'intérieur de l'île. En effet, en s'évanouissant, Sugar a perdu son pouvoir et ses victimes retrouvent instantanément leur état normal ainsi que leur mémoire. Les habitants du royaume de Doflamingo s'alarment lorsqu'ils constatent que les anciens jouets avec qui ils vivaient depuis toujours étaient par le passé des membres de la Marine, des pirates, des agents du Gouvernement Mondial, des civils et même des animaux ! De leur côté, les Nains, comprenant que l'Opération SOP est un succès, sont reconnaissants envers Usopp, toujours inconscient, d'avoir pu défaire la malédiction qui pesait sur Dressrosa depuis tant d'années.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 677 à 680 soit les chapitres 743 à 745."
+          82:
             title: Inglorious Basterds
             sort_title: Inglorious Basterds
             originally_available: '2022-08-20'
-            summary: "Alors que les civils et les marines sont forcés de se battre
-              entre eux dans les rues de Dressrosa, Doflamingo révèle une liste de
-              cibles à tuer qui consiste en les amis de l'équipage des Mugiwara ainsi
-              que leurs alliés; étrangement, Usopp a la prime la plus haute. Robin,
-              Usopp, Sabo, Koala et Hack se dirigent vers l'usine tandis que Bartolomeo
-              retient les anciens jouets et que Kinemon se lance à la recherche de
-              Kanjuro. Franky s'enfuit de la La Maison des Jouets pour aller détruire
-              l'usine tandis que Trébol et Diamante rentrent au palais sur les ordres
-              de Doflamingo. Au plateau de roi, Kyros quitte le groupe pour aller
-              tuer Doflamingo. Tandis que Rebecca contacte Luffy pour savoir qui est
-              réellement le Soldat Fureur Eclair, Luffy lui répond qu'il est en réalité
-              son père. Il promet ensuite à la jeune fille d'aller tuer Doflamingo
-              pour elle.\r\r\r\n\r\r\r\nCe film couvre les épisodes 681 à 685 soit
-              les chapitres 746 à 749."
-          88:
+            content_rating: FR
+            summary: "Alors que les civils et les marines sont forcés de se battre entre eux dans les rues de Dressrosa, Doflamingo révèle une liste de cibles à tuer qui consiste en les amis de l'équipage des Mugiwara ainsi que leurs alliés; étrangement, Usopp a la prime la plus haute. Robin, Usopp, Sabo, Koala et Hack se dirigent vers l'usine tandis que Bartolomeo retient les anciens jouets et que Kinemon se lance à la recherche de Kanjuro. Franky s'enfuit de la La Maison des Jouets pour aller détruire l'usine tandis que Trébol et Diamante rentrent au palais sur les ordres de Doflamingo. Au plateau de roi, Kyros quitte le groupe pour aller tuer Doflamingo. Tandis que Rebecca contacte Luffy pour savoir qui est réellement le Soldat Fureur Eclair, Luffy lui répond qu'il est en réalité son père. Il promet ensuite à la jeune fille d'aller tuer Doflamingo pour elle.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 681 à 685 soit les chapitres 746 à 749."
+          83:
             title: Miser sur le bon pirate
             sort_title: Miser sur le bon pirate
             originally_available: '2022-08-20'
-            summary: "Law partage ses vrais sentiments, qui étaient restés un mystère
-              jusqu'à présent. La stupéfiante vérité à propos de la relation hostile
-              entre Doflamingo et Law est enfin révélée!\r\r\r\n\r\r\r\nCe film couvre
-              les épisodes 686 à 691 soit les chapitres 749 à 754."
-          89:
+            content_rating: FR
+            summary: "Law partage ses vrais sentiments, qui étaient restés un mystère jusqu'à présent. La stupéfiante vérité à propos de la relation hostile entre Doflamingo et Law est enfin révélée!\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 686 à 691 soit les chapitres 749 à 754."
+          84:
             title: À risque ou à péril
             sort_title: A risque ou a peril
             originally_available: '2022-08-20'
-            summary: "La bataille entre Zoro et Pica est interrompue par l'arrivée
-              du groupe de Robin qui demande à Zoro de retenir Pica suffisamment longtemps
-              pour leur permettre d'arriver au niveau 4 du Plateau du Nouveau Roi.
-              Alors que Pica lance son poing gigantesque sur le groupe, Zoro tranche
-              le golem en deux et blesse également Pica tout en déclarant qu'il deviendra
-              le meilleur escrimeur du monde. À l'Usine des Smiles, les nains continuent
-              leur révolte mais sont stoppés par la directrice de l'usine, Shuuin.
-              Cependant, Franky parvient à détourner l'attention de Senor Pink et
-              à ouvrir les portes de l'usine...\r\r\r\n\r\r\r\nCe film couvre les
-              épisodes 692 à 699 soit les chapitres 754 à 760."
-          90:
+            content_rating: FR
+            summary: "La bataille entre Zoro et Pica est interrompue par l'arrivée du groupe de Robin qui demande à Zoro de retenir Pica suffisamment longtemps pour leur permettre d'arriver au niveau 4 du Plateau du Nouveau Roi. Alors que Pica lance son poing gigantesque sur le groupe, Zoro tranche le golem en deux et blesse également Pica tout en déclarant qu'il deviendra le meilleur escrimeur du monde. À l'Usine des Smiles, les nains continuent leur révolte mais sont stoppés par la directrice de l'usine, Shuuin. Cependant, Franky parvient à détourner l'attention de Senor Pink et à ouvrir les portes de l'usine...\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 692 à 699 soit les chapitres 754 à 760."
+          85:
             title: Le Saturnisme Blanc
             sort_title: Le Saturnisme Blanc
             originally_available: '2022-08-20'
-            summary: "À Sevio, une petite ville au nord-ouest de Dressrosa, des soldats
-              de la Marine ont toutes les difficultés du monde pour maintenir l'ordre
-              dans les rues. Souffrant cruellement de l'absence de l'Amiral Fujitora,
-              les hommes du Vice-Amiral Maynard doivent affronter seuls, à coup de
-              cartouches tranquillisantes, des animaux furieux qui saccagent tout
-              sur le passage associés par des citoyens manipulés par Doflamingo ainsi
-              que des pirates qui pillent à tout va.\r\r\r\n\r\r\r\nCe film couvre
-              les épisodes 700 à 706 soit les chapitres 761 à 767."
-          91:
+            content_rating: FR
+            summary: "À Sevio, une petite ville au nord-ouest de Dressrosa, des soldats de la Marine ont toutes les difficultés du monde pour maintenir l'ordre dans les rues. Souffrant cruellement de l'absence de l'Amiral Fujitora, les hommes du Vice-Amiral Maynard doivent affronter seuls, à coup de cartouches tranquillisantes, des animaux furieux qui saccagent tout sur le passage associés par des citoyens manipulés par Doflamingo ainsi que des pirates qui pillent à tout va.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 700 à 706 soit les chapitres 761 à 767."
+          86:
             title: Sur trois fronts
             sort_title: Sur trois fronts
             originally_available: '2022-08-20'
-            summary: "En souvenir de Corazon, Law poursuit son combat contre Doflamingo
-              qui semble invulnérable à toutes ses attaques. Pendant ce temps, Luffy,
-              à bout de force, doit affronter à la fois Bellamy et un clone de Doflamingo.
-              Alors que le Chapeau de Paille veut frapper ce dernier, Bellamy s'interpose
-              pour l'attaquer. Luffy doit cesser de se battre pour ne pas blesser
-              son ami qui est manipulé par le chef de la Famille Donquichotte. Au-dessus
-              d'eux, Law continue son duel contre Doflamingo et lui dit que Luffy
-              est un D, et que c'est peut-être par la volonté du destin qui l'a été
-              envoyé ici, en raison de la haine qu'entretient Doflamingo envers les
-              D, les ennemis jurés des Dieux.\r\r\r\n\r\r\r\nCe film couvre les épisodes
-              707 à 713 soit les chapitres 768 à 773."
-          92:
+            content_rating: FR
+            summary: "En souvenir de Corazon, Law poursuit son combat contre Doflamingo qui semble invulnérable à toutes ses attaques. Pendant ce temps, Luffy, à bout de force, doit affronter à la fois Bellamy et un clone de Doflamingo. Alors que le Chapeau de Paille veut frapper ce dernier, Bellamy s'interpose pour l'attaquer. Luffy doit cesser de se battre pour ne pas blesser son ami qui est manipulé par le chef de la Famille Donquichotte. Au-dessus d'eux, Law continue son duel contre Doflamingo et lui dit que Luffy est un D, et que c'est peut-être par la volonté du destin qui l'a été envoyé ici, en raison de la haine qu'entretient Doflamingo envers les D, les ennemis jurés des Dieux.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 707 à 713 soit les chapitres 768 à 773."
+          87:
             title: Toujours sur les trois fronts
             sort_title: Toujours sur les trois fronts
             originally_available: '2022-08-20'
-            summary: "Utilisant ses pouvoirs, Robin se charge de protéger Rebecca
-              à la place de Kyros car l'ancien champion du Colisée Corrida se prépare
-              à libérer sa colère sur Diamante qui est exaspéré de voir l'archéologue
-              des Chapeaux de Paille se mêler à ses affaires. Au même instant, au
-              troisième niveau, Bartolomeo remarque que deux soldats sont en train
-              de transporter Gladius sur une civière et les laisse partir après avoir
-              appris que son ennemi allait être inconscient pendant plusieurs jours.\r
-              \r\r\n\r\r\r\nCe film couvre les épisodes 714 à 720 soit les chapitres
-              774 à 779."
-          93:
+            content_rating: FR
+            summary: "Utilisant ses pouvoirs, Robin se charge de protéger Rebecca à la place de Kyros car l'ancien champion du Colisée Corrida se prépare à libérer sa colère sur Diamante qui est exaspéré de voir l'archéologue des Chapeaux de Paille se mêler à ses affaires. Au même instant, au troisième niveau, Bartolomeo remarque que deux soldats sont en train de transporter Gladius sur une civière et les laisse partir après avoir appris que son ennemi allait être inconscient pendant plusieurs jours.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 714 à 720 soit les chapitres 774 à 779."
+          88:
             title: Le Démon Céleste
             sort_title: Le Demon Celeste
             originally_available: '2022-08-20'
-            summary: "Sur le Plateau du Roi, Viola annonce à tous que Luffy a vaincu
-              Bellamy et qu'il ne restait plus que deux redoutables ennemis à abattre,
-              à savoir Trebol et Doflamingo, et leur annonce froidement qu'ils viennent
-              de perdre l'un des leurs. Il s'agit de Trafalgar Law dont le corps sans
-              vie gît à même le sol sous le regard concupiscant de Doflamingo qui
-              a hâte de voir comment va se comporter Luffy devant la perte de cet
-              allié si cher.\r\r\r\n\r\r\r\nCe film couvre les épisodes 721 à 728
-              soit les chapitres 780 à 786."
-          94:
+            content_rating: FR
+            summary: "Sur le Plateau du Roi, Viola annonce à tous que Luffy a vaincu Bellamy et qu'il ne restait plus que deux redoutables ennemis à abattre, à savoir Trebol et Doflamingo, et leur annonce froidement qu'ils viennent de perdre l'un des leurs. Il s'agit de Trafalgar Law dont le corps sans vie gît à même le sol sous le regard concupiscant de Doflamingo qui a hâte de voir comment va se comporter Luffy devant la perte de cet allié si cher.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 721 à 728 soit les chapitres 780 à 786."
+          89:
             title: Dans dix minutes... et quelque
             sort_title: Dans dix minutes... et quelque
             originally_available: '2022-08-20'
-            summary: "Alors que Doflamingo s'extrait des gravats, les citoyens de
-              Dressrosa prennent peur et s'enfuient pour ne pas être les victimes
-              de son courroux. Le chef de la Famille Doflamingo aperçoit dans la ville
-              basse Luffy qui n'est plus que l'ombre de lui-même après que les effets
-              du Gear Fourth se soient dissipés.\r\r\r\n\r\r\r\nCe film couvre les
-              épisodes 729 à 734 soit les chapitres 786 à 791."
-          95:
+            content_rating: FR
+            summary: "Alors que Doflamingo s'extrait des gravats, les citoyens de Dressrosa prennent peur et s'enfuient pour ne pas être les victimes de son courroux. Le chef de la Famille Doflamingo aperçoit dans la ville basse Luffy qui n'est plus que l'ombre de lui-même après que les effets du Gear Fourth se soient dissipés.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 729 à 734 soit les chapitres 786 à 791."
+          90:
             title: La naissance d'un Révolutionnaire
             sort_title: naissance d'un Revolutionnaire
             originally_available: '2022-08-20'
-            summary: "Des cris d'allégresse s'élèvent un peu partout sur Dressrosa
-              car ses habitants sont trop heureux d'avoir enfin pu retrouver la liberté
-              et expriment leur joie quant à la défaite de Doflamingo et de tous ses
-              officiers.\r\r\r\n\r\r\r\nCe film couvre les épisodes 735 à 738 soit
-              les chapitres 792 à 794."
-          96:
+            content_rating: FR
+            summary: "Des cris d'allégresse s'élèvent un peu partout sur Dressrosa car ses habitants sont trop heureux d'avoir enfin pu retrouver la liberté et expriment leur joie quant à la défaite de Doflamingo et de tous ses officiers.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 735 à 738 soit les chapitres 792 à 794."
+          91:
             title: Le Bon, la Buse et les Cinglés
             sort_title: Le Bon, la Buse et les Cingles
             originally_available: '2022-08-20'
-            summary: "Trois jours après la défaite de Doflamingo et la victoire de
-              Luffy, l'Amiral Issho reçoit la visite surprise de Sengoku et Tsuru
-              qui se sont rendus personnellement à Dressrosa afin de savoir pourquoi
-              il n'a pas encore appréhendé les Chapeaux de Paille.\r\r\r\n\r\r\r\n
-              Ce film couvre les épisodes 740 à 745 soit les chapitres 796 à 800."
+            content_rating: FR
+            summary: "Trois jours après la défaite de Doflamingo et la victoire de Luffy, l'Amiral Issho reçoit la visite surprise de Sengoku et Tsuru qui se sont rendus personnellement à Dressrosa afin de savoir pourquoi il n'a pas encore appréhendé les Chapeaux de Paille.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 740 à 745 soit les chapitres 796 à 800."
       9:
-        title: Saison 9 - Whole Cake Island
+        title: Season 9
+        summary: ''
         episodes:
-          97:
+          92:
             title: Vers Zo
             sort_title: Vers Zo
             originally_available: '2022-08-21'
-            summary: "Riku est stupéfait de voir un Amiral de la Marine et ses hommes
-              se mettre à genoux devant lui et son peuple pour faire amende honorable
-              des fautes commises par Doflamingo. Cette scène est retransmise par
-              escarméras à travers le monde.\r\r\r\n\r\r\r\nCe film couvre les épisodes
-              736 et 746 soit les chapitres 795 et 801."
-          98:
+            content_rating: FR
+            summary: "Riku est stupéfait de voir un Amiral de la Marine et ses hommes se mettre à genoux devant lui et son peuple pour faire amende honorable des fautes commises par Doflamingo. Cette scène est retransmise par escarméras à travers le monde.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 736 et 746 soit les chapitres 795 et 801."
+          93:
             title: Le rideau se lève sur une nouvelle aventure
             sort_title: Le rideau se leve sur une nouvelle aventure
             originally_available: '2022-08-20'
-            summary: "Alors que son navire vogue vers Zo, Bartolomeo raconte l'histoire
-              de l'Équipage de Chapeau de paille à ses hommes. Pendant ce temps, au
-              nouveau Quartier Général de la Marine, Kizaru parle avec des soldats
-              des actions destructrices d'Edward Weeble sur les anciens alliés de
-              Barbe Blanche. Luffy et Bartolomeo finissent par arriver à Zo, qui est
-              un gigantesque éléphant.\r\r\r\n\r\r\r\nCe film couvre les épisodes
-              747 puis 751 à 755 soit les chapitres 802 à 806."
-          99:
+            content_rating: FR
+            summary: "Alors que son navire vogue vers Zo, Bartolomeo raconte l'histoire de l'Équipage de Chapeau de paille à ses hommes. Pendant ce temps, au nouveau Quartier Général de la Marine, Kizaru parle avec des soldats des actions destructrices d'Edward Weeble sur les anciens alliés de Barbe Blanche. Luffy et Bartolomeo finissent par arriver à Zo, qui est un gigantesque éléphant.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 747 puis 751 à 755 soit les chapitres 802 à 806."
+          94:
             title: Une menace s'abat
             sort_title: Une menace s'abat
             originally_available: '2022-08-20'
-            summary: "Kinémon, Kanjuro et Bariete décident de rester sur le Thousand
-              Sunny pour la nuit et de reprendre l'escalade le lendemain. Pendant
-              ce temps, Brook, poursuivi par des minks chiens, rejoint le reste de
-              l'équipage. Nami commence à raconter ce qu'il s'est passé 11 jours plus
-              tôt, quand ils sont partis de Dressrosa après s'être faits attaqués
-              par le navire de Big Mom. Elle révèle que Sanji a réussi à endommager
-              le navire de leurs ennemis avant de s'échapper grâce à un brouillard
-              créé par la navigatrice. Ils ont atteint Zo le lendemain et, selon Wanda,
-              ils ont contribué à sauver le pays. Un mink chauve-souris les interrompt
-              pour leur dire que le duc Caborage s'est réveillé. Alors que Chopper
-              part à son chevet, Wanda révèle que le pays est gouverné par deux dirigeants
-              : le Duc Caborage et le Maître Chavipère.\r\r\r\n\r\r\r\nCe film couvre
-              les épisodes 756 à 760 soit les chapitres 807 à 810."
-          100:
+            content_rating: FR
+            summary: "Kinémon, Kanjuro et Bariete décident de rester sur le Thousand Sunny pour la nuit et de reprendre l'escalade le lendemain. Pendant ce temps, Brook, poursuivi par des minks chiens, rejoint le reste de l'équipage. Nami commence à raconter ce qu'il s'est passé 11 jours plus tôt, quand ils sont partis de Dressrosa après s'être faits attaqués par le navire de Big Mom. Elle révèle que Sanji a réussi à endommager le navire de leurs ennemis avant de s'échapper grâce à un brouillard créé par la navigatrice. Ils ont atteint Zo le lendemain et, selon Wanda, ils ont contribué à sauver le pays. Un mink chauve-souris les interrompt pour leur dire que le duc Caborage s'est réveillé. Alors que Chopper part à son chevet, Wanda révèle que le pays est gouverné par deux dirigeants : le Duc Caborage et le Maître Chavipère.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 756 à 760 soit les chapitres 807 à 810."
+          95:
             title: Le lien entre les Minks et l'équipage
             sort_title: Le lien entre les Minks et l'equipage
             originally_available: '2022-08-20'
-            summary: "Après le chaos semé par l'attaque mortelle de Jack sur l'île
-              de Zou, Chopper et Sanji se ruent sur la tribu Minks pour les sauver,
-              mais ils auront besoin de l'aide de César afin de maîtriser le poison
-              causé par le gaz.\r\r\r\n\r\r\r\nCe film couvre les épisodes 761 à 765
-              soit les chapitres 811 à 814."
-          101:
+            content_rating: FR
+            summary: "Après le chaos semé par l'attaque mortelle de Jack sur l'île de Zou, Chopper et Sanji se ruent sur la tribu Minks pour les sauver, mais ils auront besoin de l'aide de César afin de maîtriser le poison causé par le gaz.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 761 à 765 soit les chapitres 811 à 814."
+          96:
             title: Le troisième homme
             sort_title: Le troisieme homme
             originally_available: '2022-08-20'
-            summary: "Pekoms dit à Luffy que son équipage n'aura pas à servir Big
-              Mom, mais Sanji n'y fera plus parti. Cependant, il décide d'aller chez
-              l'empereur pour demander à Sanji s'il veut se marier, forçant Pekoms
-              à l'emmener malgré ses plaidoyers. En sortant de la maison, il rencontre
-              Chavipère et il retrouve Law et son équipage. Ce dernier lui parle en
-              privé et Luffy lui révèle son intention d'aller chez Big Mom, mais Law
-              lui rappelle que Kaido connaît l'emplacement de Zo et il est très susceptible
-              de les attaquer à l'avenir. Cela émeut les minks et ils décident d'organiser
-              un banquet. Pendant ce temps, Robin, Franky et Brook gardent l'entrée
-              de Zo afin d'empêcher Kinémon et Kanjuro d'entrer dans le pays, car
-              ils croient que les minks s'en prendront aux alliés de Raizo. Cependant,
-              ils s'endorment, et le lendemain matin, les samouraïs et Variété arrivent
-              au sommet de l'éléphant. Le mink singe découvre alors leurs identités
-              et il s'enfuit en larmes pour révéler l'arrivée des samouraïs.\r\r\r
-              \n\r\r\r\nCe film couvre les épisodes 766 à 770 soit les chapitres 815
-              à 818."
-          102:
+            content_rating: FR
+            summary: "Pekoms dit à Luffy que son équipage n'aura pas à servir Big Mom, mais Sanji n'y fera plus parti. Cependant, il décide d'aller chez l'empereur pour demander à Sanji s'il veut se marier, forçant Pekoms à l'emmener malgré ses plaidoyers. En sortant de la maison, il rencontre Chavipère et il retrouve Law et son équipage. Ce dernier lui parle en privé et Luffy lui révèle son intention d'aller chez Big Mom, mais Law lui rappelle que Kaido connaît l'emplacement de Zo et il est très susceptible de les attaquer à l'avenir. Cela émeut les minks et ils décident d'organiser un banquet. Pendant ce temps, Robin, Franky et Brook gardent l'entrée de Zo afin d'empêcher Kinémon et Kanjuro d'entrer dans le pays, car ils croient que les minks s'en prendront aux alliés de Raizo. Cependant, ils s'endorment, et le lendemain matin, les samouraïs et Variété arrivent au sommet de l'éléphant. Le mink singe découvre alors leurs identités et il s'enfuit en larmes pour révéler l'arrivée des samouraïs.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 766 à 770 soit les chapitres 815 à 818."
+          97:
             title: Un serment entre hommes
             sort_title: Un serment entre hommes
             originally_available: '2022-08-20'
-            summary: "Après avoir décrypté le Road Ponéglyphe, les Chapeau de Paille
-              en apprennent plus sur Oden Kozuki, ce dernier s'était rendu sur Raftel
-              avec le Roi des Pirates, Gol D. Roger, il a par la suite été exécuté
-              des mains du Shogun du Pays des Wa et de l'Empereur Kaido qui occupe
-              actuellement le Royaume des Samouraï. Momonosuké demande de l'aide auprès
-              de Luffy pour terrasser Kaido, c'est alors que se forme l'Alliance Pirate-Minks-Samouraï-Ninja.\r
-              \r\r\n\r\r\r\nCe film couvre les épisodes 771 à 774 soit les chapitres
-              819 à 821."
-          103:
+            content_rating: FR
+            summary: "Après avoir décrypté le Road Ponéglyphe, les Chapeau de Paille en apprennent plus sur Oden Kozuki, ce dernier s'était rendu sur Raftel avec le Roi des Pirates, Gol D. Roger, il a par la suite été exécuté des mains du Shogun du Pays des Wa et de l'Empereur Kaido qui occupe actuellement le Royaume des Samouraï. Momonosuké demande de l'aide auprès de Luffy pour terrasser Kaido, c'est alors que se forme l'Alliance Pirate-Minks-Samouraï-Ninja.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 771 à 774 soit les chapitres 819 à 821."
+          98:
             title: Totto Land
             sort_title: Totto Land
             originally_available: '2022-08-20'
-            summary: "Après avoir soigné Zunesh, Kinémon propose de se séparer en
-              quatre groupes : le groupe de Luffy ira chercher Sanji chez Big Mom,
-              le sien partira au Pays de Wa préparer la bataille contre Kaido, celui
-              de Caborage restera sur Zo avec Momonosuké et celui de Chavipère partira
-              chercher Marco et le reste de l’Équipage de Barbe Blanche. Luffy oblige
-              Pekoms à partir avec eux et Pedro se porte volontaire pour les accompagner.
-              Le groupe de Luffy, composé de Nami, Chopper, Brook, Pekoms et Pedro
-              dit au revoir à tout le monde à l'entrée de Zo avant que, à la surprise
-              générale, Luffy saute avec tout le monde de l'éléphant. Pendant ce temps,
-              à Alabasta, Vivi quitte son pays pour prendre la mer.\r\r\r\n\r\r\r\n
-              Ce film couvre les épisodes 776 à 779 puis 783 à 790 soit les chapitres
-              822 à 830."
-          104:
+            content_rating: FR
+            summary: "Après avoir soigné Zunesh, Kinémon propose de se séparer en quatre groupes : le groupe de Luffy ira chercher Sanji chez Big Mom, le sien partira au Pays de Wa préparer la bataille contre Kaido, celui de Caborage restera sur Zo avec Momonosuké et celui de Chavipère partira chercher Marco et le reste de l’Équipage de Barbe Blanche. Luffy oblige Pekoms à partir avec eux et Pedro se porte volontaire pour les accompagner. Le groupe de Luffy, composé de Nami, Chopper, Brook, Pekoms et Pedro dit au revoir à tout le monde à l'entrée de Zo avant que, à la surprise générale, Luffy saute avec tout le monde de l'éléphant. Pendant ce temps, à Alabasta, Vivi quitte son pays pour prendre la mer.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 776 à 779 puis 783 à 790 soit les chapitres 822 à 830."
+          99:
             title: Aventure dans la forêt enchantée
             sort_title: Aventure dans la foret enchantee
             originally_available: '2022-08-20'
-            summary: "Alors que Pedro et Brook prennent le Shark Submerge III pour
-              aller dans les aux de l'île Tougato afin de chercher le Road Ponéglyphe,
-              le reste de l'équipage atterrit sur l'île. Ils y voient Sanji à plusieurs
-              reprises et ils sont forcés de le pourchasser mais il leur échappe.
-              Ils finissent dans une forêt faite principalement de bonbons et ils
-              rencontrent un crocodile parlant qui manque de peu de les manger. Alors
-              qu'ils poursuivent Sanji, Luffy rencontre soudainement une copie de
-              lui en miroir qui reflète parfaitement ses mouvements. Sans savoir ce
-              qui se passe, Luffy attaque son duplicata, qui fait exactement les mêmes
-              attaques.\r\r\r\n\r\r\r\nCe film couvre les épisodes 791 à 798 soit
-              les chapitres 831 à 837."
-          105:
+            content_rating: FR
+            summary: "Alors que Pedro et Brook prennent le Shark Submerge III pour aller dans les aux de l'île Tougato afin de chercher le Road Ponéglyphe, le reste de l'équipage atterrit sur l'île. Ils y voient Sanji à plusieurs reprises et ils sont forcés de le pourchasser mais il leur échappe. Ils finissent dans une forêt faite principalement de bonbons et ils rencontrent un crocodile parlant qui manque de peu de les manger. Alors qu'ils poursuivent Sanji, Luffy rencontre soudainement une copie de lui en miroir qui reflète parfaitement ses mouvements. Sans savoir ce qui se passe, Luffy attaque son duplicata, qui fait exactement les mêmes attaques.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 791 à 798 soit les chapitres 831 à 837."
+          100:
             title: Le commandant sucré Cracker
             sort_title: Le commandant sucre Cracker
             originally_available: '2022-08-20'
-            summary: "Au Royaume de Germa, Sanji est informé par Reiju que ses deux
-              grands frères Ichiji et Niji arriveront demain sur l'île Tougato. Dans
-              la forêt de la tentation, Luffy combat Cracker en utilisant ses plus
-              fortes techniques en Gear Second et en Gear Third, mais il est dominé
-              par la puissance du fluide offensif de son adversaire. Le général sucré
-              finit par bloquer le jeune pirate et il affirme que Sanji Vinsmoke ne
-              voudra jamais retourner dans son équipage. Ces paroles énervent Luffy,
-              qui réussit à libérer un bras pour activer le Gear Fourth. Cracker tente
-              le bloquer le Gum Gum Kong Gun mais sa protection vole en éclats. Après
-              avoir été mis à terre, l'homme à 800 millions se relève et il attaque
-              Luffy avec son épée, mais ce dernier brise son arme et le coupe en deux
-              avec un autre Gum Gum Kong Gun. C'est alors qu'un homme sort de celui
-              qui vient d'être détruit et il attaque Luffy avec son épée. Cet homme
-              se révèle être le vrai Charlotte Cracker et que l'homme qui a été coupé
-              en deux n'était qu'une armure fabriquée grâce aux pouvoirs du fruit
-              du biscuit. Ne supportant pas les blessures, Cracker se bat toujours
-              avec une armure qu'il peut créer en tapotant dans ses mains. C'est alors
-              qu'il crée plusieurs soldats identiques à celui que Luffy a brisé, mais
-              ce dernier affirme tout de même qu'il reverra Sanji.\r\r\r\n\r\r\r\n
-              Ce film couvre les épisodes 799 à 808 soit les chapitres 837 à 844."
-          106:
+            content_rating: FR
+            summary: "Au Royaume de Germa, Sanji est informé par Reiju que ses deux grands frères Ichiji et Niji arriveront demain sur l'île Tougato. Dans la forêt de la tentation, Luffy combat Cracker en utilisant ses plus fortes techniques en Gear Second et en Gear Third, mais il est dominé par la puissance du fluide offensif de son adversaire. Le général sucré finit par bloquer le jeune pirate et il affirme que Sanji Vinsmoke ne voudra jamais retourner dans son équipage. Ces paroles énervent Luffy, qui réussit à libérer un bras pour activer le Gear Fourth. Cracker tente le bloquer le Gum Gum Kong Gun mais sa protection vole en éclats. Après avoir été mis à terre, l'homme à 800 millions se relève et il attaque Luffy avec son épée, mais ce dernier brise son arme et le coupe en deux avec un autre Gum Gum Kong Gun. C'est alors qu'un homme sort de celui qui vient d'être détruit et il attaque Luffy avec son épée. Cet homme se révèle être le vrai Charlotte Cracker et que l'homme qui a été coupé en deux n'était qu'une armure fabriquée grâce aux pouvoirs du fruit du biscuit. Ne supportant pas les blessures, Cracker se bat toujours avec une armure qu'il peut créer en tapotant dans ses mains. C'est alors qu'il crée plusieurs soldats identiques à celui que Luffy a brisé, mais ce dernier affirme tout de même qu'il reverra Sanji.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 799 à 808 soit les chapitres 837 à 844."
+          101:
             title: Mégot
             sort_title: Megot
             originally_available: '2022-08-20'
-            summary: "Après avoir appris la défaite de Cracker, Big Mom crée une grosse
-              tempête avant d'envoyer une armée gigantesque afin de se venger de Luffy.
-              Elle part ensuite rencontrer la famille Vinsmoke pour le déjeuner, et
-              alors qu'ils échangent des louanges, Pudding demande à Sanji par note
-              de la rencontrer en privé plus tard. Aux extrémités de Sweet City, Luffy,
-              Nami et King Baum observent l'armée de la colère se diriger vers eux,
-              mais le capitaine de l'équipage de Chapeau de paille refuse de quitter
-              le lieu où il doit attendre Sanji.\r\r\r\n\r\r\r\nCe film couvre les
-              épisodes 809 à 817 soit les chapitres 845 à 851."
-          107:
+            content_rating: FR
+            summary: "Après avoir appris la défaite de Cracker, Big Mom crée une grosse tempête avant d'envoyer une armée gigantesque afin de se venger de Luffy. Elle part ensuite rencontrer la famille Vinsmoke pour le déjeuner, et alors qu'ils échangent des louanges, Pudding demande à Sanji par note de la rencontrer en privé plus tard. Aux extrémités de Sweet City, Luffy, Nami et King Baum observent l'armée de la colère se diriger vers eux, mais le capitaine de l'équipage de Chapeau de paille refuse de quitter le lieu où il doit attendre Sanji.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 809 à 817 soit les chapitres 845 à 851."
+          102:
             title: Le plan d'assassinat de l'Empereur
             sort_title: Le plan d'assassinat de l'Empereur
             originally_available: '2022-08-20'
-            summary: "Après avoir révélé la vérité au sujet du mariage, Pudding modifie
-              les souvenirs de Reiju grâce au fruit des souvenirs et elle l'emmène
-              à l'infirmerie afin qu'elle puisse aller à la partie de thé le lendemain.
-              Dans la salle des trésors, Brook tente d'attaquer Big Mom avec sa rapidité,
-              mais elle repousse ses assauts. Ses homies se révèlent résistants grâce
-              à son pouvoir du fruit des âmes, mais même après avoir concédé plusieurs
-              attaques de leur part, Brook continue de se relever. Dans le monde des
-              miroirs, Chopper et Carrot découvrent que les miroirs peuvent leur indiquer
-              la position de leurs compagnons. Pendant ce temps, Luffy continue de
-              s'arracher les bras, mais Opéra se prépare à torturer Nami pour qu'elle
-              révèle la position de Laura. Soudainement, Jinbe arrive et il attaque
-              Opéra pour libérer Luffy et Nami.\r\r\r\n\r\r\r\nCe film couvre les
-              épisodes 818 à 829 soit les chapitres 851 à 860."
-          108:
+            content_rating: FR
+            summary: "Après avoir révélé la vérité au sujet du mariage, Pudding modifie les souvenirs de Reiju grâce au fruit des souvenirs et elle l'emmène à l'infirmerie afin qu'elle puisse aller à la partie de thé le lendemain. Dans la salle des trésors, Brook tente d'attaquer Big Mom avec sa rapidité, mais elle repousse ses assauts. Ses homies se révèlent résistants grâce à son pouvoir du fruit des âmes, mais même après avoir concédé plusieurs attaques de leur part, Brook continue de se relever. Dans le monde des miroirs, Chopper et Carrot découvrent que les miroirs peuvent leur indiquer la position de leurs compagnons. Pendant ce temps, Luffy continue de s'arracher les bras, mais Opéra se prépare à torturer Nami pour qu'elle révèle la position de Laura. Soudainement, Jinbe arrive et il attaque Opéra pour libérer Luffy et Nami.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 818 à 829 soit les chapitres 851 à 860."
+          103:
             title: Tea Party
             sort_title: Tea Party
             originally_available: '2022-08-20'
-            summary: "Le jour est enfin arrivé ! Les invités pullulent, mais certains
-              ont des affaires à régler ! Les fils de Big Mom, cependant, s'interposent
-              et leur montre de quel bois ils se chauffent. Pendant ce temps, Luffy
-              prépare son propre plan.\r\r\r\n\r\r\r\nCe film couvre les épisodes
-              830 à 837 soit les chapitres 860 à 867."
-          109:
+            content_rating: FR
+            summary: "Le jour est enfin arrivé ! Les invités pullulent, mais certains ont des affaires à régler ! Les fils de Big Mom, cependant, s'interposent et leur montre de quel bois ils se chauffent. Pendant ce temps, Luffy prépare son propre plan.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 830 à 837 soit les chapitres 860 à 867."
+          104:
             title: Impitoyable
             sort_title: Impitoyable
             originally_available: '2022-08-20'
-            summary: "Linlin, dévastée par la perte de Mère, s'en prend aux Chapeau
-              de Paille avec sa force monstrueuse !\r\r\r\n\r\r\r\nCe film couvre
-              les épisodes 838 à 849 soit les chapitres 868 à 878."
-          110:
+            content_rating: FR
+            summary: "Linlin, dévastée par la perte de Mère, s'en prend aux Chapeau de Paille avec sa force monstrueuse !\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 838 à 849 soit les chapitres 868 à 878."
+          105:
             title: Merienda
             sort_title: Merienda
             originally_available: '2022-08-20'
-            summary: "Pedro a donné sa vie pour que l’équipage au chapeau de paille
-              puisse s’enfuir. Mais déjà, Big Mom se relève. Les Tartes approchent.
-              Katakuri est toujours à bord. Luffy n’a pas le choix, il doit agir !\r
-              \r\r\n\r\r\r\nCe film couvre les épisodes 850 à 859 soit les chapitres
-              878 à 886."
-          111:
+            content_rating: FR
+            summary: "Pedro a donné sa vie pour que l’équipage au chapeau de paille puisse s’enfuir. Mais déjà, Big Mom se relève. Les Tartes approchent. Katakuri est toujours à bord. Luffy n’a pas le choix, il doit agir !\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 850 à 859 soit les chapitres 878 à 886."
+          106:
             title: Sulong
             sort_title: Sulong
             originally_available: '2022-08-20'
-            summary: "Luffy est contraint de voyager d’île en île grâce aux miroirs,
-              pour échapper à ses poursuivants. Bege est quant à lui prêt à se jeter
-              dans la gueule du loup, pour sauver sa douce Chiffon.\r\r\r\n\r\r\r\n
-              Ce film couvre les épisodes 860 à 869 soit les chapitres 886 à 894."
-          112:
+            content_rating: FR
+            summary: "Luffy est contraint de voyager d’île en île grâce aux miroirs, pour échapper à ses poursuivants. Bege est quant à lui prêt à se jeter dans la gueule du loup, pour sauver sa douce Chiffon.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 860 à 869 soit les chapitres 886 à 894."
+          107:
             title: End Roll
             sort_title: End Roll
             originally_available: '2022-08-20'
-            summary: "Alors que sur l’île Cacao, les troupes de Big Mom se massent
-              pour tendre un traquenard à l’équipage, Luffy dévoile le tout nouvel
-              avatar du Gear Fourth dans le monde des miroirs : Snake Man !\r\r\r\n
-              \r\r\r\nCe film couvre les épisodes 870 à 877 soit les chapitres 895
-              à 902."
-          113:
+            content_rating: FR
+            summary: "Alors que sur l’île Cacao, les troupes de Big Mom se massent pour tendre un traquenard à l’équipage, Luffy dévoile le tout nouvel avatar du Gear Fourth dans le monde des miroirs : Snake Man !\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 870 à 877 soit les chapitres 895 à 902."
+          108:
             title: Rêverie
             sort_title: Reverie
             originally_available: '2022-08-20'
-            summary: "Alors que l'équipage au chapeau de paille fait voile loin du
-              territoire de Big Mom, le reste du monde découvre avec stupeur l'audace
-              et toute l'étendue de la puissance de Luffy et des siens.\r\r\r\r\n\r
-              \r\r\r\nCe film couvre les épisodes 878 à 889 soit les chapitres 903
-              à 908."
+            content_rating: FR
+            summary: "Alors que l'équipage au chapeau de paille fait voile loin du territoire de Big Mom, le reste du monde découvre avec stupeur l'audace et toute l'étendue de la puissance de Luffy et des siens.\r\r\r\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 878 à 889 soit les chapitres 903 à 908."
       10:
-        title: Saison 10 - Wano Kuni
+        title: Season 10
+        summary: ''
         episodes:
-          114:
+          109:
             title: Koinobori
             sort_title: Koinobori
             originally_available: '2019-10-31'
-            summary: "Chavipère et ses Minks se rendent sur une petite île du Nouveau
-              Monde, à la recherche de Marco le Phoenix. Que devient l'ancien commandant
-              de la première flotte de Barbe Blanche ?\r\r\r\r\n\r\r\r\r\nCe film
-              couvre les épisodes 890 à 901 soit les chapitres 909 à 914."
-          115:
+            content_rating: FR
+            summary: "Chavipère et ses Minks se rendent sur une petite île du Nouveau Monde, à la recherche de Marco le Phoenix. Que devient l'ancien commandant de la première flotte de Barbe Blanche ?\r\r\r\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 890 à 901 soit les chapitres 909 à 914."
+          110:
             title: Sumo à Wano
             sort_title: Sumo a Wano
             originally_available: '2020-03-19'
-            summary: "À Bakura, où Luffy et ses compagnons s’infiltrent plus ou moins
-              discrètement, le tournoi de sumo bat son plein. Personne ne semble en
-              mesure de vaincre le terrible Urashima, le plus grand sumo de Wa. L'infiltration
-              est cependant compromise lorsque le Yokozuna remarque O-Kiku, qu'il
-              courtise depuis un certain temps...\r\r\r\r\n\r\r\r\r\nCe film couvre
-              les épisodes 902 à 908 soit les chapitres 915 à 918."
-          116:
+            content_rating: FR
+            summary: "À Bakura, où Luffy et ses compagnons s’infiltrent plus ou moins discrètement, le tournoi de sumo bat son plein. Personne ne semble en mesure de vaincre le terrible Urashima, le plus grand sumo de Wa. L'infiltration est cependant compromise lorsque le Yokozuna remarque O-Kiku, qu'il courtise depuis un certain temps...\r\r\r\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 902 à 908 soit les chapitres 915 à 918."
+          111:
             title: Les ruines du château d'Oden
             sort_title: Les ruines du chateau d'Oden
             originally_available: '2020-04-02'
-            summary: "Luffy, accompagné de Trafalgar Law, découvre les ruines du château
-              d'Oden, parti en fumée il y a 20 ans de cela. Au pied des ruines se
-              dressent des pierres tombales portant des noms familiers... Les pirates
-              y retrouvent alors de nombreuses connaissances. Pendant ce temps, Robin
-              poursuit son infiltration à la Capitale des Fleurs...\r\r\r\n\r\r\r\n
-              Ce film couvre les épisodes 909 à 916 soit les chapitres 919 à 924."
-          117:
+            content_rating: FR
+            summary: "Luffy, accompagné de Trafalgar Law, découvre les ruines du château d'Oden, parti en fumée il y a 20 ans de cela. Au pied des ruines se dressent des pierres tombales portant des noms familiers... Les pirates y retrouvent alors de nombreuses connaissances. Pendant ce temps, Robin poursuit son infiltration à la Capitale des Fleurs...\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 909 à 916 soit les chapitres 919 à 924."
+          112:
             title: La suprême courtisane Komurasaki
             sort_title: supreme courtisane Komurasaki
             originally_available: '2020-05-24'
-            summary: "Il n’y a pas qu'à Wa que les choses se corsent. Les coups de
-              théâtre sont nombreux à la Rêverie. Barbe Noire, sur l'île des Pirates
-              de Hachinosu, observe tout cela d’un œil goguenard, savourant d’avance
-              l’apocalypse qui approche. C'est alors que l'ancien Shichibukai, Gecko
-              Moria, débarque à la recherche de son compagnon Absalom, disparu...\r
-              \r\r\n\r\r\r\nCe film couvre les épisodes 917 à 923 soit les chapitres
-              925 à 930."
-          118:
+            content_rating: FR
+            summary: "Il n’y a pas qu'à Wa que les choses se corsent. Les coups de théâtre sont nombreux à la Rêverie. Barbe Noire, sur l'île des Pirates de Hachinosu, observe tout cela d’un œil goguenard, savourant d’avance l’apocalypse qui approche. C'est alors que l'ancien Shichibukai, Gecko Moria, débarque à la recherche de son compagnon Absalom, disparu...\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 917 à 923 soit les chapitres 925 à 930."
+          113:
             title: Passé oublié
             sort_title: Passe oublie
             originally_available: '2020-09-15'
-            summary: "Alors que les pirates de Big Mom approchent du pays de Wa, les
-              subordonnés de Kaido dirigés par Ling et Queen tentent de se débarrasser
-              d'eux. Pendant ce temps, dans la Capitale des Fleurs, un autre membre
-              de l'équipage aux Cent Bêtes, Page One, attaque tous les restaurants
-              de soba, à la recherche de Sanji.\r\r\r\r\n\r\r\r\r\nCe film couvre
-              les épisodes 924 à 935 soit les chapitres 931 à 938."
-          119:
+            content_rating: FR
+            summary: "Alors que les pirates de Big Mom approchent du pays de Wa, les subordonnés de Kaido dirigés par Ling et Queen tentent de se débarrasser d'eux. Pendant ce temps, dans la Capitale des Fleurs, un autre membre de l'équipage aux Cent Bêtes, Page One, attaque tous les restaurants de soba, à la recherche de Sanji.\r\r\r\r\r\n\r\r\r\r\r\nCe film couvre les épisodes 924 à 935 soit les chapitres 931 à 938."
+          114:
             title: Shimotsuki Yasuie
             sort_title: Shimotsuki Yasuie
             originally_available: '2020-12-05'
-            summary: "Luffy profite du Sumo Inferno pour expérimenter de nouvelles
-              techniques de combat, et ce, même contre deux Gifters de l'équipage
-              de Kaido, Alpagaman et Madilloman. Pendant ce temps, Zoro se réveille
-              après son combat contre Kamazo. Il a été soigné par Komurasaki et O-Toko,
-              qu'il a sauvé de l'assassin d'Orochi.\r\r\r\n\r\r\r\nCe film couvre
-              les épisodes 935 à 940 soit les chapitres 939 à 942."
-          120:
+            content_rating: FR
+            summary: "Luffy profite du Sumo Inferno pour expérimenter de nouvelles techniques de combat, et ce, même contre deux Gifters de l'équipage de Kaido, Alpagaman et Madilloman. Pendant ce temps, Zoro se réveille après son combat contre Kamazo. Il a été soigné par Komurasaki et O-Toko, qu'il a sauvé de l'assassin d'Orochi.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 935 à 940 soit les chapitres 939 à 942."
+          115:
             title: Smile
             sort_title: Smile
             originally_available: '2021-03-29'
-            summary: "Alors que les citoyens du village d'Ebisu pleurent la mort de
-              Yasuie, Shinobu révèle la vérité les fruits SMILE, les fruits de démon
-              artificiels créés par le scientifique César Clown. O-Toko court alors
-              vers son père, de détresse. En voyant la petite fille, Orochi tente
-              également de la tuer. Mais Zoro et Sanji interviennent et la sauvent.\r
-              \r\r\n\r\r\r\nCe film couvre les épisodes 941 à 949 soit les chapitres
-              943 à 949."
-          121:
+            content_rating: FR
+            summary: "Alors que les citoyens du village d'Ebisu pleurent la mort de Yasuie, Shinobu révèle la vérité les fruits SMILE, les fruits de démon artificiels créés par le scientifique César Clown. O-Toko court alors vers son père, de détresse. En voyant la petite fille, Orochi tente également de la tuer. Mais Zoro et Sanji interviennent et la sauvent.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 941 à 949 soit les chapitres 943 à 949."
+          116:
             title: Préparatifs
             sort_title: Preparatifs
             originally_available: '2021-11-02'
-            summary: "Après la conquête d'Udon, Chopper s'occupe de Luffy et cherche
-              un remède à sa maladie. Après avoir découvert que Luffy est un pirate,
-              les prisonniers se méfient de lui, mais Momonosuke leur parle et les
-              convainc de les rejoindre. Pendant ce temps, Ashura Doji révèle à Kinemon
-              et Inuarashi ce qui s'est passé au pays de Wa pendant leur absence...\r
-              \r\r\n\r\r\r\nCe film couvre les épisodes 950 à 956 soit les chapitres
-              950 à 955."
-          122:
+            content_rating: FR
+            summary: "Après la conquête d'Udon, Chopper s'occupe de Luffy et cherche un remède à sa maladie. Après avoir découvert que Luffy est un pirate, les prisonniers se méfient de lui, mais Momonosuke leur parle et les convainc de les rejoindre. Pendant ce temps, Ashura Doji révèle à Kinemon et Inuarashi ce qui s'est passé au pays de Wa pendant leur absence...\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 950 à 956 soit les chapitres 950 à 955."
+          117:
             title: Kozuki Oden entre en scène
             sort_title: Kozuki Oden entre en scene
             originally_available: '2021-11-12'
-            summary: "La Rêverie a réservé un certain nombre de surprises cette année,
-              notamment un incident que le gouvernement n'a pas réussi à étouffer.
-              De même, l'abolition du système des Shichibukai est une des nouvelles
-              qui a le plus choqué à travers le monde ! Pendant ce temps, le Capitaine
-              Koby contacte secrètement une personne se trouvant au pays de Wa.\r\r
-              \r\n\r\r\r\nCe film couvre les épisodes 957 à 962 soit les chapitres
-              956 à 963."
-          123:
+            content_rating: FR
+            summary: "La Rêverie a réservé un certain nombre de surprises cette année, notamment un incident que le gouvernement n'a pas réussi à étouffer. De même, l'abolition du système des Shichibukai est une des nouvelles qui a le plus choqué à travers le monde ! Pendant ce temps, le Capitaine Koby contacte secrètement une personne se trouvant au pays de Wa.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 957 à 962 soit les chapitres 956 à 963."
+          118:
             title: L'aventure d'Oden
             sort_title: L'aventure d'Oden
             originally_available: '2022-01-11'
-            summary: "Dès qu'il apprend l'arrivée de Barbe Blanche et les siens, Oden
-              accourt vers eux afin de réaliser son rêve, celui de quitter le pays
-              de Wa afin d'explorer le monde. Après une brève bataille, le seigneur
-              de Kuri supplie le capitaine pirate de le laisser rejoindre son équipage
-              mais malheureusement pour lui, Barbe Blanche refuse sa demande...\r\r
-              \r\n\r\r\r\nCe film couvre les épisodes 963 à 969 soit les chapitres
-              963 à 968."
-          124:
+            content_rating: FR
+            summary: "Dès qu'il apprend l'arrivée de Barbe Blanche et les siens, Oden accourt vers eux afin de réaliser son rêve, celui de quitter le pays de Wa afin d'explorer le monde. Après une brève bataille, le seigneur de Kuri supplie le capitaine pirate de le laisser rejoindre son équipage mais malheureusement pour lui, Barbe Blanche refuse sa demande...\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 963 à 969 soit les chapitres 963 à 968."
+          119:
             title: Bouillir, tel est le propre du Oden !
             sort_title: Bouillir, tel est le propre du Oden !
             originally_available: '2022-01-12'
-            summary: "Enragé par les actes tyranniques d'Orochi, Oden fonce à la Capitale
-              des Fleurs afin de le vaincre. Cependant, quelques heures plus tard,
-              les gens qui attendaient sa victoire assiste à un évènement inattendu.
-              Pendant ce temps, l'exécution et les derniers mots du Roi des Pirates
-              Roger sont imprimés dans les journaux et diffusés à travers le monde.\r
-              \r\r\n\r\r\r\nCe film couvre les épisodes 970 à 974 soit les chapitres
-              968 à 972."
-          125:
+            content_rating: FR
+            summary: "Enragé par les actes tyranniques d'Orochi, Oden fonce à la Capitale des Fleurs afin de le vaincre. Cependant, quelques heures plus tard, les gens qui attendaient sa victoire assiste à un évènement inattendu. Pendant ce temps, l'exécution et les derniers mots du Roi des Pirates Roger sont imprimés dans les journaux et diffusés à travers le monde.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 970 à 974 soit les chapitres 968 à 972."
+          120:
             title: Cap sur Onigashima
             sort_title: Cap sur Onigashima
             originally_available: '2022-03-08'
-            summary: "Alors que Kinemon et les Fourreaux Rouge accourent vers la demeure
-              d’Oden pour sauver sa famille mais ils sont vite rattrapés par l'équipage
-              aux Cent Bêtes. Denjiro et Ashura décident alors de rester en retrait
-              afin de retenir les pirates. Pendant ce temps, le château de Kuri est
-              incendié par les sbires de Kaido, qui attaquent Toki et ses enfants.\r
-              \r\r\n\r\r\r\nCe film couvre les épisodes 975 à 982 soit les chapitres
-              972 à 977."
+            content_rating: FR
+            summary: "Alors que Kinemon et les Fourreaux Rouge accourent vers la demeure d’Oden pour sauver sa famille mais ils sont vite rattrapés par l'équipage aux Cent Bêtes. Denjiro et Ashura décident alors de rester en retrait afin de retenir les pirates. Pendant ce temps, le château de Kuri est incendié par les sbires de Kaido, qui attaquent Toki et ses enfants.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 975 à 982 soit les chapitres 972 à 977."
+          121:
+            title: Infiltration à la fête
+            sort_title: Infiltration a la fete
+            originally_available: '2022-03-10'
+            content_rating: FR
+            summary: "Les Fourreaux Rouges et les samouraïs posent enfin le pied sur la terre ferme d’Onigashima ! Avant de rejoindre le château, les samouraïs stupéfient l’équipage du Chapeau de Paille en se coupant avec force et conviction de toute possibilité de fuite. Kinemon utilise alors ses pouvoirs afin d'aider ses compagnons à s'infiltrer au mieux.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 983 à 992 soit les chapitres 977 à 984."
+          122:
+            title: Mon nom
+            sort_title: Mon nom
+            originally_available: '2022-03-11'
+            content_rating: FR
+            summary: "Les Fourreaux Rouges tentent de pénétrer dans le château d’Onigashima par la porte dérobée, mais devant eux se dresse leur ancien camarade, Kanjuro. Pendant ce temps, alors que le fils de Kaido, Yamato, montre à Luffy les menottes qui entravent sa liberté depuis des années. Ces derniers entendent alors Kaido annoncer son plan en fanfare.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 993 à 1000 soit les chapitres 985 à 990."
+          123:
+            title: Le futur Roi des pirates
+            sort_title: Le futur Roi des pirates
+            originally_available: '2022-11-11'
+            content_rating: FR
+            summary: "Who’s Who invite Drake et Hawkins à éliminer Queen avec lui. Pendant ce temps, l’équipage au chapeau de paille combat un ennemi qui leur rappelle le géant qu’ils ont peiné à vaincre par le passé. Alors que Luffy leur fonce dessus, quelqu’un va lui offrir une aide inattendue.\r\r\r\n\r\r\r\nCe film couvre les épisodes 1001 à 1015 soit les chapitres 990 à 1000."
+          124:
+            title: La nouvelle génération
+            sort_title: nouvelle generation
+            originally_available: '2022-11-14'
+            content_rating: FR
+            summary: "Sous le choc de la terrible attaque de Luffy, Kaido se remémore tous les puissants hommes dont il a croisé la route. Luffy, Law et Kidd, quant à eux, se querellent comme à leur habitude. Pendant ce temps, Sanji est soumis à la question par Black Maria à l’endroit qu’il appelle « paradis ».\r\r\r\n\r\r\r\nCe film couvre les épisodes 1016 à 1028 soit les chaptires 1001 à 1011."
+          125:
+            title: Boulettes de millet
+            sort_title: Boulettes de millet
+            originally_available: '2023-12-02'
+            content_rating: FR
+            summary: "Luffy se remémore les conseils de ses amis, l'aide de ses camarades et la frustration de ses défaites. Alors que Kaido se gausse de lui, Luffy déploie son Fluide royal et lui répond par le poing.\n\nCe film couvre les épisodes 1028 et du 1031 à 1039 soit les chapitres 1011 à 1018."
           126:
             title: Infiltration à la fête
             sort_title: Infiltration a la fete
             originally_available: '2022-03-10'
-            summary: "Les Fourreaux Rouges et les samouraïs posent enfin le pied sur
-              la terre ferme d’Onigashima ! Avant de rejoindre le château, les samouraïs
-              stupéfient l’équipage du Chapeau de Paille en se coupant avec force
-              et conviction de toute possibilité de fuite. Kinemon utilise alors ses
-              pouvoirs afin d'aider ses compagnons à s'infiltrer au mieux.\r\r\r\n
-              \r\r\r\nCe film couvre les épisodes 983 à 992 soit les chapitres 977
-              à 984."
+            content_rating: FR
+            summary: "Les Fourreaux Rouges et les samouraïs posent enfin le pied sur la terre ferme d’Onigashima ! Avant de rejoindre le château, les samouraïs stupéfient l’équipage du Chapeau de Paille en se coupant avec force et conviction de toute possibilité de fuite. Kinemon utilise alors ses pouvoirs afin d'aider ses compagnons à s'infiltrer au mieux.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 983 à 992 soit les chapitres 977 à 984."
           127:
             title: Mon nom
             sort_title: Mon nom
             originally_available: '2022-03-11'
-            summary: "Les Fourreaux Rouges tentent de pénétrer dans le château d’Onigashima
-              par la porte dérobée, mais devant eux se dresse leur ancien camarade,
-              Kanjuro. Pendant ce temps, alors que le fils de Kaido, Yamato, montre
-              à Luffy les menottes qui entravent sa liberté depuis des années. Ces
-              derniers entendent alors Kaido annoncer son plan en fanfare.\r\r\r\n
-              \r\r\r\nCe film couvre les épisodes 993 à 1000 soit les chapitres 985
-              à 990."
+            content_rating: FR
+            summary: "Les Fourreaux Rouges tentent de pénétrer dans le château d’Onigashima par la porte dérobée, mais devant eux se dresse leur ancien camarade, Kanjuro. Pendant ce temps, alors que le fils de Kaido, Yamato, montre à Luffy les menottes qui entravent sa liberté depuis des années. Ces derniers entendent alors Kaido annoncer son plan en fanfare.\r\r\r\r\n\r\r\r\r\nCe film couvre les épisodes 993 à 1000 soit les chapitres 985 à 990."
           128:
-            title: Le futur Roi des pirates
-            sort_title: Le futur Roi des pirates
-            originally_available: '2022-11-11'
-            summary: "Who’s Who invite Drake et Hawkins à éliminer Queen avec lui.
-              Pendant ce temps, l’équipage au chapeau de paille combat un ennemi qui
-              leur rappelle le géant qu’ils ont peiné à vaincre par le passé. Alors
-              que Luffy leur fonce dessus, quelqu’un va lui offrir une aide inattendue.\r
-              \r\n\r\r\nCe film couvre les épisodes 1001 à 1015 soit les chapitres
-              990 à 1000."
+            title: Têtes d'affiche
+            sort_title: Tetes d'affiche
+            originally_available: '2023-12-24'
+            content_rating: FR
+            summary: "Killer se creuse les méninges afin de vaincre Hawkins, dont le pouvoir transfère à Kidd toutes les blessures qu'on lui inflige. Alors que Kidd se meurt sans comprendre qui le frappe, Killer fait un pari qui pourrait bien entraîner la mort de son ami.\n\nCe film couvre les épisodes 1054 à 1062 soit les chapitres 1029 à 1036."
           129:
-            title: La nouvelle génération
-            sort_title: nouvelle generation
-            originally_available: '2022-11-14'
-            summary: "Sous le choc de la terrible attaque de Luffy, Kaido se remémore
-              tous les puissants hommes dont il a croisé la route. Luffy, Law et Kidd,
-              quant à eux, se querellent comme à leur habitude. Pendant ce temps,
-              Sanji est soumis à la question par Black Maria à l’endroit qu’il appelle
-              « paradis ».\r\r\n\r\r\nCe film couvre les épisodes 1016 à 1028 soit
-              les chaptires 1001 à 1011."
+            title: Les vainqueurs n'ont pas besoin d'épithète
+            sort_title: Les vainqueurs n'ont pas besoin d'epithete
+            originally_available: '2023-12-24'
+            content_rating: FR
+            summary: "La défaite de trois Superstars et des Tobi Roppo met en déroute l’équipage des Cent Bêtes. Yamato, quant à lui, orchestre un plan à l’encontre de Rokki en faisant appel au savoir-faire de Fuga. Pendant ce temps, Luffy se bat à armes égales avec Kaido.\n\nCe film couvre les épisodes 1063 à 1070 soit les chapitres 1036 à 1043."
+          130:
+            title: Le guerrier de la libération
+            sort_title: Le guerrier de la liberation
+            originally_available: '2023-12-24'
+            content_rating: FR
+            summary: "Aux portes de la mort, Luffy reprend conscience sous l’œil bienveillant de ses camarades et semble avoir acquis un nouveau pouvoir qui laisse incrédule tout le champ de bataille. Au même moment, à Marie-Joie, la nature du fruit du démon du chapeau de paille éveille la curiosité du conseil des doyens.\n\nCe film couvre les épisodes 1071 à 1078 soit les chapitres 1044 à 1051."
+          131:
+            title: Rideau
+            sort_title: Rideau
+            originally_available: '2023-12-24'
+            content_rating: FR
+            summary: "En liesse, le pays de Wano célèbre la victoire et la libération après des décennies de domination tyrannique. Malgré l’effervescence, Yamato retient son appétit, attendant avec impatience l’arrivée de Hiyori. Pendant ce temps, un mystérieux individu s’approche de l’île…\n\nCe film couvre les épisodes 1079 à 1083 ainsi que l'épisode 1085 soit les chapitres 1052 à 1057."
