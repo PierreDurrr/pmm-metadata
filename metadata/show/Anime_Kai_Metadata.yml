@@ -348,7 +348,7 @@ metadata:
     - Thriller
     seasons:
       1:
-        title: saison 1
+        title: Saison 1
         summary: ''
         episodes:
           1:
@@ -364,7 +364,7 @@ metadata:
             content_rating:
             summary: "Nos amis s'approchent de la montagne mystérieuse et la chaleur augmente à l'approche du volcan...\n\n\n\n\n\nCe film couvre les épisodes 7 à 13."
       2:
-        title: saison 2
+        title: Saison 2
         summary: ''
         episodes:
           3:
@@ -380,7 +380,7 @@ metadata:
             content_rating:
             summary: "Sangoku, Krilin et Yamcha font partie des 8 finalistes du Tournoi des arts martiaux. Ils prennent connaissance de leur premier combat. Krilin affronte Bactérie, l'homme qui ne s'est jamais lavé !\n\n\n\n\n\nCe film couvre les épisodes 21 à 28."
       3:
-        title: saison 3
+        title: Saison 3
         summary: ''
         episodes:
           5:
@@ -414,7 +414,7 @@ metadata:
             content_rating:
             summary: "Alors que tout le monde s'est inscrit, Son Goku n'est toujours pas présent et ses amis commencent à s'inquiéter. On apprend également que Tenshihan et Chaozu sont les élèves de Tsuru Sennin, le rival de Tortue géniale depuis toujours.\n\n\n\n\n\nCe film couvre les épisodes 84 à 101."
       4:
-        title: saison 4
+        title: Saison 4
         summary: ''
         episodes:
           10:
@@ -468,7 +468,7 @@ metadata:
     - Science Fiction
     seasons:
       1:
-        title: saison 1
+        title: Saison 1
         summary: ''
         episodes:
           1:
@@ -490,7 +490,7 @@ metadata:
             content_rating:
             summary: "Vegeta se préparant pour le combat, Nappa se rend compte qu'il a finalement perdu, et se prépare à attaquer Son Gohan et Krilin, mais Son Goku utilise l'aura de Kaio pour vaincre Nappa. Son Goku apporte à Son Gohan et Krilin de l'aide et des explications sur le l'aura de Kaio et indique qu'il doit être très prudent car cette technique peut détruire tout son corps s'il dépasse le double aura, voire le tuer. Son Goku s'étant défait facilement de Nappa, Végéta tue celui-ci. Son Goku dit à Son Gohan et Krilin de le quitter pour qu'il puisse lutter tout seul contre Vegeta sans distraction. Après avoir déménagé sur un nouveau champ de bataille c'est le début de la lutte, Son Goku se rend compte que le double aura n'est pas assez puissant pour vaincre Végéta et décide d'entrer en action avec le triple aura de Kaio.\n\n\n\n\n\nCe film couvre les épisodes 13 à 17."
       2:
-        title: saison 2
+        title: Saison 2
         summary: ''
         episodes:
           4:
@@ -524,7 +524,7 @@ metadata:
             content_rating:
             summary: "Son Goku est prêt à venger les Nameks et les Saiyans. Le combat qui va faire trembler la planète commence mais aucun des deux n'est à sa force maximale.\n\n\n\n\n\nCe film couvre les épisodes 43 à 54."
       3:
-        title: saison 3
+        title: Saison 3
         summary: ''
         episodes:
           9:
@@ -564,7 +564,7 @@ metadata:
             content_rating:
             summary: "Cell continue d'attaquer Son Gohan afin de lui permettre de révéler sa véritable nature et il va même jusqu'à le torturer. Piccolo s'en prend à Son Goku et lui reproche de n'avoir rien dit à son fils à propos de son plan. Il lui reproche également d'avoir laissé son fils entre les mains d'un monstre sans lui venir en aide. Piccolo s'apprête à aller aider son jeune apprenti, mais Son Goku se ressaisit et demande à Krilin un senzu.\n\n\n\n\n\nCe film couvre les épisodes 91 à 98."
       4:
-        title: saison 4
+        title: Saison 4
         summary: ''
         episodes:
           15:
@@ -635,9 +635,9 @@ metadata:
     - Family
     - Fantasy
     - Science Fiction
-    saisons:
+    Saisons:
       1:
-        title: saison 1
+        title: Saison 1
         summary: ''
         episodes:
           1:
@@ -657,7 +657,7 @@ metadata:
             director.sync:
             writer.sync:
       2:
-        title: saison 2
+        title: Saison 2
         summary: ''
         episodes:
           3:
@@ -673,7 +673,7 @@ metadata:
             content_rating:
             summary: "Le combat opposant Son Goku à Botamo a commencé.\n\n\n\n\n\nCe film couvre les épisodes 33 à 41."
       3:
-        title: saison 3
+        title: Saison 3
         summary: ''
         episodes:
           5:
@@ -689,7 +689,7 @@ metadata:
             content_rating:
             summary: "Alors que Goku et les autres se remettent de leur défaite contre Black et Zamasu du futur, Whis, Beerus et Shin (Dieu Kaio de l’est) font leur apparition et avertissent que Zamasu du présent a questionné Zuno à propos de Goku et des Super Dragon Ball. Ensemble, ils élaborent la théorie selon laquelle Zamasu demanderait au Super Shenron l’immortalité et la naissance d’un guerrier possédant le corps de Goku. Craignant pour la vie de Gowasu (l’actuel Dieu Kaio de l’univers 10), Goku, Beerus, Whis et Kaio Shin de l’Est se rendent sur sa planète.\n\n\n\n\n\nCe film couvre les épisodes 58 à 67."
       4:
-        title: saison 4
+        title: Saison 4
         summary: ''
         episodes:
           7:
@@ -742,9 +742,9 @@ metadata:
     - Fantastique
     - Science-Fiction
     - Thriller
-    saisons:
+    Saisons:
       1:
-        title: saison 1
+        title: Saison 1
         summary: ''
         episodes:
           1:
@@ -803,7 +803,7 @@ metadata:
     - Anime
     - Comedy
     - Fantasy
-    saisons:
+    Saisons:
       1:
         episodes:
           1:
@@ -994,7 +994,7 @@ metadata:
     - Comedy
     - Drama
     - Fantasy
-    saisons:
+    Saisons:
       1:
         episodes:
           1:
@@ -1298,7 +1298,7 @@ metadata:
     - Comédie
     - Drame
     - Fantastique
-    saisons:
+    Saisons:
       1:
         title: Saison 1 - East Blue
         summary: ''
