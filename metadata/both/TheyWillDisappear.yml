@@ -6,7 +6,7 @@ collections:
     name_mapping: Dernière chance
 #    variables:
 #      key: TheyWillDisappear
-    sort_title: "!!!!!!0001!_!Lexique Pierreflix"
+    sort_title: "!!!!!!0001!_!Charts-1"
     smart_label: title.asc
     collection_mode: show_items
 #    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/both/<<key>>.jpg
