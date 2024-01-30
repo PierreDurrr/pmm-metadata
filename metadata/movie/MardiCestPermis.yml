@@ -19,9 +19,9 @@ collections:
       limit: 3
     schedule: weekly(tuesday)
     delete_not_scheduled: false
-    visible_shared: weekly(tuesday)
+    visible_shared: all[weekly(tuesday), hourly(6)]
     visible_library: false
-    visible_home: weekly(tuesday)
+    visible_home: all[weekly(tuesday), hourly(6)]
     label: REPLEXHERO
 
   Remove Mardi c'est permis:
