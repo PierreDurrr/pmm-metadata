@@ -10,6 +10,7 @@ external_templates:
 collections:
 
   Arte.tv:
+    sort_title: "!!!!!!0002!_ArteTV"
     summary: "Documentaires, films, séries, concerts, émissions : des milliers de programmes à voir gratuitement en replay et en direct sur arte.tv."
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/arte-tv-series-disponibles-liste-de-60-series-senscritique?sort=rank,asc
