@@ -14,11 +14,11 @@ collections:
     summary: "Liste des séries visibles sur le site d'Arte avec date de 'péremption'"
 #    summary: "Documentaires, films, séries, concerts, émissions : des milliers de programmes à voir gratuitement en replay et en direct sur arte.tv."
     trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/arte-tv-series-disponibles-liste-de-60-series-senscritique?sort=rank,asc
-      - https://trakt.tv/users/pierredurrr/lists/arte?sort=rank,asc
-    mdblist_list: https://mdblist.com/lists/pierredurrr/artetv-shows
+#      - https://trakt.tv/users/pierredurrr/lists/arte-tv-series-disponibles-liste-de-60-series-senscritique?sort=rank,asc
+      - https://trakt.tv/users/pierredurrr/lists/arte?sort=added,asc
+#    mdblist_list: https://mdblist.com/lists/pierredurrr/artetv-shows
     url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/network/Arte.jpg
-    collection_order: alpha
+    collection_order: custom
 #    collection_mode: hide_items
 #    visible_home: true
     visible_library: true
