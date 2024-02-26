@@ -1,0 +1,51 @@
+templates:
+  Show:
+    tvdb_show: <<show>>
+    sort_title: <<collection_name>>
+
+collections:
+### Genres
+  Anime:
+    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/genre/Anime.jpg
+    summary: Cette collection regroupe tout les animes disponibles sur Pierreflix. Des ajouts sont faits régulièrement.
+    mdblist_list: https://mdblist.com/lists/plexmetamanager/crunchyroll-shows
+#    trakt_list: 
+#      - https://trakt.tv/users/megatek23/lists/anime-collection?page=6&sort=rank,asc
+#      - https://trakt.tv/users/jjjonesjr33/lists/anilist-action
+#      - https://trakt.tv/users/jjjonesjr33/lists/anilist-ecchi 
+#      - https://trakt.tv/users/jjjonesjr33/lists/anilist-mecha
+    collection_mode: show_items
+    smart_label: title.asc
+    sort_title: +++_Anime
+#    mal_search:
+#      genre:
+#        genre_id: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 36, 37, 38, 39, 40, 41, 42, 43, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81
+    mal_all: 500
+    mal_airing: 500
+    mal_upcoming: 100
+    mal_tv: 200
+    mal_popular: 200
+#    plex_search:
+#      any:
+#        genre: animation
+    plex_all: true
+#    filters:
+#      filepath: 
+#        - /mnt/_SYNOLOGY/video/_Anime/
+
+  Gourmet Anime:
+    mal_search:
+      limit: 100
+      sort_by: score.desc
+      genre: "47"
+      # genre : Gourmet
+    collection_order: alpha
+    sort_title: +++_Gourmet
+    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/genre/Gourmet.jpg
+    sync_mode: sync
+    sonarr_add_missing: true
+    sonarr_folder: "/mnt/_SYNOLOGY/video/Series/_Pierre"
+    sonarr_tag: Gourmet, vo-vf
+    sonarr_monitor: all
+    sonarr_search: true
+    sonarr_language: "Multi_test"
