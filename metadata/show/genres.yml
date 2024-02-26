@@ -28,7 +28,7 @@ collections:
 #    plex_search:
 #      any:
 #        genre: animation
-    plex_all: true
+#    plex_all: true
 #    filters:
 #      filepath: 
 #        - /mnt/_SYNOLOGY/video/_Anime/
