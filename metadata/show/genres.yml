@@ -6,6 +6,7 @@ templates:
 collections:
 ### Genres
   Anime:
+    sync_mode: sync
     url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/genre/Anime.jpg
     summary: Cette collection regroupe tout les animes disponibles sur Pierreflix. Des ajouts sont faits régulièrement.
     mdblist_list: https://mdblist.com/lists/plexmetamanager/crunchyroll-shows
