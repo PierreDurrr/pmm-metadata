@@ -39,7 +39,6 @@ collections:
   "Anime en cours":
     url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/genre/Anime.jpg
     summary: Cette collection regroupe tout les animes en cours de lecture sur votre compte.
-    mdblist_list: https://mdblist.com/lists/plexmetamanager/crunchyroll-shows
     collection_mode: show_items
     sort_title: +++_Anime2  
     collection_filtering: user
