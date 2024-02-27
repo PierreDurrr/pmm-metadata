@@ -36,6 +36,20 @@ collections:
 #      filepath: 
 #        - /mnt/_SYNOLOGY/video/_Anime/
 
+  "Anime en cours":
+    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/genre/Anime.jpg
+    summary: Cette collection regroupe tout les animes en cours de lecture sur votre compte.
+    mdblist_list: https://mdblist.com/lists/plexmetamanager/crunchyroll-shows
+    collection_mode: show_items
+    smart_label: title.asc
+    sort_title: +++_Anime2  
+    collection_filtering: user
+    smart_filter:
+      all:
+        episode_unplayed: true
+        label: Anime
+        plays.gt: 1
+
   Gourmet Anime:
     mal_search:
       limit: 100
