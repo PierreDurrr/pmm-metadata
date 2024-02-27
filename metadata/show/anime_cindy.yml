@@ -2,7 +2,7 @@ collections:
   anime cindy:
     plex_search:
       any:
-        label.is:
+        label:
           - "Anime"
         unplayed_episodes: true
         episode_plays.gt: 1
