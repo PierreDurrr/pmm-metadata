@@ -73,6 +73,11 @@ metadata:
     name_mapping: "Avatar : La légende de Korra"
     sort_title: Avatar-02
 
+  Barbapapa:
+    title: Barbapapa
+    sort_title: Barbapapa
+    content_rating: Tous publics
+
   Dragon Ball:
     alt_title: Dragon Ball
     sort_title: Dragon Ball-01
