@@ -41,7 +41,6 @@ collections:
     summary: Cette collection regroupe tout les animes en cours de lecture sur votre compte.
     mdblist_list: https://mdblist.com/lists/plexmetamanager/crunchyroll-shows
     collection_mode: show_items
-    smart_label: title.asc
     sort_title: +++_Anime2  
     collection_filtering: user
     smart_filter:
