@@ -1,0 +1,8 @@
+collections:
+  anime cindy:
+    plex_search:
+      any:
+        label.is:
+          - "Anime"
+        unplayed_episodes: true
+        episode_plays.gt: 1
