@@ -111,8 +111,17 @@ metadata:
     alt_title: One Piece (2023) # make this the title that you want to search on to change to the other title
     sort_title: One Piece 3 # this will change sort title  
 
+  One Piece:
+    title: One Piece (2023)
+    match:
+      mapping_id: tt11737520
+    sort_title: One Piece 3
+    original_title:
+
   "One Piece":
 #    url_poster: https://theposterdb.com/api/assets/58237
+    match:
+      mapping_id: tt0388629
     seasons:
       0: {url_poster: https://theposterdb.com/api/assets/58238}
       1: {url_poster: https://theposterdb.com/api/assets/58239}
