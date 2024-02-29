@@ -107,12 +107,8 @@ metadata:
     alt_title: "Le Flambeau, les aventuriers de Chupacabra"
     sort_title: "Flamme02"
 
-  One Piece (2023): # Make this the title you want the item to be 
-    alt_title: One Piece (2023) # make this the title that you want to search on to change to the other title
-    sort_title: One Piece 3 # this will change sort title  
-
   "One Piece (2023)":
-#    title: One Piece (2023)
+    title: One Piece (2023)
     match:
       mapping_id: tt11737520
     sort_title: One Piece 3
