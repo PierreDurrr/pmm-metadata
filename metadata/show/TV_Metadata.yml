@@ -111,7 +111,7 @@ metadata:
     alt_title: One Piece (2023) # make this the title that you want to search on to change to the other title
     sort_title: One Piece 3 # this will change sort title  
 
-  One Piece:
+  "One Piece (2023)":
     title: One Piece (2023)
     match:
       mapping_id: tt11737520
