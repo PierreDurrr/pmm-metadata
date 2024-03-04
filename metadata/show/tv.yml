@@ -24,7 +24,7 @@ collections:
     collection_mode: hide
     trakt_list: https://trakt.tv/users/pierredurrr/lists/treasure-hunting-shows?sort=rank,asc
     imdb_list: https://www.imdb.com/list/ls045583348/
-    url_poster: https://i.ibb.co/QbMhS5j/coverlabs-poster-1.jpg 
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Treasure-Hunt.jpg
 
   Club Dorothée:
     template: {name: Show, show: "338153, 83348, 171821, 71776, 248423, 76932, 78500, 72775, 265591, 263844, 81472, 76666, 88031, 73014, 72877"}
