@@ -792,9 +792,12 @@ metadata:
             content_rating:
             summary: "Dans le combat qui l'oppose à C.17, Son Goku se retrouve en bien mauvaise posture et alors que tout semblait perdu, C.18 intervient, fermement décidée à venger la mort de Krilin.\n\n\n\n\n\n\n\n\n\nCe film couvre les épisodes 47 à 64."
 
+  Naruto:
+    sort_title: Naruto-01
+
   Naruto Yabaï:
     alt_title: Naruto Yabaï
-    sort_title: Naruto 2
+    sort_title: Naruto-01.1
     original_title:
     originally_available: '2002-10-02'
     studio: Triggerforce - Fan-Kai
@@ -987,9 +990,13 @@ metadata:
               maléfique. Le dernier combat entre Naruto et Sasuke est sur le point
               de commencer...\n\n\n\nCe film couvre les épisodes 128 à 220 soit les
               chapitres 218 à 238."
+
+  Naruto Shippuden:
+    sort_title: Naruto Shippuden-01
+  
   Naruto Shippuden Kaï:
     alt_title: Naruto Shippuden Kaï
-    sort_title: Naruto Shippuden Kaï
+    sort_title: Naruto Shippuden-01.1
     original_title:
     originally_available: '2007-02-14'
     studio: Mixouille - Fan-Kai
