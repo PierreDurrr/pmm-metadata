@@ -22,6 +22,7 @@ collections:
 
   Chasse Aux Trésors:
     collection_mode: hide
+    sort_title: !!!!!0007!_Chasse_aux_tresors
     trakt_list: https://trakt.tv/users/pierredurrr/lists/treasure-hunting-shows?sort=rank,asc
     imdb_list: https://www.imdb.com/list/ls045583348/
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Treasure-Hunt.jpg
