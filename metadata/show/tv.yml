@@ -59,7 +59,7 @@ collections:
           - "Dragon Ball GT Fan-Cut"
     url_poster: https://theposterdb.com/api/assets/170776
     summary: "Dragon Ball Kai (ドラゴンボール 改, Doragon Bōru Kai ; Dragon Ball à nouveau) est un anime se voulant plus fidèle \nau manga Dragon Ball d’Akira Toriyama et basé sur la série d'animation Dragon Ball Z, pour célébrer les vingt ans de la série (1989-2009). \nLa Tôei Animation a ainsi décidé de remonter et de remastériser Dragon Ball Z avec notamment une réduction d’épisodes, \nle tout en HD"
-    collection_mode: show
+    collection_mode: show_items
     
   Flamme et Flambeau:
     template: {name: Show, show: "371079, 420289"}
