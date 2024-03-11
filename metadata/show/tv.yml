@@ -46,6 +46,7 @@ collections:
     template: {name: Show, show: "295068, 81472, 76666, 79275, 88031, 347734, 272910, 347734"}
     collection_mode: hide
     url_poster: https://theposterdb.com/api/assets/170776
+    collection_order: alpha
 
   Dragon Ball - version Kai:
 #    collection_mode: hide
