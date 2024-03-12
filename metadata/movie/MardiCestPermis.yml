@@ -20,7 +20,7 @@ collections:
     schedule: all[weekly(tuesday), hourly(6)]
     delete_not_scheduled: false
     visible_shared: weekly(tuesday)
-    visible_library: false
+    visible_library: weekly(tuesday)
     visible_home: weekly(tuesday)
     label: REPLEXHERO
 
