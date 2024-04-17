@@ -162,7 +162,7 @@ collections:
 
   Olive et Tom - Saga: 
     template: {name: Show, show: "84045, 339203"}
-    trakt_list: https://trakt.tv/users/darkman1498/lists/captain-tsubasa?sort=rank,asc
+    trakt_list: https://trakt.tv/users/yoru14/lists/captain-tsubasa?sort=rank,asc
     url_poster: https://wir.skyrock.net/wir/v1/profilcrop/?c=isi&im=%2F5529%2F87335529%2Fpics%2F3157159078_1_2_WnEVNRn1.png&w=598&h=819
     collection_mode: hide
 
