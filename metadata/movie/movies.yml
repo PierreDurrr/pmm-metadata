@@ -426,6 +426,10 @@ collections:
 #  Cocoon - Saga:
 #    template: {name: Collection, collection: 86307, summary: 86307}
 #    url_poster: https://theposterdb.com/api/assets/163530   
+  "Cody Banks : Agent Secret - Saga":
+    name_mapping: Cody Banks Agent Secret - Saga
+    template: {name: Collection, collection: 91427, summary: 91427}
+    url_poster: https://theposterdb.com/index.php/api/assets/392968
   Collection Walt Disney:
     template: {name: Collection-Smart}
     smart_label: title.asc
