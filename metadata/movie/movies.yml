@@ -1403,9 +1403,10 @@ collections:
 #  Mince Alors ! - Saga:
 #    template: {name: Collection, collection: 953177, summary: 953177}
 ##    url_poster:
-#  "Mission : Impossible - Saga":
-#    template: {name: Collection, collection: 87359, summary: 87359}
-#    url_poster: https://theposterdb.com/api/assets/164810
+  "Mission : Impossible - Saga":
+    name_mapping: Mission Impossible - Saga  
+    template: {name: Collection, collection: 87359, summary: 87359}
+    url_poster: https://theposterdb.com/api/assets/164810
 #  Mode d'emploi - Saga:
 #    template: {name: Collection, collection: 779062, summary: 779062}
 #    url_poster: https://theposterdb.com/api/assets/254306
