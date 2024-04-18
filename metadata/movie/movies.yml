@@ -675,9 +675,9 @@ collections:
 #  Fée Clochette - Saga:
 #    template: {name: Collection, collection: 315595, summary: 315595}
 #    url_poster: https://theposterdb.com/api/assets/162956
-#  Fist of Fury Collection:
-#    template: {name: Collection, collection: 1068899, summary: 1068899}
-#    url_poster: https://theposterdb.com/api/assets/311035   
+  Fist of Fury Collection:
+    template: {name: Collection, collection: 1068899, summary: 1068899}
+    url_poster: https://theposterdb.com/api/assets/311035 
 #  Freddy Krueger - Saga:
 #    template: {name: Collection, collection: 8581, summary: 8581}
 #    url_poster: https://theposterdb.com/api/assets/161307   
