@@ -1598,14 +1598,16 @@ collections:
 #    url_poster: https://theposterdb.com/api/assets/79703
 ##    collection_order: alpha
 #    collection_mode: hide_items
-  La Planète des Singes - Saga Original:
+  La Planète des Singes - Saga Originale:
+    name_mapping: La Planète des Singes - Saga Original
     template: {name: Collection, collection: 1709, summary: 1709}
     trakt_list: 
       - https://trakt.tv/users/bizarrebehavior/lists/movies-planet-of-the-apes-chronological-order-old?sort=rank,asc
     url_poster: https://theposterdb.com/api/assets/76945
 ##    collection_order: alpha
-    collection_mode: hide_items
-  La Planète des Singes - Saga:
+    collection_mode: hide_items 
+  La Planète des Singes - Saga Reboot:
+    name_mapping: La Planète des Singes - Saga
     template: {name: Collection, collection: 173710, summary: 173710}
     trakt_list: 
       - https://trakt.tv/users/dinkysniff/lists/collection-the-planet-of-the-apes-reboot-series?sort=released,desc
