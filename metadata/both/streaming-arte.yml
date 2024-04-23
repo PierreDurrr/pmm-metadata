@@ -17,7 +17,7 @@ collections:
 #      - https://trakt.tv/users/pierredurrr/lists/arte-tv-series-disponibles-liste-de-60-series-senscritique?sort=rank,asc
       - https://trakt.tv/users/pierredurrr/lists/arte?sort=added,asc
 #    mdblist_list: https://mdblist.com/lists/pierredurrr/artetv-shows
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/network/Arte.jpg
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/network/Arte.jpg
     collection_order: custom
 #    collection_mode: hide_items
 #    visible_home: true
