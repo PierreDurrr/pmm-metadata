@@ -7,7 +7,7 @@ collections:
       # genre : Gourmet
     collection_order: alpha
     sort_title: +++_Gourmet
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/genre/Gourmet.jpg
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/genre/Gourmet.jpg
     sync_mode: sync
     sonarr_add_missing: true
     sonarr_folder: "/mnt/_SYNOLOGY/video/Series/_Pierre"
