@@ -2,7 +2,7 @@
 #        Templates        #
 ###########################
 external_templates:
-  pmm: templates
+  default: templates
   repo: metadata/mytemplates.yml
   
 collections:
