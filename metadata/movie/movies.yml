@@ -2,7 +2,7 @@
 #        Templates        #
 ###########################
 external_templates:
-  pmm: templates
+  default: templates
   repo: metadata/mytemplates.yml
   
 collections:
@@ -2187,7 +2187,7 @@ collections:
     plex_all: true
     filters:
       filepath: /mnt/_SYNOLOGY/video/Films/_Bollywood 
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/country/color/India.jpg
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/country/color/India.jpg
 
 ############
 
