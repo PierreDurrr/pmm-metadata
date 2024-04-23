@@ -1,5 +1,5 @@
 external_templates:
-  pmm: templates
+  default: templates
   repo: metadata/mytemplates.yml
 #  template_variables:
 #    collection_section: "!!!!!0003!"
