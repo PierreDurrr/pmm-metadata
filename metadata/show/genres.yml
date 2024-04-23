@@ -7,9 +7,9 @@ collections:
 ### Genres
   Anime:
     sync_mode: sync
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/genre/Anime.jpg
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/genre/Anime.jpg
     summary: Cette collection regroupe tout les animes disponibles sur Pierreflix. Des ajouts sont faits régulièrement.
-    mdblist_list: https://mdblist.com/lists/plexmetamanager/crunchyroll-shows
+    mdblist_list: https://mdblist.com/lists/k0meta/crunchyroll-shows
 #    trakt_list: 
 #      - https://trakt.tv/users/megatek23/lists/anime-collection?page=6&sort=rank,asc
 #      - https://trakt.tv/users/jjjonesjr33/lists/anilist-action
@@ -37,7 +37,7 @@ collections:
 #        - /mnt/_SYNOLOGY/video/_Anime/
 
   "Anime en cours":
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/genre/Anime.jpg
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/genre/Anime.jpg
     summary: Cette collection regroupe tout les animes en cours de lecture sur votre compte.
     collection_mode: show_items
     sort_title: +++_Anime2  
@@ -56,7 +56,7 @@ collections:
       # genre : Gourmet
     collection_order: alpha
     sort_title: +++_Gourmet
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/genre/Gourmet.jpg
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/genre/Gourmet.jpg
     sync_mode: sync
     sonarr_add_missing: true
     sonarr_folder: "/mnt/_SYNOLOGY/video/Series/_Pierre"
