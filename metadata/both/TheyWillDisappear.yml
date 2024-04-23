@@ -1,5 +1,5 @@
 external_templates:
-  pmm: templates
+  default: templates
 
 collections:
   Dernière chance:
