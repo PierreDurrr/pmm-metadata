@@ -34,7 +34,7 @@ collections:
     build_collection: false
   'Envie de découvrir une nouvelle série ?':
     sort_title: 'zzzz_Envie de découvrir une nouvelle série ?'
-    summary: "20 séries au hasard que vous n'avez pas encore osé regarder !"
+    summary: "20 séries au hasard ! Lancez-vous !"
     collection_mode: hide
     collection_filtering: user
     builder_level: episode
