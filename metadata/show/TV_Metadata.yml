@@ -160,7 +160,14 @@ metadata:
   Shameless (US): # Make this the title you want the item to be 
     alt_title: Shameless # make this the title that you want to search on to change to the other title
     sort_title: Shameless (US) # this will change sort title  
+    match:
+      mapping_id: tt1586680    
 
+  "Shameless (UK): Very Important Punk":
+    title: Shameless: Very Important Punk
+    match:
+      mapping_id: tt0377260
+    sort_title: Shameless (UK)
 
   "The Simpsons":
   #  url_poster: https://theposterdb.com/api/assets/246123
