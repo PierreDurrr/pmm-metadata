@@ -834,7 +834,7 @@ collections:
 #    url_poster: https://theposterdb.com/api/assets/288102 
 
   In Association With Marvel:
-    mdblist_list: https://mdblist.com/lists/plexmetamanager/external/15110
+    mdblist_list: https://mdblist.com/lists/k0meta/external/15110
     summary: "Les films sont classés dans l'ordre de visionnage chronologique de l'histoire et non par nom ou date de sortie."
     url_poster: https://theposterdb.com/api/assets/203028
     sort_title: "Marvel Cinematic Universe2"
