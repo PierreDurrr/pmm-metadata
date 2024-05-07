@@ -20,7 +20,8 @@ collections:
           - "Bollywood"
       sort_by: random
       limit: 3
-    schedule: all[weekly(tuesday), hourly(6)]
+#    schedule: all[weekly(tuesday), hourly(6)]
+    schedule: weekly(tuesday)
     delete_not_scheduled: false
     visible_shared: weekly(tuesday)
     visible_library: weekly(tuesday)
