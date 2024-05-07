@@ -10,7 +10,10 @@ collections:
     plex_search:
       all:
         content_rating: "Tous publics"
-        genre: "Comédie"
+        genre: 
+#          - "Comédie"
+          - Familial
+          - Enfants
         studio.not: Toei Animation
         collection.not:
           - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
