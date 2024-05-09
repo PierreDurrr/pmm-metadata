@@ -1,4 +1,9 @@
 collections:
+##
+## LABEL AND LABEL NOT, AND WIPE LABELS ARE USED FOR THIS, AS PER YOZORA ADVICE :
+## you can add item_label: PierreDurrr underneath the limit, then add label.not: PierreDurrr into your plex search
+## then once a month or whatever  you could run a collection which wipes that label out, allowing those items to be added back into the pool again
+##
   Add Mardi c'est permis:
     name: "Mardi c'est permis"
     sort_title: "zzz_Mardi c'est permis"
@@ -9,7 +14,7 @@ collections:
 #        Sous entendu que le mardi, les enfants peuvent regarder la télévision le soir, puisque le lendemain ils n'ont pas école.
     plex_search:
       all:
-        content_rating: "Tous publics"
+#        content_rating: "Tous publics"
         genre: 
 #          - "Comédie"
           - Familial
@@ -18,9 +23,11 @@ collections:
         collection.not:
           - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
           - "Bollywood"
+        label.not: MardiCestPermis
       sort_by: random
       limit: 3
-#    schedule: all[weekly(tuesday), hourly(6)]
+    item_label: MardiCestPermis
+    schedule: all[weekly(tuesday), hourly(6)]
     schedule: weekly(tuesday)
     delete_not_scheduled: false
     visible_shared: weekly(tuesday)
@@ -28,25 +35,33 @@ collections:
     visible_home: weekly(tuesday)
     label: REPLEXHERO
 
-  Remove Mardi c'est permis:
-    name: "Mardi c'est permis"
-    sort_title: "zzz_Mardi c'est permis"
-    smart_filter:
+  Wipe Labels:
+    schedule: monthly(1)
+    build_collection: false
+    item_label.remove: MardiCestPermis
+    plex_search:
       all:
-        content_rating: "Tous publics"
-        genre: "Comédie"
-        studio.not: Toei Animation
-        collection.not:
-          - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
-          - "Bollywood"
-      sort_by: random
-      limit: 3
-    schedule: weekly(wednesday)
-    delete_not_scheduled: false
-    visible_shared: false
-    visible_library: false
-    visible_home: false
-    label: REPLEXHERO 
+        label: MardiCestPermis
+
+##  Remove Mardi c'est permis:
+##    name: "Mardi c'est permis"
+##    sort_title: "zzz_Mardi c'est permis"
+##    smart_filter:
+##      all:
+##        content_rating: "Tous publics"
+##        genre: "Comédie"
+##        studio.not: Toei Animation
+##        collection.not:
+##          - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
+##          - "Bollywood"
+##      sort_by: random
+##      limit: 3
+##    schedule: weekly(wednesday)
+##    delete_not_scheduled: false
+##    visible_shared: false
+##    visible_library: false
+##    visible_home: false
+##    label: REPLEXHERO 
 
 #  Mardi c'est permis:
 #    sort_title: "zzz_Mardi c'est permis"
