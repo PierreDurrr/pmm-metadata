@@ -1,0 +1,15 @@
+metadata:
+  Demander un film ou une série: 
+    title: Demander un film ou une série
+    alt_title: zzzz # make this the title that you want to search on to change to the other title
+    sort_title: zzzz_PierreflixvousaimeDemander un film ou une série # this will change sort title  
+    summary: "Pour demander un film ou une série, direction https://requetes.pierreflix.tv et laissez la magie opérer !"
+    seasons:
+      1:
+        title: Saison 1
+        summary: ''
+        episodes:
+          1:
+            title: Demander un film ou une série
+            sort_title: zzzz_PierreflixvousaimeDemander un film ou une série
+            summary: "Pour demander un film ou une série, direction https://requetes.pierreflix.tv et laissez la magie opérer !"
