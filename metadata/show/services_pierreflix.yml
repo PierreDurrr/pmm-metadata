@@ -1,0 +1,17 @@
+templates:
+  Show:
+    tvdb_show: <<show>>
+    sort_title: <<collection_name>>
+
+collections:
+  Les services Pierreflix, parce qu'on vous aime d'amour:
+    builder_level: episode
+    collection_order: alpha
+    collection_mode: hide_items
+    sort_title: zzzz_Pierreflix vous aime
+    plex_all: true
+    filters:
+      filepath: /mnt/_SYNOLOGY/video/Series/_Info
+    visible_home: true
+    visible_shared: true
+    label: REPLEXHERO
