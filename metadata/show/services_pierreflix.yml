@@ -4,7 +4,7 @@ templates:
     sort_title: <<collection_name>>
 
 collections:
-  Les services Pierreflix, parce qu'on vous aime d'amour:
+  "🫶 Les services Pierreflix, parce qu'on vous aime d'amour 🫶":
     builder_level: episode
     collection_order: alpha
     collection_mode: hide_items
