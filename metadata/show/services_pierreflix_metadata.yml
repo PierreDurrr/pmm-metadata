@@ -1,0 +1,30 @@
+metadata:
+  Demander un film ou une série:
+    title: Demander un film ou une série
+    alt_title: zzzz # make this the title that you want to search on to change to the other title
+    sort_title: zzzz_PierreflixvousaimeDemander un film ou une série # this will change sort title
+    summary: "Pour demander un film ou une série, rendez-vous sur https://requetes.pierreflix.tv et laissez la magie opérer !"
+    seasons:
+      1:
+        title: Saison 1
+        summary: 'Pour demander un film ou une série, direction https://requetes.pierreflix.tv et laissez la magie opérer !'
+        episodes:
+          1:
+            title: Demander un film ou une série
+            sort_title: zzzz_PierreflixvousaimeDemander un film ou une série
+            summary: "Pour demander un film ou une série, direction https://requetes.pierreflix.tv et laissez la magie opérer !"
+
+  L'aide de Pierreflix:
+    title: "L'aide de Pierreflix"
+    alt_title: ZZZap! # make this the title that you want to search on to change to the other title
+    sort_title: zzzz_PierreflixvousaimeLaide de Pierreflix # this will change sort title
+    summary: "Vous êtes perdu ? Rendez-vous sur https://help.pierreflix.tv et vous trouverez toutes les réponses à vos questions !"
+    seasons:
+      1:
+        title: Saison 1
+        summary: 'Vous êtes perdu ? Rendez-vous sur https://help.pierreflix.tv et vous trouverez toutes les réponses à vos questions !'
+        episodes:
+          1:
+            title: "L'aide de Pierreflix"
+            sort_title: zzzz_PierreflixvousaimeLaide de Pierreflix
+            summary: "Vous êtes perdu ? Rendez-vous sur https://help.pierreflix.tv et vous trouverez toutes les réponses à vos questions !"
