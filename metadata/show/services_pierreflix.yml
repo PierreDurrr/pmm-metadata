@@ -14,4 +14,5 @@ collections:
       filepath: /mnt/_SYNOLOGY/video/Series/_Info
     visible_home: true
     visible_shared: true
+    visible_library: true
     label: REPLEXHERO
