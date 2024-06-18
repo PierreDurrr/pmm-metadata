@@ -22,7 +22,7 @@ collections:
       - https://trakt.tv/users/mraniki/lists/theme-spectacles-francais?sort=released,asc
     smart_label: added.desc
     label: 
-      - MAINTENANCE
+#      - MAINTENANCE
       - spectacles
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Stand-Up.jpg
     radarr_add: true
