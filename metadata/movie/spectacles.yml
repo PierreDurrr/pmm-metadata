@@ -14,7 +14,7 @@ collections:
         - /mnt/_SYNOLOGY/video/_Spectacles/
 #    visible_home: true
 #    visible_shared: true
-#    smart_label: release.desc 
+    smart_label: release.desc 
     trakt_list:
       - https://trakt.tv/users/franckie999/lists/spectacles?sort=rank,asc
       - https://trakt.tv/users/foulou/lists/spectacles-fr?sort=rank,asc
