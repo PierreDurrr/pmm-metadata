@@ -39,9 +39,12 @@ collections:
     visible_home: weekly(tuesday)
     label: REPLEXHERO
 
-#  Delete Mardi c'est permis label:
-#    build_collection: false
-#    schedule: all[weekly(wednesday), hourly(6)]
+  Delete Mardi c'est permis label:
+    build_collection: false
+    schedule: all[weekly(wednesday), hourly(9)]
+    visible_shared: weekly(tuesday)
+    visible_library: weekly(tuesday)
+    visible_home: weekly(tuesday)
 #    item_label.remove: "Mardi c'est permis"
 #    plex_search:
 #      all:
