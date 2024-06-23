@@ -792,6 +792,338 @@ metadata:
             content_rating:
             summary: "Dans le combat qui l'oppose à C.17, Son Goku se retrouve en bien mauvaise posture et alors que tout semblait perdu, C.18 intervient, fermement décidée à venger la mort de Krilin.\n\n\n\n\n\n\n\n\n\nCe film couvre les épisodes 47 à 64."
 
+  Fairy Tail Kaï:
+    title: Fairy Tail Kaï
+    match:
+      title:
+      - Fairy Tail Kaï
+#      - Fairy Tail
+    sort_title: Fairy Tail Kai
+    original_title:
+    originally_available: '2009-10-11'
+    content_rating: FR
+    studio: Avalokitesvara - Livai - Fan-Kai
+    tagline:
+    summary: 'Dans le royaume de Fiore, il existe parmi le commun des mortels des hommes et des femmes qui manipulent la magie : ils sont appelés mages. Pour mieux les contrôler, des guildes ont été créées. Une d’entre elles fait particulièrement parler d’elle, que ce soit par les actes réalisés par ses membres, mais aussi et surtout pour les dégâts matériels provoqués par ces derniers à chaque mission qu’ils effectuent. Il s’agit de Fairy Tail.'
+    genre.sync:
+    - Action
+    - Adventure
+    - Animation
+    - Anime
+    - Comedy
+    - Fantasy
+    collection.sync:
+    label.sync:
+    seasons:
+      1:
+        episodes:
+          1:
+            title: La Meilleure des Guildes
+            sort_title: Meilleure des Guildes
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Bienvenue dans le monde merveilleux de Fiore ! Lucy est une jeune magicienne qui rêve d'entrer dans une guilde de mages. Elle rencontre Natsu et Happy, qui recherchent le dragon Ignir. Mais quel est ce mot magique qui semble attirer toutes les attentions : Fairy Tail !\r\r\n\r\r\nCe film couvre les épisodes 1 à 9 soit les chapitres 1 à 21."
+            director.sync:
+            writer.sync:
+          2:
+            title: La Malédiction de la Lune
+            sort_title: Malediction de la Lune
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Erza tient sa parole ! Elle accepte un combat contre Natsu et le combat s'annonce passionnant ... Mais un messager du Conseil intervient pour mettre Erza en état d'arrestation ?!\r\r\n\r\r\nCe film couvre les épisodes 10 à 18 soit les chapitres 22 à 46."
+            director.sync:
+            writer.sync:
+          3:
+            title: La Guerre des Guildes
+            sort_title: Guerre des Guildes
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Un conflit entre guildes ? Phantom Lord vient d'attaquer Fairy Tail ! Makarof va-t-il réussir à calmer Natsu, bouillant de rage ? Quand Les mages de Phantom Lord s'en prennent à l'équipe de Reby, Makarof n'y tient plus : cette fois, la guerre est déclarée !\r\r\n\r\r\nCe film couvre les épisodes 21 à 27 soit les chapitres 46 à 63."
+            director.sync:
+            writer.sync:
+          4:
+            title: La Loi des Fées
+            sort_title: Loi des Fees
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Savez-vous d'où viennent les chats volants ? Asseyez-vous confortablement comme Lucy, Mirajane va vous raconter la naissance de Happy !\r\r\n\r\r\nCe film couvre l'épisode 20 puis 28 à 32 soit le Chapitre Spécial\r\r\n\"X778, Natsu et l'Oeuf de dragon\" ainsi que les chapitres 64 à 75."
+            director.sync:
+            writer.sync:
+          5:
+            title: La Tour du Paradis
+            sort_title: Tour du Paradis
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Alors que nos amis de Fairy Tail se prélassent sur une plages pour des vacances offertes par Loki, Erza retrouve d'anciens amis assez inquiétants qui l'emmènent de force jusqu'à une certaine Tour du Paradis …\r\r\n\r\r\nCe film couvre les épisodes 33 à 41 soit les chapitres 75 à 105."
+            director.sync:
+            writer.sync:
+          6:
+            title: La Bataille de Fairy Tail
+            sort_title: Bataille de Fairy Tail
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Alors que Magnolia se prépare pour la Fête des Moissons, Fairy Tail s'organise pour la parade annuelle, \"Fantasia\", le clou du spectacle du festival ! Lucy, toujours à court d'argent pour son loyer, décide de tenter sa chance au concours Miss Fairy Tail ... Mais l'ambiance va vite changer ...\r\r\n\r\r\nCe film couvre les épisodes 42 à 48 soit les chapitres 106 à 129."
+            director.sync:
+            writer.sync:
+      2:
+        episodes:
+          7:
+            title: Coalition de Guildes
+            sort_title: Coalition de Guildes
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Depuis quelques temps, Lucy a l'impression d'être suivie ... Mais par qui ? Encore une blague de Happy ?\r\r\n\r\r\nCe film couvre les épisodes 51 à 56 soit les chapitres 129 à 140."
+            director.sync:
+            writer.sync:
+          8:
+            title: Lumière et Ténèbres
+            sort_title: Lumiere et Tenebres
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Alors que Wendy vient de sauver Erza de justesse, une colonne de lumière noire s'envole vers le ciel ! Quel mauvais présage ! Serait-ce le début de la fin ?\r\r\n\r\r\nCe film couvre les épisodes 57 à 62 soit les chapitres 141 à 152."
+            director.sync:
+            writer.sync:
+          9:
+            title: La Puissance du Nirvana
+            sort_title: Puissance du Nirvana
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Erza et Jellal affrontent le dernier des membres d'Oracion Seis, Midnight ! Il est si puissnat qu'il parvient à battre Jellal ! Erza est à son tour victime du sort de Réflection de Midnight !\r\r\n\r\r\nCe film couvre les épisodes 63 à 68 soit les chapitres 152 à 164."
+            director.sync:
+            writer.sync:
+          10:
+            title: Un Autre Monde
+            sort_title: Un Autre Monde
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Fairy Tail sonne l'alarme ! Et oui, le mage le plus puissant de la guilde est de retour : Bienvenue Gildarts !\r\r\n\r\r\nCe film couvre les épisodes 76 à 82 soit les chapitres 165 à 175."
+            director.sync:
+            writer.sync:
+          11:
+            title: Extalia, le Pays des Chats
+            sort_title: Extalia, le Pays des Chats
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Natsu et Wendy sont jetés en prison et Lucy va être exécutée ! Pourtant Happy et Carla se retrouvent à Extalia, le royaume des Exceeds, un royaume habité par plein de chats comme eux !\r\r\n\r\r\nCe film couvre les épisodes 83 à 89 soit les chapitres 176 à 187."
+            director.sync:
+            writer.sync:
+          12:
+            title: La Guerre d'Edolas
+            sort_title: Guerre d'Edolas
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Des choses bougent dans le ciel d'Edolas, les îles flottantes sont chamboulées ... Le lacrima géant va-t-il entrer en collision avec Extalia ? Est-ce que la reine d'Extalia va enfin se montrer et utiliser son pouvoir divin pour changer la situation ?\r\r\n\r\r\nCe film couvre les épisodes 90 à 96 soit les chapitres 188 à 200."
+            director.sync:
+            writer.sync:
+      3:
+        episodes:
+          13:
+            title: L'Examen des Rangs S
+            sort_title: L'Examen des Rangs S
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Les choses semblent être revenues à la normale à Fairy Tail mais chacun est plus occupé que jamais enchaînant mission sur mission ! Voici venu l'examen de Mage de rang S ! Qui sera désigné par le Maître pour y participer et qui choisiront-ils comme partenaire ?\r\r\n\r\r\nCe film couvre les épisodes 97 à 103 soit les chapitres 201 à 215."
+            director.sync:
+            writer.sync:
+          14:
+            title: Les Chevaliers du Purgatoire
+            sort_title: Les Chevaliers du Purgatoire
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Alors que la guilde de Grimoire Heart se rapproche de l'île, Makarof choisit de leur faire face. De son côté Mest comprend qu'il n'est pas le seul intrus sur l'île ... Serait-ce le début de la guerre ?\r\r\n\r\r\nCe film couvre les épisodes 104 à 109 soit les chapitres 216 à 227."
+            director.sync:
+            writer.sync:
+          15:
+            title: La Bataille de Tenrô
+            sort_title: Bataille de Tenro
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Erza et Jubia doivent affronter Meldy, qui utilise une magie oubliée pouvant retourner les émotions de ses adversaires contre eux. L'amour de Jubia pour Grey sera-t-il une force ou un obstacle ?\r\r\n\r\r\nCe film couvre les épisodes 110 à 116."
+            director.sync:
+            writer.sync:
+          16:
+            title: Acnologia
+            sort_title: Acnologia
+            originally_available: '2018-10-05'
+            content_rating: FR
+            summary: "Le compte à rebours final est lancé ! Fairy Tail regroupe toutes leurs forces pour pouvoir affronter Hadès. mais même en combinant tous leurs pouvoirs, pourront-ils venir à bout d'un mage plus puissant que leur maître Makarof ?\r\r\n\r\r\nCe film couvre les épisodes 117 à 122 soit les chapitres 242 à 253."
+            director.sync:
+            writer.sync:
+      4:
+        episodes:
+          17:
+            title: Episode 17
+            sort_title: Episode 17
+            originally_available:
+            content_rating: FR
+            summary: ''
+            director.sync:
+            writer.sync:
+          18:
+            title: Crocus, la Cité Fleurie
+            sort_title: Crocus, la Cite Fleurie
+            originally_available: '2018-10-06'
+            content_rating: FR
+            summary: "Makarof a désigné 5 membres pour représenter Fairy Tail aux jeux inter-magiques. La capitale de Fiore, Crocus, est un ville fleurie où vont se retrouver tous les rivaux. Erza a un drôle de pressentiment...\r\r\n\r\r\nCe film couvre les épisodes 155 à 160 soit les chapitres 265 à 274."
+            director.sync:
+            writer.sync:
+          19:
+            title: Le Deuxième Jour
+            sort_title: Le Deuxieme Jour
+            originally_available: '2018-10-06'
+            content_rating: FR
+            summary: "Une course de char est prévue pour le deuxième jour. Et ce n'est pas la meilleure épreuve pour Natsu,quand on sait qu'il a le mal des transport, mais apparement, il n'est pas le seul à en souffrir...\r\r\n\r\r\nCe film couvre les épisodes 161 à 167 soit les chapitres 275 à 285."
+            director.sync:
+            writer.sync:
+          20:
+            title: Pour la Première Place
+            sort_title: Pour la Premiere Place
+            originally_available: '2018-10-06'
+            content_rating: FR
+            summary: "Alors que les plus grandes guildes s'affrontent, Luxus doit affronter un membre de Raven Tail ! Va-t-il pouvoir en mettre plein la vue en battant la guilde de son père ?\r\r\n\r\r\nCe film couvre les épisodes 286 à 297."
+            director.sync:
+            writer.sync:
+          21:
+            title: L'Ordre des Loups Affamés
+            sort_title: L'Ordre des Loups Affames
+            originally_available: '2018-10-06'
+            content_rating: FR
+            summary: "Interrompant Natsu et Grey dans leur bagarre, Gajil demande au premier de le suivre, avec Wendy. Une marche souterraine mènera les trois Chasseurs de Dragons – accompagnés de quelques curieux – à un étrange cimetière.\r\r\n\r\r\nCe film couvre les épisodes 176 à 184 soit les chapitres 300 à 312."
+            director.sync:
+            writer.sync:
+          22:
+            title: Destin
+            sort_title: Destin
+            originally_available: '2018-10-06'
+            content_rating: FR
+            summary: "Au Palais des Enfers, Natsu et ses compagnons ont rencontré le sosie de Lucy. Affirmant venir du futur, la jeune fille leur annonce que le pays risque de disparaître le lendemain. Dans l’ultime épreuve des Grands Jeux magiques, Minerva, opposée à Erza et Kagura, retient toujours Miliana prisonnière. Pendant ce temps, la princesse Hisui explique à Datong que la Porte d’Éclipse est prête à être ouverte, maintenant qu’elle l’a déverrouillée.\r\r\n\r\r\nCe film couvre les épisodes 185 à 191 soit les chapitres 313 à 326."
+            director.sync:
+            writer.sync:
+          23:
+            title: La Fin du Monde
+            sort_title: Fin du Monde
+            originally_available: '2018-10-06'
+            content_rating: FR
+            summary: "Lucy supplie la princesse Hisui de refermer la porte d’Éclipse, qu’elle soupçonne de constituer un passage avec l’époque où le monde était peuplé de dragons. Des craintes vite confirmées par l’apparition d’une gigantesque silhouette. D’après l’analyse de son esprit Crux, Lucy doit pouvoir fermer elle-même la porte grâce à ses pouvoirs de constellationniste.\r\r\n\r\r\nCe film couvre les épisodes 192 à 201 soit les chapitres 327 à 340."
+            director.sync:
+            writer.sync:
+      5:
+        episodes:
+          24:
+            title: Le Village du Soleil
+            sort_title: Le Village du Soleil
+            originally_available: '2019-05-04'
+            content_rating: FR
+            summary: "Au bain flambant neuf de Fairy Tail, les hommes écoutent avec un vif intérêt ce qui se passe du côté des dames, où Flare Corona s’est introduite. De retour au siège de la guilde, les frères ennemis Natsu et Grey reçoivent une nouvelle demande de mission qui leur est spécifiquement destinée. Cette fois, ils vont devoir se tenir car le client est un éminent personnage...\r\r\n\r\r\nCe film couvre les épisodes 227 à 233 soit les chapitres 341 à 355."
+            director.sync:
+            writer.sync:
+          25:
+            title: La Porte des Neufs Démons
+            sort_title: Porte des Neufs Demons
+            originally_available: '2019-05-04'
+            content_rating: FR
+            summary: "En plein réunion des neuf sages, le Conseil de la magie est détruit dans une gigantesque explosion. Rescapé, Dranbalt rend visite à Cobra en prison pour obtenir des informations sur Tartaros. De son côté, Natsu espère aussi en savoir plus sur la mystérieuse guilde clandestine et sur son démon E.N.D. qui, pense-t-il, pourrait le mener jusqu’à Ignir.\r\r\n\r\r\nCe film couvre les épisodes 234 à 240 soit les chapitres 356 à 370."
+            director.sync:
+            writer.sync:
+          26:
+            title: Face et le Roi des Enfers
+            sort_title: Face et le Roi des Enfers
+            originally_available: '2019-05-04'
+            content_rating: FR
+            summary: "Alors que tout Fairy Tail s’apprête à lancer l’assaut, le siège de la guilde explose. Dans leur cube volant, les membres de Tartaros voient bientôt surgir trois chats à l’horizon. Juste avant la déflagration, Kanna, intriguée par l’attitude d’Elfman, a eu le temps d’utiliser sa Magie des Cartes. La guilde peut enfin passer à la contre-attaque !\r\r\n\r\r\nCe film couvre les épisodes 241 à 450 soit les chapitres 371 à 388."
+            director.sync:
+            writer.sync:
+          27:
+            title: Père et Fils
+            sort_title: Pere et Fils
+            originally_available: '2019-05-04'
+            content_rating: FR
+            summary: "Sting et Rogue sont arrivés à temps pour sauver Minerva et Erza. Mard leur révèle bientôt comment Tartaros a pu mettre en marche d’innombrables Face, bien que le président du Conseil soit mort. Pendant ce temps, Jubia pressent qu'un terrible malheur va s'abattre sur Grey, que Silver a emmené de force.\r\r\n\r\r\nCe film couvre les épisodes 251 à 257 soit les chapitres 389 à 399."
+            director.sync:
+            writer.sync:
+          28:
+            title: Ignir
+            sort_title: Ignir
+            originally_available: '2019-05-04'
+            content_rating: FR
+            summary: "Deux dragons s’affrontent dans le ciel de Magnolia. D’un côté, Acnologia dont Zilkonis avait naguère conté l’histoire ; de l’autre, Ignir, à peine sorti du corps de Natsu, et qui fait subir à son adversaire un déluge de flammes. À terre, tous les mages de Fairy Tail doivent se contenter d'assister au terrible spectacle. Tous sauf Natsu, qui vient demander avec virulence des explications au roi des dragons de feu.\r\r\n\r\r\nCe film couvre les épisodes 258 à 265 soit les chapitres 400 à 416."
+            director.sync:
+            writer.sync:
+          29:
+            title: Zerø
+            sort_title: Zer0
+            originally_available: '2019-05-04'
+            content_rating: FR
+            summary: "Une semaine après avoir quitté Magnolia pour s’entraîner, Natsu et Happy débarquent sur l’île de Tenrôjima, où ils tombent sur une ville en ruines. Jadis, au même endroit, une petite orpheline refusait de pleurer malgré les brimades, dans l’espoir de rencontrer des fées...\r\r\n\r\r\nCe film couvre les épisodes 266 à 275 soit le manga Fairy Tail Zerø."
+            director.sync:
+            writer.sync:
+      6:
+        episodes:
+          30:
+            title: Rassemblement
+            sort_title: Rassemblement
+            originally_available: '2023-03-07'
+            content_rating: FR
+            summary: "Un an après la bataille contre Tartaros, les Grands Jeux magiques se disputent sans Fairy Tail, qui a été dissoute. Lucy a quitté Magnolia pour Crocus, et travaille comme apprentie journaliste pour l’hebdomadaire Sorcerer, sous la houlette du frénétique Jason. Grâce au réseau d’informations que lui offre le magazine, elle est parvenue à localiser tous ses camarades dispersés, sauf Natsu et Happy...\n\nCe film couvre les épisodes 276 à 284 soit les chapitres 418 à 437."
+            director.sync:
+            writer.sync:
+          31:
+            title: L'Empereur Spriggan
+            sort_title: L'Empereur Spriggan
+            originally_available: '2023-03-12'
+            content_rating: FR
+            summary: "Les compagnons de Fairy Tail sont mobilisés pour reconstruire le siège de la guilde. Alors qu’une joyeuse bagarre éclate sur le chantier, l’apparition d’une vieille connaissance – pourtant oubliée – va apporter à cette journée son lot de révélations chocs.\n\nCe film couvre les épisodes 285 à 290 soit les chapitres 438 à 452."
+            director.sync:
+            writer.sync:
+          32:
+            title: La défense de Magnolia
+            sort_title: defense de Magnolia
+            originally_available: '2023-03-16'
+            content_rating: FR
+            summary: "À Magnolia, les membres de Fairy Tail pensent vivre leur dernière soirée de tranquillité avant la grande bataille contre Arbaless. Mais sans attendre le lendemain matin, l’ennemi surgit en masse par les airs. Une voie inattendue pour tout le monde, sauf pour Mavis...\n\nCe film couvre les épisodes 291 à 296 soit les chapitres 453 à 469."
+            director.sync:
+            writer.sync:
+          33:
+            title: Détermination
+            sort_title: Determination
+            originally_available: '2023-03-18'
+            content_rating: FR
+            summary: "Sur le front de l'est, God Serena utilise ses prodigieux pouvoirs face aux quatre Mages sacrés, avant que sa démonstration soit interrompue par un voyageur inattendu. Pendant ce temps, sur la route qui mène son équipe vers Harujion, Luxus souffre en secret d’un mal tenace. Mais quel que soit son état physique, il est déterminé à protéger sa guilde.\r\n\r\nCe film couvre les épisodes 297 à 303 soit les chapitres 470 à 489."
+            director.sync:
+            writer.sync:
+          34:
+            title: Universe One
+            sort_title: Universe One
+            originally_available: '2023-03-20'
+            content_rating: FR
+            summary: "Une vaste lumière rouge a bouleversé la topographie du royaume de Fiore, et a éparpillé les combattants dans toutes les directions. Ici et là, les membres de Fairy Tail cherchent le chemin de leur quartier général, où seule Mavis, qui vient de sortir du cristal, est encore présente.\n\nCe film couvre les épisodes 304 à 310 soit les chapitres 490 à 509."
+            director.sync:
+            writer.sync:
+          35:
+            title: Il y a 400 ans
+            sort_title: Il y a 400 ans
+            originally_available: '2023-03-21'
+            content_rating: FR
+            summary: "Toujours inconscient après son combat face à Grey, Natsu ne peut être soigné ni par Polyussica ni par Brandish. Tour à tour, Zeleph et Sting s’invitent dans son esprit pour combler les trous de sa mémoire.\n\nCe film couvre les épisodes 311 à 315 soit les chapitres 510 à 520."
+            director.sync:
+            writer.sync:
+          36:
+            title: Episode 36
+            sort_title: Episode 36
+            originally_available:
+            content_rating: FR
+            summary: ''
+            director.sync:
+            writer.sync:
+          37:
+            title: Liés par le cœur
+            sort_title: Lies par le cœur
+            originally_available: '2023-03-26'
+            content_rating: FR
+            summary: "Zeleph est couché immobile sur le plancher du siège de Fairy Tail. Penchée sur lui, Mavis lui révèle le plan que lui ont inspiré ses sentiments contradictoires. Ailleurs en ville, Lucy continue à remanier le texte du démon lorsque soudain, les lettres en suspens se mettent à retourner dans le livre.\n\nCe film couvre les épisodes 324 à 328 soit les chapitres 537 à 545."
+            director.sync:
+            writer.sync:
+
   Naruto:
     sort_title: Naruto-01
 
