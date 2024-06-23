@@ -949,16 +949,16 @@ metadata:
             summary: "Le compte à rebours final est lancé ! Fairy Tail regroupe toutes leurs forces pour pouvoir affronter Hadès. mais même en combinant tous leurs pouvoirs, pourront-ils venir à bout d'un mage plus puissant que leur maître Makarof ?\r\r\n\r\r\nCe film couvre les épisodes 117 à 122 soit les chapitres 242 à 253."
             director.sync:
             writer.sync:
-      4:
-        episodes:
           17:
-            title: Episode 17
-            sort_title: Episode 17
-            originally_available:
+            title: Fairy Tail, Année X-791
+            sort_title: Fairy Tail, Annee X-791
+            originally_available: '2018-10-05'
             content_rating: FR
-            summary: ''
+            summary: "7 années ont passées depuis la destruction de Tenrôjima et la disparition de tout le monde sur l’île. La guilde est dans un sale état et les affaires vont mal. Une nouvelle guilde, plus grande et plus mauvaise que Fairy Tail, fait son apparition. Mais des nouvelles apportées par les membres de Blue Pegasus vont faire bouger les choses…\r\r\n\r\r\nCe film couvre les épisodes 123 à 154 soit les chapitres 254 à 264."
             director.sync:
             writer.sync:
+      4:
+        episodes:
           18:
             title: Crocus, la Cité Fleurie
             sort_title: Crocus, la Cite Fleurie
@@ -1108,13 +1108,13 @@ metadata:
             director.sync:
             writer.sync:
           36:
-            title: Episode 36
-            sort_title: Episode 36
-            originally_available:
+            title: Néo-Eclipse
+            sort_title: Néo-Eclipse
+            originally_available: '2023-03-26'
             content_rating: FR
-            summary: ''
+            summary: "A la mort d'Irene, la ville de Magnolia est redevenue comme avant. Soulagés d'être de retour, Natsu, Happy et Lucy s'inquiètent néanmoins de ne plus voir les camarades qui les accompagnaient avant que la lumière rouge n'illumine le ciel. Quant à Grey, il est rentré le premier au siège de la guilde pour y affronter Zeleph.\r\n\r\nCe film couvre les épisodes 316 &#224; 323 soit les chapitres 521 à 536.\r\n"
             director.sync:
-            writer.sync:
+            writer.sync:            
           37:
             title: Liés par le cœur
             sort_title: Lies par le cœur
@@ -1123,7 +1123,7 @@ metadata:
             summary: "Zeleph est couché immobile sur le plancher du siège de Fairy Tail. Penchée sur lui, Mavis lui révèle le plan que lui ont inspiré ses sentiments contradictoires. Ailleurs en ville, Lucy continue à remanier le texte du démon lorsque soudain, les lettres en suspens se mettent à retourner dans le livre.\n\nCe film couvre les épisodes 324 à 328 soit les chapitres 537 à 545."
             director.sync:
             writer.sync:
-
+            
   Naruto:
     sort_title: Naruto-01
 
