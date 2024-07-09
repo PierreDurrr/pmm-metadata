@@ -24,7 +24,9 @@ collections:
           collection.not:
             - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
             - "Bollywood"
-          label.not: _HistoMardiCestPermis
+          label.not: 
+            - _HistoMardiCestPermis
+            - "Mardi c'est permis"
       sort_by: random
       limit: 3
     smart_label:
