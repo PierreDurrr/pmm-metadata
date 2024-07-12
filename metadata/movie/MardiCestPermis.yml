@@ -23,8 +23,7 @@ collections:
           studio.not: Toei Animation
           collection.not:
             - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
-            - "Bollywood"
-            - "Mardi c'est permis"            
+            - "Bollywood"           
           label.not: 
             - _HistoMardiCestPermis
             - "Mardi c'est permis"
