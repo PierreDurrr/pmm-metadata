@@ -43,7 +43,7 @@ collections:
 
   Delete Mardi c'est permis label:
     build_collection: false
-    schedule: all[weekly(friday), hourly(8)]
+    schedule: all[weekly(friday), hourly(9)]
     item_label.remove: "Mardi c'est permis"
     plex_search:
       all:
