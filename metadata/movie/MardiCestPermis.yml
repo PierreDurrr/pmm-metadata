@@ -7,7 +7,7 @@ collections:
 
   Delete Mardi c'est permis label:
     build_collection: false
-    schedule: all[weekly(friday)]
+    schedule: all[weekly(wednesday), hourly(6)]
     item_label.remove: "Mardi c'est permis"
     plex_search:
       all:
@@ -34,7 +34,7 @@ collections:
             - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
             - "Bollywood"   
           label:
-            - "mardi_placeholder"
+            - "Mardi_placeholder"
           label.not: 
             - _HistoMardiCestPermis
             - "Mardi c'est permis"
