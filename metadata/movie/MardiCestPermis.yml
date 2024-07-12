@@ -32,7 +32,9 @@ collections:
           studio.not: Toei Animation
           collection.not:
             - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
-            - "Bollywood"           
+            - "Bollywood"   
+          label:
+            - "mardi_placeholder"
           label.not: 
             - _HistoMardiCestPermis
             - "Mardi c'est permis"
