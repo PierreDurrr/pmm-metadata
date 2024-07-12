@@ -24,7 +24,6 @@ collections:
           collection.not:
             - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
             - "Bollywood"
-          collection.not: 
             - "Mardi c'est permis"            
           label.not: 
             - _HistoMardiCestPermis
