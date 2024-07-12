@@ -4,6 +4,15 @@ collections:
 ## you can add item_label: PierreDurrr underneath the limit, then add label.not: PierreDurrr into your plex search
 ## then once a month or whatever  you could run a collection which wipes that label out, allowing those items to be added back into the pool again
 ##
+
+  Delete Mardi c'est permis label:
+    build_collection: false
+    schedule: all[weekly(wednesday), hourly(6)]
+    item_label.remove: "Mardi c'est permis"
+    plex_search:
+      all:
+        label: "Mardi c'est permis"
+
   Add Mardi c'est permis:
     name: "Mardi c'est permis"
     sort_title: "zzz_Mardi c'est permis"
@@ -40,15 +49,6 @@ collections:
     visible_library: weekly(tuesday)
     visible_home: weekly(friday)
     label: REPLEXHERO
-
-  Delete Mardi c'est permis label:
-    build_collection: false
-    schedule: all[weekly(wednesday), hourly(6)]
-    item_label.remove: "Mardi c'est permis"
-    plex_search:
-      all:
-        label: "Mardi c'est permis"
-
 
   Wipe Labels:
 #    schedule: monthly(1)
