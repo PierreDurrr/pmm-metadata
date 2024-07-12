@@ -34,11 +34,11 @@ collections:
       all:
         label: <<smart_label>>
     item_label: _HistoMardiCestPermis
-    schedule: all[weekly(tuesday|wednesday), hourly(6)]
+    schedule: all[weekly(friday|wednesday), hourly(6)]
     delete_not_scheduled: false
-    visible_shared: weekly(tuesday)
-    visible_library: weekly(tuesday)
-    visible_home: weekly(tuesday)
+    visible_shared: weekly(friday)
+    visible_library: weekly(friday)
+    visible_home: weekly(friday)
     label: REPLEXHERO
 
   Delete Mardi c'est permis label:
