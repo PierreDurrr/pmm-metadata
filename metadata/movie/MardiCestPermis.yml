@@ -38,7 +38,7 @@ collections:
     delete_not_scheduled: false
     visible_shared: weekly(tuesday)
     visible_library: weekly(tuesday)
-    visible_home: weekly(tuesday)
+    visible_home: weekly(friday)
     label: REPLEXHERO
 
   Delete Mardi c'est permis label:
