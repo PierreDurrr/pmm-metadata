@@ -8,10 +8,11 @@ external_templates:
   ###########################################################################################
 collections:
 
-  Films Recommandé pour PierreDurrr:
+  Pierre, voici les films recommandés pour toi:
     summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
     trakt_list: 
       - liste-a-ajouter
+#    limit:
     url_poster: poster-a-ajouter
     collection_order: alpha
     collection_mode: hide_items
@@ -19,10 +20,11 @@ collections:
     sync_mode: sync
     label: trakt_pierre
 
-  Films Recommandé pour Élise:
+  Élise, voici les films recommandés pour toi:
     summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
     trakt_list: 
       - liste-a-ajouter
+#    limit:  
     url_poster: poster-a-ajouter
     collection_order: alpha
     collection_mode: hide_items
@@ -30,10 +32,11 @@ collections:
     sync_mode: sync
     label: trakt_elise
     
-  Films Recommandé pour Cindy:
+  Cindy, voici les films recommandés pour toi:
     summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
     trakt_list: 
       - liste-a-ajouter
+#    limit:  
     url_poster: poster-a-ajouter
     collection_order: alpha
     collection_mode: hide_items
@@ -41,13 +44,50 @@ collections:
     sync_mode: sync
     label: trakt_cindy
     
-  Films Recommandé pour Géraud:
+  Géraud, voici les films recommandés pour toi:
     summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
     trakt_list: 
       - liste-a-ajouter
+#    limit:  
     url_poster: poster-a-ajouter
     collection_order: alpha
     collection_mode: hide_items
     visible_shared: true
     sync_mode: sync
     label: trakt_geraud
+
+  Erwan, voici les films recommandés pour toi:
+    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
+    trakt_list: 
+      - liste-a-ajouter
+#    limit:  
+    url_poster: poster-a-ajouter
+    collection_order: alpha
+    collection_mode: hide_items
+    visible_shared: true
+    sync_mode: sync
+    label: trakt_erwan
+
+  Lenaic, voici les films recommandés pour toi:
+    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
+    trakt_list: 
+      - liste-a-ajouter
+#    limit:  
+    url_poster: poster-a-ajouter
+    collection_order: alpha
+    collection_mode: hide_items
+    visible_shared: true
+    sync_mode: sync
+    label: trakt_lenaic    
+
+  Camille, voici les films recommandés pour toi:
+    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
+    trakt_list: 
+      - liste-a-ajouter
+#    limit:  
+    url_poster: poster-a-ajouter
+    collection_order: alpha
+    collection_mode: hide_items
+    visible_shared: true
+    sync_mode: sync
+    label: trakt_camille
