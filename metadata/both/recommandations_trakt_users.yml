@@ -22,7 +22,7 @@ collections:
 
   ✨ Nouveau ! ✨ Élise, voici les films recommandés pour toi:
     sort_title: "zzz_✨ Nouveau ! ✨ Élise, voici les films recommandés pour toi"
-    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
+    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films que tu as regardés."
     trakt_list: https://trakt.tv/users/trakt_elise/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
     limit: 40 
 #    url_poster: poster-a-ajouter
