@@ -17,6 +17,7 @@ metadata:
 
   L'aide de Pierreflix:
     title: "L'aide de Pierreflix"
+    url_poster: https://i.imgur.com/PSxQQd2.png
     alt_title: ZZZap! # make this the title that you want to search on to change to the other title
     sort_title: zzzz_PierreflixvousaimeLaide de Pierreflix # this will change sort title
     summary: "Vous êtes perdu ? Rendez-vous sur https://help.pierreflix.tv et vous trouverez toutes les réponses à vos questions !"
