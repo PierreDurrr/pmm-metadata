@@ -31,7 +31,9 @@ collections:
     visible_shared: true
     visible_library: true
     sync_mode: sync
-    label: trakt_elise
+    label: 
+      - trakt_elise
+      - REPLEXHERO
     
 #  ✨ Nouveau ! ✨ Cindy, voici les films recommandés pour toi:
 #    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
