@@ -1,6 +1,7 @@
 metadata:
   Demander un film ou une série:
     title: Demander un film ou une série
+    url_poster: https://i.imgur.com/BghaD6h.png
     alt_title: zzzz # make this the title that you want to search on to change to the other title
     sort_title: zzzz_PierreflixvousaimeDemander un film ou une série # this will change sort title
     summary: "Pour demander un film ou une série, rendez-vous sur https://requetes.pierreflix.tv et laissez la magie opérer !"
