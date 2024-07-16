@@ -8,17 +8,20 @@ external_templates:
   ###########################################################################################
 collections:
 
-#  ✨ Nouveau ! ✨ Pierre, voici les films recommandés pour toi:
-#    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
-#    trakt_list: 
-#      - liste-a-ajouter
-#    limit:
+  ✨ Nouveau ! ✨ Pierre, voici les films recommandés pour toi:
+    sort_title: "zzz_✨ Nouveau ! ✨ Pierre, voici les films recommandés pour toi"
+    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films que tu as regardés."
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+    limit: 40 
 #    url_poster: poster-a-ajouter
-#    collection_order: alpha
-#    collection_mode: hide_items
-#    visible_home: true
-#    sync_mode: sync
-#    label: trakt_pierre
+    collection_order: custom
+    collection_mode: show_items
+    visible_shared: true
+    visible_library: true
+    sync_mode: sync
+    label: 
+      - trakt_pierre
+      - REPLEXHERO
 
   ✨ Nouveau ! ✨ Élise, voici les films recommandés pour toi:
     sort_title: "zzz_✨ Nouveau ! ✨ Élise, voici les films recommandés pour toi"
@@ -35,62 +38,122 @@ collections:
       - trakt_elise
       - REPLEXHERO
     
-#  ✨ Nouveau ! ✨ Cindy, voici les films recommandés pour toi:
-#    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
-#    trakt_list: 
-#      - liste-a-ajouter
-#    limit:  
+  ✨ Nouveau ! ✨ Cindy, voici les films recommandés pour toi:
+    sort_title: "zzz_✨ Nouveau ! ✨ Cindy, voici les films recommandés pour toi"
+    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films que tu as regardés."
+    trakt_list: https://trakt.tv/users/trakt_cindy/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+    limit: 40 
 #    url_poster: poster-a-ajouter
-#    collection_order: alpha
-#    collection_mode: hide_items
-#    visible_shared: true
-#    sync_mode: sync
-#    label: trakt_cindy
+    collection_order: custom
+    collection_mode: show_items
+    visible_shared: true
+    visible_library: true
+    sync_mode: sync
+    label: 
+      - trakt_cindy
+      - REPLEXHERO
     
-#  ✨ Nouveau ! ✨ Géraud, voici les films recommandés pour toi:
-#    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
-#    trakt_list: 
-#      - liste-a-ajouter
-#    limit:  
+  ✨ Nouveau ! ✨ Geraud, voici les films recommandés pour toi:
+    sort_title: "zzz_✨ Nouveau ! ✨ Geraud, voici les films recommandés pour toi"
+    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films que tu as regardés."
+    trakt_list: https://trakt.tv/users/trakt_geraud/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+    limit: 40 
 #    url_poster: poster-a-ajouter
-#    collection_order: alpha
-#    collection_mode: hide_items
-#    visible_shared: true
-#    sync_mode: sync
-#    label: trakt_geraud
+    collection_order: custom
+    collection_mode: show_items
+    visible_shared: true
+    visible_library: true
+    sync_mode: sync
+    label: 
+      - trakt_geraud
+      - REPLEXHERO
 
-#  ✨ Nouveau ! ✨ Erwan, voici les films recommandés pour toi:
-#    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
-#    trakt_list: 
-#      - liste-a-ajouter
-#    limit:  
+  ✨ Nouveau ! ✨ Erwan, voici les films recommandés pour toi:
+    sort_title: "zzz_✨ Nouveau ! ✨ Erwan, voici les films recommandés pour toi"
+    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films que tu as regardés."
+    trakt_list: https://trakt.tv/users/trakt_erwan/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+    limit: 40 
 #    url_poster: poster-a-ajouter
-#    collection_order: alpha
-#    collection_mode: hide_items
-#    visible_shared: true
-#    sync_mode: sync
-#    label: trakt_erwan
+    collection_order: custom
+    collection_mode: show_items
+    visible_shared: true
+    visible_library: true
+    sync_mode: sync
+    label: 
+      - trakt_erwan
+      - REPLEXHERO
 
-#  ✨ Nouveau ! ✨ Lenaic, voici les films recommandés pour toi:
-#    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
-#    trakt_list: 
-#      - liste-a-ajouter
-#    limit:  
+  ✨ Nouveau ! ✨ Lenaic, voici les films recommandés pour toi:
+    sort_title: "zzz_✨ Nouveau ! ✨ Lenaic, voici les films recommandés pour toi"
+    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films que tu as regardés."
+    trakt_list: https://trakt.tv/users/trakt_lenaic/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+    limit: 40 
 #    url_poster: poster-a-ajouter
-#    collection_order: alpha
-#    collection_mode: hide_items
-#    visible_shared: true
-#    sync_mode: sync
-#    label: trakt_lenaic    
+    collection_order: custom
+    collection_mode: show_items
+    visible_shared: true
+    visible_library: true
+    sync_mode: sync
+    label: 
+      - trakt_lenaic
+      - REPLEXHERO    
 
-#  ✨ Nouveau ! ✨ Camille, voici les films recommandés pour toi:
-#    summary: "Ces recommandations sont basées sur votre historique de lecture, et sur les notes que vous donnez aux films que vous avez regardés."
-#    trakt_list: 
-#      - liste-a-ajouter
-#    limit:  
+  ✨ Nouveau ! ✨ Camille, voici les films recommandés pour toi:
+    sort_title: "zzz_✨ Nouveau ! ✨ Camille, voici les films recommandés pour toi"
+    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films que tu as regardés."
+    trakt_list: https://trakt.tv/users/trakt_camille/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+    limit: 40 
 #    url_poster: poster-a-ajouter
-#    collection_order: alpha
-#    collection_mode: hide_items
-#    visible_shared: true
-#    sync_mode: sync
-#    label: trakt_camille
+    collection_order: custom
+    collection_mode: show_items
+    visible_shared: true
+    visible_library: true
+    sync_mode: sync
+    label: 
+      - trakt_camille
+      - REPLEXHERO
+
+  ✨ Nouveau ! ✨ David, voici les films recommandés pour toi:
+    sort_title: "zzz_✨ Nouveau ! ✨ David, voici les films recommandés pour toi"
+    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films que tu as regardés."
+    trakt_list: https://trakt.tv/users/trakt_david/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+    limit: 40 
+#    url_poster: poster-a-ajouter
+    collection_order: custom
+    collection_mode: show_items
+    visible_shared: true
+    visible_library: true
+    sync_mode: sync
+    label: 
+      - trakt_david
+      - REPLEXHERO
+
+  ✨ Nouveau ! ✨ Yvonnick, voici les films recommandés pour toi:
+    sort_title: "zzz_✨ Nouveau ! ✨ Yvonnick, voici les films recommandés pour toi"
+    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films que tu as regardés."
+    trakt_list: https://trakt.tv/users/trakt_yvonnick/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+    limit: 40 
+#    url_poster: poster-a-ajouter
+    collection_order: custom
+    collection_mode: show_items
+    visible_shared: true
+    visible_library: true
+    sync_mode: sync
+    label: 
+      - trakt_yvonnick
+      - REPLEXHERO      
+
+  ✨ Nouveau ! ✨ Frédéric, voici les films recommandés pour toi:
+    sort_title: "zzz_✨ Nouveau ! ✨ Frédéric, voici les films recommandés pour toi"
+    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films que tu as regardés."
+    trakt_list: https://trakt.tv/users/trakt_frederic/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+    limit: 40 
+#    url_poster: poster-a-ajouter
+    collection_order: custom
+    collection_mode: show_items
+    visible_shared: true
+    visible_library: true
+    sync_mode: sync
+    label: 
+      - trakt_frederic
+      - REPLEXHERO            
