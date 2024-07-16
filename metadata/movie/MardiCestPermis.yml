@@ -37,7 +37,7 @@ collections:
             - "Mardi_placeholder"
           label.not: 
             - _HistoMardiCestPermis
-            - "Mardi c'est permis"
+#            - "Mardi c'est permis"
       sort_by: random
       limit: 3
     smart_label:
