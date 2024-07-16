@@ -16,7 +16,8 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: custom
     collection_mode: show_items
-    visible_shared: true
+    visible_home: true
+    visible_shared: false
     visible_library: true
     sync_mode: sync
     label: 
