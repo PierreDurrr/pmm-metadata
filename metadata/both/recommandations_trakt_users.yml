@@ -25,8 +25,8 @@ collections:
       - trakt_pierre
       - REPLEXHERO
 
-  Nouveau ! Pierre, voici les films recommandés pour toi:
-    name_mapping: ✨ Nouveau ! ✨ Pierre, voici les films recommandés pour toi
+  ✨ Nouveau ! ✨ Pierre, voici les films recommandés pour toi:
+    name_mapping: Nouveau ! Pierre, voici les films recommandés pour toi
     sort_title: "zzz_✨ Nouveau ! ✨ Pierre, voici les films recommandés pour toi"
     summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films que tu as regardés."
     trakt_list: 
