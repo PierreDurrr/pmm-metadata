@@ -16,7 +16,7 @@ collections:
       - https://trakt.tv/users/pierredurrr/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
     limit: 40 
 #    url_poster: poster-a-ajouter
-    collection_order: custom
+#    collection_order: custom
     collection_mode: show_items
     visible_home: true
     visible_shared: false
