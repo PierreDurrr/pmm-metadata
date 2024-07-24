@@ -1,0 +1,64 @@
+collections:
+##
+## LABEL AND LABEL NOT, AND WIPE LABELS ARE USED FOR THIS, AS PER YOZORA ADVICE :
+## you can add item_label: PierreDurrr underneath the limit, then add label.not: PierreDurrr into your plex search
+## then once a month or whatever  you could run a collection which wipes that label out, allowing those items to be added back into the pool again
+##
+
+  Delete Mardi c'est permis label:
+    build_collection: false
+    schedule: all[weekly(wednesday), hourly(6)]
+    item_label.remove: "Mardi c'est permis"
+    plex_search:
+      all:
+        label: "Mardi c'est permis"
+
+  Add Mardi c'est permis:
+    name: "Mardi c'est permis"
+    sort_title: "zzz_Mardi c'est permis"
+#    summary: |
+#        En 1990, M6 diffuse tous ces films et téléfilms de prime time dans une case appelée Grand écran. 
+#        Très vite, la chaîne crée une case nommée « Le Mardi c'est permis », dans laquelle elle diffuse des films et téléfilms pour la jeunesse ou familiaux. 
+#        
+#        Sous entendu que le mardi, les enfants peuvent regarder la télévision le soir, puisque le lendemain ils n'ont pas école.
+    plex_search:
+      all:
+        any:
+         genre:
+            - Familial
+            - Enfants
+        all:
+#          content_rating: "Tous publics"
+          studio.not: Toei Animation
+          collection.not:
+            - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
+            - "Bollywood"   
+#          label:
+#            - "Mardi_placeholder"
+          label.not: 
+            - _HistoMardiCestPermis
+#            - "Mardi c'est permis"
+      sort_by: random
+      limit: 3
+    smart_label:
+      sort_by: random
+      all:
+        label: <<smart_label>>
+    item_label: _HistoMardiCestPermis
+    schedule: all[weekly(tuesday|wednesday), hourly(6)]
+    delete_not_scheduled: false
+    visible_shared: weekly(tuesday)
+    visible_library: weekly(tuesday)
+    visible_home: weekly(tuesday)
+    label: REPLEXHERO
+    sync_to_trakt_list: MardiSurTrakt
+    # trakt_list: https://trakt.tv/users/k0meta/lists/myfilms  OPTIONAL TWO-WAY SYNC
+
+  Wipe Labels:
+#    schedule: monthly(1)
+    schedule: all[yearly(01/31), yearly(03/31), yearly(05/31), yearly(07/31), yearly(09/30), yearly(11/30), hourly(6)]
+    build_collection: false
+    item_label.remove: _HistoMardiCestPermis
+    plex_search:
+      all:
+        label: _HistoMardiCestPermis
