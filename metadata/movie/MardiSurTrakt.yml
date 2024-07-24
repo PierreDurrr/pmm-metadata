@@ -45,9 +45,10 @@ collections:
 #        Très vite, la chaîne crée une case nommée « Le Mardi c'est permis », dans laquelle elle diffuse des films et téléfilms pour la jeunesse ou familiaux. 
 #        
 #        Sous entendu que le mardi, les enfants peuvent regarder la télévision le soir, puisque le lendemain ils n'ont pas école.
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/mardisurtrakt
-      sort_by: random
-      limit: 3
+    trakt_list: 
+      - https://trakt.tv/users/pierredurrr/lists/mardisurtrakt
+    sort_by: random
+    limit: 3
     smart_label:
       sort_by: random
       all:
