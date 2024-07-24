@@ -65,7 +65,7 @@ collections:
 
   Wipe Labels:
 #    schedule: monthly(1)
-    schedule: all[yearly(01/31), yearly(03/31), yearly(05/31), yearly(07/31), yearly(09/30), yearly(11/30), hourly(6)]
+#    schedule: all[yearly(01/31), yearly(03/31), yearly(05/31), yearly(07/31), yearly(09/30), yearly(11/30), hourly(6)]
     build_collection: false
     item_label.remove: _HistoMardiCestPermis
     plex_search:
