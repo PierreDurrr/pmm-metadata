@@ -49,6 +49,8 @@ collections:
       - https://trakt.tv/users/pierredurrr/lists/mardisurtrakt
     sort_by: random
     limit: 3
+    label.not: 
+      - _HistoMardiCestPermis    
     smart_label:
       sort_by: random
       all:
