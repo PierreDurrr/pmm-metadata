@@ -47,7 +47,7 @@ collections:
 #        Sous entendu que le mardi, les enfants peuvent regarder la télévision le soir, puisque le lendemain ils n'ont pas école.
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/mardisurtrakt
-    sort_by: random
+#    sort_by: random
     limit: 3
     label.not: 
       - _HistoMardiCestPermis    
