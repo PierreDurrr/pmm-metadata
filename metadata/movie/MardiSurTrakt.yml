@@ -51,7 +51,7 @@ collections:
     visible_library: weekly(tuesday)
     visible_home: weekly(tuesday)
     label: REPLEXHERO
-    sync_to_trakt_list: MardiSurTrakt
+    sync_to_trakt_list: mardisurtrakt
     #trakt_list: https://trakt.tv/users/pierredurrr/lists/MardiSurTrakt  OPTIONAL TWO-WAY SYNC
 
   Wipe Labels:
