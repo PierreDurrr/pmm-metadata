@@ -7,7 +7,7 @@ collections:
 
   Delete Mardi c'est permis label:
     build_collection: false
-    schedule: all[weekly(wednesday), hourly(6)]
+#    schedule: all[weekly(wednesday), hourly(6)]
     item_label.remove: "Mardi c'est permis"
     plex_search:
       all:
@@ -15,13 +15,6 @@ collections:
 
   Add Mardi c'est permis to Trakt list:
     build_collection: false
-    name: "Mardi c'est permis"
-    sort_title: "zzz_Mardi c'est permis"
-#    summary: |
-#        En 1990, M6 diffuse tous ces films et téléfilms de prime time dans une case appelée Grand écran. 
-#        Très vite, la chaîne crée une case nommée « Le Mardi c'est permis », dans laquelle elle diffuse des films et téléfilms pour la jeunesse ou familiaux. 
-#        
-#        Sous entendu que le mardi, les enfants peuvent regarder la télévision le soir, puisque le lendemain ils n'ont pas école.
     plex_search:
       all:
         any:
@@ -34,26 +27,38 @@ collections:
           collection.not:
             - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
             - "Bollywood"   
-#          label:
-#            - "Mardi_placeholder"
-          label.not: 
-            - _HistoMardiCestPermis
-#            - "Mardi c'est permis"
       sort_by: random
-#      limit: 3
+    smart_label:
+      sort_by: random
+      all:
+        label: <<smart_label>>
+#    schedule: all[weekly(tuesday|wednesday), hourly(6)]
+    delete_not_scheduled: false
+    sync_to_trakt_list: mardisurtrakt
+    #trakt_list: https://trakt.tv/users/pierredurrr/lists/MardiSurTrakt  OPTIONAL TWO-WAY SYNC
+
+  Add Mardi c'est permis:
+    name: "Mardi c'est permis"
+    sort_title: "zzz_Mardi c'est permis"
+#    summary: |
+#        En 1990, M6 diffuse tous ces films et téléfilms de prime time dans une case appelée Grand écran. 
+#        Très vite, la chaîne crée une case nommée « Le Mardi c'est permis », dans laquelle elle diffuse des films et téléfilms pour la jeunesse ou familiaux. 
+#        
+#        Sous entendu que le mardi, les enfants peuvent regarder la télévision le soir, puisque le lendemain ils n'ont pas école.
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/mardisurtrakt
+      sort_by: random
+      limit: 3
     smart_label:
       sort_by: random
       all:
         label: <<smart_label>>
     item_label: _HistoMardiCestPermis
-#    schedule: all[weekly(tuesday|wednesday), hourly(6)]
+    schedule: all[weekly(tuesday|wednesday), hourly(6)]
     delete_not_scheduled: false
     visible_shared: weekly(tuesday)
     visible_library: weekly(tuesday)
     visible_home: weekly(tuesday)
     label: REPLEXHERO
-    sync_to_trakt_list: mardisurtrakt
-    #trakt_list: https://trakt.tv/users/pierredurrr/lists/MardiSurTrakt  OPTIONAL TWO-WAY SYNC
 
   Wipe Labels:
 #    schedule: monthly(1)
