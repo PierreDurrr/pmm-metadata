@@ -13,7 +13,8 @@ collections:
       all:
         label: "Mardi c'est permis"
 
-  Add Mardi c'est permis:
+  Add Mardi c'est permis to Trakt list:
+    build_collection: false
     name: "Mardi c'est permis"
     sort_title: "zzz_Mardi c'est permis"
 #    summary: |
@@ -39,7 +40,7 @@ collections:
             - _HistoMardiCestPermis
 #            - "Mardi c'est permis"
       sort_by: random
-      limit: 3
+#      limit: 3
     smart_label:
       sort_by: random
       all:
