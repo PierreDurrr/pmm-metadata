@@ -51,8 +51,8 @@ collections:
     visible_library: weekly(tuesday)
     visible_home: weekly(tuesday)
     label: REPLEXHERO
-    sync_to_trakt_list: "Mardi c'est permis"
-    # trakt_list: https://trakt.tv/users/k0meta/lists/myfilms  OPTIONAL TWO-WAY SYNC
+    sync_to_trakt_list: MardiSurTrakt
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/MardiSurTrakt  OPTIONAL TWO-WAY SYNC
 
   Wipe Labels:
 #    schedule: monthly(1)
