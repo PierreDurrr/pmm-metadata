@@ -175,7 +175,7 @@ collections:
     collection_mode: hide_items
 
   Pokémon - Saga:
-    template: {name: Show, show: "76703"}
+    template: {name: Show, show: "76703, 431703"}
     collection_mode: hide
     url_poster: https://theposterdb.com/api/assets/180179
 
