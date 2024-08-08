@@ -792,13 +792,16 @@ metadata:
             content_rating:
             summary: "Dans le combat qui l'oppose à C.17, Son Goku se retrouve en bien mauvaise posture et alors que tout semblait perdu, C.18 intervient, fermement décidée à venger la mort de Krilin.\n\n\n\n\n\n\n\n\n\nCe film couvre les épisodes 47 à 64."
 
+  Fairy Tail:
+    sort_title: Fairy Tail-01
+
   Fairy Tail Kaï:
     title: Fairy Tail Kaï
     match:
       title:
       - Fairy Tail Kaï
 #      - Fairy Tail
-    sort_title: Fairy Tail Kai
+    sort_title: Fairy Tail-01.1
     original_title:
     originally_available: '2009-10-11'
     content_rating: FR
