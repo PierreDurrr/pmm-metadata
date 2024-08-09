@@ -55,7 +55,7 @@ collections:
     sort_title: +++_Anime3  
     smart_filter:
       any:
-        label: 
+        genre: 
           - Kaï
           - Yabai
 
