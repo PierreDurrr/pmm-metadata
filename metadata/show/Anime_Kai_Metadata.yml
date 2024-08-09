@@ -1243,6 +1243,227 @@ metadata:
             writer.sync:
         title: Season 1
         summary: ''
+
+  Hokuto No Ken Kaï:
+    title: Hokuto No Ken Kaï
+    match:
+      title:
+      - Hokuto No Ken Kaï
+      - Ken le survivant
+    sort_title: Hokuto No Ken Kai
+    originally_available: '1984-10-10'
+    content_rating:
+    studio: Fan-Kai
+    summary: Dans les années 1990, une guerre nucléaire dévaste la surface de la terre. Le désert recouvre une grande partie du monde, l'eau est devenue bien plus précieuse que l'or et l'argent. L'anarchie règne. Dans ce monde erre, solitaire, Kenshirô (dit Ken). Il est l'héritier du Hokuto Shinken, un kung fu d'assassins transmis de génération en génération depuis 1800 ans à une seule personne. Cependant, Ken utilise cet art pour défendre les innocents face aux hordes de bandits, tyrans, et autres maîtres d'arts martiaux.
+    genre.sync:
+    - Kaï
+    - Action
+    - Aventure
+    - Animation
+    - Anime
+    - Drame
+    - Science-Fiction
+    seasons:
+      1:
+        title: Season 1
+        summary: ''
+        episodes:
+          1:
+            title: King
+            sort_title: King
+            originally_available: '2019-01-05'
+            content_rating:
+            summary: "Kenshirô, le successeur d'un art martial vieux de 1800 ans, parcourt le désert, sans but. Sa rencontre avec deux jeunes orphelins, Lynn et Batt, va changer son destin. Que représentent les 7 cicatrices sur le torse de Ken ? Qui est derrière le gang \"King\" qui terrorise la région ?\n\n\n\n\n\nCe film couvre les épisodes 1 à 5 ainsi que le 22, soit les chapitres 1 à 10."
+            director.sync:
+            writer.sync:
+          2:
+            title: God Land
+            sort_title: God Land
+            originally_available: '2019-01-12'
+            content_rating:
+            summary: "Ken, Batt et Lynn arrivent dans une ville oasis qui semble déborder de vie. Mais rapidement, ils apprennent qu'une armée de mercenaires souhaitent construire un pays à l'image de Dieu, God Land, et que les impurs seront massacrés. Après avoir sauvé plusieurs villageois, Ken décide de mettre un terme à leurs agissements. Mais le Colonel, dirigeant de la God Army, pourrait se révéler être un adversaire plus coriace qu'il n'y parait...\n\n\n\n\n\nCe film couvre les épisodes 6 à 8 soit les chapitres 11 à 16."
+            director.sync:
+            writer.sync:
+          3:
+            title: Warriors
+            sort_title: Warriors
+            originally_available: '2019-01-19'
+            content_rating:
+            summary: "Taki, un petit orphelin que Batt a connu plus jeune, vient réclamer de l'aide à Kenshirô pour creuser un puits et apporter de l'eau à son village déserté. Mais un sombre individu, Jackal, chef d'un gang appelé Warriors, décide de les suivre et de s'emparer du puits après le départ de Ken. Furieux, ce dernier décide de ne laisser aucun des Warriors en vie. Mais Jackal possède un dernier atout qui pourrait bien anéantir Ken pour de bon...\n\n\n\n\n\nCe film couvre les épisodes 11 à 13 soit les chapitres 17 à 25."
+            director.sync:
+            writer.sync:
+          4:
+            title: Kiba
+            sort_title: Kiba
+            originally_available: '2019-01-26'
+            content_rating:
+            summary: "Ken, Batt et Lynn arrive dans un nouveau village, attaqué par un gang appelé Kiba. Ils y rencontrent Mamiya, leader du village, qui ressemble étrangement à Yuria, la fiancée de Ken. Bientôt, un nouveau mercenaire arrive dans le village, Rei. Il semble maitriser un art martial destructeur et est à la recherche d'un homme portant 7 cicatrices sur la poitrine. Après un dernier assaut meurtrier du clan Kiba, Ken, Rei et Mamiya partent affronter le gang sur leur territoire, mais cela pourrait bien se révéler plus compliqué que prévu...\n\n\n\n\n\nCe film couvre les épisodes 23 à 29 soit les chapitres 26 à 37."
+            director.sync:
+            writer.sync:
+      2:
+        title: Season 2
+        summary: ''
+        episodes:
+          5:
+            title: Jaggi
+            sort_title: Jaggi
+            originally_available: '2019-02-02'
+            content_rating:
+            summary: "Après avoir vaincu le clan Kiba, Aïri, la soeur de Rei, apprend à Kenshirô que l'homme qui l'a enlevé portait toujours un casque noir et avait 7 cicatrices sur le torse, comme Ken. Cet homme semble jouer sur la confusion pour détruire l'image du sauveur apportée par le successeur du Hokuto. Qui est cet homme, que Ken semble bien connaître ? Et pourquoi semble-t-il maîtriser lui aussi les mêmes techniques que Ken ?\n\n\n\n\n\nCe film couvre les épisodes 29 à 32 soit les chapitres 38 à 44."
+            director.sync:
+            writer.sync:
+          6:
+            title: Miracles
+            sort_title: Miracles
+            originally_available: '2019-02-09'
+            content_rating:
+            summary: "Kenshirô sait maintenant que ses deux frères aînés, Toki et Raoh, sont encore en vie. Guidé par son destin, il part à la recherche du premier, dont il était très proche. Mais cet homme, dont la bonté était sans égale, semble avoir bien changé. Est-ce vraiment Toki qui utilise le Hokuto à des fins d'expérimentations sur des cobayes innocents ? Que lui est-il arrivé durant ces années ?\n\n\n\n\n\nCe film couvre les épisodes 33 à 36 soit les chapitres 45 à 51."
+            director.sync:
+            writer.sync:
+          7:
+            title: Cassandra
+            sort_title: Cassandra
+            originally_available: '2019-02-16'
+            content_rating:
+            summary: "Kenshirô apprend que Toki, son frère aîné, gravement malade à la suite de la guerre nucléaire qui a ravagé le monde, a été emprisonné dans la prison de Cassandra par Ken'Oh, un homme dont personne ne connait l'identité. Ken, Rei et Mamiya partent donc en quête de Cassandra afin de libérer Toki, mais de nombreux obstacles se dresseront sur leur route. Qui est le fameux Ken'Oh se revendiquant maître de ce nouveau monde désolé ?\n\n\n\n\n\nCe film couvre les épisodes 37 à 43 soit les chapitres 52 à 61."
+            director.sync:
+            writer.sync:
+          8:
+            title: Ken'Oh
+            sort_title: Ken'Oh
+            originally_available: '2019-02-23'
+            content_rating:
+            summary: "Ayant finalement libéré Toki de la prison de Cassandra, Ken, Rei et Mamiya s'apprêtent à retourner au village auprès de Lynn, Batt et Aïri. Malheureusement, Ken'Oh s'est mis lui aussi en marche, et un destin funeste va s'abattre sur le groupe...\n\n\n\n\n\nCe film couvre les épisodes44 à 49 soit les chapitres 61 à 72."
+            director.sync:
+            writer.sync:
+          9:
+            title: Yuda
+            sort_title: Yuda
+            originally_available: '2019-03-02'
+            content_rating:
+            summary: "Rei a été vaincu par Raoh. En sauvant Mamiya, partie chercher de quoi le soulager à Medicine City, Rei apprend que celle-ci fut, par le passé, une des esclaves de Yuda, un autre adepte du Nanto. Voulant prouver son amour pour Mamiya, Rei s'engage dans une dernière bataille contre celui qui fut son rival...\n\n\n\n\n\nCe film couvre les épisodes 50 à 57 soit les chapitres 73 à 82."
+            director.sync:
+            writer.sync:
+      3:
+        title: Season 3
+        summary: ''
+        episodes:
+          10:
+            title: Souther
+            sort_title: Souther
+            originally_available: '2019-03-23'
+            content_rating:
+            summary: "Kenshirô repart affronter son destin. Cette fois, il rencontre le chemin de Shû, un autre des Poings Sacrés du Nanto et meilleur ami de Rei, qui le convainc de l'aider à affronter Souther, l'homme le plus puissant du Nanto. Mais Souther, qui s'est auto-proclamé Empereur Sacré de ce monde désolé, possède un secret qui pourrait bien amener Ken à sa propre perte...\n\n\n\n\n\nCe film couvre les épisodes 58 à 68 soit les chapitres 80 à 97."
+            director.sync:
+            writer.sync:
+          11:
+            title: Promesse
+            sort_title: Promesse
+            originally_available: '2019-03-30'
+            content_rating:
+            summary: "Raoh est désormais guéri des blessures infligées par Kenshirô et repart à la conquête du monde. Toki, sentant sa fin venir à grand pas, décide d'affronter son destin et de combattre une dernière fois celui à qui il avait fait une promesse par le passé... Qui sortira vainqueur de ce combat jusqu'à la mort ?\n\n\n\n\n\nCe film couvre les épisodes 69 à 72 soit les chapitres 88 à 104."
+            director.sync:
+            writer.sync:
+          12:
+            title: Ryûga
+            sort_title: Ryuga
+            originally_available: '2019-04-06'
+            content_rating:
+            summary: "Raoh part reconquérir le monde suite à son combat contre Toki. Ryûga, un adepte d'un art martial indépendant du Nanto et du Hokuto, accepte de le suivre dans sa folie. Il demande à Raoh de lui laisser combattre Kenshirô afin de jauger lequel des deux hommes cette époque a le plus besoin. Qui est ce Ryûga ? Jusqu'où ira-t-il pour provoquer la colère de Ken ?\n\n\n\n\n\nCe film couvre les épisodes 73 à 77 soit les chapitres 105 à 109."
+            director.sync:
+            writer.sync:
+      4:
+        title: Season 4
+        summary: ''
+        episodes:
+          13:
+            title: Vent et Flamme
+            sort_title: Vent et Flamme
+            originally_available: '2019-04-13'
+            content_rating:
+            summary: "Les cinq Étoiles FIlantes, protecteurs de la dernière étoile du Nanto Sei Ken, décident enfin de passer à l'action. Souhaitant par dessus tout ralentir Ken'Oh, deux d'entre eux, le Vent et la Flamme, partent affronter le terrible conquérant, pendant qu'un autre, la Montagne, part à la recherche de Kenshirô. Que veut le dernier Général du Nanto ? Est-il ami ou ennemi ?\n\n\n\n\n\nCe film couvre les épisodes 84 à 88 soit les chapitres 110 à 113."
+            director.sync:
+            writer.sync:
+          14:
+            title: Nuage et Montagne
+            sort_title: Nuage et Montagne
+            originally_available: '2019-04-27'
+            content_rating:
+            summary: "Deux étoiles filantes sont déjà tombées, et il ne reste plus que Jûza, le Nuage, pour stopper Ken'Oh dans sa conquête de la capitale du Nanto. Mais Jûza n'a pas l'air prêt à suivre les ordres de Rihaku. Kenshirô, accompagné de Fudoh la Montagne, accepte de se rendre auprès du dernier Général du Nanto, mais Ken'Oh arrivera-t-il avant lui ? Jûza acceptera-t-il sa destinée ? Et surtout, qui se cache sous le masque du dernier Général ?\n\n\n\n\n\nCe film couvre les épisodes 89 à 96 soit les chapitres 114 à 120."
+            director.sync:
+            writer.sync:
+          15:
+            title: Retrouvailles
+            sort_title: Retrouvailles
+            originally_available: '2019-05-04'
+            content_rating:
+            summary: "L'identité du dernier Général du Nanto est enfin connue... Kenshirô et Raoh se précipitent vers la capitale du Nanto pour le rejoindre. Lequel des deux arrivera en premier auprès du Général ? Un combat titanesque est sur le point de débuter... Ce film correspond à la troisième partie sur 4 de l'arc \"Dernier Général du Nanto\".\n\n\n\n\n\nCe film couvre les épisodes 97 à 101 soit les chapitres 121 à 126."
+            director.sync:
+            writer.sync:
+          16:
+            title: Adieux
+            sort_title: Adieux
+            originally_available: '2019-05-11'
+            content_rating:
+            summary: "Raoh, tétanisé suite à son combat contre Kenshirô, décide de prendre des mesures désespérées et d'affronter Fudoh, le seul être qui lui avait inspiré la peur dans sa jeunesse... Kenshirô, gravement blessé, souhaite en finir au plus vite avec Raoh, avant que les dégâts ne soient irréversibles... Quel sera le vainqueur de cette lutte finale pour l'avenir du monde ? Ce film correspond à la dernière partie sur 4 de l'arc \"Dernier Général du Nanto\".\n\n\n\n\n\nCe film couvre les épisodes 102 à 108 soit les chapitres 129 à 136."
+            director.sync:
+            writer.sync:
+      5:
+        title: Season 5
+        summary: ''
+        episodes:
+          17:
+            title: Retour en Enfer
+            sort_title: Retour en Enfer
+            originally_available: '2019-08-03'
+            content_rating:
+            summary: "Plusieurs années se sont écoulées depuis le combat final entre Raoh et Kenshirô. Le monde est sur le point de sombrer dans une nouvelle ère des ténèbres. Lynn et Batt, désormais adultes et leaders de l'armée du Hokuto, tentent veinement de résister aux forces de l'Empereur Céleste, qui tente de conquérir le monde. Mais personne ne sait ce qu'est devenu Ken depuis toutes ces années. Est-il toujours en vie ? Viendra-t-il aider ses deux anciens compagnons de route ? Ce film correspond à la première partie sur 2 de l'arc \"Empereur Céleste\".\n\n\n\n\n\nCe film couvre les épisodes 110 à 117 soit les chapitres 137 à 149."
+            director.sync:
+            writer.sync:
+          18:
+            title: Empereur Céleste
+            sort_title: Empereur Celeste
+            originally_available: '2019-08-10'
+            content_rating:
+            summary: "Ken, Lynn, Batt, Ein et l'armée du Hokuto s'apprêtent à lancer l'assaut sur la capitale de l'Empereur Céleste. Jakô, le Gouverneur Général, semble être aux contrôles de la cité et Falco, successeur du Gento Kô Ken, est à ses ordres. Quel est le secret derrière l'Empereur Céleste ? Pourquoi Falco obéit-il aveuglément aux ordres de Jakô ?\n\n\n\n\n\nCe film couvre les épisodes 118 à 122 soit les chapitres 149 à 160."
+            director.sync:
+            writer.sync:
+      6:
+        title: Season 6
+        summary: ''
+        episodes:
+          19:
+            title: Pays de Shura
+            sort_title: Pays de Shura
+            originally_available: '2019-08-17'
+            content_rating:
+            summary: "Lynn a été capturée et emmenée de force au pays de Shura, situé derrière la dernière mer présente sur ce monde désolé. Ce pays est habité par des hommes à la force monstrueuse appelés Shura. Ken et Falco décident de traverser la mer pour retrouver Lynn, mais quels nouveaux dangers rencontreront-ils dans ce pays de chaos ?\n\n\n\n\n\nCe film couvre les épisodes 123 à 129 soit les chapitres 161 à 178."
+            director.sync:
+            writer.sync:
+          20:
+            title: Défaite totale
+            sort_title: Defaite totale
+            originally_available: '2019-08-24'
+            content_rating:
+            summary: "Ken est confontré à l'horreur et à la stupéfaction en progressant à travers le pays de Shura. Après avoir vaincu Han, troisième Général Suprême du pays, Ken apprend que Raoh, Toki et lui-même sont originaires de ce pays. Hyoh et Kaioh, les deux autres Généraux, s'apprêtent à entrer en scène, mais Ken est-il suffisamment fort pour les vaincre, alors que la légende prétend que seul Raoh en aurait la force ?\n\n\n\n\n\nCe film couvre les épisodes 134 à 138 soit les chapitres 180 à 188."
+            director.sync:
+            writer.sync:
+          21:
+            title: Deux frères
+            sort_title: Deux freres
+            originally_available: '2019-08-31'
+            content_rating:
+            summary: "Hyoh s'apprête à retrouver la femme qu'il aime, Sayaka. Celle-ci, sœur de Kaioh, finira par subir la démence de son frère aîné. Devenu un véritable Dieu-Démon, Hyoh n'a plus qu'une idée en tête : faire payer à l'homme responsable de sa mort : Kenshirô ! Ce dernier est-il prêt à affronter à nouveau un des successeurs du Hokuto Ryû Ken, surtout après son combat contre Kaioh ?\n\n\n\n\n\nCe film couvre les épisodes 139 à 145 soit les chapitres 188 à 197."
+            director.sync:
+            writer.sync:
+          22:
+            title: Origines
+            sort_title: Origines
+            originally_available: '2019-09-07'
+            content_rating:
+            summary: "Hyoh a enfin recouvré la mémoire et retrouvé son frère Kenshirô, au prix de lourdes pertes. Mais Kaioh est toujours déterminé à empêcher de libérer la véritable puissance du Hokuto. Le combat final est sur le point de débuter : qui en sortira vainqueur ? Ken parviendra-t-il à maîtriser le Poing Secret du Hokuto ?\n\n\n\n\n\nCe film couvre les épisodes 146 à 152 soit les chapitres 197 à 210."
+            director.sync:
+            writer.sync:
             
   Naruto:
     sort_title: Naruto-01
