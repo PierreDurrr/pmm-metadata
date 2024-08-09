@@ -1464,6 +1464,256 @@ metadata:
             summary: "Hyoh a enfin recouvré la mémoire et retrouvé son frère Kenshirô, au prix de lourdes pertes. Mais Kaioh est toujours déterminé à empêcher de libérer la véritable puissance du Hokuto. Le combat final est sur le point de débuter : qui en sortira vainqueur ? Ken parviendra-t-il à maîtriser le Poing Secret du Hokuto ?\n\n\n\n\n\nCe film couvre les épisodes 146 à 152 soit les chapitres 197 à 210."
             director.sync:
             writer.sync:
+
+  Hunter x Hunter Kaï (2011):
+    title: Hunter x Hunter Kaï (2011)
+    match:
+      title:
+      - Hunter x Hunter Kaï (2011)
+      - Hunter x Hunter
+    sort_title: Hunter x Hunter Kai (2011)
+    originally_available: '2011-10-01'
+    content_rating:
+    studio: Fan-Kai
+    summary: Le jeune Gon vit sur une petite île avec sa tante. Abandonné par son père qui est un Hunter, à la fois un aventurier et un chasseur de primes, Gon décide à l'âge de 12 ans de partir pour devenir un Hunter. Cela ne sera pas chose aisée, il devra passer une suite de tests et examens en compagnie de milliers d'autres prétendants au titre de Hunter. Il sera aidé par de nouvelles connaissances qui aspirent au même but que lui tel que Kurapika, Leorio et Killua.
+    genre.sync:
+    - Kaï
+    - Action
+    - Aventure
+    - Animation
+    - Anime
+    - Comédie
+    - Drame
+    - Fantastique
+    seasons:
+      1:
+        episodes:
+          1:
+            title: Devenir Hunter
+            sort_title: Devenir Hunter
+            originally_available: '2022-08-27'
+            content_rating:
+            summary: "Pour décrocher l'examen de Hunter et suivre les traces de son père, Gon, 12 ans, doit d'abord honorer sa promesse envers Mito, la femme qui l'a élevé.\r\r\r\n\r\r\r\nCe film couvre les épisodes 1 à 6 soit les chapitres 1 à 12."
+            director.sync:
+            writer.sync:
+          2:
+            title: La tour aux Astuces
+            sort_title: tour aux Astuces
+            originally_available: '2022-08-27'
+            content_rating:
+            summary: "Gon et ses amis ont réussi la deuxième épreuve. Il reste 42 participants. Netero surprend Gon et Kirua et leur propose un jeu. S'ils gagnent, ils deviendront hunters de suite...\r\r\r\n\r\r\r\nCe film couvre les épisodes 7 à 12 soit les chapitres 13 à 22."
+            director.sync:
+            writer.sync:
+          3:
+            title: Chasseurs et Proies
+            sort_title: Chasseurs et Proies
+            originally_available: '2022-08-27'
+            content_rating:
+            summary: "Les aspirants Hunter se dirige sur l'île de Zebiru pour la suite de l'examen. Chaque candidat va tirer un nombre qui correspond au badge de sa cible. Le badge de la cible vaut 3 points, son propre badge, 3 points, et tous les autres 1 point. Pour réussir l'épreuve, il faut 6 points. Quelle sera la cible de Gon ?\r\r\r\n\r\r\r\nCe film couvre les épisodes 14 à 18 soit les chapitres 23 à 32."
+            director.sync:
+            writer.sync:
+          4:
+            title: La Famille Zoldik
+            sort_title: Famille Zoldik
+            originally_available: '2022-08-27'
+            content_rating:
+            summary: "Gon et ses amis sont arrivés à Padokia, ils prennent un bus de touriste jusqu'à Kukuru Mountain où vit la famille de Kirua. L'entrée de la résidence des Zoldik est gardé par un chien de garde des plus effrayants…\r\r\r\n\r\r\r\nCe film couvre les épisodes 19 à 25 soit les chapitres 33 à 44."
+            director.sync:
+            writer.sync:
+          15:
+            title: Episode 15
+            sort_title: Episode 15
+            originally_available:
+            content_rating:
+            summary: ''
+            director.sync:
+            writer.sync:
+          16:
+            title: Episode 16
+            sort_title: Episode 16
+            originally_available:
+            content_rating:
+            summary: ''
+            director.sync:
+            writer.sync:
+          17:
+            title: Episode 17
+            sort_title: Episode 17
+            originally_available:
+            content_rating:
+            summary: ''
+            director.sync:
+            writer.sync:
+          18:
+            title: Episode 18
+            sort_title: Episode 18
+            originally_available:
+            content_rating:
+            summary: ''
+            director.sync:
+            writer.sync:
+          19:
+            title: Episode 19
+            sort_title: Episode 19
+            originally_available:
+            content_rating:
+            summary: ''
+            director.sync:
+            writer.sync:
+        title: Season 1
+        summary: ''
+      2:
+        episodes:
+          5:
+            title: La Tour Céleste
+            sort_title: Tour Celeste
+            originally_available: '2019-01-21'
+            content_rating:
+            summary: "Gon et Kirua arrivent à la tour Céleste pour compléter leur entraînement et gagner de l'argent. Plus on monte dans la tour, plus les adversaires sont forts. Ils vont faire la rencontre de Zushi, un jeune adversaire qui utilise une technique similaire à celle d'Irumi, le grand frère de Kirua.\r\r\r\n\r\r\r\nCe film couvre les épisodes 27 à 36 soit les chapitres 44 à 63."
+            director.sync:
+            writer.sync:
+          6:
+            title: La Brigade Fantôme
+            sort_title: Brigade Fantome
+            originally_available: '2019-01-21'
+            content_rating:
+            summary: "Gon a appris le Nen, il est enfin devenu un vrai Hunter. Alors qu'il revient sur l'île de la Baleine avec Kirua, Mito lui donne une boîte que Jin, lui a confiée lorsqu'il est devenu Hunter...\r\r\r\n\r\r\r\nCe film couvre les épisodes 37 à 42 soit les chapitres 64 à 73."
+            director.sync:
+            writer.sync:
+          7:
+            title: Requiem
+            sort_title: Requiem
+            originally_available: '2019-01-21'
+            content_rating:
+            summary: "Que les enchères souterrainescommencent ! Mais les trouble-fête de la Brigade Fantôme ont réussi à s'infiltrer et à tuer tous les participants !\r\r\r\n\r\r\r\nCe film couvre les épisodes 43 à 51 soit les chapitres 73 à 97."
+            director.sync:
+            writer.sync:
+          8:
+            title: La Tête de l'Araignée
+            sort_title: Tete de l'Araignee
+            originally_available: '2019-01-21'
+            content_rating:
+            summary: "La Brigade lance un assaut à la vente aux enchères. Les assassins des 10 Dons ne font pas le poids, à l'exception de Zeno et Silva.\r\r\r\n\r\r\r\nCe film couvre les épisodes 52 à 59 soit les chapitres 97 à 124."
+            director.sync:
+            writer.sync:
+        title: Season 2
+        summary: ''
+      3:
+        episodes:
+          9:
+            title: Le Jeu Légendaire
+            sort_title: Le Jeu Legendaire
+            originally_available: '2019-01-26'
+            content_rating:
+            summary: "Gon et Kirua essaient d'être pris en tant que joueurs de Greed Island. Seuls 32 joueurs sur 200 seront acceptés. Comment vont-ils y arriver ?\r\r\r\n\r\r\r\nCe film couvre les épisodes 60 à 67 soit les chapitres 124 à 155."
+            director.sync:
+            writer.sync:
+          10:
+            title: Lutte de Clans
+            sort_title: Lutte de Clans
+            originally_available: '2019-01-26'
+            content_rating:
+            summary: "Pour récupérer l'une des cartes les plus rares, il faut affronter 15 pirates. Gon et son équipe sont immédiatement conduits jusqu'au chef, Razor.\r\r\r\n\r\r\r\nCe film couvre les épisodes 68 à 75 soit les chapitres 155 à 185."
+            director.sync:
+            writer.sync:
+        title: Season 3
+        summary: ''
+      4:
+        episodes:
+          11:
+            title: Kaito
+            sort_title: Kaito
+            originally_available: '2019-03-02'
+            content_rating:
+            summary: "Gon et Kirua utilisent les cartes qu'ils ont rapportées du jeu pour arriver jusqu'à Nigg, qu'ils prennent pour Ging. Mais ils sont envoyés vers un autre homme.\r\r\r\n\r\r\r\nCe film couvre les épisodes 76 à 85 soit les chapitres 185 à 199."
+            director.sync:
+            writer.sync:
+          12:
+            title: Faibles et Puissants
+            sort_title: Faibles et Puissants
+            originally_available: '2019-03-02'
+            content_rating:
+            summary: "Kaito fait diversion pour permettre à Gon et Kirua de s'échapper. Ces derniers vont ensuite essayer de lui venir en aide.\r\r\r\n\r\r\r\nCe film couvre les épisodes 86 à 92 soit les chapitres 200 à 216."
+            director.sync:
+            writer.sync:
+          13:
+            title: Le Roi du Monde
+            sort_title: Le Roi du Monde
+            originally_available: '2019-03-02'
+            content_rating:
+            summary: "Après avoir envahi la république du Gorutô de l'Est et mangé l'aura d'un utilisateur de Nen, le roi devient de plus en plus puissant.\r\r\r\n\r\r\r\nCe film couvre les épisodes 93 à 97 soit les chapitres 216 à 229."
+            director.sync:
+            writer.sync:
+          14:
+            title: Jeux de Guerre
+            sort_title: Jeux de Guerre
+            originally_available: '2019-03-02'
+            content_rating:
+            summary: "Gon et Kirua infiltrent le Gorutô de l'Est dans l'espoir de stopper le processus de sélection en cours. Mais l'endroit est désert.\r\r\r\n\r\r\r\nCe film couvre les épisodes 98 à 104 soit les chapitres 230 à 248."
+            director.sync:
+            writer.sync:
+          15:
+            title: Infiltration
+            sort_title: Infiltration
+            originally_available: '2019-03-02'
+            content_rating:
+            summary: "Les parties de Gungi s'enchaînent et le roi est en mauvaise posture. Nov, pour sa part, se rapproche du palais. Mais pourra-t-il s'y introduire ?\r\r\r\n\r\r\r\nCe film couvre les épisodes 105 à 110 soit les chapitres 248 à 262."
+            director.sync:
+            writer.sync:
+          16:
+            title: 'Assaut : Acte I'
+            sort_title: 'Assaut : Acte I'
+            originally_available: '2019-03-02'
+            content_rating:
+            summary: "Alors que Morau s'apprête à donner le signal, Netero et Zeno se jettent au-dessus du palais royal. Pitô sent une menace approcher. Netero est prêt à montrer sa puissance.\r\r\r\n\r\r\r\nCe film couvre les épisodes 111 à 117 soit les chapitres 262 à 278."
+            director.sync:
+            writer.sync:
+          17:
+            title: 'Assaut : Acte II'
+            sort_title: 'Assaut : Acte II'
+            originally_available: '2019-03-02'
+            content_rating:
+            summary: "Ikarugo cherche Pâmu et arrive là où Bizev cachait ses femmes, mais Burovûta le guette, tapi à la sortie. Knuckle attend que Yupî explose de colère pour le frapper.\r\r\r\n\r\r\r\nCe film couvre les épisodes 118 à 124 soit les chapitres 279 à 290 ainsi que 293 à 296."
+            director.sync:
+            writer.sync:
+          18:
+            title: 'Assaut : Acte III'
+            sort_title: 'Assaut : Acte III'
+            originally_available: '2019-03-02'
+            content_rating:
+            summary: "Knuckle a rejoint Gon qui attend que Pitô soigne Komugi. Il provoque Pufu qui s'échappe de la tour pour rejoindre le roi. Ce dernier engage un vrai combat avec Netero.\r\r\r\n\r\r\r\nCe film couvre les épisodes 125 à 131 soit les chapitres 291 à 292 ainsi que 295 à 307."
+            director.sync:
+            writer.sync:
+          19:
+            title: La Pire des Bêtes
+            sort_title: Pire des Betes
+            originally_available: '2019-03-02'
+            content_rating:
+            summary: "Pufu et Yupî font tout pour que le roi ne se souvienne pas de Komugi, mais Pitô revient, ignorant tout, et l'intéressée est entre les mains de Pâmu.\r\r\r\n\r\r\r\nCe film couvre les épisodes 132 à 136 soit les chapitres 308 à 318."
+            director.sync:
+            writer.sync:
+        title: Season 4
+        summary: ''
+      5:
+        episodes:
+          20:
+            title: Les Douze du Zodiaque
+            sort_title: Les Douze du Zodiaque
+            originally_available: '2019-03-17'
+            content_rating:
+            summary: "Le Conseil des 12 Zodiaques est réuni au complet. Tous ses membres, pour le moins fantasques, doivent décider des modalités de l'élection du successeur de Netero.\r\r\r\n\r\r\r\nCe film couvre les épisodes 137 à 143 soit les chapitres 319 à 330."
+            director.sync:
+            writer.sync:
+          21:
+            title: Un Vaste Monde
+            sort_title: Un Vaste Monde
+            originally_available: '2019-03-17'
+            content_rating:
+            summary: "Il ne reste plus que quatre candidats en lice, mais Cheadle et Mizaistom veulent faire tomber Pariston. Léolio, candidat inattendu au 8e tour, doit prononcer un discours.\r\r\r\n\r\r\r\nCe film couvre les épisodes 144 à 148 soit les chapitres 331 à 339."
+            director.sync:
+            writer.sync:
+        title: Season 5
+        summary: ''
             
   Naruto:
     sort_title: Naruto-01
