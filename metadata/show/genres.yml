@@ -49,7 +49,7 @@ collections:
         plays.gt: 1
 
   "Anime Kaï / Yabaï":
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime-en-cours.jpg
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime.jpg
     summary: "Cette collection regroupe tout les animes en version Kaï / Yabaï, c'est à dire fidèles aux mangas papiers."
     collection_mode: show_items
     sort_title: +++_Anime3  
