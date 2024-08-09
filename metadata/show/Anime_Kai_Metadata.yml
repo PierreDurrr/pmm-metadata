@@ -1133,7 +1133,6 @@ metadata:
     match:
       title:
       - GTO Kaï
-      - Great Teacher Onizuka
     sort_title: GTO Kai
     originally_available: '1999-06-29'
     content_rating: FR
@@ -1249,7 +1248,6 @@ metadata:
     match:
       title:
       - Hokuto No Ken Kaï
-      - Ken le survivant
     sort_title: Hokuto No Ken Kai
     originally_available: '1984-10-10'
     content_rating:
@@ -1470,7 +1468,6 @@ metadata:
     match:
       title:
       - Hunter x Hunter Kaï (2011)
-      - Hunter x Hunter
     sort_title: Hunter x Hunter Kai (2011)
     originally_available: '2011-10-01'
     content_rating:
@@ -3072,3 +3069,116 @@ metadata:
             originally_available: '2023-12-24'
             content_rating: FR
             summary: "En liesse, le pays de Wano célèbre la victoire et la libération après des décennies de domination tyrannique. Malgré l’effervescence, Yamato retient son appétit, attendant avec impatience l’arrivée de Hiyori. Pendant ce temps, un mystérieux individu s’approche de l’île…\n\nCe film couvre les épisodes 1079 à 1083 ainsi que l'épisode 1085 soit les chapitres 1052 à 1057."
+
+  Soul Eater Kaï:
+    title: Soul Eater Kaï
+    match:
+      title:
+      - Soul Eater Kaï
+    sort_title: Soul Eater Kai
+    originally_available: '2008-04-06'
+    content_rating:
+    studio: Fan-Kai
+    summary: "Ce projet reprend les épisodes 1 à 36 de l'anime, la suite n'est cependant que constituée de fillers, veuillez vous référer au manga pour poursuivre l'oeuvre.\r\r\r\r\r\n\r\r\r\r\r\nPour devenir une \"Death Scyth\", les \"armes démoniaques\" qui ont une apparence humaine doivent se repaître de 99 âmes de démon et d'une âme de sorcière. Ces armes sont pour cela accompagnées de Meister qui les manipule pour la chasse aux âmes. A Shibusen, une école pour jeune Meister dirigée par le grand Shinigami, Maka et Soul poursuivent ce but. Ils seront bientôt rejoint par d'autres Meisters et leurs armes : Black Star un jeune ninja qui ne cherche qu'à se faire remarquer avec son arme Tsubaki, Death the Kid le fils de Shinigami qui est un maniaque de la symétrie avec ses deux armes Liz et Patty, deux sœurs qui se transforment en revolvers. Mais de nombreux obstacles leur barre la route, à commencer par les sorcières..."
+    genre.sync:
+    - Kaï
+    - Action
+    - Aventure
+    - Animation
+    - Anime
+    - Comédie
+    - Fantastique
+    - Horreur
+    seasons:
+      1:
+        episodes:
+          1:
+            title: Prologue
+            sort_title: Prologue
+            originally_available: '2021-01-09'
+            content_rating:
+            summary: "Après avoir chassé 99 âmes maléfiques, Maka Albarn et son compagnon Soul Eater doivent capturer l'âme d'une sorcière afin de transformer le jeune homme en une arme que Maître Shinigami, le dieu de la mort, pourra lui même utiliser. Leur choix se porte sur Blair, une jeune femme sans-gêne passée maître dans l'art d'utiliser les citrouilles...\n\n\n\n\n\nCe film couvre les épisodes 1 à 3 soit les chapitres 0.1 à 0.3."
+            director.sync:
+            writer.sync:
+          2:
+            title: Cours de rattrapage
+            sort_title: Cours de rattrapage
+            originally_available: '2021-01-09'
+            content_rating:
+            summary: "Maka, Soul, Black Star et Tsubaki sont convoqués par Maître Shinigami. Ce dernier, mécontent de leurs dernières performances, leur annonce qu'il doivent mener à bien un cours de rattrapage si ils souhaitent rester à l'institut. Il s'agit pour l'occasion de défaire un ancien professeur de l'académie qui s'attaque depuis sa transformation en zombie, à ses anciens élèves...\n\n\n\n\n\nCe film couvre les épisodes 4 à 6 soit les chapitres 1.1 à 2.2."
+            director.sync:
+            writer.sync:
+          3:
+            title: La lame damnée
+            sort_title: lame damnee
+            originally_available: '2021-02-06'
+            content_rating:
+            summary: "Lors d'une mission en Italie, Maka ressent une puissante énergie négative en provenance d'une église. Lorsqu'elle se rend sur les lieux en compagnie de Soul pour en déterminer l'origine, elle découvre que celle-c est émise par Ragnarok, une arme démoniaque qui se matérialise à partir du sang noir de son maitre Crona...\n\n\n\n\n\nCe film couvre les épisodes 7 à 9 soit les chapitres 3 à 6."
+            director.sync:
+            writer.sync:
+          4:
+            title: Masamune, l'épée maudite
+            sort_title: Masamune, l'epee maudite
+            originally_available: '2021-02-10'
+            content_rating:
+            summary: "Tsubaki et Black Star partent chasser l'âme de Masamune, une arme démoniaque qui menace de se transformer en Grand Dévoreur. Toutefois, les habitants du village dans lequel ils arrivent croient reconnaître en Black Star un membre du Clan Astral, un groupe d'assassins, et les chassent tous deux. Alors qu'ils patientent à la lisière du village, Masamune fait son entrée et prend possession du corps de l'un des villageois...\n\n\n\n\n\n\n\nCe film couvre les épisodes 10 à 11 soit les chapitres 7 à 8."
+            director.sync:
+            writer.sync:
+          5:
+            title: Expérimentation
+            sort_title: Experimentation
+            originally_available: '2021-03-01'
+            content_rating:
+            summary: "Maka et Black Star, bien décidés à devenir plus forts, demandent au professeur Stein de leur préparer un entrainement spécial. Pendant ce temps, Medusa est prise à parti par deux autres sorcières, Elka et Mizuné, qui ne voient pas d'un bon oeil son infiltration de Shibusen et ses expériences sur le Grand Dévoreur...\n\n\n\n\n\nCe film couvre les épisodes 12 à 13 soit les chapitres 9 à 11."
+            director.sync:
+            writer.sync:
+          6:
+            title: Le dragon noir
+            sort_title: Le dragon noir
+            originally_available: '2021-03-25'
+            content_rating:
+            summary: "Un examen important arrive et la légende raconte que celui qui a la meilleure note est destiné à devenir une Death Scythe. Maka vise la meilleure note.\n\n\n\n\n\nCe film couvre les épisodes 14 à 18 soit les chapitres 12 à 15."
+            director.sync:
+            writer.sync:
+          7:
+            title: Combat à mort en sous-sol
+            sort_title: Combat a mort en sous-sol
+            originally_available: '2021-05-09'
+            content_rating:
+            summary: "Pendant que les goules se ruent pour libérer Asura, Medusa se tient sur la route du Dr.Stein et ses étudiants. Ailleurs, Maka décide d'en finir avec Crona.\n\n\n\n\n\nCe film couvre les épisodes 19 à 24 soit les chapitres 16 à 22."
+            director.sync:
+            writer.sync:
+          8:
+            title: Journée d'initiation
+            sort_title: Journee d'initiation
+            originally_available: '2021-05-13'
+            content_rating:
+            summary: "Les Death Scythes écoutent le plan de Death pour s'occuper du Kishin qui s'est échappé. Death partage ses pensées quant à Dr.Stein, qui serait revenu à ses vieilles méthodes.\n\n\n\n\n\n\n\nCe film couvre les épisodes 25 à 28 soit les chapitres 23 à 28."
+            director.sync:
+            writer.sync:
+          9:
+            title: Retrouvailles express
+            sort_title: Retrouvailles express
+            originally_available: '2021-05-17'
+            content_rating:
+            summary: "Dr.Stein tente de remettre les armes et leur meister en forme en vue d'un potentiel combat contre Arachne. Ils doivent s'améliorer puisque Arachne n'est pas la seule sorcière à revenir sur le devant de la scène.\n\n\n\n\n\nCe film couvre les épisodes 29 à 31 soit les chapitres 29 à 32."
+            director.sync:
+            writer.sync:
+          10:
+            title: La résonance des âmes
+            sort_title: resonance des ames
+            originally_available: '2021-05-21'
+            content_rating:
+            summary: "Arachne est sur le point de déclencher une guerre, Dr.Stein renforce l'entraînement de ses étudiants. Mais avant que le groupe soit totalement prêt pour le combat, un duel doit doit se dérouler, celui de Maka contre Black Star !\n\n\n\n\n\n\n\nCe film couvre les épisodes 32 à 33 soit les chapitres 32.5 à 33."
+            director.sync:
+            writer.sync:
+          11:
+            title: La bataille pour l'infusio
+            sort_title: bataille pour l'infusio
+            originally_available: '2021-05-22'
+            content_rating:
+            summary: "La guerre éclate dans une terre gelée ! L'armée d'armes et leur meister combattent les forces d'Arachnophobia.\n\n\n\n\n\n\n\nCe film couvre les épisodes 34 à 36 soit les chapitres 34 à 37."
+            director.sync:
+            writer.sync:
+        title: Season 1
+        summary: ''
