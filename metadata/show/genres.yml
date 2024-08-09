@@ -53,6 +53,7 @@ collections:
     summary: "Cette collection regroupe tout les animes en version Kaï / Yabaï, c'est à dire fidèles aux mangas papiers."
     collection_mode: show_items
     sort_title: +++_Anime3  
+    sort_by: title.asc
     smart_filter:
       any:
         genre: 
