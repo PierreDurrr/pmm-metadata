@@ -1126,6 +1126,123 @@ metadata:
             summary: "Zeleph est couché immobile sur le plancher du siège de Fairy Tail. Penchée sur lui, Mavis lui révèle le plan que lui ont inspiré ses sentiments contradictoires. Ailleurs en ville, Lucy continue à remanier le texte du démon lorsque soudain, les lettres en suspens se mettent à retourner dans le livre.\n\nCe film couvre les épisodes 324 à 328 soit les chapitres 537 à 545."
             director.sync:
             writer.sync:
+
+  GTO Kaï:
+    title: GTO Kaï
+    sort_title: Great Teacher Onizuka-01.1
+    match:
+      title:
+      - GTO Kaï
+      - Great Teacher Onizuka
+    sort_title: GTO Kai
+    originally_available: '1999-06-29'
+    content_rating: FR
+    studio: Tenma - Fan-Kai
+    summary: Ancien voyou, chef de gang, Eikichi Onizuka décide un jour de devenir prof. Sa vocation n'a rien de pédagogique. Ce qu'il veut, c'est pouvoir sortir avec les étudiantes du lycée où il travaille.
+    genre.sync:
+    - Kaï
+    - Animation
+    - Anime
+    - Comedy
+    - Drama
+    - Romance
+    seasons:
+      Specials:
+        episodes:
+          8:
+            title: Occulte, Infirmière et Or volé
+            sort_title: Occulte, Infirmiere et Or vole
+            originally_available: '2023-12-17'
+            content_rating: FR
+            summary: "Tomoko est enfin devenu une star, mais son patron l'oblige à faire des photos quasiment nue car il lui manque de l'argent. Après avoir décalqué la tronche aux Yakuzas qui se servaient de Tomoko, Onizuka se réfugie chez son \"pote\" Saejima avec elle. Mais celui-ci a des emmerdes aussi : il a volé une valise pleine d'or que des Yakuzas veulent s'approprier.\r\n\r\nCe film couvre les épisodes 23, 25 à 26 et 34, ils sont hors-série donc le film est considéré comme bonus."
+            director.sync:
+            writer.sync:
+          10:
+            title: La Dernière Bataille d'Onizuka
+            sort_title: Derniere Bataille d'Onizuka
+            originally_available: '2023-12-17'
+            content_rating: FR
+            summary: "Miyabi a retrouvé son ancien prof principal, Saito. Ce dernier était sorti avec Mizuki, une ancienne 4ème 4 qui s'est suicidée par sa faute. Miyabi a juré de se venger de tous les adultes qui sont responsable dans cette histoire et Saito est la première victime. Onizuka va devoir s'en mêler pour éviter que les problèmes continuent.\n\nCe film couvre les épisodes 42 et 43 soit les épisodes finaux de l'anime, étant hors-série, le film est considéré comme bonus."
+            director.sync:
+            writer.sync:
+        title: Specials
+        summary: ''
+      1:
+        episodes:
+          1:
+            title: Eikichi Onizuka
+            sort_title: Eikichi Onizuka
+            originally_available: '2023-03-11'
+            content_rating: FR
+            summary: "Eikichi Onizuka est un ancien loubard, il a décidé de se lancer dans une carrière ... d’enseignant. Son but est en fait de sortir avec ses lycéennes, un fantasme qui va être très très dur de réaliser sachant que sa classe est remplie de Yankee. Ayant pour habitude de cogner tous ceux qui l’emmerde, Onizuka va avoir beaucoup de mal à garder son calme devant ses élèves. Heureusement, il a repéré une jolie fille dans la classe qui a l’air de lui plaire. Pourtant il aurait dû se méfier, l’habit ne fait pas le moine, et Nanako est loin d’être la plus innocente de ses élèves. Mais bon, Onizuka n'est pas n'importe qui et il va en faire voir de toutes les couleurs à ses lycéens, et au passage va résoudre quelques problèmes familiaux.\n\n\n\nCe film couvre les épisodes 1 à 2 soit les chapitres 1 à 11."
+            director.sync:
+            writer.sync:
+          2:
+            title: La Troisième 4
+            sort_title: Troisieme 4
+            originally_available: '2023-04-13'
+            content_rating: FR
+            summary: "Onizuka est donc devenu professeur à l'école Seirin mais à la condition d'habiter dans l'école sur le palier du dernier étage. Il n'est pas au bout de ses surprises car au lieu d'enseigner au lycée, ses élèves seront des collégiens. Adieu les sorties \"extras-scolaires\" avec de jolies lycéennes. Pour couronner le tout, sa première nuit dans l'établissement ne va pas être de tout repos, au contraire...\n\n\n\n\n\nCe film couvre les épisodes 3 à 7 soit les chapitres 12 à 24."
+            director.sync:
+            writer.sync:
+          3:
+            title: La Naissance d'une Star
+            sort_title: Naissance d'une Star
+            originally_available: '2023-04-27'
+            content_rating: FR
+            summary: "Après la rencontre parents – profs, Julia Murai organise une sortie au bowling avec son cher fils adoré dans l’équipe d’Onizuka. Toute la partie se déroule assez bien jusqu'à ce que Julia parte d’urgence pour le boulot. Dès ce moment là Onizuka et Murai reprennent leurs bonnes habitudes, à savoir se taper sur la gueule. Une fois l’ennemi achevé, le blondinet et ses potes se cassent du bowling et tombent sur des racailles. Ils n’en mènent pas large mais l’arrivée d’Onizuka les rassure tout de suite : lui seul peut les tirer de ce mauvais pas ! Mais ils vont vite se rendre compte que notre cher prof n’a pas vraiment l’intention d’aider ses élèves.\n\n\n\n\n\nCe film couvre les épisodes 8 à 11 soit les chapitres 25 à 36."
+            director.sync:
+            writer.sync:
+          4:
+            title: L'examen d'Onizuka
+            sort_title: L'examen d'Onizuka
+            originally_available: '2023-06-25'
+            content_rating: FR
+            summary: "La complicité qui règne entre Onizuka et Fuyutsuki ne plait pas à tout le monde, et surtout à Teshigawara, le prof de mathématiques. On peut dire que ce dernier est obsédé par Fuyutsuki, il va même jusqu'a l'espionner chez elle. Alors quand Onizuka se retrouve chez lui, rien ne va plus.\n\n\n\n\n\nCe film couvre les épisodes 12 à 15 ainsi que le 24 soit les chapitres 39 à 51."
+            director.sync:
+            writer.sync:
+          5:
+            title: L'ennemi juré d'Onizuka
+            sort_title: L'ennemi jure d'Onizuka
+            originally_available: '2023-07-17'
+            content_rating: FR
+            summary: "De retour chez les vivants, Onizuka est plus que jamais décidé à trouver une copine. Il fait alors la rencontre d'une jeune fille, Urumi Kanzaki, et voit là son rêve réalisé... enfin c'est ce qu'il croyait ! Urumi a en fait été appelée par Miyabi, l'élève qui souhaite plus que tout le renvoi d'Onizuka. Comment notre cher prof va réussir à tenir tête à sa nouvelle élève au QI de 200 ?\n\n\n\n\n\n\n\nCe film couvre les épisodes 16 à 19 ainsi que le 21 et 22, soit les chapitres 52 à 71."
+            director.sync:
+            writer.sync:
+          6:
+            title: L'obsession de Murai
+            sort_title: L'obsession de Murai
+            originally_available: '2023-07-31'
+            content_rating: FR
+            summary: "La mère de Murai est vraiment attirante et ce dernier commence à se demander pourquoi elle est encore seule. Comme pour répondre à sa question il la voit entrer dans un salon de mariage avec un vieux pas beau. Et depuis, Murai remarque qu'elle a un comportement pour le moins bizarre. Et si elle allait se marier avec le vieux en cachette ?\n\n\n\n\n\nCe film couvre les épisodes 35 et 20, soit les chapitres 72 à 74."
+            director.sync:
+            writer.sync:
+          7:
+            title: La plus grande idole du Japon
+            sort_title: plus grande idole du Japon
+            originally_available: '2023-08-10'
+            content_rating: FR
+            summary: "Tomoko a enfin réussi à décroché son premier rôle dans une série télé et Onizuka a décidé d'emmener la classe voir les premiers pas de la future star. Mais la scénariste a décidé de changer le scénario à la dernière minute, au désavantage de Tomoko. Onizuka va encore devoir s'en mêler.\n\n\n\n\n\nCe film couvre les épisodes 27 et 28 soit les scènes 1 à 3 du tome 11."
+            director.sync:
+            writer.sync:
+          8:
+            title: Le Piège d'Aizawa
+            sort_title: Le Piege d'Aizawa
+            originally_available: '2023-09-22'
+            content_rating: FR
+            summary: "Toute la classe s'est ralliée à Onizuka, sauf Miyabi qui est décidée plus que jamais à le faire virer. Seule, elle n'a aucune chance, alors elle va s'allier à Sakurada. Ce dernier va demander à Fujiyoshi de réunir l'argent de la sortie scolaire en liquide, soit 1.120.000 yen.\n\n\n\nCe film couvre les épisodes 29 à 33 soit les chapitres 75 à 92."
+            director.sync:
+            writer.sync:
+          9:
+            title: Survie à Okinawa
+            sort_title: Survie a Okinawa
+            originally_available: '2023-10-26'
+            content_rating: FR
+            summary: "Fuyutsuki se rend compte que pour plaire quand elle sera à Okinawa, il lui faut avoir des gros seins. Le choix du maillot de bain est donc important et il lui faudra compter sur l'aide de Nao pour qu'elle se métamorphose. Le problème c'est qu'il faut savoir s'arrêter au bon moment ...\r\n\r\nCe film couvre les épisodes 36 à 41 soit les chapitres 93 à 105."
+            director.sync:
+            writer.sync:
+        title: Season 1
+        summary: ''
             
   Naruto:
     sort_title: Naruto-01
