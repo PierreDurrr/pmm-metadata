@@ -48,6 +48,17 @@ collections:
         label: Anime
         plays.gt: 1
 
+  "Anime Kaï / Yabaï":
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime-en-cours.jpg
+    summary: "Cette collection regroupe tout les animes en version Kaï / Yabaï, c'est à dire fidèles aux mangas papiers."
+    collection_mode: show_items
+    sort_title: +++_Anime3  
+    smart_filter:
+      any:
+        label: 
+          - Kaï
+          - Yabai
+
   Gourmet Anime:
     mal_search:
       limit: 100
