@@ -747,6 +747,7 @@ metadata:
     tagline:
     summary: L'histoire commence dix ans après la fin de Dragon Ball Z, quand Son Gokû est transformé en enfant, à cause de Pilaf, par le Dragon sacré. Il doit rechercher les Dragon Balls pour redevenir normal et surtout sauver la terre qui, si les dragon balls ne sont pas réunies au bout d'un an, se désintègrera. Il part donc avec Trunks et Pan (qui s'est invitée sans leur autorisation) rechercher ces boules de cristal éparpillées dans toute la galaxie.
     genre.sync:
+    - Kaï
     - Fan-Cut
     - Action
     - Aventure
@@ -809,6 +810,7 @@ metadata:
     tagline:
     summary: 'Dans le royaume de Fiore, il existe parmi le commun des mortels des hommes et des femmes qui manipulent la magie : ils sont appelés mages. Pour mieux les contrôler, des guildes ont été créées. Une d’entre elles fait particulièrement parler d’elle, que ce soit par les actes réalisés par ses membres, mais aussi et surtout pour les dégâts matériels provoqués par ces derniers à chaque mission qu’ils effectuent. Il s’agit de Fairy Tail.'
     genre.sync:
+    - Kaï
     - Action
     - Adventure
     - Animation
