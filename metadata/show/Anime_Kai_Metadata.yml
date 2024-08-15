@@ -1741,7 +1741,7 @@ metadata:
     - Anime
     - Comedy
     - Fantasy
-    Saisons:
+    seasons:
       1:
         episodes:
           1:
@@ -1936,7 +1936,7 @@ metadata:
     - Comedy
     - Drama
     - Fantasy
-    Saisons:
+    seasons:
       1:
         episodes:
           1:
