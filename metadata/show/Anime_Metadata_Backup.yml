@@ -579,7 +579,6 @@ metadata:
     - Action
     - Animation
     - Science-Fiction
-    episode_ordering: tvdb_aired
     seasons:
       1:
         title: Shinigami remplaçant
@@ -9531,4 +9530,3 @@ metadata:
             director.sync:
             writer.sync:
             producer.sync:
-
