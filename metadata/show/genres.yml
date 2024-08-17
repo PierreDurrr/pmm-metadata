@@ -59,6 +59,8 @@ collections:
         genre: 
           - Kaï
           - Yabai
+        studio:
+          - Fan-Kai
 
   Gourmet Anime:
     mal_search:
