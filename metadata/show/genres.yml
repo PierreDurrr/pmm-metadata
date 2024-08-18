@@ -8,8 +8,7 @@ collections:
   Anime:
     sync_mode: sync
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime.jpg
-    summary: Cette collection regroupe tous les animes disponibles sur Pierreflix.
-      Des ajouts sont faits régulièrement.
+    summary: Cette collection regroupe tous les animes disponibles sur Pierreflix. Des ajouts sont faits régulièrement.
     mdblist_list:
       - https://mdblist.com/lists/k0meta/crunchyroll-shows
     collection_mode: show_items
@@ -23,8 +22,7 @@ collections:
 
   Anime en cours:
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime-en-cours.jpg
-    summary: Cette collection regroupe tous les animes en cours de lecture sur votre
-      compte.
+    summary: Cette collection regroupe tous les animes en cours de lecture sur votre compte.
     collection_mode: show_items
     sort_title: +++_Anime2
     collection_filtering: user
