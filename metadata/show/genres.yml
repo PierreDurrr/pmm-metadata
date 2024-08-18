@@ -40,7 +40,7 @@ collections:
   "Anime en cours":
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime-en-cours.jpg
     summary: Cette collection regroupe tous les animes en cours de lecture sur votre compte.
-    collection_modAnimesw_items
+    collection_mode: show_items
     sort_title: +++_Anime2  
     collection_filtering: user
     smart_filter:
