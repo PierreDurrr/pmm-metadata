@@ -40,7 +40,7 @@ collections:
   "Anime en cours":
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime-en-cours.jpg
     summary: Cette collection regroupe tous les animes en cours de lecture sur votre compte.
-    collection_mode: show_items
+    collection_modAnimesw_items
     sort_title: +++_Anime2  
     collection_filtering: user
     smart_filter:
@@ -54,17 +54,17 @@ collections:
     summary:
       "Cette collection regroupe tous les animes en version Kaï / Yabaï, c'est à dire fidèles aux mangas papiers.
      " **Kaï** "
-     "  - Re-montage de l’anime d’un manga au format de long-métrage avec la suppression de toute action filler à l’œuvre papier.
-    "   - Dans une recherche constante de la plus grande fidélité possible, nos monteurs s’assurent que l’expérience reçue en regardant l’anime kaïé soit au plus proche de celle reçue par les lecteurs du manga.
-    "  - Chaque Kaï, qu'importe sa nature, dispose d'une base originelle (Manga, light novel, roman...).
+     "   Re-montage de l’anime d’un manga au format de long-métrage avec la suppression de toute action filler à l’œuvre papier.
+    "    Dans une recherche constante de la plus grande fidélité possible, nos monteurs s’assurent que l’expérience reçue en regardant l’anime kaïé soit au plus proche de celle reçue par les lecteurs du manga.
+    "    Chaque Kaï, qu'importe sa nature, dispose d'une base originelle (Manga, light novel, roman...).
    "   **Yabai**
-      "  - C'est la version évoluée du Kaï, il s'agit généralement d'un second Kaï d'une œuvre déjà "kaïée".
-      "  - Cette version se veut ultime, généralement en MULTI et 1080p.
+      "  C'est la version évoluée du Kaï, il s'agit généralement d'un second Kaï d'une œuvre déjà "kaïée".
+      "  Cette version se veut ultime, généralement en MULTI et 1080p.
      " **Henshū**
-      "  - Il s'agit d'un Kaï sur un anime généralement court ou comportant peu de fillers.
+      "  Il s'agit d'un Kaï sur un anime généralement court ou comportant peu de fillers.
    "   **FAN/CUT**
-     "   - Animes sans source, c'est donc des animes originaux remontés sous format films pour une expérience plus agréable.
-    "   - Ces versions sont proposées avec une qualité des plus optimales et, quand c'est possible, en MULTI."
+     "   Animes sans source, c'est donc des animes originaux remontés sous format films pour une expérience plus agréable.
+    "    Ces versions sont proposées avec une qualité des plus optimales et, quand c'est possible, en MULTI."
     collection_mode: show_items
     sort_title: +++_Anime3  
     smart_filter:
