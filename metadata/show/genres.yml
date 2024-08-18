@@ -51,7 +51,7 @@ collections:
 
   "Anime Kaï / Yabaï":
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime.jpg
-    summary: |
+    summary:
       Cette collection regroupe tous les animes en version Kaï / Yabaï, c'est à dire fidèles aux mangas papiers.
       - **Kaï**: 
         - Re-montage de l’anime d’un manga au format de long-métrage avec la suppression de toute action filler à l’œuvre papier.
