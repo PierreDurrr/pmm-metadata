@@ -48,21 +48,6 @@ collections:
         label: Anime
         plays.gt: 1
 
-  "Anime Kaï / Yabaï":
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime.jpg
-    summary: "Cette collection regroupe tout les animes en version Kaï / Yabaï, c'est à dire fidèles aux mangas papiers."
-    collection_mode: show_items
-    sort_title: +++_Anime3  
-    smart_filter:
-      sort_by: title.asc
-      any:
-#        genre: 
-#          - Kaï
-#          - Yabai
-        studio:
-          - "Fan-Kai"
-
-
   Anime Kaï / Yabai / Henshū:
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime.jpg
     summary: |+
