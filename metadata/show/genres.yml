@@ -80,17 +80,16 @@ collections:
 
       FAN/CUT ➤ 
       Animes sans source, c'est donc des animes originaux remontés sous format films pour une expérience plus agréable avec une qualité des plus optimales et, quand c'est possible, en MULTI.
-  collection_mode: show_items
-  sort_title: +++_Anime3
-  smart_filter:
-    sort_by: title.asc
-    any:
-      genre:
-        - Kaï
-        - Yabai
-      studio:
-        - Fan-Kai
-
+    collection_mode: show_items
+    sort_title: +++_Anime3
+    smart_filter:
+      sort_by: title.asc
+      any:
+        genre:
+          - Kaï
+          - Yabai
+        studio:
+          - Fan-Kai
 
   Gourmet Anime:
     mal_search:
