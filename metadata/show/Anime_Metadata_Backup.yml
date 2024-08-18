@@ -4,7 +4,6 @@ metadata:
     match:
       title:
       - Assassination Classroom Henshū
-      - Assassination Classroom
     sort_title: Assassination Classroom Henshu
     original_title: 暗殺教室
     originally_available: '2015-01-10'
@@ -56,7 +55,6 @@ metadata:
     match:
       title:
       - Black Clover Kaï
-      - Black Clover
     sort_title: Black Clover Kai
     original_title: ブラッククローバー
     originally_available: '2017-10-03'
@@ -167,7 +165,6 @@ metadata:
     match:
       title:
       - Black Lagoon Henshū
-      - Black Lagoon
     sort_title: Black Lagoon Henshu
     original_title: BLACK LAGOON
     originally_available: '2006-04-09'
@@ -566,7 +563,6 @@ metadata:
     match:
       title:
       - Bleach Yabai
-      - Bleach
     sort_title: Bleach Yabai
     original_title: ブリーチ
     originally_available: '2004-10-05'
@@ -753,7 +749,6 @@ metadata:
     match:
       title:
       - Blue Lock Henshū
-      - Blue Lock
     sort_title: Blue Lock Henshu
     original_title: ブルーロック
     originally_available: '2022-10-09'
@@ -824,7 +819,6 @@ metadata:
     match:
       title:
       - Boruto Yabai
-      - 'Boruto : Naruto Next Generations'
     sort_title: Boruto Yabai
     original_title: BORUTO-ボルト- NARUTO NEXT GENERATIONS
     originally_available: '2017-04-05'
@@ -870,7 +864,6 @@ metadata:
     match:
       title:
       - Busô Renkin Kaï
-      - Buso Renkin
     sort_title: Buso Renkin Kai
     original_title: 武装錬金
     originally_available: '2006-10-04'
@@ -951,7 +944,6 @@ metadata:
     match:
       title:
       - Call of the Night Henshū
-      - Call of the Night
     sort_title: Call of the Night Henshu
     original_title: よふかしのうた
     originally_available: '2022-07-08'
@@ -1012,7 +1004,6 @@ metadata:
     match:
       title:
       - Chainsaw Man Henshū
-      - Chainsaw Man
     sort_title: Chainsaw Man Henshu
     original_title: チェンソーマン
     originally_available: '2022-10-12'
@@ -1068,7 +1059,6 @@ metadata:
     match:
       title:
       - D.Gray-Man Kaï
-      - D.Gray-Man
     sort_title: D.Gray-Man Kai
     original_title: D.Gray-man
     originally_available: '2006-10-03'
@@ -1303,7 +1293,6 @@ metadata:
     match:
       title:
       - Death Note Kaï
-      - Death Note
     sort_title: Death Note Kai
     original_title: DEATH NOTE
     originally_available: '2006-10-04'
@@ -1386,7 +1375,6 @@ metadata:
     match:
       title:
       - Détective Conan Kaï
-      - Détective Conan
     sort_title: Detective Conan Kai
     original_title: 名探偵コナン
     originally_available: '1996-01-08'
@@ -1529,7 +1517,6 @@ metadata:
     match:
       title:
       - Dr.Stone Henshū
-      - Dr. STONE
     sort_title: Dr.Stone Henshu
     original_title: Dr.STONE
     originally_available: '2019-07-05'
@@ -1678,7 +1665,6 @@ metadata:
     match:
       title:
       - Dragon Ball GT Fan-Cut
-      - Dragon Ball GT
     sort_title: Dragon Ball GT Fan Cut
     original_title: ドラゴンボールGT
     originally_available: '1996-02-07'
@@ -1752,7 +1738,6 @@ metadata:
     match:
       title:
       - Dragon Ball Super Kaï
-      - Dragon Ball Super
     sort_title: Dragon Ball Super Kaï
     original_title: ドラゴンボール超（スーパー）
     originally_available: '2015-07-05'
@@ -1895,7 +1880,6 @@ metadata:
     match:
       title:
       - Dragon Ball Yabai
-      - Dragon Ball
     sort_title: Dragon Ball Yabai
     original_title: ドラゴンボール
     originally_available: '1986-02-26'
@@ -2064,7 +2048,6 @@ metadata:
     match:
       title:
       - Dragon Ball Z Yabai
-      - Dragon Ball Z
     sort_title: Dragon Ball Z Yabai
     original_title: ドラゴンボールゼット
     originally_available: '1989-04-26'
@@ -2305,7 +2288,6 @@ metadata:
     match:
       title:
       - Enfer Et Paradis Henshū
-      - Enfer et Paradis
     sort_title: Enfer Et Paradis Henshu
     original_title: 天上天下
     originally_available: '2004-04-01'
@@ -2385,7 +2367,6 @@ metadata:
     match:
       title:
       - Fairy Tail Kaï
-      - Fairy Tail
     sort_title: Fairy Tail Kai
     original_title: フェアリーテイル
     originally_available: '2009-10-12'
@@ -2770,7 +2751,6 @@ metadata:
     match:
       title:
       - Fire Force Henshū
-      - Fire Force
     sort_title: Fire Force Henshu
     original_title: 炎炎ノ消防隊
     originally_available: '2019-07-05'
@@ -2843,7 +2823,6 @@ metadata:
     match:
       title:
       - Food Wars Kaï
-      - Food Wars! Shokugeki no Soma
     sort_title: Food Wars Kai
     original_title: 食戟のソーマ
     originally_available: '2015-04-04'
@@ -3021,7 +3000,6 @@ metadata:
     match:
       title:
       - Fullmetal Alchemist Kaï
-      - 'Fullmetal Alchemist : Brotherhood'
     sort_title: Fullmetal Alchemist Kai
     original_title: 鋼の錬金術師 FULLMETAL ALCHEMIST
     originally_available: '2009-04-05'
@@ -3173,7 +3151,6 @@ metadata:
     match:
       title:
       - Gintama Kaï
-      - Gintama
     sort_title: Gintama Kai
     original_title: 銀魂
     originally_available: '2006-04-04'
@@ -3227,7 +3204,6 @@ metadata:
     match:
       title:
       - GTO Kaï
-      - Great Teacher Onizuka
     sort_title: GTO Kai
     original_title: グレート・ティーチャー・オニヅカ
     originally_available: '1999-06-30'
@@ -3357,7 +3333,6 @@ metadata:
     match:
       title:
       - Haikyuu!! Henshū
-      - Haikyu!!
     sort_title: Haikyuu!! Henshu
     original_title: ハイキュー!!
     originally_available: '2014-04-06'
@@ -3487,7 +3462,6 @@ metadata:
     match:
       title:
       - Hajime No Ippo Henshū
-      - 'Hajime no Ippo : The Fighting'
     sort_title: Hajime No Ippo Henshu
     original_title: はじめの一歩
     originally_available: '2000-10-03'
@@ -3775,7 +3749,6 @@ metadata:
     match:
       title:
       - Hikaru No Go Henshū
-      - Hikaru No Go
     sort_title: Hikaru No Go Henshu
     original_title: ヒカルの碁
     originally_available: '2001-10-10'
@@ -3847,7 +3820,6 @@ metadata:
     match:
       title:
       - Hokuto No Ken Kaï
-      - Ken le survivant
     sort_title: Hokuto No Ken Kai
     original_title: 北斗の拳
     originally_available: '1984-10-11'
@@ -4097,7 +4069,6 @@ metadata:
     match:
       title:
       - Horimiya Kaï
-      - Horimiya
     sort_title: Horimiya Kai
     original_title: ホリミヤ
     originally_available: '2021-01-10'
@@ -4148,7 +4119,6 @@ metadata:
     match:
       title:
       - Hunter x Hunter Kaï (1999)
-      - Hunter × Hunter
     sort_title: Hunter x Hunter Kai (1999)
     original_title: ハンター×ハンター
     originally_available: '1999-10-16'
@@ -4183,7 +4153,6 @@ metadata:
     match:
       title:
       - Hunter x Hunter Kaï (2011)
-      - Hunter x Hunter
     sort_title: Hunter x Hunter Kai (2011)
     original_title: ハンターｘハンター
     originally_available: '2011-10-02'
@@ -4420,7 +4389,6 @@ metadata:
     match:
       title:
       - Inazuma Eleven Kaï
-      - Inazuma Eleven
     sort_title: Inazuma Eleven Kai
     original_title: イナズマイレブン
     originally_available: '2008-10-05'
@@ -4680,7 +4648,6 @@ metadata:
     match:
       title:
       - Initial D Kaï
-      - Initial D
     sort_title: Initial D Kai
     original_title: 頭文字 D
     originally_available: '1998-04-18'
@@ -4752,7 +4719,6 @@ metadata:
     match:
       title:
       - Inuyashiki Last Hero Henshū
-      - Inuyashiki le Dernier Héros
     sort_title: Inuyashiki Last Hero Henshu
     original_title: いぬやしき
     originally_available: '2017-10-12'
@@ -4805,7 +4771,6 @@ metadata:
     match:
       title:
       - Jojo's Bizarre Adventure Henshū
-      - JoJo's Bizarre Adventure
     sort_title: Jojo's Bizarre Adventure Henshu
     original_title: ジョジョの奇妙な冒険
     originally_available: '2012-10-06'
@@ -5134,7 +5099,6 @@ metadata:
     match:
       title:
       - Jujutsu Kaisen Henshū
-      - Jujutsu Kaisen
     sort_title: Jujutsu Kaisen Henshu
     original_title: 呪術廻戦
     originally_available: '2020-10-03'
@@ -5223,7 +5187,6 @@ metadata:
     match:
       title:
       - Made In Abyss Henshū
-      - Made In Abyss
     sort_title: Made In Abyss Henshu
     original_title: メイドインアビス
     originally_available: '2017-07-07'
@@ -5315,7 +5278,6 @@ metadata:
     match:
       title:
       - My Hero Academia Henshū
-      - My Hero Academia
     sort_title: My Hero Academia Henshu
     original_title: 僕のヒーローアカデミア
     originally_available: '2016-04-03'
@@ -5600,7 +5562,6 @@ metadata:
     match:
       title:
       - Naruto Shippuden Yabai
-      - Naruto Shippuden
     sort_title: Naruto Shippuden Yabai
     original_title: ナルト 疾風伝
     originally_available: '2007-02-15'
@@ -5949,7 +5910,6 @@ metadata:
     match:
       title:
       - Naruto Yabai
-      - Naruto
     sort_title: Naruto Yabai
     original_title: ナルト
     originally_available: '2002-10-03'
@@ -6153,7 +6113,6 @@ metadata:
     match:
       title:
       - Neon Genesis Evangelion Fan-Cut
-      - Neon Genesis Evangelion
     sort_title: Neon Genesis Evangelion Fan-Cut
     original_title: 新世紀エヴァンゲリオン
     originally_available: '1995-10-04'
@@ -6242,7 +6201,6 @@ metadata:
     match:
       title:
       - One Piece Kaï
-      - One Piece
     sort_title: One Piece Kai
     original_title: ワンピース
     originally_available: '1999-10-20'
@@ -7494,7 +7452,6 @@ metadata:
     match:
       title:
       - One Punch Man Henshū
-      - One Punch Man
     sort_title: One Punch Man Henshu
     original_title: ワンパンマン
     originally_available: '2015-10-05'
@@ -7580,7 +7537,6 @@ metadata:
     match:
       title:
       - Oshi no Ko Henshū
-      - Oshi no Ko
     sort_title: Oshi no Ko Henshu
     original_title: 【推しの子】
     originally_available: '2023-04-12'
@@ -7642,7 +7598,6 @@ metadata:
     match:
       title:
       - Overlord Henshū
-      - Overlord
     sort_title: Overlord Henshu
     original_title: オーバーロード
     originally_available: '2015-07-07'
@@ -7677,7 +7632,6 @@ metadata:
     match:
       title:
       - Parasyte - the maxim Henshū
-      - 'Parasite : La Maxime'
     sort_title: Parasyte - the maxim Henshu
     original_title: 寄生獣 セイの格率
     originally_available: '2014-10-09'
@@ -7738,7 +7692,6 @@ metadata:
     match:
       title:
       - Radiant Kaï
-      - Radiant
     sort_title: Radiant Kai
     original_title: ラディアン
     originally_available: '2018-10-06'
@@ -7801,7 +7754,6 @@ metadata:
     match:
       title:
       - Re Zero Kaï
-      - Re:ZERO -Starting Life in Another World-
     sort_title: Re Zero Kaï
     original_title: Re：ゼロから始める異世界生活
     originally_available: '2020-01-01'
@@ -7922,7 +7874,6 @@ metadata:
     match:
       title:
       - Reborn! Kaï
-      - Mon prof le tueur - Reborn!
     sort_title: Reborn! Kai
     original_title: 家庭教師ヒットマン REBORN!
     originally_available: '2006-10-07'
@@ -8135,7 +8086,6 @@ metadata:
     match:
       title:
       - Record of Ragnarok Henshū
-      - Valkyrie Apocalypse
     sort_title: Record of Ragnarok Henshu
     original_title: 終末のワルキューレ
     originally_available: '2021-06-17'
@@ -8172,7 +8122,6 @@ metadata:
     match:
       title:
       - Seven Deadly Sins Henshū
-      - The Seven Deadly Sins
     sort_title: Seven Deadly Sins Henshu
     original_title: 七つの大罪
     originally_available: '2014-10-05'
@@ -8253,7 +8202,6 @@ metadata:
     match:
       title:
       - Shiki Henshū
-      - Shiki
     sort_title: Shiki Henshu
     original_title: 屍鬼
     originally_available: '2010-07-09'
@@ -8335,7 +8283,6 @@ metadata:
     match:
       title:
       - Shingeki No Kyojin Henshū
-      - L'Attaque des Titans
     sort_title: Shingeki No Kyojin Henshu
     original_title: 進撃の巨人
     originally_available: '2013-04-07'
@@ -8576,7 +8523,6 @@ metadata:
     match:
       title:
       - Slam Dunk Kaï
-      - Slam Dunk
     sort_title: Slam Dunk Kai
     original_title: スラムダンク
     originally_available: '1993-10-16'
@@ -8683,7 +8629,6 @@ metadata:
     match:
       title:
       - Soul Eater Kaï
-      - Soul Eater
     sort_title: Soul Eater Kai
     original_title: ソウルイーター
     originally_available: '2008-04-07'
@@ -8810,7 +8755,6 @@ metadata:
     match:
       title:
       - Spy x Family Henshū
-      - SPY x FAMILY
     sort_title: Spy x Family Henshu
     original_title: SPY×FAMILY
     originally_available: '2022-04-09'
@@ -8880,7 +8824,6 @@ metadata:
     match:
       title:
       - Street Fighter II V Fan-Cut
-      - 'Street Fighter II: V'
     sort_title: Street Fighter II V Fan-Cut
     original_title: ストリートファイターII V
     originally_available: '1995-04-10'
@@ -8925,7 +8868,6 @@ metadata:
     match:
       title:
       - Sword Art Online Kaï
-      - Sword Art Online
     sort_title: Sword Art Online Kai
     original_title: ソードアート・オンライン
     originally_available: '2012-07-07'
@@ -9104,7 +9046,6 @@ metadata:
     match:
       title:
       - To Your Eternity Henshū
-      - To Your Eternity
     sort_title: To Your Eternity Henshu
     original_title: 不滅のあなたへ
     originally_available: '2021-04-12'
@@ -9156,7 +9097,6 @@ metadata:
     match:
       title:
       - Tokyo Revengers Henshū
-      - Tokyo Revengers
     sort_title: Tokyo Revengers Henshu
     original_title: 東京リベンジャーズ
     originally_available: '2021-04-11'
@@ -9227,7 +9167,6 @@ metadata:
     match:
       title:
       - Vinland Saga Henshū
-      - Vinland Saga
     sort_title: Vinland Saga Henshu
     original_title: ヴィンランド・サガ
     originally_available: '2019-07-08'
@@ -9323,7 +9262,6 @@ metadata:
     match:
       title:
       - World Trigger Kaï
-      - World Trigger
     sort_title: World Trigger Kai
     original_title: ワールドトリガー
     originally_available: '2014-10-05'
@@ -9375,7 +9313,6 @@ metadata:
     match:
       title:
       - Yu Yu Hakusho Kaï
-      - Yū Yū Hakusho
     sort_title: Yu Yu Hakusho Kai
     original_title: 幽☆遊☆白書
     originally_available: '1992-10-10'
@@ -9535,7 +9472,6 @@ metadata:
     match:
       title:
       - GTO Kaï - Upscale
-      - Great Teacher Onizuka
     sort_title: GTO Kai - Upscale
     original_title:
     originally_available: '1999-06-29'
