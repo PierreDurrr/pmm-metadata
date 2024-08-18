@@ -85,9 +85,9 @@ collections:
     smart_filter:
       sort_by: title.asc
       any:
-        genre:
-          - Kaï
-          - Yabai
+#        genre:
+#          - Kaï
+#          - Yabai
         studio:
           - Fan-Kai
 
