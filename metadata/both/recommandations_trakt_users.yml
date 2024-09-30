@@ -159,3 +159,18 @@ collections:
     label: 
       - trakt_frederic
       - REPLEXHERO            
+
+  ✨ Philippe, voici les films et séries recommandés pour toi:
+    sort_title: "zzz_✨ Nouveau ! ✨ Philippe, voici les films recommandés pour toi"
+    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films et séries/épisodes que tu as regardés."
+    trakt_list: https://trakt.tv/users/trakt_nonnet/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+    limit: 40 
+#    url_poster: poster-a-ajouter
+    collection_order: custom
+    collection_mode: show_items
+    visible_shared: true
+    visible_library: true
+    sync_mode: sync
+    label: 
+      - trakt_nonnet
+      - REPLEXHERO  
