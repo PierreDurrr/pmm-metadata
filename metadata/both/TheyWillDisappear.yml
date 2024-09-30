@@ -40,4 +40,4 @@ collections:
     sort_title: "!!!!!!0001!_!Charts-11"
     collection_mode: show_items
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/both/TheyWillDisappear.jpg
-    build_collection: false
+    blank_collection: true
