@@ -37,7 +37,9 @@ collections:
 
   Dernière chance 2:
     name_mapping: Dernière chance 2
-    sort_title: "!!!!!!0001!_!Charts-11"
+    sort_title: "!!!!!!0001!_!Charts-1"
+    smart_label: title.asc
     collection_mode: show_items
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/both/TheyWillDisappear.jpg
+    summary: "Dépêchez-vous ! Il vous reste moins d'un mois pour voir ces films ou ces séries avant leur disparition !"
     blank_collection: true
