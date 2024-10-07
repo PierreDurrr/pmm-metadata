@@ -684,6 +684,12 @@ collections:
 #  Frère des ours - Saga:
 #    template: {name: Collection, collection: 96472, summary: 96472}
 #    url_poster: https://theposterdb.com/api/assets/163005
+  François Damiens L'Embrouille - Saga:
+    url_poster: https://theposterdb.com/api/assets/391571
+    summary: "L'intégrale (ou presque) des caméras planquées de François l'Embrouille"
+    trakt_list: 
+      - https://trakt.tv/users/pierredurrr/lists/francois-damiens-collection?sort=rank,asc
+    collection_mode: hide_items
   Friends - Saga:
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/friends-collection?sort=title,asc
