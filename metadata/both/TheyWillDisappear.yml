@@ -2,41 +2,41 @@ external_templates:
   default: templates
 
 collections:
-  Dernière chance:
-    name_mapping: Dernière chance
-#    variables:
-#      key: TheyWillDisappear
-    sort_title: "!!!!!!0001!_!Charts-1"
-    smart_label: title.asc
-    collection_mode: show_items
-#    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/both/<<key>>.jpg
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/both/TheyWillDisappear.jpg
-    summary: "Dépêchez-vous ! Il vous reste moins d'un mois pour voir ces films ou ces séries avant leur disparition !"
-    plex_search:
-      all:
-        added: 90
-        added.not: 60
-#        added.not: 30
-    filters:
-      filepath:
-        - /mnt/_SYNOLOGY/video/Films/_Users/
-        - /mnt/_SYNOLOGY/video/Series/_Users/
-#      filepath.not: 
-#        - /mnt/_SYNOLOGY/video/Films/_Christmas/
-#        - /mnt/_SYNOLOGY/video/Films/_Bollywood/
-#        - /mnt/_SYNOLOGY/video/Films/_Pierre/
-#        - /mnt/_SYNOLOGY/video/Series/_Pierre/
-#        - /mnt/_SYNOLOGY/Mediatheque/Films/
-#        - /mnt/_SYNOLOGY/Mediatheque/Series/
-#        - /mnt/_SYNOLOGY/video/_Recommendations/
-#        - /mnt/_SYNOLOGY/video/_Latest_Releases/
-#        - /mnt/_SYNOLOGY/video/_Cannes/
-#        - /mnt/_SYNOLOGY/Mediatheque/Documentaires/Docu_series/
-#        - /mnt/_SYNOLOGY/Mediatheque/Documentaires/Docu_films/
-#    visible_home: true
+#  Dernière chance:
+#    name_mapping: Dernière chance
+##    variables:
+##      key: TheyWillDisappear
+#    sort_title: "!!!!!!0001!_!Charts-1"
+#    smart_label: title.asc
+#    collection_mode: show_items
+##    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/both/<<key>>.jpg
+#    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/both/TheyWillDisappear.jpg
+#    summary: "Dépêchez-vous ! Il vous reste moins d'un mois pour voir ces films ou ces séries avant leur disparition !"
+#    plex_search:
+#      all:
+#        added: 90
+#        added.not: 60
+##        added.not: 30
+#    filters:
+#      filepath:
+#        - /mnt/_SYNOLOGY/video/Films/_Users/
+#        - /mnt/_SYNOLOGY/video/Series/_Users/
+##      filepath.not: 
+##        - /mnt/_SYNOLOGY/video/Films/_Christmas/
+##        - /mnt/_SYNOLOGY/video/Films/_Bollywood/
+##        - /mnt/_SYNOLOGY/video/Films/_Pierre/
+##        - /mnt/_SYNOLOGY/video/Series/_Pierre/
+##        - /mnt/_SYNOLOGY/Mediatheque/Films/
+##        - /mnt/_SYNOLOGY/Mediatheque/Series/
+##        - /mnt/_SYNOLOGY/video/_Recommendations/
+##        - /mnt/_SYNOLOGY/video/_Latest_Releases/
+##        - /mnt/_SYNOLOGY/video/_Cannes/
+##        - /mnt/_SYNOLOGY/Mediatheque/Documentaires/Docu_series/
+##        - /mnt/_SYNOLOGY/Mediatheque/Documentaires/Docu_films/
+##    visible_home: true
 
-  Dernière chance 2:
-    name_mapping: Dernière chance 2
+  Dernière chance:
+    name_mapping: Dernière chance 
     sort_title: "!!!!!!0001!_!Charts-1"
     smart_label: title.asc
     collection_mode: show_items
