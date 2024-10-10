@@ -44,3 +44,7 @@ collections:
     summary: "Dépêchez-vous ! Il vous reste moins d'un mois pour voir ces films ou ces séries avant leur disparition !"
     blank_collection: true
     only_run_on_create: true
+    visible_home: true
+    visible_shared: true
+    visible_library: true
+    label: REPLEXHERO
