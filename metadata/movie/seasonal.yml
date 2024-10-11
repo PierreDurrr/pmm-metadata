@@ -100,7 +100,7 @@ dynamic_collections:
       women: Women's History Month
     title_format: <<key_name>> <<library_typeU>>s
     template:
-	  - replex		  
+      - replex		  
       - holiday
       - shared
       - arr
