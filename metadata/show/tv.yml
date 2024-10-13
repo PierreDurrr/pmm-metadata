@@ -43,7 +43,7 @@ collections:
     collection_mode: hide
 
   Dragon Ball:
-    template: {name: Show, show: "295068, 81472, 76666, 79275, 88031, 347734, 272910, 347734"}
+    template: {name: Show, show: "295068, 81472, 76666, 79275, 88031, 347734, 272910, 347734, 440820"}
     collection_mode: hide
     url_poster: https://theposterdb.com/api/assets/170776
     collection_order: alpha
