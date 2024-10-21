@@ -56,7 +56,7 @@ templates:
     radarr_tag: <<radarr_tag_<<key>>>>
     item_radarr_tag: <<item_radarr_tag_<<key>>>>
     radarr_monitor: <<radarr_monitor_<<key>>>>
-	filters:
+    filters:
       filepath.regex: '(?i)(mediatheque)'
 #      filepath.not:
 #        - /mnt/_SYNOLOGY/Mediatheque/Films
