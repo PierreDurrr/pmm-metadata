@@ -18,8 +18,8 @@ collections:
 #    collection_order: custom
     collection_mode: show_items
 #    visible_home: true
-#    visible_shared: false
-#    visible_library: true
+    visible_shared: true
+    visible_library: true
     sync_mode: sync
     label: 
       - elise_demandes
@@ -34,8 +34,8 @@ collections:
 #    collection_order: custom
     collection_mode: show_items
 #    visible_home: true
-#    visible_shared: false
-#    visible_library: true
+    visible_shared: true
+    visible_library: true
     sync_mode: sync
     label: 
       - cindy_demandes
@@ -50,8 +50,8 @@ collections:
 #    collection_order: custom
     collection_mode: show_items
 #    visible_home: true
-#    visible_shared: false
-#    visible_library: true
+    visible_shared: true
+    visible_library: true
     sync_mode: sync
     label: 
       - geraud_demandes
@@ -66,8 +66,8 @@ collections:
 #    collection_order: custom
     collection_mode: show_items
 #    visible_home: true
-#    visible_shared: false
-#    visible_library: true
+    visible_shared: true
+    visible_library: true
     sync_mode: sync
     label: 
       - erwan_demandes
@@ -82,8 +82,8 @@ collections:
 #    collection_order: custom
     collection_mode: show_items
 #    visible_home: true
-#    visible_shared: false
-#    visible_library: true
+    visible_shared: true
+    visible_library: true
     sync_mode: sync
     label: 
       - lenaic_demandes
@@ -98,8 +98,8 @@ collections:
 #    collection_order: custom
     collection_mode: show_items
 #    visible_home: true
-#    visible_shared: false
-#    visible_library: true
+    visible_shared: true
+    visible_library: true
     sync_mode: sync
     label: 
       - camille_demandes
@@ -114,8 +114,8 @@ collections:
 #    collection_order: custom
     collection_mode: show_items
 #    visible_home: true
-#    visible_shared: false
-#    visible_library: true
+    visible_shared: true
+    visible_library: true
     sync_mode: sync
     label: 
       - david_demandes
@@ -130,8 +130,8 @@ collections:
 #    collection_order: custom
     collection_mode: show_items
 #    visible_home: true
-#    visible_shared: false
-#    visible_library: true
+    visible_shared: true
+    visible_library: true
     sync_mode: sync
     label: 
       - yvonnick
@@ -146,8 +146,8 @@ collections:
 #    collection_order: custom
     collection_mode: show_items
 #    visible_home: true
-#    visible_shared: false
-#    visible_library: true
+    visible_shared: true
+    visible_library: true
     sync_mode: sync
     label: 
       - frederic_demandes
@@ -162,8 +162,8 @@ collections:
 #    collection_order: custom
     collection_mode: show_items
 #    visible_home: true
-#    visible_shared: false
-#    visible_library: true
+    visible_shared: true
+    visible_library: true
     sync_mode: sync
     label: 
       - philippe_demandes
