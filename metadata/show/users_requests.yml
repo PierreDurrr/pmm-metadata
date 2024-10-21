@@ -1,0 +1,170 @@
+###########################
+#        Templates        #
+###########################
+external_templates:
+  repo: metadata/mytemplates.yml
+  default: templates  
+  
+  ###########################################################################################
+collections:
+
+  Mes demandes 🐼:
+    sort_title: "zzz_✨ Mes demandes Elise"
+    summary: "0"
+    sonarr_taglist: "15 - elisepedroza"
+#    radarr_taglist: "15 - elisepedroza"
+#    limit: 40 
+#    url_poster: poster-a-ajouter
+#    collection_order: custom
+    collection_mode: show_items
+#    visible_home: true
+#    visible_shared: false
+#    visible_library: true
+    sync_mode: sync
+    label: 
+      - elise_demandes
+      - REPLEXHERO   
+
+  Mes demandes 🐰:
+    sort_title: "zzz_✨ Mes demandes Cindy"
+    summary: "0"
+    sonarr_taglist: "10 - cindyrino"
+#    limit: 40 
+#    url_poster: poster-a-ajouter
+#    collection_order: custom
+    collection_mode: show_items
+#    visible_home: true
+#    visible_shared: false
+#    visible_library: true
+    sync_mode: sync
+    label: 
+      - cindy_demandes
+      - REPLEXHERO
+    
+  Mes demandes 🐹:
+    sort_title: "zzz_✨ Mes demandes Geraud"
+    summary: "0"
+    sonarr_taglist: "4 - geraudre"
+#    limit: 40 
+#    url_poster: poster-a-ajouter
+#    collection_order: custom
+    collection_mode: show_items
+#    visible_home: true
+#    visible_shared: false
+#    visible_library: true
+    sync_mode: sync
+    label: 
+      - geraud_demandes
+      - REPLEXHERO
+
+  Mes demandes 🐻:
+    sort_title: "zzz_✨ Mes demandes Erwan"
+    summary: "0"
+    sonarr_taglist: "3 - erwan.rengame"
+#    limit: 40 
+#    url_poster: poster-a-ajouter
+#    collection_order: custom
+    collection_mode: show_items
+#    visible_home: true
+#    visible_shared: false
+#    visible_library: true
+    sync_mode: sync
+    label: 
+      - erwan_demandes
+      - REPLEXHERO
+
+  Mes demandes 🐶:
+    sort_title: "zzz_✨ Mes demandes Lenaic"
+    summary: "0"
+    sonarr_taglist: "5 - mahatm12"
+#    limit: 40 
+#    url_poster: poster-a-ajouter
+#    collection_order: custom
+    collection_mode: show_items
+#    visible_home: true
+#    visible_shared: false
+#    visible_library: true
+    sync_mode: sync
+    label: 
+      - lenaic_demandes
+      - REPLEXHERO    
+
+  Mes demandes 🐨:
+    sort_title: "zzz_✨ Mes demandes Camille"
+    summary: "0"
+    sonarr_taglist: "6 - PWoman, 14 - Zeki"
+#    limit: 40 
+#    url_poster: poster-a-ajouter
+#    collection_order: custom
+    collection_mode: show_items
+#    visible_home: true
+#    visible_shared: false
+#    visible_library: true
+    sync_mode: sync
+    label: 
+      - camille_demandes
+      - REPLEXHERO    
+
+  Mes demandes 🐺:
+    sort_title: "zzz_✨ Mes demandes David"
+    summary: "0"
+    sonarr_taglist: "12 - David_lpr7"
+#    limit: 40 
+#    url_poster: poster-a-ajouter
+#    collection_order: custom
+    collection_mode: show_items
+#    visible_home: true
+#    visible_shared: false
+#    visible_library: true
+    sync_mode: sync
+    label: 
+      - david_demandes
+      - REPLEXHERO
+
+  Mes demandes 🦊:
+    sort_title: "zzz_✨ Mes demandes Yvonnick"
+    summary: "0"
+    sonarr_taglist: "2 - Crapulax"
+#    limit: 40 
+#    url_poster: poster-a-ajouter
+#    collection_order: custom
+    collection_mode: show_items
+#    visible_home: true
+#    visible_shared: false
+#    visible_library: true
+    sync_mode: sync
+    label: 
+      - yvonnick
+      - REPLEXHERO     
+
+  Mes demandes 🐸:
+    sort_title: "zzz_✨ Mes demandes Frederic"
+    summary: "0"
+    sonarr_taglist: "16 - lagaff 37"
+#    limit: 40 
+#    url_poster: poster-a-ajouter
+#    collection_order: custom
+    collection_mode: show_items
+#    visible_home: true
+#    visible_shared: false
+#    visible_library: true
+    sync_mode: sync
+    label: 
+      - frederic_demandes
+      - REPLEXHERO            
+
+  Mes demandes 🐣:
+    sort_title: "zzz_✨ Mes demandes Philippe"
+    summary: "0"
+    sonarr_taglist: "19 - philippenonnet"
+#    limit: 40 
+#    url_poster: poster-a-ajouter
+#    collection_order: custom
+    collection_mode: show_items
+#    visible_home: true
+#    visible_shared: false
+#    visible_library: true
+    sync_mode: sync
+    label: 
+      - philippe_demandes
+      - REPLEXHERO 
