@@ -6,14 +6,25 @@
 ##############################################################################
 
 external_templates:
+  repo: metadata/mytemplates.yml
   default: templates
   template_variables:
     collection_section: 130
 
 collections:
-  Award Collections:
+  Mes demandes 🐼🐼:
     template:
       - name: separator
         separator: award
         key_name: Award
         translation_key: separator
+    sort_title: "zzz_✨ Mes demandes Elise 🐼"
+    summary: "Testing collection hijack"
+    sonarr_taglist: "15 - elisepedroza"
+    collection_mode: show_items
+    visible_shared: true
+    visible_library: true
+    sync_mode: sync
+    label: 
+      - elise_demandes
+      - REPLEXHERO  
