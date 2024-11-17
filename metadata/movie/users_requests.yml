@@ -103,6 +103,7 @@ collections:
     label: 
       - camille_demandes
       - REPLEXHERO    
+    tmdb_movie: 173705  
 
   Mes demandes 🐺:
     sort_title: "zzz_✨ Mes demandes David"
@@ -151,7 +152,6 @@ collections:
     label: 
       - frederic_demandes
       - REPLEXHERO        
-    tmdb_movie: 173705 
 
   Mes demandes 🐣:
     sort_title: "zzz_✨ Mes demandes Philippe"
