@@ -16,13 +16,14 @@ collections:
 #    url_poster: poster-a-ajouter
 #    collection_order: custom
     collection_mode: show_items
+    sort_by: date_added.desc 
 #    visible_home: true
     visible_shared: true
     visible_library: true
     sync_mode: sync
     label: 
       - elise_demandes
-      - REPLEXHERO   
+      - REPLEXHERO         
 
   Mes demandes 🐰:
     sort_title: "zzz_✨ Mes demandes Cindy"
@@ -32,6 +33,7 @@ collections:
 #    url_poster: poster-a-ajouter
 #    collection_order: custom
     collection_mode: show_items
+    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
     visible_library: true
@@ -48,6 +50,7 @@ collections:
 #    url_poster: poster-a-ajouter
 #    collection_order: custom
     collection_mode: show_items
+    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
     visible_library: true
@@ -64,6 +67,7 @@ collections:
 #    url_poster: poster-a-ajouter
 #    collection_order: custom
     collection_mode: show_items
+    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
     visible_library: true
@@ -80,6 +84,7 @@ collections:
 #    url_poster: poster-a-ajouter
 #    collection_order: custom
     collection_mode: show_items
+    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
     visible_library: true
@@ -96,6 +101,7 @@ collections:
 #    url_poster: poster-a-ajouter
 #    collection_order: custom
     collection_mode: show_items
+    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
     visible_library: true
@@ -113,6 +119,7 @@ collections:
 #    url_poster: poster-a-ajouter
 #    collection_order: custom
     collection_mode: show_items
+    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
     visible_library: true
@@ -129,6 +136,7 @@ collections:
 #    url_poster: poster-a-ajouter
 #    collection_order: custom
     collection_mode: show_items
+    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
     visible_library: true
@@ -145,6 +153,7 @@ collections:
 #    url_poster: poster-a-ajouter
 #    collection_order: custom
     collection_mode: show_items
+    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
     visible_library: true
@@ -161,6 +170,7 @@ collections:
 #    url_poster: poster-a-ajouter
 #    collection_order: custom
     collection_mode: show_items
+    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
     visible_library: true
