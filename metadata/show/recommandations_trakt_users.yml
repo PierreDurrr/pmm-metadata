@@ -27,7 +27,7 @@ collections:
 
   ✨ Élise, voici les films et séries recommandés pour toi:
     sort_title: "zzz_✨ Nouveau ! ✨ Élise, voici les films recommandés pour toi"
-    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films et séries/épisodes que tu as regardés."
+    summary: "Bienvenue dans tes recommandations, ta collection ultra-personnalisée, Elise ! Les films et séries ici sont triés sur le volet, en fonction de ce que tu as déjà adoré (ou pas !) et de tes notes top secrètes. Une sélection 100% pour toi, avec un soupçon de magie cinématographique."
     trakt_list: https://trakt.tv/users/trakt_elise/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
     limit: 40 
 #    url_poster: poster-a-ajouter
@@ -42,7 +42,7 @@ collections:
 
   ✨ Cindy, voici les films et séries recommandés pour toi:
     sort_title: "zzz_✨ Nouveau ! ✨ Cindy, voici les films recommandés pour toi"
-    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films et séries/épisodes que tu as regardés."
+    summary: "C'est l'heure de découvrir ta collection personnalisée, Cindy ! Chaque film et série a été choisi spécialement pour toi, en fonction de ton historique de visionnage et des notes que tu as données. Prépare-toi à plonger dans une sélection taillée sur mesure pour tes envies."
     trakt_list: https://trakt.tv/users/trakt_cindy/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
     limit: 40 
 #    url_poster: poster-a-ajouter
@@ -57,7 +57,7 @@ collections:
     
   ✨ Geraud, voici les films et séries recommandés pour toi:
     sort_title: "zzz_✨ Nouveau ! ✨ Geraud, voici les films recommandés pour toi"
-    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films et séries/épisodes que tu as regardés."
+    summary: "Bienvenue dans tes recommandations, Geraud ! Ici, c'est une sélection de films et séries que tu vas adorer, choisie grâce à ton historique de visionnage et tes notes. Si tu veux du fun, de l'aventure ou de l'émotion, cette collection a tout ce qu’il te faut pour satisfaire tes goûts."
     trakt_list: https://trakt.tv/users/trakt_geraud/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
     limit: 40 
 #    url_poster: poster-a-ajouter
@@ -72,7 +72,7 @@ collections:
 
   ✨ Erwan, voici les films et séries recommandés pour toi:
     sort_title: "zzz_✨ Nouveau ! ✨ Erwan, voici les films recommandés pour toi"
-    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films et séries/épisodes que tu as regardés."
+    summary: "Erwan, plonge dans tes recommandations ! Cette collection est une véritable chasse au trésor, remplie de films et séries soigneusement sélectionnés en fonction de ton historique et de tes notes. Prépare-toi à découvrir de nouvelles pépites, adaptées à tes attentes."
     trakt_list: https://trakt.tv/users/trakt_erwan/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
     limit: 40 
 #    url_poster: poster-a-ajouter
@@ -87,7 +87,7 @@ collections:
 
   ✨ Lenaic, voici les films et séries recommandés pour toi:
     sort_title: "zzz_✨ Nouveau ! ✨ Lenaic, voici les films recommandés pour toi"
-    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films et séries/épisodes que tu as regardés."
+    summary: "Lenaic ! Voici ta collection exclusive ! Chaque film et série a été choisi selon tes préférences, tes notes et ton historique. Prêt à découvrir ce que l’univers cinématographique a de meilleur pour toi ? C’est parti pour l’aventure !"
     trakt_list: https://trakt.tv/users/trakt_lenaic/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
     limit: 40 
 #    url_poster: poster-a-ajouter
@@ -102,7 +102,7 @@ collections:
 
   ✨ Camille, voici les films et séries recommandés pour toi:
     sort_title: "zzz_✨ Nouveau ! ✨ Camille, voici les films recommandés pour toi"
-    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films et séries/épisodes que tu as regardés."
+    summary: "Camille, bienvenue dans tes recommandations ! Une collection de films et séries triés sur le volet en fonction de ton historique et de tes notes. Attends-toi à une sélection de folie, entièrement pensée pour toi, comme un cadeau cinéma personnalisé."
     trakt_list: https://trakt.tv/users/trakt_camille/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
     limit: 40 
 #    url_poster: poster-a-ajouter
@@ -117,7 +117,7 @@ collections:
 
   ✨ David, voici les films et séries recommandés pour toi:
     sort_title: "zzz_✨ Nouveau ! ✨ David, voici les films recommandés pour toi"
-    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films et séries/épisodes que tu as regardés."
+    summary: "Découvre ta collection sur mesure, David ! Chaque film et série a été choisi avec soin, selon ce que tu as aimé et noté. C’est l’occasion de redécouvrir tes coups de cœur et de te plonger dans des classiques que tu vas adorer."
     trakt_list: https://trakt.tv/users/trakt_david/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
     limit: 40 
 #    url_poster: poster-a-ajouter
@@ -132,7 +132,7 @@ collections:
 
   ✨ Yvonnick, voici les films et séries recommandés pour toi:
     sort_title: "zzz_✨ Nouveau ! ✨ Yvonnick, voici les films recommandés pour toi"
-    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films et séries/épisodes que tu as regardés."
+    summary: "Explore tes recommandations, Yvonnick ! Une collection spéciale, choisie en fonction de ton historique et des notes que tu as attribuées. Si tu es prêt pour des films et séries à la hauteur de tes goûts, tu es au bon endroit."
     trakt_list: https://trakt.tv/users/trakt_yvonnick/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
     limit: 40 
 #    url_poster: poster-a-ajouter
@@ -147,7 +147,7 @@ collections:
 
   ✨ Frédéric, voici les films et séries recommandés pour toi:
     sort_title: "zzz_✨ Nouveau ! ✨ Frédéric, voici les films recommandés pour toi"
-    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films et séries/épisodes que tu as regardés."
+    summary: "Bienvenue dans tes recommandations, Frederic ! Chaque film et série a été soigneusement sélectionné selon ton historique et tes notes. C’est ta zone de confort cinématographique, remplie de titres que tu adoreras. Prêt à t’installer confortablement ?"
     trakt_list: https://trakt.tv/users/trakt_frederic/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
     limit: 40 
 #    url_poster: poster-a-ajouter
@@ -162,7 +162,7 @@ collections:
 
   ✨ Philippe, voici les films et séries recommandés pour toi:
     sort_title: "zzz_✨ Nouveau ! ✨ Philippe, voici les films recommandés pour toi"
-    summary: "Ces recommandations sont basées sur ton historique de lecture, et sur les notes que tu as données aux films et séries/épisodes que tu as regardés."
+    summary: "Voici ta collection personnalisée Philippe ! Chaque film et série a été choisi en fonction de tes préférences et de tes notes. Attends-toi à une sélection de qualité, faite pour toi, où chaque titre te donnera envie de cliquer et de regarder."
     trakt_list: https://trakt.tv/users/trakt_nonnet/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
     limit: 40 
 #    url_poster: poster-a-ajouter
