@@ -10,7 +10,7 @@ collections:
 
   Mes demandes 🐼:
     sort_title: "zzz_✨ Mes demandes Elise"
-    summary: "0"
+    summary: "Elise, ta hotline ciné a bossé dur ! Voilà "Mes demandes 🐼", prête à te câliner avec tous les films et séries que tu as souhaités. C’est doux, c’est confortable, et c’est exactement ce que tu voulais. C’est ton cinéma, ton royaume, ton panda adoré qui te dit : régale-toi !"
     radarr_taglist: "15 - elisepedroza"
 #    limit: 40 
 #    url_poster: poster-a-ajouter
@@ -27,7 +27,7 @@ collections:
 
   Mes demandes 🐰:
     sort_title: "zzz_✨ Mes demandes Cindy"
-    summary: "0"
+    summary: "Hop hop Cindy ! Ta collection "Mes demandes 🐰" est là, remplie de tout ce que tu as commandé avec amour et précision. Besoin d’une pause feel-good ou d’un film qui te retourne le cerveau ? Pas de panique, cette liste est comme un lapin magique qui exauce tous tes souhaits ciné !"
     radarr_taglist: "10 - cindyrino"
 #    limit: 40 
 #    url_poster: poster-a-ajouter
@@ -44,7 +44,7 @@ collections:
     
   Mes demandes 🐹:
     sort_title: "zzz_✨ Mes demandes Geraud"
-    summary: "0"
+    summary: "Ohé Geraud ! Ta collection "Mes demandes 🐹" débarque, avec une dose de fun, une pincée de drama, et un soupçon de suspense, juste comme tu l’aimes. Chaque titre ici porte ton sceau royal. Alors enfile tes chaussettes les plus cool, c'est l’heure de te caler devant ta sélection aux petits oignons !"
     radarr_taglist: "4 - geraudre"
 #    limit: 40 
 #    url_poster: poster-a-ajouter
@@ -61,7 +61,7 @@ collections:
 
   Mes demandes 🐻:
     sort_title: "zzz_✨ Mes demandes Erwan"
-    summary: "0"
+    summary: "Erwan, voici "Mes demandes 🐻", ta grotte secrète remplie de films et séries que TU as demandés. Que ce soit des chefs-d’œuvre du 7e art ou des séries à binge-watcher en douce, tout y est. Allume ta télé, attrape une poignée de popcorn, et laisse l’ours t’emmener au cœur de l’aventure !"
     radarr_taglist: "3 - erwan.rengame"
 #    limit: 40 
 #    url_poster: poster-a-ajouter
@@ -78,7 +78,7 @@ collections:
 
   Mes demandes 🐶:
     sort_title: "zzz_✨ Mes demandes Lenaic"
-    summary: "0"
+    summary: "Woof woof Lenaic ! "Mes demandes 🐶" est prêt à te suivre dans tes marathons ciné comme un bon toutou fidèle. Films épiques ? Check. Séries qu’on ne lâche pas ? Check. Tout ce que tu as commandé avec flair est ici. Allez, fais-toi plaisir et appuie sur play !"
     radarr_taglist: "5 - mahatm12"
 #    limit: 40 
 #    url_poster: poster-a-ajouter
@@ -95,7 +95,7 @@ collections:
 
   Mes demandes 🐨:
     sort_title: "zzz_✨ Mes demandes Camille"
-    summary: "0"
+    summary: "Hey Camille ! "Mes demandes 🐨" est là, la liste VIP des films et séries que tu as réclamés. Que tu sois d'humeur pour une comédie qui fait pleurer de rire ou un thriller qui fait monter la tension, tout est là, vas-y ! Profite !"
     radarr_taglist: "6 - PWoman, 14 - Zeki"
 #    limit: 40 
 #    url_poster: poster-a-ajouter
@@ -113,7 +113,7 @@ collections:
 
   Mes demandes 🐺:
     sort_title: "zzz_✨ Mes demandes David"
-    summary: "0"
+    summary: "David, hurlements de joie ! "Mes demandes 🐺" est là pour combler ta soif de films et séries. Tout ce que tu as demandé est soigneusement réuni dans cette meute cinématographique. Prépare-toi pour une soirée à rugir de plaisir, seul ou entre loups-garous."
     radarr_taglist: "12 - David_lpr7"
 #    limit: 40 
 #    url_poster: poster-a-ajouter
@@ -130,7 +130,7 @@ collections:
 
   Mes demandes 🦊:
     sort_title: "zzz_✨ Mes demandes Yvonnick"
-    summary: "0"
+    summary: "Yvonnick, voici "Mes demandes 🦊", ta tanière de films et séries faits pour toi. Malin comme un renard, tu as choisi ces titres avec soin, et ils t’attendent maintenant. Que ce soit du frisson, du rire ou des larmes, ta collection est prête à te surprendre !"
     radarr_taglist: "2 - Crapulax"
 #    limit: 40 
 #    url_poster: poster-a-ajouter
@@ -147,7 +147,7 @@ collections:
 
   Mes demandes 🐸:
     sort_title: "zzz_✨ Mes demandes Frederic"
-    summary: "0"
+    summary: "Fred, saute de joie ! "Mes demandes 🐸" est ta mare privée de films et séries, remplie de tes choix les plus croassants. Prépare ton pop-corn (ou ta grenadine, soyons fous) et installe-toi. Ta soirée ciné est sur le point de devenir légendaire !"
     radarr_taglist: "16 - lagaff 37"
 #    limit: 40 
 #    url_poster: poster-a-ajouter
@@ -164,7 +164,7 @@ collections:
 
   Mes demandes 🐣:
     sort_title: "zzz_✨ Mes demandes Philippe"
-    summary: "0"
+    summary: "Piou piou Philippe ! "Mes demandes 🐣" a éclos et c’est une vraie pépite. Tout ce que tu as commandé est là, prêt à être dévoré comme un bon œuf en chocolat. Que tu sois d’humeur pour rire, pleurer ou te révolter, cette collection est prête à faire battre ton petit cœur de cinéphile."
     radarr_taglist: "19 - philippenonnet"
 #    limit: 40 
 #    url_poster: poster-a-ajouter
