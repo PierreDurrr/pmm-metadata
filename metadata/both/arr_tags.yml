@@ -1,0 +1,12 @@
+collections:
+  Sonarr Tags:
+    item_label: taggedonsonarr
+    sonarr_taglist: mytag
+    sync_mode: sync
+    build_collection: false
+
+  Radarr Tags:
+    item_label: taggedonradarr
+    radarr_taglist: mytag
+    sync_mode: sync
+    build_collection: false
