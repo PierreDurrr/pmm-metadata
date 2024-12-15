@@ -6,7 +6,7 @@ collections:
 #    sort_title: +++++++__00000AddedThisWeek
     plex_all: true
     filters:
-      filepath: /mnt/_SYNOLOGY/video/Films/_info-pmm/2023_retrospective.mp4
+      filepath: /mnt/_SYNOLOGY/media/video/Films/_info-pmm/2023_retrospective.mp4
     visible_home: true
     visible_shared: true
     label: REPLEXHERO
