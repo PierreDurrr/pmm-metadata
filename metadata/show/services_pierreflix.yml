@@ -11,7 +11,7 @@ collections:
     sort_title: zzzz_Pierreflix vous aime
     plex_all: true
     filters:
-      filepath: /mnt/_SYNOLOGY/video/Series/_Info
+      filepath: /mnt/_SYNOLOGY/media/video/Series/_Info
     visible_home: true
     visible_shared: true
     visible_library: true
