@@ -18,7 +18,7 @@ collections:
 #    visible_shared: range(11/15-01/06)
     plex_all: true
     filters:
-      filepath: /mnt/_SYNOLOGY/video/Films/_Christmas/
+      filepath: /mnt/_SYNOLOGY/media/video/Films/_Christmas/
   Add Christmas:
     name: 🎅 🎄 All I Want For Christmas... 🎄 🎅
     blank_collection: true
