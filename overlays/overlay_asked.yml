@@ -16,5 +16,5 @@ overlays:
         added: 18250
     filters:
       filepath:
-        - /mnt/_SYNOLOGY/video/Series/_Users
+        - /mnt/_SYNOLOGY/media/video/Series/_Users
 
