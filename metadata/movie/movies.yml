@@ -902,7 +902,7 @@ collections:
     plex_all: true
     filters:
       filepath: 
-        - "/mnt/_SYNOLOGY/Mediatheque/Films/Irreversible (2002)/"
+        - "/mnt/_SYNOLOGY/media/mediatheque/Films/Irreversible (2002)/"
 #  Iwo Jima - Saga:
 #    template: {name: Collection, collection: 261382, summary: 261382}
 #    url_poster: https://theposterdb.com/api/assets/170438
@@ -1495,9 +1495,9 @@ collections:
     collection_mode: hide_items
     filters:
       filepath:
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.1.+.Bonus.FRENCH.DVDRiP.XViD.T411.avi/
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.2.+.Bonus.FRENCH.DVDRiP.XViD.T411/
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Robins.des.Bois.The.Story/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.1.+.Bonus.FRENCH.DVDRiP.XViD.T411.avi/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.2.+.Bonus.FRENCH.DVDRiP.XViD.T411/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Robins.des.Bois.The.Story/
 #  Les Tuche - Saga:
 #    template: {name: Collection, collection: 389544, summary: 389544}
 #    trakt_list: 
@@ -1572,10 +1572,10 @@ collections:
     sync_mode: append
     filters:
       filepath:
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Palmashow/
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Palmashow/Palmashow.la.suite/
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Palmashow/Palmashow.le.Palmashow.fait.son.cinema/
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Palmashow/Palmashow.ça.continue.(1.et.2).(2019).720p.WEB-DL.x264-BTFX/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Palmashow/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Palmashow/Palmashow.la.suite/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Palmashow/Palmashow.le.Palmashow.fait.son.cinema/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Palmashow/Palmashow.ça.continue.(1.et.2).(2019).720p.WEB-DL.x264-BTFX/
       filepath.regex: '(?i)(palmashow)'        
 ##    collection_order: alpha
     collection_mode: hide_items
@@ -2192,7 +2192,7 @@ collections:
     sort_title: 000single
     plex_all: true
     filters:
-      filepath: /mnt/_SYNOLOGY/video/Films/_Bollywood 
+      filepath: /mnt/_SYNOLOGY/media/video/Films/_Bollywood 
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/country/color/India.jpg
 
 ############
