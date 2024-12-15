@@ -20,8 +20,8 @@ overlays:
         added: 18250
     filters:
       filepath:
-        - /mnt/_SYNOLOGY/video/Films/_Users
-        - /mnt/_SYNOLOGY/video/Series/_Users
+        - /mnt/_SYNOLOGY/media/video/Films/_Users
+        - /mnt/_SYNOLOGY/media/video/Series/_Users
 
   Subtitled_Episode:
     collection_level: episode
@@ -151,11 +151,11 @@ overlays:
         - VFQ
         - VF2
         - TRUEFRENCH
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.1.+.Bonus.FRENCH.DVDRiP.XViD.T411.avi/
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.2.+.Bonus.FRENCH.DVDRiP.XViD.T411/
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Ez3kiel/Ez3kiel et le Naphtaline Orchestra au grand Theatre de Tours/
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Ez3kiel et le Naphtaline Orchestra au grand Theatre de Tours/
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Birdy Nam Nam live a la Cigale/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.1.+.Bonus.FRENCH.DVDRiP.XViD.T411.avi/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.2.+.Bonus.FRENCH.DVDRiP.XViD.T411/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Ez3kiel/Ez3kiel et le Naphtaline Orchestra au grand Theatre de Tours/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Ez3kiel et le Naphtaline Orchestra au grand Theatre de Tours/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Birdy Nam Nam live a la Cigale/
 
   Subtitled_Movies2:
     overlay:
@@ -178,14 +178,14 @@ overlays:
           - fr
     filters:
       filepath:
-        - /mnt/_SYNOLOGY/Mediatheque/Films/ 
-        - /mnt/_SYNOLOGY/video/Films/_Users/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/ 
+        - /mnt/_SYNOLOGY/media/video/Films/_Users/
       filepath.not:
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.1.+.Bonus.FRENCH.DVDRiP.XViD.T411.avi/
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.2.+.Bonus.FRENCH.DVDRiP.XViD.T411/
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Ez3kiel/Ez3kiel et le Naphtaline Orchestra au grand Theatre de Tours/
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Ez3kiel et le Naphtaline Orchestra au grand Theatre de Tours/
-        - /mnt/_SYNOLOGY/Mediatheque/Films/Birdy Nam Nam live a la Cigale/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.1.+.Bonus.FRENCH.DVDRiP.XViD.T411.avi/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome.2.+.Bonus.FRENCH.DVDRiP.XViD.T411/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Ez3kiel/Ez3kiel et le Naphtaline Orchestra au grand Theatre de Tours/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Ez3kiel et le Naphtaline Orchestra au grand Theatre de Tours/
+        - /mnt/_SYNOLOGY/media/mediatheque/Films/Birdy Nam Nam live a la Cigale/
 
   Subtitled+YouAskedForIt:
     plex_search:
@@ -193,8 +193,8 @@ overlays:
         added: 18250
     filters:
       filepath:
-        - /mnt/_SYNOLOGY/video/Films/_Users/
-        - /mnt/_SYNOLOGY/video/Series/_Users/
+        - /mnt/_SYNOLOGY/media/video/Films/_Users/
+        - /mnt/_SYNOLOGY/media/video/Series/_Users/
       filepath.not:
         - .FRENCH.
         - FRENCH
