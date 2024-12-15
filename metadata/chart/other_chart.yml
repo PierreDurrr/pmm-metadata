@@ -67,4 +67,4 @@ collections:
         
     filters:
       filepath:
-        - /mnt/_SYNOLOGY/video/_Recommendations/    
+        - /mnt/_SYNOLOGY/media/video/_Recommendations/    
