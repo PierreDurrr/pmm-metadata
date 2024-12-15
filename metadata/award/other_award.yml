@@ -26,7 +26,7 @@ collections:
     trakt_list: https://trakt.tv/users/maxwelldeux/lists/berlin-international-film-festival-golden-bears
     filters:
       filepath:
-        - /mnt/_SYNOLOGY/video/_Recommendations/
+        - /mnt/_SYNOLOGY/media/video/_Recommendations/
 
   César Best Film Winners:
     variables:
@@ -42,7 +42,7 @@ collections:
     trakt_list: https://trakt.tv/users/maxwelldeux/lists/cesar-award-best-french-film
     filters:
       filepath:
-        - /mnt/_SYNOLOGY/video/_Recommendations/
+        - /mnt/_SYNOLOGY/media/video/_Recommendations/
 
   Razzies Golden Raspberry Winners:
     variables:
@@ -58,7 +58,7 @@ collections:
     trakt_list: https://trakt.tv/users/hdlists/lists/razzie-awards-worst-picture-winners
     filters:
       filepath:
-        - /mnt/_SYNOLOGY/video/_Recommendations/    
+        - /mnt/_SYNOLOGY/media/video/_Recommendations/    
 
   Venice Golden Lions:
     variables:
@@ -74,4 +74,4 @@ collections:
     trakt_list: https://trakt.tv/users/maxwelldeux/lists/venice-film-festival-golden-lion
     filters:
       filepath:
-        - /mnt/_SYNOLOGY/video/_Recommendations/    
+        - /mnt/_SYNOLOGY/media/video/_Recommendations/    
