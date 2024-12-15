@@ -75,13 +75,13 @@ templates:
 #        - /mnt/_SYNOLOGY/Mediatheque/Documentaires/
 #      filepath.regex: '(?i)(Documentaires)'
       filepath:
-        - /mnt/_SYNOLOGY/Mediatheque/Films
-        - /mnt/_SYNOLOGY/Mediatheque/Series
-        - /mnt/_SYNOLOGY/video/Films
-        - /mnt/_SYNOLOGY/video/Series
-        - /mnt/_SYNOLOGY/video/_Cannes
-        - /mnt/_SYNOLOGY/video/_Latest_Releases
-        - /mnt/_SYNOLOGY/video/_Recommendations      
+        - /mnt/_SYNOLOGY/media/mediatheque/Films
+        - /mnt/_SYNOLOGY/media/mediatheque/Series
+        - /mnt/_SYNOLOGY/media/video/Films
+        - /mnt/_SYNOLOGY/media/video/Series
+        - /mnt/_SYNOLOGY/media/video/_Cannes
+        - /mnt/_SYNOLOGY/media/video/_Latest_Releases
+        - /mnt/_SYNOLOGY/media/video/_Recommendations      
 
 collections:
   Streaming Collections:
