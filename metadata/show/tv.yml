@@ -34,7 +34,7 @@ collections:
 #    url_poster: https://i.pinimg.com/originals/79/44/de/7944de30bf00276c95b77d700c2d1b3f.jpg
 
   Dexter:
-    template: {name: Show, show: "79349, 412366"}
+    template: {name: Show, show: "79349, 412366, 430780"}
     collection_mode: hide
     url_poster: https://theposterdb.com/api/assets/243523
 
