@@ -1,0 +1,17 @@
+external_templates:
+  repo: metadata/mytemplates.yml
+  default: templates  
+  
+  ###########################################################################################
+collections:
+
+  Promoted:
+    sort_title: "zzz_promoted"
+    smart_label: release.desc  
+    filters:
+      added.after: today 
+    summary: "0"
+    collection_mode: hide
+    sync_mode: sync
+    label: 
+      - REPLEXHERO  
