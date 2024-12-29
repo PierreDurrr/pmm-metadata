@@ -1,0 +1,30 @@
+templates:
+  Christmas_Advent_Calendar:
+    allowed_library_types: movie
+    summary: Day <> of the Christmas Advent Calendar
+    sort_title: 061_Christmas_Advent_Calendar_<>
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/advent-calendar
+    limit: <>
+    collection_order: custom
+    schedule:
+      - range(12/01-12/31)
+    visible_home:
+      - yearly(12/<>)
+    visible_shared:
+      - yearly(12/<>)
+    visible_library:
+      - yearly(12/<>)
+    url_poster: https://as2.ftcdn.net/v2/jpg/03/05/39/41/1000_F_305394138_GiLwZEU9Fq7BG81bThTvkuzrJggyPc3W.jpg
+    cache_builders: 1  # No need to reparse the list every time
+
+dynamic_collections:
+  Christmas Advent Calendar DC:  # mapping name does not matter just needs to be unique
+    type: number
+    sync: true
+    data:
+      starting: 1
+      ending: 31
+      title_format: " Advent Calendar - Day <>"
+    template:
+      - Christmas_Advent_Calendar
