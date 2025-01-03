@@ -25,4 +25,5 @@ overlays:
       - name: hot
     plex_all: true
     filters:
-      added.after: today
+#      added.after: today
+      added.not: 0
