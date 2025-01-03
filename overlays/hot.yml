@@ -1,0 +1,28 @@
+templates:
+  hot:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      weight: 30
+    overlay:
+      name: <<overlay_name>>
+      url: https://raw.githubusercontent.com/PierreDurrr/pmm-metadata/master/overlays/images/fire.png
+      weight: <<weight>>
+      horizontal_offset: 15
+      horizontal_align: left
+      vertical_offset: 15
+      vertical_align: top
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 160
+      back_height: 160
+
+overlays:
+
+  hot:
+    template:
+      - name: hot
+    plex_all: true
+    filters:
+      added.after: today
