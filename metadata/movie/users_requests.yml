@@ -16,6 +16,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: added.desc
     collection_mode: show_items
+    delete_below_minimum: false
 #    sort_by: date_added.desc 
 #    visible_home: true
     visible_shared: true
@@ -33,6 +34,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: added.desc
     collection_mode: show_items
+    delete_below_minimum: false
 #    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
@@ -50,6 +52,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: added.desc
     collection_mode: show_items
+    delete_below_minimum: false
 #    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
@@ -67,6 +70,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: added.desc
     collection_mode: show_items
+    delete_below_minimum: false
 #    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
@@ -84,6 +88,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: added.desc
     collection_mode: show_items
+    delete_below_minimum: false
 #    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
@@ -101,6 +106,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: added.desc
     collection_mode: show_items
+    delete_below_minimum: false
 #    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
@@ -119,6 +125,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: added.desc
     collection_mode: show_items
+    delete_below_minimum: false
 #    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
@@ -136,6 +143,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: added.desc
     collection_mode: show_items
+    delete_below_minimum: false
 #    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
@@ -153,6 +161,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: added.desc
     collection_mode: show_items
+    delete_below_minimum: false
 #    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
@@ -170,6 +179,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: added.desc
     collection_mode: show_items
+    delete_below_minimum: false
 #    sort_by: date_added.desc
 #    visible_home: true
     visible_shared: true
