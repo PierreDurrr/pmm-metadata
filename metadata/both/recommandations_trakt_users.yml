@@ -17,6 +17,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: custom
     collection_mode: show_items
+    delete_below_minimum: false
     visible_home: true
     visible_shared: false
     visible_library: true
@@ -33,6 +34,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: custom
     collection_mode: show_items
+    delete_below_minimum: false
     visible_shared: true
     visible_library: true
     sync_mode: sync
@@ -48,6 +50,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: custom
     collection_mode: show_items
+    delete_below_minimum: false
     visible_shared: true
     visible_library: true
     sync_mode: sync
@@ -63,6 +66,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: custom
     collection_mode: show_items
+    delete_below_minimum: false
     visible_shared: true
     visible_library: true
     sync_mode: sync
@@ -78,6 +82,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: custom
     collection_mode: show_items
+    delete_below_minimum: false
     visible_shared: true
     visible_library: true
     sync_mode: sync
@@ -93,6 +98,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: custom
     collection_mode: show_items
+    delete_below_minimum: false
     visible_shared: true
     visible_library: true
     sync_mode: sync
@@ -108,6 +114,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: custom
     collection_mode: show_items
+    delete_below_minimum: false
     visible_shared: true
     visible_library: true
     sync_mode: sync
@@ -123,6 +130,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: custom
     collection_mode: show_items
+    delete_below_minimum: false
     visible_shared: true
     visible_library: true
     sync_mode: sync
@@ -138,6 +146,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: custom
     collection_mode: show_items
+    delete_below_minimum: false
     visible_shared: true
     visible_library: true
     sync_mode: sync
@@ -153,6 +162,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: custom
     collection_mode: show_items
+    delete_below_minimum: false
     visible_shared: true
     visible_library: true
     sync_mode: sync
@@ -168,6 +178,7 @@ collections:
 #    url_poster: poster-a-ajouter
     collection_order: custom
     collection_mode: show_items
+    delete_below_minimum: false
     visible_shared: true
     visible_library: true
     sync_mode: sync
