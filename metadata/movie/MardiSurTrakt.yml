@@ -4,17 +4,18 @@ collections:
     sort_title: "zzz_Mardi c'est permis"
     plex_search:
       all:
-        content_rating: "Tous publics"
-        studio.not: Toei Animation
-        collection.not:
-          - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
-          - "Bollywood"
+        any:
+         genre:
+            - Familial
+            - Enfants
+        all:
+#          content_rating: "Tous publics"
+          studio.not: Toei Animation
+          collection.not:
+            - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
+            - "Bollywood"
       sort_by: random
     limit: 3  
-      any:
-        genre: 
-          - Familial
-          - Enfants
     smart_label:
       sort_by: random
       all:
