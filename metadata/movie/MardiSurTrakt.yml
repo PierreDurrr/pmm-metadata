@@ -5,15 +5,17 @@ collections:
     plex_search:
       all:
         content_rating: "Tous publics"
-        genre: 
-          - Familial
-          - Enfants
         studio.not: Toei Animation
         collection.not:
           - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
           - "Bollywood"
       sort_by: random
-      limit: 3
+    limit: 3
+    plex_search:  
+      any:
+        genre: 
+          - Familial
+          - Enfants
     smart_label:
       sort_by: random
       all:
