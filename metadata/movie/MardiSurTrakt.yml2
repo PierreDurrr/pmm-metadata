@@ -57,7 +57,7 @@ collections:
         label: <<smart_label>>
         limit: 3        
     item_label: _HistoMardiCestPermis
-#    schedule: all[weekly(tuesday|wednesday), hourly(6)]
+    schedule: all[weekly(tuesday|wednesday), hourly(6)]
     delete_not_scheduled: false
     visible_shared: weekly(tuesday)
     visible_library: weekly(tuesday)
