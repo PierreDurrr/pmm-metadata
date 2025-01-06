@@ -15,7 +15,7 @@ collections:
             - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
             - "Bollywood"
       sort_by: random
-    limit: 3  
+  
 #    smart_label:
 #      sort_by: random
 #      all:
@@ -26,3 +26,4 @@ collections:
     visible_library: weekly(tuesday)
     visible_home: weekly(tuesday)
     label: REPLEXHERO
+    limit: 3
