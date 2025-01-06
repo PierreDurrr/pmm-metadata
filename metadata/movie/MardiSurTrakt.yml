@@ -10,8 +10,7 @@ collections:
           - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
           - "Bollywood"
       sort_by: random
-    limit: 3
-    plex_search:  
+    limit: 3  
       any:
         genre: 
           - Familial
