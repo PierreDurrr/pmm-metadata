@@ -1,0 +1,26 @@
+collections:
+  Add Mardi c'est permis:
+    name: "Mardi c'est permis"
+    sort_title: "zzz_Mardi c'est permis"
+    plex_search:
+      all:
+        content_rating: "Tous publics"
+        genre: 
+          - Familial
+          - Enfants
+        studio.not: Toei Animation
+        collection.not:
+          - "🎅 🎄 All I Want For Christmas... 🎄 🎅"
+          - "Bollywood"
+      sort_by: random
+      limit: 3
+    smart_label:
+      sort_by: random
+      all:
+        label: <<smart_label>>
+    schedule: all[weekly(tuesday), hourly(6)]
+    delete_not_scheduled: false
+    visible_shared: weekly(tuesday)
+    visible_library: weekly(tuesday)
+    visible_home: weekly(tuesday)
+    label: REPLEXHERO
