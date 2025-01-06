@@ -18,7 +18,7 @@ collections:
       sort_by: random
       all:
         label: <<smart_label>>
-    schedule: all[weekly(tuesday), hourly(6)]
+#    schedule: all[weekly(tuesday), hourly(6)]
     delete_not_scheduled: false
     visible_shared: weekly(tuesday)
     visible_library: weekly(tuesday)
