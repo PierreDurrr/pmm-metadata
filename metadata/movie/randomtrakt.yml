@@ -8,5 +8,5 @@ collections:
       all:
         title: "ThisMovieDoesNotExist12345"
     sync_mode: sync
-    minimum_items: 0
+    minimum_items: 1
     build_collection: true
