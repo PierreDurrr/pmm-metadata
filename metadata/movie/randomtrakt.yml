@@ -24,7 +24,7 @@ collections:
       sort_by: random
       all:
         label: <<smart_label>>
-#    schedule: all[weekly(tuesday|wednesday), hourly(6)]
+    schedule: all[weekly(tuesday|wednesday), hourly(6)]
     delete_not_scheduled: false
     sync_to_trakt_list: mardisurtrakt
     #trakt_list: https://trakt.tv/users/pierredurrr/lists/MardiSurTrakt  OPTIONAL TWO-WAY SYNC
@@ -45,12 +45,10 @@ collections:
     collection_order: random
     limit: 3
     sync_mode: sync
-#    schedule:
-#      weekly: tuesday
     item_label: _HistoMardiCestPermis
     filters:
       label.not: _HistoMardiCestPermis
-    schedule: all[weekly(tuesday),hourly(6)]]
+#    schedule: all[weekly(tuesday),hourly(6)]]
     delete_not_scheduled: false
     visible_shared: weekly(tuesday)
     visible_library: weekly(tuesday)
