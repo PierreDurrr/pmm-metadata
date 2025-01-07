@@ -1,6 +1,7 @@
 collections:
   aaaaaaaaaaaaaaaaaRandom Trakt Movies:
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/MardiSurTrakt
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/kometa-empty?sort=rank,asc
+#    trakt_list: https://trakt.tv/users/pierredurrr/lists/MardiSurTrakt
     collection_order: random
     limit: 3
     sync_mode: sync
