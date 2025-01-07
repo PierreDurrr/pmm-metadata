@@ -21,12 +21,12 @@ collections:
 
   Halloween:
     template: { name: Prerolls }
-    schedule: range(10/01-10/31)
+    schedule: range(10/20-10/31)
     server_preroll: /mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/octobre/Halloween_Spider_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/octobre/Happy_Halloween_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/octobre/Vampire_Bats_Halloween_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/octobre/Happy_Spider.mp4;/mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/masterlist/Spider_Cochon_1080.mp4
  
   Christmas:
     template: { name: Prerolls }
-    schedule: range(12/01-01/08)
+    schedule: range(12/01-01/05)
     server_preroll: /mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/decembre/Christmas_Card_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/decembre/Christmas_Ornaments_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/decembre/Christmas_Train_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/decembre/Christmas_Tree_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/decembre/Gingerbread_Men_Dance_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/decembre/Holiday_Sweater_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/decembre/Merry_Christmas_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/decembre/Santa_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/decembre/Snowflakes_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/decembre/Snowman_Plex_Pre-roll.mp4;/mnt/_SYNOLOGY/media/mediatheque/Pierreflix_intro/year/decembre/Christmas_Pop_Up_Card_PierreDurrr.mp4
 
   "Queen Elisabeth's Death":
