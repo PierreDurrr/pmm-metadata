@@ -8,8 +8,8 @@ collections:
     collection_order: random
     limit: 3
     sync_mode: sync
-    schedule:
-      weekly: tuesday
+#    schedule:
+#      weekly: tuesday
     item_label: _HistoMardiCestPermis
     filters:
       label.not: _HistoMardiCestPermis
