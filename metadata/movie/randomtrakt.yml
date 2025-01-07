@@ -4,7 +4,7 @@ collections:
 #    collection_order: random
 #    limit: 3
 #    sync_mode: sync
-    trakt_list: https://trakt.tv/users/username/lists/your-list-name
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/MardiSurTrakt
     collection_order: random
     limit: 3
     sync_mode: sync
