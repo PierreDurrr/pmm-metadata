@@ -1,0 +1,6 @@
+collections:
+  aaaaaaaaaaaaaaaaaRandom Trakt Movies:
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/MardiSurTrakt
+    collection_order: random
+    limit: 3
+    sync_mode: sync
