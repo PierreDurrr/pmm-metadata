@@ -4,9 +4,19 @@ collections:
 #    collection_order: random
 #    limit: 3
 #    sync_mode: sync
-    smart_filter:
-      all:
-        title: "ThisMovieDoesNotExist12345"
+    trakt_list: https://trakt.tv/users/username/lists/your-list-name
+    collection_order: random
+    limit: 3
     sync_mode: sync
-    minimum_items: 1
-    build_collection: true
+    schedule:
+      weekly: tuesday
+    item_label: _HistoMardiCestPermis
+    filters:
+      label.not: _HistoMardiCestPermis
+    label: REPLEXHERO
+    summary: |
+      En 1990, M6 diffuse tous ces films et téléfilms de prime time dans une case appelée Grand écran.
+      Très vite, la chaîne crée une case nommée « Le Mardi c'est permis », dans laquelle elle diffuse des films et téléfilms pour la jeunesse ou familiaux.
+
+      Sous entendu que le mardi, les enfants peuvent regarder la télévision le soir, puisque le lendemain ils n'ont pas école.
+
