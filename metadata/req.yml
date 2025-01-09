@@ -1,0 +1,28 @@
+templates:
+  arrtag:
+    conditionals: 
+      arr_tag: 
+        conditions: 
+          - library_type: movie 
+            value: radarr_taglist
+          - library_type: show
+            value: sonarr_taglist
+collections:
+
+  Mes demandes 🐼:
+    template: {name: arrtag}
+    sort_title: "zzz_✨ Mes demandes Elise"
+    summary: "Elise, ta hotline ciné a bossé dur ! Voilà la collection de tes demandes 🐼, prête à te câliner avec tous les films et séries que tu as souhaités. C’est doux, c’est confortable, et c’est exactement ce que tu voulais. C’est ton cinéma, ton royaume, ton panda adoré qui te dit régale-toi !"
+    <<arr_tag>>: "15 - elisepedroza"
+#    url_poster: poster-a-ajouter
+    collection_order: added.desc
+    collection_mode: show_items
+    delete_below_minimum: false
+#    sort_by: date_added.desc
+#    visible_home: true
+    visible_shared: true
+    visible_library: true
+    sync_mode: sync
+    label: 
+      - elise_demandes
+      - REPLEXHERO
