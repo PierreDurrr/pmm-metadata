@@ -18,7 +18,7 @@ collections:
   Bob's Burger - Saga:
     template: {name: Show, show: "194031"}
     collection_mode: hide
-    url_poster: https://theposterdb.com/api/assets/29890
+    url_poster: https://theposterdb.com/api/assets/351470 #https://theposterdb.com/api/assets/29890
 
   Chasse Aux Trésors:
     collection_mode: hide
