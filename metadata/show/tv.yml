@@ -190,6 +190,11 @@ collections:
     url_poster: https://theposterdb.com/api/assets/161295
     collection_mode: hide
 
+  Raiponce - Saga:
+    template: {name: Show, show: "70047"}
+    url_poster: https://theposterdb.com/api/assets/162959
+    collection_mode: hide
+
   Les Razmoket - Saga:
     template: {name: Show, show: "77038"}
     url_poster: https://theposterdb.com/api/assets/162966 
