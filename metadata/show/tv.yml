@@ -7,7 +7,7 @@ collections:
   Avatar: 
     template: {name: Show, show: "74852, 251085"}
     collection_mode: hide
-    url_poster: https://theposterdb.com/api/assets/72969
+    url_poster: https://theposterdb.com/api/assets/300227 #https://theposterdb.com/api/assets/72969
 
   Big Mouth - Saga:
     template: {name: Show, show: "331431, 370452"}
