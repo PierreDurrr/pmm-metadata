@@ -191,7 +191,7 @@ collections:
     collection_mode: hide
 
   Raiponce - Saga:
-    template: {name: Show, show: "70047"}
+    template: {name: Show, show: "318990"}
     url_poster: https://theposterdb.com/api/assets/162959
     collection_mode: hide
 
