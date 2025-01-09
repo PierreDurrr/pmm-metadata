@@ -336,7 +336,7 @@ collections:
 #    collection_mode: hide_items
   Bob's Burger - Saga:  
     trakt_list: https://trakt.tv/users/pierredurrr/lists/bob-s-burger-saga
-    url_poster: https://theposterdb.com/api/assets/29890
+    url_poster: https://theposterdb.com/api/assets/351470 #https://theposterdb.com/api/assets/29890
     collection_mode: hide
 #  Brice de Nice - Saga:  
 #    template: {name: Collection, collection: 442352, summary: 442352}
