@@ -5,7 +5,7 @@ collections:
     sort_title: +0_top10_amazon
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    mdblist_list:
+    trakt_list:
       url: https://trakt.tv/users/pierredurrr/lists/amazon-prime-video-france-top-10-shows
       limit: 20
     summary: Le top du jour sur Amazon Prime Video
@@ -17,7 +17,7 @@ collections:
     sort_title: +0_top10_appletv
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    mdblist_list:
+    trakt_list:
       url: https://trakt.tv/users/pierredurrr/lists/apple-tv-france-top-10-shows
       limit: 20
     summary: Le top du jour sur Apple TV
@@ -29,7 +29,7 @@ collections:
     sort_title: +0_top10_disney
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    mdblist_list:
+    trakt_list:
       url: https://trakt.tv/users/pierredurrr/lists/disneyplus-france-top-10-shows
       limit: 20
     summary: Le top du jour sur Disney+
@@ -41,7 +41,7 @@ collections:
     sort_title: +0_top10_netflix
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    mdblist_list:
+    trakt_list:
       url: https://trakt.tv/users/pierredurrr/lists/netflix-france-top-10-shows
       limit: 20
     summary: Le top du jour sur Netflix
@@ -53,7 +53,7 @@ collections:
     sort_title: +0_top10_paramount
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    mdblist_list:
+    trakt_list:
       url: https://trakt.tv/users/pierredurrr/lists/paramountplus-france-top-10-shows
       limit: 20
     summary: Le top du jour sur Paramount+
