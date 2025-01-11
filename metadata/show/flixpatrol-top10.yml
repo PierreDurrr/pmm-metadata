@@ -1,7 +1,7 @@
 collections:
 
   Aujourd'hui sur Apple TV, Disney+, Netflix, Paramount, et Prime Video:
-    collection_order: custom
+#    collection_order: custom
     sort_title: +++00TopToday
     trakt_list:
       - https://trakt.tv/users/pierredurrr/lists/amazon-prime-video-france-top-10-shows
