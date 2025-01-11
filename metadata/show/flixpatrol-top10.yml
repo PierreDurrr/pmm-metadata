@@ -17,71 +17,71 @@ collections:
     visible_shared: true
     label: REPLEXHERO
 
-  Top 10 du jour Amazon Prime Video:
-    sync_mode: sync
-    smart_label: title.asc
-    sort_title: +0_top10_amazon
-#    imdb_list:
-#      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/amazon-prime-video-france-top-10-shows
-#      limit: 20
-    summary: Le top du jour sur Amazon Prime Video
-    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/prime_top_10.jpg
+#  Top 10 du jour Amazon Prime Video:
+#    sync_mode: sync
+#    smart_label: title.asc
+#    sort_title: +0_top10_amazon
+##    imdb_list:
+##      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
+#    trakt_list: https://trakt.tv/users/pierredurrr/lists/amazon-prime-video-france-top-10-shows
+##      limit: 20
+#    summary: Le top du jour sur Amazon Prime Video
+#    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/prime_top_10.jpg
 
-  Top 10 du jour Apple TV+:
-    sync_mode: sync
-    smart_label: title.asc
-    sort_title: +0_top10_appletv
-#    imdb_list:
-#      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/apple-tv-france-top-10-shows
-#      limit: 20
-    summary: Le top du jour sur Apple TV
-    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/apple_top_10.jpg
+#  Top 10 du jour Apple TV+:
+#    sync_mode: sync
+#    smart_label: title.asc
+#    sort_title: +0_top10_appletv
+##    imdb_list:
+##      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
+#    trakt_list: https://trakt.tv/users/pierredurrr/lists/apple-tv-france-top-10-shows
+##      limit: 20
+#    summary: Le top du jour sur Apple TV
+#    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/apple_top_10.jpg
 
-  Top 10 du jour Disney+:
-    sync_mode: sync
-    smart_label: title.asc
-    sort_title: +0_top10_disney
-#    imdb_list:
-#      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/disneyplus-france-top-10-shows
-#      limit: 20
-    summary: Le top du jour sur Disney+
-    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/disney_top_10.jpg
+#  Top 10 du jour Disney+:
+#    sync_mode: sync
+#    smart_label: title.asc
+#    sort_title: +0_top10_disney
+##    imdb_list:
+##      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
+#    trakt_list: https://trakt.tv/users/pierredurrr/lists/disneyplus-france-top-10-shows
+##      limit: 20
+#    summary: Le top du jour sur Disney+
+#    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/disney_top_10.jpg
 
-  Top 10 du jour Netflix:
-    sync_mode: sync
-    smart_label: title.asc
-    sort_title: +0_top10_netflix
-#    imdb_list:
-#      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/netflix-france-top-10-shows
-#      limit: 20
-    summary: Le top du jour sur Netflix
-    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/netflix_top_10.jpg
+#  Top 10 du jour Netflix:
+#    sync_mode: sync
+#    smart_label: title.asc
+#    sort_title: +0_top10_netflix
+##    imdb_list:
+##      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
+#    trakt_list: https://trakt.tv/users/pierredurrr/lists/netflix-france-top-10-shows
+##      limit: 20
+#    summary: Le top du jour sur Netflix
+#    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/netflix_top_10.jpg
 
-  Top 10 du jour Paramount+:
-    sync_mode: sync
-    smart_label: title.asc
-    sort_title: +0_top10_paramount
-#    imdb_list:
-#      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/paramountplus-france-top-10-shows
-#      limit: 20
-    summary: Le top du jour sur Paramount+
-    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/paramount_top_10.jpg
+#  Top 10 du jour Paramount+:
+#    sync_mode: sync
+#    smart_label: title.asc
+#    sort_title: +0_top10_paramount
+##    imdb_list:
+##      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
+#    trakt_list: https://trakt.tv/users/pierredurrr/lists/paramountplus-france-top-10-shows
+##      limit: 20
+#    summary: Le top du jour sur Paramount+
+#    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/paramount_top_10.jpg
 
 
-  Top TEST TEST 10 du jour Disney+:
-    sync_mode: sync
-    smart_label: title.asc
-    sort_title: +0_top10_disney
-#    imdb_list:
-#      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/disneyplus-france-top-10-shows
-    plex_search:
-      any:
-        filepath: /mnt/_SYNOLOGY/media/video/Series/_Top10_flixpatrol
-    summary: Le top du jour sur Disney+
-    url_poster: https://raw.githubuserconten
+#  Top TEST TEST 10 du jour Disney+:
+#    sync_mode: sync
+#    smart_label: title.asc
+#    sort_title: +0_top10_disney
+##    imdb_list:
+##      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
+#    trakt_list: https://trakt.tv/users/pierredurrr/lists/disneyplus-france-top-10-shows
+#    plex_search:
+#      any:
+#        filepath: /mnt/_SYNOLOGY/media/video/Series/_Top10_flixpatrol
+#    summary: Le top du jour sur Disney+
+#    url_poster: https://raw.githubuserconten
