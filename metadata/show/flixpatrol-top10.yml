@@ -3,6 +3,7 @@ collections:
   Aujourd'hui sur Apple TV, Disney+, Netflix, Paramount, et Prime Video:
 #    collection_order: custom
     sort_title: +++00TopToday
+    smart_label: title.asc
     trakt_list:
       - https://trakt.tv/users/pierredurrr/lists/amazon-prime-video-france-top-10-shows
       - https://trakt.tv/users/pierredurrr/lists/apple-tv-france-top-10-shows
@@ -17,7 +18,7 @@ collections:
 
   Top 10 du jour Amazon Prime Video:
     sync_mode: sync
-    collection_order: custom
+    smart_label: title.asc
     sort_title: +0_top10_amazon
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
@@ -28,7 +29,7 @@ collections:
 
   Top 10 du jour Apple TV+:
     sync_mode: sync
-    collection_order: custom
+    smart_label: title.asc
     sort_title: +0_top10_appletv
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
@@ -39,7 +40,7 @@ collections:
 
   Top 10 du jour Disney+:
     sync_mode: sync
-    collection_order: custom
+    smart_label: title.asc
     sort_title: +0_top10_disney
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
@@ -50,7 +51,7 @@ collections:
 
   Top 10 du jour Netflix:
     sync_mode: sync
-    collection_order: custom
+    smart_label: title.asc
     sort_title: +0_top10_netflix
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
@@ -61,7 +62,7 @@ collections:
 
   Top 10 du jour Paramount+:
     sync_mode: sync
-    collection_order: custom
+    smart_label: title.asc
     sort_title: +0_top10_paramount
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
