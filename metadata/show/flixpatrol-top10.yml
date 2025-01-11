@@ -80,6 +80,7 @@ collections:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
     trakt_list: https://trakt.tv/users/pierredurrr/lists/disneyplus-france-top-10-shows
     plex_search:
-      filepath: /mnt/_SYNOLOGY/media/video/Series/_Top10_flixpatrol
+      any:
+        filepath: /mnt/_SYNOLOGY/media/video/Series/_Top10_flixpatrol
     summary: Le top du jour sur Disney+
     url_poster: https://raw.githubuserconten
