@@ -9,7 +9,7 @@ collections:
     sync_mode: sync
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime.jpg
     summary: Cette collection regroupe tout les animes disponibles sur Pierreflix. Des ajouts sont faits régulièrement.
-    mdblist_list: https://mdblist.com/lists/k0meta/crunchyroll-shows
+    mdblist_list: https://mdblist.com/lists/johnfawkes/crunchyroll
 #    trakt_list: 
 #      - https://trakt.tv/users/megatek23/lists/anime-collection?page=6&sort=rank,asc
 #      - https://trakt.tv/users/jjjonesjr33/lists/anilist-action
