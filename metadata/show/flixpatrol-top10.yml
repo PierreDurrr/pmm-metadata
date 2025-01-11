@@ -15,6 +15,7 @@ collections:
     visible_home: true
     visible_library: true
     visible_shared: true
+    label: REPLEXHERO
 
   Top 10 du jour Amazon Prime Video:
     sync_mode: sync
