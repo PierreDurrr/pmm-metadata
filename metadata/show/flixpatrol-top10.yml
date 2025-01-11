@@ -1,4 +1,20 @@
 collections:
+
+  Aujourd'hui sur Apple TV, Disney+, Netflix, Paramount, et Prime Video:
+    collection_order: custom
+    sort_title: +++00TopToday
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/amazon-prime-video-france-top-10-shows
+      - https://trakt.tv/users/pierredurrr/lists/apple-tv-france-top-10-shows
+      - https://trakt.tv/users/pierredurrr/lists/disneyplus-france-top-10-shows
+      - https://trakt.tv/users/pierredurrr/lists/netflix-france-top-10-shows
+      - https://trakt.tv/users/pierredurrr/lists/paramountplus-france-top-10-shows
+    summary: "Le top 10 des plateformes aujourd'hui"
+#    url_poster:
+    visible_home: true
+    visible_library: true
+    visible_shared: true
+
   Top 10 du jour Amazon Prime Video:
     sync_mode: sync
     collection_order: custom
