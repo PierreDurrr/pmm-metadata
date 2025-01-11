@@ -70,3 +70,16 @@ collections:
 #      limit: 20
     summary: Le top du jour sur Paramount+
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/paramount_top_10.jpg
+
+
+  Top TEST TEST 10 du jour Disney+:
+    sync_mode: sync
+    smart_label: title.asc
+    sort_title: +0_top10_disney
+#    imdb_list:
+#      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/disneyplus-france-top-10-shows
+    plex_search:
+      filepath: /mnt/_SYNOLOGY/media/video/Series/_Top10_flixpatrol
+    summary: Le top du jour sur Disney+
+    url_poster: https://raw.githubuserconten
