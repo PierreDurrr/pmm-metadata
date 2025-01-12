@@ -18,8 +18,8 @@ collections:
       - https://trakt.tv/users/pierredurrr/lists/arte?sort=added,asc
 #    mdblist_list: https://mdblist.com/lists/pierredurrr/artetv-shows
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/network/Arte.jpg
-    smart_label: title.asc
-#    collection_order: custom
+#    smart_label: title.asc
+    collection_order: custom
 #    collection_mode: hide_items
 #    visible_home: true
     visible_library: true
