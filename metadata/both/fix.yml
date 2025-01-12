@@ -6,8 +6,10 @@ collections:
           - arte
           - arte.tv
           - Arte.tv
+          - "arte by tmdb"
     build_collection: false
     item_label.remove: 
       - arte 
       - arte.tv
       - Arte.tv
+      - "arte by tmdb"
