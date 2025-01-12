@@ -1,5 +1,10 @@
 # Streaming Providers in France
 This table lists all streaming providers available in France, their TMDb IDs, and whether they support movies, TV shows, or both.
+
+Script is working with any country. Just edit with désiré country code and run.
+
+Requirement: TMDB API key
+
 | Provider Name         | Provider ID | Movies   | TV       |
 |-----------------------|-------------|----------|----------|
 | Action Max Amazon Channel | 1733        | True     | True     |
