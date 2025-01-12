@@ -1,0 +1,13 @@
+collections:
+  remove_label:
+    plex_search:
+      any:
+        label: 
+          - arte
+          - arte.tv
+          - Arte.tv
+    build_collection: false
+    item_label.remove: 
+      - arte 
+      - arte.tv
+      - Arte.tv
