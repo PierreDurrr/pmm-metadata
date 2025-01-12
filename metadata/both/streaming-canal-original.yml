@@ -16,7 +16,7 @@ collections:
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/canal-original-series?sort=rank,asc
 #    mdblist_list: https://mdblist.com/lists/pierredurrr/artetv-shows
-#    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/network/Arte.jpg
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/network/Canal%2B.jpg
 #    smart_label: title.asc
     collection_order: custom
 #    collection_mode: hide_items
