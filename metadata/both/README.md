@@ -2,7 +2,7 @@
 
 This table lists all streaming providers available in France, their TMDb IDs, and whether they support movies, TV shows, or both.
 
-Script is working with any country. Just edit with desired country code and run.
+Script (provided) is working with any country. Just edit with desired country code and run.
 
 Requirement: TMDb API key
 
