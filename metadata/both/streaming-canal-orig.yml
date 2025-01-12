@@ -1,0 +1,68 @@
+##############################################################################
+#                           Streaming Collections                            #
+#                 Created by Yozora, Bullmoose20, & Sohjiro                  #
+#          EDITING THIS FILE MAY CAUSE PULLING NEW UPDATES TO FAIL           #
+#      https://metamanager.wiki/en/latest/defaults/both/streaming.html       #
+##############################################################################
+
+external_templates:
+  default: templates
+  template_variables:
+    collection_section: "030"
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/network/Canal%2B.jpg
+
+templates:
+  mdb_streaming:
+    optional:
+      - use_<<key>>
+      - allowed_libraries
+    conditionals:
+      allowed_streaming:
+        conditions:
+          - region: fr
+            key: [canal]
+            value: True
+      watch_region:
+        default: ""
+        conditions:
+          - region: fr
+            key: [canal]
+            value: "-fr"      
+    default:
+      sync_mode: sync
+      sync_mode_<<key>>: <<sync_mode>>
+      sort_by: release.desc
+      sort_by_<<key>>: <<sort_by>>
+    run_definition:
+      - <<use_<<key>>>>
+      - <<allowed_libraries>>
+      - <<allowed_streaming>>
+    cache_builders: 1
+    smart_label: <<sort_by_<<key>>>>
+    sync_mode: <<sync_mode_<<key>>>>
+#    mdblist_list: https://mdblist.com/lists/pierredurrr/<<key>>-<<library_type>>s
+    mdblist_list: https://mdblist.com/lists/pierredurrr/canal-original-series
+
+collections:
+  Streaming Collections:
+    template:
+      - name: separator
+        separator: streaming
+        key_name: Streaming
+        translation_key: separator
+
+dynamic_collections:
+  Streaming:
+    type: custom
+    data:
+      canal: Canal+ Original
+    title_format: <<key_name>>
+    template:
+      - mdb_streaming
+      - shared
+      - arr
+    template_variables:
+      translation_key:
+        default: streaming
+      dynamic:
+        default: true
