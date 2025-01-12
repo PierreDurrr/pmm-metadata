@@ -1,92 +1,93 @@
-# Streaming Providers in France
+# Streaming Providers in FR
+
 This table lists all streaming providers available in France, their TMDb IDs, and whether they support movies, TV shows, or both.
 
-Script is working with any country. Just edit with désiré country code and run.
+Script is working with any country. Just edit with desired country code and run.
 
-Requirement: TMDB API key
+Requirement: TMDb API key
 
 | Provider Name         | Provider ID | Movies   | TV       |
 |-----------------------|-------------|----------|----------|
-| Action Max Amazon Channel | 1733        | True     | True     |
-| Amazon Prime Video    | 119         | True     | True     |
-| Amazon Video          | 10          | True     | True     |
-| Animation Digital Network | 415         | True     | True     |
-| Animation Digital Network Amazon Channel | 1888        | True     | True     |
-| Anime Digital Network Amazon Channel | 2173        | True     | True     |
-| Apollo                | 1912        | True     | False    |
-| Apple TV              | 2           | True     | True     |
-| Apple TV Plus         | 350         | True     | True     |
-| Arte                  | 234         | True     | True     |
-| Bbox VOD              | 59          | True     | True     |
-| Benshi Amazon Channel | 1738        | True     | True     |
-| BroadwayHD            | 554         | True     | True     |
-| BrutX Amazon Channel  | 1887        | True     | True     |
-| Canal VOD             | 58          | True     | True     |
-| Canal+                | 381         | True     | True     |
-| Canal+ Séries         | 345         | False    | True     |
-| Cine+ OCS Amazon Channel  | 685         | True     | True     |
-| Cinemas a la Demande  | 324         | True     | False    |
-| Crunchyroll           | 283         | True     | True     |
-| Crunchyroll Amazon Channel | 1968        | True     | True     |
-| Cultpix               | 692         | True     | True     |
-| Curiosity Stream      | 190         | True     | True     |
-| DOCSVILLE             | 475         | True     | True     |
-| Dekkoo                | 444         | True     | True     |
-| Disney Plus           | 337         | True     | True     |
-| DocAlliance Films     | 569         | True     | False    |
-| Eventive              | 677         | True     | False    |
-| FILMO                 | 138         | True     | False    |
-| FilmBox+              | 701         | True     | True     |
-| Filmo Amazon Channel  | 1734        | True     | False    |
-| Filmzie               | 559         | True     | False    |
-| France TV             | 236         | True     | True     |
-| Google Play Movies    | 3           | True     | False    |
-| Hayu                  | 223         | False    | True     |
-| Hayu Amazon Channel   | 296         | False    | True     |
-| Hoichoi               | 315         | True     | True     |
-| INA  madelen Amazon Channel | 1737        | True     | True     |
-| Insomnia Amazon Channel | 1735        | True     | True     |
-| JustWatchTV           | 2285        | True     | True     |
-| LaCinetek             | 310         | True     | False    |
-| M6+                   | 147         | True     | True     |
-| MGM Amazon Channel    | 588         | True     | True     |
-| MUBI                  | 11          | True     | False    |
-| MUBI Amazon Channel   | 201         | True     | False    |
-| Magellan TV           | 551         | True     | True     |
-| Max                   | 1899        | True     | True     |
-| Microsoft Store       | 68          | True     | True     |
-| Molotov TV            | 1967        | True     | True     |
-| Netflix               | 8           | True     | True     |
-| Netflix basic with Ads | 1796        | True     | True     |
-| Orange VOD            | 61          | True     | True     |
-| Paramount Plus        | 531         | True     | True     |
-| Paramount Plus Apple TV Channel  | 1853        | True     | True     |
-| Paramount Plus Premium | 2303        | True     | True     |
-| Paramount+ Amazon Channel | 582         | True     | True     |
-| Plex                  | 538         | True     | True     |
-| Plex Channel          | 2077        | True     | True     |
-| Pluto TV              | 300         | True     | True     |
-| Premiere Max          | 2307        | True     | True     |
-| Rakuten TV            | 35          | True     | True     |
-| Runtime               | 1875        | True     | True     |
-| SFR Play              | 193         | False    | True     |
-| Shadowz               | 513         | True     | False    |
-| Shadowz Amazon Channel | 1736        | True     | False    |
-| Shahid VIP            | 1715        | True     | True     |
-| ShortsTV Amazon Channel | 688         | True     | False    |
-| Spamflix              | 521         | True     | False    |
-| Sun Nxt               | 309         | True     | True     |
-| TF1+                  | 1754        | True     | True     |
-| Takflix               | 1771        | True     | False    |
-| Tenk                  | 550         | True     | False    |
-| True Story            | 567         | True     | False    |
-| Univer Video          | 1860        | True     | True     |
-| Universal Pictures    | 184         | True     | False    |
-| Universal+ Amazon Channel | 1889        | True     | True     |
-| Universcine           | 239         | True     | False    |
-| Universcine Amazon Channel | 1732        | True     | True     |
-| VIVA by videofutur    | 2286        | True     | True     |
-| WOW Presents Plus     | 546         | True     | True     |
-| YouTube               | 192         | True     | False    |
-| YouTube Premium       | 188         | True     | True     |
-| filmfriend            | 542         | True     | True     |
+| Action Max Amazon Channel | 1733        | Yes      | Yes      |
+| Amazon Prime Video    | 119         | Yes      | Yes      |
+| Amazon Video          | 10          | Yes      | Yes      |
+| Animation Digital Network | 415         | Yes      | Yes      |
+| Animation Digital Network Amazon Channel | 1888        | Yes      | Yes      |
+| Anime Digital Network Amazon Channel | 2173        | Yes      | Yes      |
+| Apollo                | 1912        | Yes      | No       |
+| Apple TV              | 2           | Yes      | Yes      |
+| Apple TV Plus         | 350         | Yes      | Yes      |
+| Arte                  | 234         | Yes      | Yes      |
+| Bbox VOD              | 59          | Yes      | Yes      |
+| Benshi Amazon Channel | 1738        | Yes      | Yes      |
+| BroadwayHD            | 554         | Yes      | Yes      |
+| BrutX Amazon Channel  | 1887        | Yes      | Yes      |
+| Canal VOD             | 58          | Yes      | Yes      |
+| Canal+                | 381         | Yes      | Yes      |
+| Canal+ Séries         | 345         | No       | Yes      |
+| Cine+ OCS Amazon Channel  | 685         | Yes      | Yes      |
+| Cinemas a la Demande  | 324         | Yes      | No       |
+| Crunchyroll           | 283         | Yes      | Yes      |
+| Crunchyroll Amazon Channel | 1968        | Yes      | Yes      |
+| Cultpix               | 692         | Yes      | Yes      |
+| Curiosity Stream      | 190         | Yes      | Yes      |
+| DOCSVILLE             | 475         | Yes      | Yes      |
+| Dekkoo                | 444         | Yes      | Yes      |
+| Disney Plus           | 337         | Yes      | Yes      |
+| DocAlliance Films     | 569         | Yes      | No       |
+| Eventive              | 677         | Yes      | No       |
+| FILMO                 | 138         | Yes      | No       |
+| FilmBox+              | 701         | Yes      | Yes      |
+| Filmo Amazon Channel  | 1734        | Yes      | No       |
+| Filmzie               | 559         | Yes      | No       |
+| France TV             | 236         | Yes      | Yes      |
+| Google Play Movies    | 3           | Yes      | No       |
+| Hayu                  | 223         | No       | Yes      |
+| Hayu Amazon Channel   | 296         | No       | Yes      |
+| Hoichoi               | 315         | Yes      | Yes      |
+| INA  madelen Amazon Channel | 1737        | Yes      | Yes      |
+| Insomnia Amazon Channel | 1735        | Yes      | Yes      |
+| JustWatchTV           | 2285        | Yes      | Yes      |
+| LaCinetek             | 310         | Yes      | No       |
+| M6+                   | 147         | Yes      | Yes      |
+| MGM Amazon Channel    | 588         | Yes      | Yes      |
+| MUBI                  | 11          | Yes      | No       |
+| MUBI Amazon Channel   | 201         | Yes      | No       |
+| Magellan TV           | 551         | Yes      | Yes      |
+| Max                   | 1899        | Yes      | Yes      |
+| Microsoft Store       | 68          | Yes      | Yes      |
+| Molotov TV            | 1967        | Yes      | Yes      |
+| Netflix               | 8           | Yes      | Yes      |
+| Netflix basic with Ads | 1796        | Yes      | Yes      |
+| Orange VOD            | 61          | Yes      | Yes      |
+| Paramount Plus        | 531         | Yes      | Yes      |
+| Paramount Plus Apple TV Channel  | 1853        | Yes      | Yes      |
+| Paramount Plus Premium | 2303        | Yes      | Yes      |
+| Paramount+ Amazon Channel | 582         | Yes      | Yes      |
+| Plex                  | 538         | Yes      | Yes      |
+| Plex Channel          | 2077        | Yes      | Yes      |
+| Pluto TV              | 300         | Yes      | Yes      |
+| Premiere Max          | 2307        | Yes      | Yes      |
+| Rakuten TV            | 35          | Yes      | Yes      |
+| Runtime               | 1875        | Yes      | Yes      |
+| SFR Play              | 193         | No       | Yes      |
+| Shadowz               | 513         | Yes      | No       |
+| Shadowz Amazon Channel | 1736        | Yes      | No       |
+| Shahid VIP            | 1715        | Yes      | Yes      |
+| ShortsTV Amazon Channel | 688         | Yes      | No       |
+| Spamflix              | 521         | Yes      | No       |
+| Sun Nxt               | 309         | Yes      | Yes      |
+| TF1+                  | 1754        | Yes      | Yes      |
+| Takflix               | 1771        | Yes      | No       |
+| Tenk                  | 550         | Yes      | No       |
+| True Story            | 567         | Yes      | No       |
+| Univer Video          | 1860        | Yes      | Yes      |
+| Universal Pictures    | 184         | Yes      | No       |
+| Universal+ Amazon Channel | 1889        | Yes      | Yes      |
+| Universcine           | 239         | Yes      | No       |
+| Universcine Amazon Channel | 1732        | Yes      | Yes      |
+| VIVA by videofutur    | 2286        | Yes      | Yes      |
+| WOW Presents Plus     | 546         | Yes      | Yes      |
+| YouTube               | 192         | Yes      | No       |
+| YouTube Premium       | 188         | Yes      | Yes      |
+| filmfriend            | 542         | Yes      | Yes      |
