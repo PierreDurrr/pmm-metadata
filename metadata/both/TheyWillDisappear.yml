@@ -45,6 +45,20 @@ collections:
     blank_collection: true
     only_run_on_create: true
     delete_below_minimum: false
+    visible_home: false
+    visible_shared: false
+    visible_library: false
+    label: REPLEXHERO
+
+  Vite ! Ils vont disparaitre !:
+    sort_title: "zzzz_PDernière_chance"
+    smart_filter:
+      all:
+        collection: "Dernière chance"
+    collection_mode: show_items
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/both/TheyWillDisappear.jpg
+    summary: "Dépêchez-vous ! Il vous reste moins d'un mois pour voir ces films ou ces séries avant leur disparition !"    
+    delete_below_minimum: false
     visible_home: true
     visible_shared: true
     visible_library: true
