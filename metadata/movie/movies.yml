@@ -2102,7 +2102,7 @@ collections:
   Wallace & Gromit - Saga:
     template: {name: Collection, collection: 529, summary: 529}
     trakt_list: 
-      - https://trakt.tv/users/whales/lists/wallace-gromit-3a1f3072-f860-4365-9d39-656dc439f52b?sort=released,desc
+      - https://trakt.tv/users/ravensorb/lists/wallace-gromit?sort=released,desc
     url_poster: https://theposterdb.com/api/assets/162952
 ##    collection_order: alpha
     collection_mode: hide_items
