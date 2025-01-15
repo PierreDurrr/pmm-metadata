@@ -356,10 +356,10 @@ collections:
 ##    collection_order: alpha
     collection_mode: hide_items
   Bud Spencer & Terence Hill Collection:
-    template: {name: Collection, poster: https://www.plexcollectionposters.com/images/2018/05/08/Bud-Spencer-Terence-Hill.md.jpg}
+    template: {name: Collection, poster: https://i.imgur.com/wkiUhva.jpeg}
     trakt_list: 
       - https://trakt.tv/users/-ryo-/lists/bud-spencer-terence-hill?sort=released,desc
-    url_poster: https://www.plexcollectionposters.com/images/2018/05/08/Bud-Spencer-Terence-Hill.md.jpg
+    url_poster: https://i.imgur.com/wkiUhva.jpeg
 ##    collection_order: alpha
     collection_mode: hide_items
 #  Ça - Saga:  
