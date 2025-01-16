@@ -1,0 +1,133 @@
+#    ______   ________  _______    ______   _______    ______   ________   ______   _______    ______
+#   /      \ /        |/       \  /      \ /       \  /      \ /        | /      \ /       \  /      \
+#  /$$$$$$  |$$$$$$$$/ $$$$$$$  |/$$$$$$  |$$$$$$$  |/$$$$$$  |$$$$$$$$/ /$$$$$$  |$$$$$$$  |/$$$$$$  |
+#  $$ \__$$/ $$ |__    $$ |__$$ |$$ |__$$ |$$ |__$$ |$$ |__$$ |   $$ |   $$ |  $$ |$$ |__$$ |$$ \__$$/
+#  $$      \ $$    |   $$    $$/ $$    $$ |$$    $$< $$    $$ |   $$ |   $$ |  $$ |$$    $$< $$      \
+#   $$$$$$  |$$$$$/    $$$$$$$/  $$$$$$$$ |$$$$$$$  |$$$$$$$$ |   $$ |   $$ |  $$ |$$$$$$$  | $$$$$$  |
+#  /  \__$$ |$$ |_____ $$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |   $$ |   $$ \__$$ |$$ |  $$ |/  \__$$ |
+#  $$    $$/ $$       |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |   $$ |   $$    $$/ $$ |  $$ |$$    $$/
+#   $$$$$$/  $$$$$$$$/ $$/       $$/   $$/ $$/   $$/ $$/   $$/    $$/     $$$$$$/  $$/   $$/  $$$$$$/
+
+external_templates:
+  default: templates
+  repo: metadata/mytemplates.yml
+
+###############################################
+###############################################
+###           SEPARATORS TEMPLATE
+
+#  separator:
+#    default:
+#      key: separator
+#      sep_style: orig
+#      collection_section: "00"
+#      url_poster_<<key>>: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/separators/<<sep_style>>/<<separator>>.jpg
+#      sort_prefix: "!"
+#      sort_title: <<sort_prefix>><<collection_section>>_!<<title>>
+#    optional:
+#      - use_separator
+#      - collection_mode
+#      - placeholder_tmdb_movie
+#      - placeholder_tvdb_show
+#      - placeholder_imdb_id
+#      - summary_<<key>>
+#      - name_<<key>>
+#      - key_name
+#      - translation_key
+#    conditionals:
+#      use_blank:
+#        default: true
+#        conditions:
+#          - placeholder_tmdb_movie.exists: true
+#            value: false
+#          - placeholder_tvdb_show.exists: true
+#            value: false
+#          - placeholder_imdb_id.exists: true
+#            value: false
+#    run_definition: <<use_separator>>
+#    collection_mode: <<collection_mode>>
+#    sort_title: <<sort_title>>
+#    tmdb_movie: <<placeholder_tmdb_movie>>
+#    tvdb_show: <<placeholder_tvdb_show>>
+#    imdb_id: <<placeholder_imdb_id>>
+#    blank_collection: <<use_blank>>
+#    url_poster: <<url_poster_<<key>>>>
+#    translation_key: <<translation_key>>
+#    key_name: <<key_name>>
+#    summary: <<summary_<<key>>>>
+#    name: <<name_<<key>>>>
+
+###############################################
+###############################################
+#    ___    ___    _____   _  _
+#   | _ )  / _ \  |_   _| | || |
+#   | _ \ | (_) |   | |   | __ |
+#   |___/  \___/    |_|   |_||_|
+
+collections:
+#  Top Collections:
+#    template:
+#      name: separator
+
+  Maintenance:
+    template:
+      name: separator
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/separators/maintenance.jpg
+    sort_title: zzz_01_Maintenance
+
+#  Genre Collections:
+#    template: { name: separator, order: "700" }
+
+#    __  __    ___   __   __  ___   ___   ___
+#   |  \/  |  / _ \  \ \ / / |_ _| | __| / __|
+#   | |\/| | | (_) |  \ V /   | |  | _|  \__ \
+#   |_|  |_|  \___/    \_/   |___| |___| |___/
+
+#  Decade Collections:
+#    run_definition: movie
+#    template: { name: separator, order: "150" }
+
+#  Studio Collections:
+#    run_definition: movie
+#    template: { name: separator, order: "200" }
+
+#  Marvel Collections:
+#    run_definition: movie
+#    template: { name: separator, order: "300" }
+
+#  DC Collections:
+#    run_definition: movie
+#    template: { name: separator, order: "400" }
+
+#  Pixar Collections:
+#    run_definition: movie
+#    template: { name: separator, order: "500" }
+
+#  Dreamworks Collections:
+#    run_definition: movie
+#    template: { name: separator, order: "550" }
+
+#  Directors Collections:
+#    run_definition: movie
+#    template: { name: separator, order: "800" }
+
+#  Actors Collections:
+#    run_definition: movie
+#    template: { name: separator, order: "900" }
+
+#  Oscars Collections:
+#    run_definition: movie
+#    template: { name: separator, order: "A100" }
+
+#    ___   _  _    ___   __      __  ___
+#   / __| | || |  / _ \  \ \    / / / __|
+#   \__ \ | __ | | (_) |  \ \/\/ /  \__ \
+#   |___/ |_||_|  \___/    \_/\_/   |___/
+
+#  Shuffle Collections:
+#    run_definition: show
+#    template: { name: separator, order: "001" }
+
+#  Streaming Collections:
+#    run_definition: show
+#    template: { name: separator, order: "300" }
