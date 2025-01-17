@@ -1,0 +1,55 @@
+collections:
+############
+
+  Single Audio:
+    variables:
+      key: single_audio 
+    sort_title: zzzzzz_zzzzzzzzzzzz01
+    smart_label: release.asc
+    plex_all: true
+    filters:
+      country.not: france
+      audio_language.count_gte: 1
+      audio_language.count_lt: 2
+    collection_mode: hide
+    label: MAINTENANCE
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/single_audio.jpg
+#    only_run_on_create: true
+
+#  Multi Audio:
+#    smart_label: release.asc
+#    plex_all: true
+#    filters:
+#      audio_language.count_gte: 2
+#    collection_mode: hide
+#    sort_title: ++++++_0a_multi1
+
+#This will give you a collection of movies with 2 or more audio tracks
+
+  .avi files:
+    variables:
+      key: low  
+    sort_title: zzzzzz_zzzzzzzzzzzz02
+    smart_label: release.asc
+    collection_mode: hide
+    plex_all: true
+    filters:
+      filepath: .avi
+    label: MAINTENANCE   
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/low.jpg
+#    only_run_on_create: true    
+
+  3D:
+    variables:
+      key: 3D  
+    sort_title: zzzzzz_zzzzzzzzzzzz03
+    smart_label: release.asc
+    collection_mode: hide
+    plex_all: true
+    filters:
+      filepath: 3D
+    label: MAINTENANCE   
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/resolution/3D.jpg
+#    only_run_on_create: true
+
+###################################################################
