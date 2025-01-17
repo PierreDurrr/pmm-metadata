@@ -55,12 +55,12 @@ collections:
 
 ###########################################################################################
 
-  28… plus tard - Saga:
-    name_mapping: 28 plus tard - Saga
-    template: {name: Collection, collection: 1565, summary: 1565}
-    trakt_list: 
-      - https://trakt.tv/users/murmelbahn/lists/28-collection?sort=released,desc
-    url_poster: https://theposterdb.com/poster/79660
+#  28… plus tard - Saga:
+#    name_mapping: 28 plus tard - Saga
+#    template: {name: Collection, collection: 1565, summary: 1565}
+#    trakt_list: 
+#      - https://trakt.tv/users/murmelbahn/lists/28-collection?sort=released,desc
+#    url_poster: https://theposterdb.com/poster/79660
 ##    collection_order: alpha
 #    collection_mode: hide_items
 #  300 - Saga:
