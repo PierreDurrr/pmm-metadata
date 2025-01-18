@@ -20,7 +20,7 @@ collections:
   Apple TV+ Top 10:
     sync_mode: sync
     smart_label: title.asc
-    sort_title: !030_Apple TV+_Top10
+    sort_title: "!030_Apple TV+_Top10" 
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
     trakt_list: https://trakt.tv/users/pierredurrr/lists/apple-tv-france-top10-shows-with-world-fallback
@@ -31,7 +31,7 @@ collections:
   Disney+ Top 10:
     sync_mode: sync
     smart_label: title.asc
-    sort_title: !030_Disney+_Top10
+    sort_title: "!030_Disney+_Top10" 
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
     trakt_list: https://trakt.tv/users/pierredurrr/lists/disney-france-top10-shows-with-world-fallback
@@ -42,7 +42,7 @@ collections:
   Netflix Top 10:
     sync_mode: sync
     smart_label: title.asc
-    sort_title: !030_Netflix_Top10
+    sort_title: "!030_Netflix_Top10" 
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
     trakt_list: https://trakt.tv/users/pierredurrr/lists/netflix-france-top10-shows-with-world-fallback
@@ -53,7 +53,7 @@ collections:
   Paramount+ Top 10:
     sync_mode: sync
     smart_label: title.asc
-    sort_title: !030_Paramount+_Top10
+    sort_title: "!030_Paramount+_Top10" 
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
     trakt_list: https://trakt.tv/users/pierredurrr/lists/paramount-plus-france-top10-shows-with-world-fallback
@@ -64,7 +64,7 @@ collections:
   Prime Video Top 10:
     sync_mode: sync
     smart_label: title.asc
-    sort_title: !030_Prime_Video_Top10
+    sort_title: "!030_Prime_Video_Top10" 
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
     trakt_list: https://trakt.tv/users/pierredurrr/lists/amazon-prime-france-top10-shows-with-world-fallback
