@@ -5,36 +5,70 @@ templates:
 
 collections:
 ### Genres
-  Anime:
+
+  Animes: # Collection regroupant les 2 collections indépendates "animes" et "animes kai/yabai/henshu"
     sync_mode: sync
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime.jpg
-    summary: Cette collection regroupe tout les animes disponibles sur Pierreflix. Des ajouts sont faits régulièrement.
+    summary: |+
+      Cette collection regroupe tout les animes disponibles sur Pierreflix. Ajouts réguliers.
+      Des versions Kaï / Yabai/ Henshū sont égalemet disponibles, c'est à dire fidèles aux mangas papiers. Explications !
+
+      Kaï 👇 
+      Re-montage de l’anime d’un manga au format de long-métrage avec la suppression de toute action filler à l’œuvre papier. Dans une recherche constante de la plus grande fidélité possible, nos monteurs s’assurent que l’expérience reçue en regardant l’anime kaïé soit au plus proche de celle reçue par les lecteurs du manga. Chaque kaï, qu'importe sa nature dispose d'une base originelle (Manga, light novel, roman...)
+
+      Yabai 👇
+      C'est la version évoluée du Kaï, il s'agit généralement d'un second kaï d'une œuvre déjà "kaïée", celle-ci se veut ultime, MULTI et 1080p.
+
+      Henshū 👇 
+      Il s'agit d'un Kaï sur un anime généralement court ou comportant peu de fillers (Exemple: One Punch Man Henshū).
+
+      FAN/CUT 👇 
+      Animes sans source, c'est donc des animes originaux remontés sous format films pour une expérience plus agréable avec une qualité des plus optimales et, quand c'est possible, en MULTI.
     mdblist_list: https://mdblist.com/lists/johnfawkes/crunchyroll
-#    trakt_list: 
-#      - https://trakt.tv/users/megatek23/lists/anime-collection?page=6&sort=rank,asc
-#      - https://trakt.tv/users/jjjonesjr33/lists/anilist-action
-#      - https://trakt.tv/users/jjjonesjr33/lists/anilist-ecchi 
-#      - https://trakt.tv/users/jjjonesjr33/lists/anilist-mecha
     collection_mode: show_items
     smart_label: title.asc
     sort_title: +++_Anime
-#    mal_search:
-#      genre:
-#        genre_id: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 36, 37, 38, 39, 40, 41, 42, 43, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81
+    smart_filter:
+      sort_by: title.asc
+      any:
+        studio:
+          - Fan-Kai
     mal_all: 500
     mal_airing: 500
     mal_upcoming: 100
     mal_tv: 200
     mal_popular: 200
-#    plex_search:
-#      any:
-#        genre: animation
-#    label.remove: Anime
-#    item_label.remove: Anime
-#    plex_all: true
-#    filters:
-#      filepath: 
-#        - /mnt/_SYNOLOGY/video/_Anime/
+
+#  Anime:
+#    sync_mode: sync
+#    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime.jpg
+#    summary: Cette collection regroupe tout les animes disponibles sur Pierreflix. Des ajouts sont faits régulièrement.
+#    mdblist_list: https://mdblist.com/lists/johnfawkes/crunchyroll
+##    trakt_list: 
+##      - https://trakt.tv/users/megatek23/lists/anime-collection?page=6&sort=rank,asc
+##      - https://trakt.tv/users/jjjonesjr33/lists/anilist-action
+##      - https://trakt.tv/users/jjjonesjr33/lists/anilist-ecchi 
+##      - https://trakt.tv/users/jjjonesjr33/lists/anilist-mecha
+#    collection_mode: show_items
+#    smart_label: title.asc
+#    sort_title: +++_Anime
+##    mal_search:
+##      genre:
+##        genre_id: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 36, 37, 38, 39, 40, 41, 42, 43, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81
+#    mal_all: 500
+#    mal_airing: 500
+#    mal_upcoming: 100
+#    mal_tv: 200
+#    mal_popular: 200
+##    plex_search:
+##      any:
+##        genre: animation
+##    label.remove: Anime
+##    item_label.remove: Anime
+##    plex_all: true
+##    filters:
+##      filepath: 
+##        - /mnt/_SYNOLOGY/video/_Anime/
 
   "Anime en cours":
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime-en-cours.jpg
@@ -48,32 +82,32 @@ collections:
         label: Anime
         plays.gt: 1
 
-  Anime Kaï / Yabai / Henshū:
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime.jpg
-    summary: |+
-      Cette collection regroupe tout les animes en version Kaï / Yabai/ Henshū, c'est à dire fidèles aux mangas papiers. Explications !
+#  Anime Kaï / Yabai / Henshū:
+#    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Anime.jpg
+#    summary: |+
+#      Cette collection regroupe tout les animes en version Kaï / Yabai/ Henshū, c'est à dire fidèles aux mangas papiers. Explications !
 
-      Kaï 👇 
-      Re-montage de l’anime d’un manga au format de long-métrage avec la suppression de toute action filler à l’œuvre papier. Dans une recherche constante de la plus grande fidélité possible, nos monteurs s’assurent que l’expérience reçue en regardant l’anime kaïé soit au plus proche de celle reçue par les lecteurs du manga. Chaque kaï, qu'importe sa nature dispose d'une base originelle (Manga, light novel, roman...)
+#      Kaï 👇 
+#      Re-montage de l’anime d’un manga au format de long-métrage avec la suppression de toute action filler à l’œuvre papier. Dans une recherche constante de la plus grande fidélité possible, nos monteurs s’assurent que l’expérience reçue en regardant l’anime kaïé soit au plus proche de celle reçue par les lecteurs du manga. Chaque kaï, qu'importe sa nature dispose d'une base originelle (Manga, light novel, roman...)
 
-      Yabai 👇
-      C'est la version évoluée du Kaï, il s'agit généralement d'un second kaï d'une œuvre déjà "kaïée", celle-ci se veut ultime, MULTI et 1080p.
+#      Yabai 👇
+#      C'est la version évoluée du Kaï, il s'agit généralement d'un second kaï d'une œuvre déjà "kaïée", celle-ci se veut ultime, MULTI et 1080p.
 
-      Henshū 👇 
-      Il s'agit d'un Kaï sur un anime généralement court ou comportant peu de fillers (Exemple: One Punch Man Henshū).
+#      Henshū 👇 
+#      Il s'agit d'un Kaï sur un anime généralement court ou comportant peu de fillers (Exemple: One Punch Man Henshū).
 
-      FAN/CUT 👇 
-      Animes sans source, c'est donc des animes originaux remontés sous format films pour une expérience plus agréable avec une qualité des plus optimales et, quand c'est possible, en MULTI.
-    collection_mode: show_items
-    sort_title: +++_Anime3
-    smart_filter:
-      sort_by: title.asc
-      any:
-#        genre:
-#          - Kaï
-#          - Yabai
-        studio:
-          - Fan-Kai
+#      FAN/CUT 👇 
+#      Animes sans source, c'est donc des animes originaux remontés sous format films pour une expérience plus agréable avec une qualité des plus optimales et, quand c'est possible, en MULTI.
+#    collection_mode: show_items
+#    sort_title: +++_Anime3
+#    smart_filter:
+#      sort_by: title.asc
+#      any:
+##        genre:
+##          - Kaï
+##          - Yabai
+#        studio:
+#          - Fan-Kai
 
 #  Gourmet Anime:
 #    mal_search:
