@@ -69,11 +69,11 @@ collections:
 #    template:
 #      name: separator
 
-  Collections Streaming:
-    template:
-      name: separator
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/separators/amethyst/streaming.jpg
-    sort_title: !!!!!!0002!_Aaaaaa
+#  Collections Streaming:
+#    template:
+#      name: separator
+#    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/separators/amethyst/streaming.jpg
+#    sort_title: !!!!!!0002!_Aaaaaa
 
   Maintenance:
     template:
