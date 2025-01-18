@@ -17,21 +17,10 @@ collections:
     visible_shared: true
     label: REPLEXHERO
 
-  Top 10 du jour Amazon Prime Video:
+  Apple TV+ Top 10:
     sync_mode: sync
     smart_label: title.asc
-    sort_title: +0_top10_amazon
-#    imdb_list:
-#      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/amazon-prime-france-top10-shows-with-world-fallback
-##      limit: 20
-    summary: Le top du jour sur Amazon Prime Video
-    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/prime_top_10.jpg
-
-  Top 10 du jour Apple TV+:
-    sync_mode: sync
-    smart_label: title.asc
-    sort_title: +0_top10_appletv
+    sort_title: !030_Apple TV+_Top10
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
     trakt_list: https://trakt.tv/users/pierredurrr/lists/apple-tv-france-top10-shows-with-world-fallback
@@ -39,10 +28,10 @@ collections:
     summary: Le top du jour sur Apple TV
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/apple_top_10.jpg
 
-  Top 10 du jour Disney+:
+  Disney+ Top 10:
     sync_mode: sync
     smart_label: title.asc
-    sort_title: +0_top10_disney
+    sort_title: !030_Disney+_Top10
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
     trakt_list: https://trakt.tv/users/pierredurrr/lists/disney-france-top10-shows-with-world-fallback
@@ -50,10 +39,10 @@ collections:
     summary: Le top du jour sur Disney+
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/disney_top_10.jpg
 
-  Top 10 du jour Netflix:
+  Netflix Top 10:
     sync_mode: sync
     smart_label: title.asc
-    sort_title: +0_top10_netflix
+    sort_title: !030_Netflix_Top10
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
     trakt_list: https://trakt.tv/users/pierredurrr/lists/netflix-france-top10-shows-with-world-fallback
@@ -61,10 +50,10 @@ collections:
     summary: Le top du jour sur Netflix
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/netflix_top_10.jpg
 
-  Top 10 du jour Paramount+:
+  Paramount+ Top 10:
     sync_mode: sync
     smart_label: title.asc
-    sort_title: +0_top10_paramount
+    sort_title: !030_Paramount+_Top10
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
     trakt_list: https://trakt.tv/users/pierredurrr/lists/paramount-plus-france-top10-shows-with-world-fallback
@@ -72,6 +61,16 @@ collections:
     summary: Le top du jour sur Paramount+
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/paramount_top_10.jpg
 
+  Prime Video Top 10:
+    sync_mode: sync
+    smart_label: title.asc
+    sort_title: !030_Prime_Video_Top10
+#    imdb_list:
+#      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/amazon-prime-france-top10-shows-with-world-fallback
+##      limit: 20
+    summary: Le top du jour sur Amazon Prime Video
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/refs/heads/master/chart/prime_top_10.jpg
 
 #  Top TEST TEST 10 du jour Disney+:
 #    sync_mode: sync
