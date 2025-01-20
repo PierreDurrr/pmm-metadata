@@ -9,6 +9,7 @@ templates:
   recommended_content:
     sort_title: "zzz_✨ Nouveau ! ✨ <<user>>, voici les films et séries tv recommandés pour toi"
     summary: "<<user>>, bienvenue dans tes recommandations personnalisées ! Cette collection de films et séries tv a été soigneusement sélectionnée en fonction de ton historique de visionnage et des notes que tu as données. Prépare-toi à découvrir une sélection sur mesure, parfaitement adaptée à tes goûts."
+    smart_label: title.asc
     conditionals:
       trakt_url:
 #        default: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
@@ -17,7 +18,8 @@ templates:
             value: https://trakt.tv/users/<<trakt_user>>/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
           - run_definition: movie
             value: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
-    trakt_list: <<trakt_url>>
+    trakt_list: 
+      - <<trakt_url>>
     limit: 40 
 #    url_poster: poster-a-ajouter
     collection_order: custom
