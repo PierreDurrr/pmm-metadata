@@ -79,7 +79,7 @@ collections:
     template:
       name: separator
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/separators/maintenance.jpg
-    sort_title: zzz_01_Maintenance
+    sort_title: zzz_✨ 01_Maintenance
 
 #  Genre Collections:
 #    template: { name: separator, order: "700" }
