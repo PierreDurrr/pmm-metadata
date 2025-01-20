@@ -14,7 +14,7 @@ templates:
       trakt_url:
         default: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
         conditions:
-          - run_definition: show
+          - library_type: show
             value: https://trakt.tv/users/<<trakt_user>>/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
           - run_definition: movie
             value: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
