@@ -12,7 +12,7 @@ templates:
     smart_label: title.asc
     conditionals:
       trakt_url:
-#        default: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+        default: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
         conditions:
           - run_definition: show
             value: https://trakt.tv/users/<<trakt_user>>/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
