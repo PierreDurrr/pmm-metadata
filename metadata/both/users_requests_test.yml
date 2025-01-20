@@ -22,7 +22,7 @@ templates:
       - <<trakt_url>>
     limit: 40 
 #    url_poster: poster-a-ajouter
-    collection_order: custom
+#    collection_order: custom
     collection_mode: show_items
     delete_below_minimum: false
     visible_shared: true
