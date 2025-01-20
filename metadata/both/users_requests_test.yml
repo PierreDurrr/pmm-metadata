@@ -7,8 +7,8 @@ external_templates:
 
 templates:
   recommended_content:
-    sort_title: "zzz_✨ Nouveau ! ✨ <<user>>, voici les <<content_type>> recommandés pour toi"
-    summary: "<<user>>, bienvenue dans tes recommandations personnalisées ! Cette collection de <<content_type>> a été soigneusement sélectionnée en fonction de ton historique de visionnage et des notes que tu as données. Prépare-toi à découvrir une sélection sur mesure, parfaitement adaptée à tes goûts."
+    sort_title: "zzz_✨ Nouveau ! ✨ <<user>>, voici les films et séries tv recommandés pour toi"
+    summary: "<<user>>, bienvenue dans tes recommandations personnalisées ! Cette collection de films et séries tv a été soigneusement sélectionnée en fonction de ton historique de visionnage et des notes que tu as données. Prépare-toi à découvrir une sélection sur mesure, parfaitement adaptée à tes goûts."
     optional:
       - content_type
     default:
@@ -31,7 +31,6 @@ templates:
     visible_library: true
     sync_mode: sync
     label:
-      - <<trakt_user>>
       - REPLEXHERO
 
 collections:
