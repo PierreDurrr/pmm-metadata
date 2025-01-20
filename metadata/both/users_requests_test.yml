@@ -11,7 +11,7 @@ templates:
     summary: "<<user>>, bienvenue dans tes recommandations personnalisées ! Cette collection de films et séries tv a été soigneusement sélectionnée en fonction de ton historique de visionnage et des notes que tu as données. Prépare-toi à découvrir une sélection sur mesure, parfaitement adaptée à tes goûts."
     conditionals:
       trakt_url:
-        default: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+#        default: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
         conditions:
           - run_definition: show
             value: https://trakt.tv/users/<<trakt_user>>/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
