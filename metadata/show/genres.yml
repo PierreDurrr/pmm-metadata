@@ -26,9 +26,9 @@ collections:
       Animes sans source, c'est donc des animes originaux remontés sous format films pour une expérience plus agréable avec une qualité des plus optimales et, quand c'est possible, en MULTI.
     mdblist_list: https://mdblist.com/lists/johnfawkes/crunchyroll
     collection_mode: show_items
-#    smart_label: title.asc
+    smart_label: title.asc
     sort_title: +++_Anime
-    smart_filter:
+    plex_search:
       sort_by: title.asc
       any:
         studio:
