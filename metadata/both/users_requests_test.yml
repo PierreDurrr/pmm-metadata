@@ -61,4 +61,7 @@ collections:
     template: {name: recommended_content, user: David, trakt_user: trakt_david}
 
   ✨ Yvonnick, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user:Yvonnick ,trakt_user :trakt_yvonnick}
+    template: {name: recommended_content, user: Yvonnick, trakt_user: trakt_yvonnick}
+ 
+  ✨ Philippe, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Philippe, trakt_user: trakt_philippe} 
