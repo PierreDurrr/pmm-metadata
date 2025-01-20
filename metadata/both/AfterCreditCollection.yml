@@ -29,5 +29,6 @@ collections:
     plex_all: true
     filters:
       tmdb_keyword: aftercreditsstinger, duringcreditsstinger
+      title.not: "Voldemort : Les Origines de l'Héritier"
     item_label: Scène post-générique  
     build_collection: false 
