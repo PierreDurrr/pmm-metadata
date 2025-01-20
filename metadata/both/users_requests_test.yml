@@ -1,0 +1,65 @@
+###########################
+#        Templates        #
+###########################
+external_templates:
+  repo: metadata/mytemplates.yml
+  default: templates  
+
+templates:
+  recommended_content:
+    sort_title: "zzz_✨ Nouveau ! ✨ <<user>>, voici les <<content_type>> recommandés pour toi"
+    summary: "<<user>>, bienvenue dans tes recommandations personnalisées ! Cette collection de <<content_type>> a été soigneusement sélectionnée en fonction de ton historique de visionnage et des notes que tu as données. Prépare-toi à découvrir une sélection sur mesure, parfaitement adaptée à tes goûts."
+    optional:
+      - content_type
+    default:
+      content_type: movies
+    conditionals:
+      trakt_url:
+        default: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+        conditions:
+          - run_definition: show
+            value: https://trakt.tv/users/<<trakt_user>>/lists/tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+          - run_definition: movie
+            value: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=rank,asc
+    trakt_list: <<trakt_url>>
+    limit: 40 
+#    url_poster: poster-a-ajouter
+    collection_order: custom
+    collection_mode: show_items
+    delete_below_minimum: false
+    visible_shared: true
+    visible_library: true
+    sync_mode: sync
+    label:
+      - <<trakt_user>>
+      - REPLEXHERO
+
+collections:
+  ✨ Pierre, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Pierre, trakt_user: pierredurrr}
+    visible_home: true
+    visible_shared: false
+
+  ✨ Élise, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Élise, trakt_user: trakt_elise}
+
+  ✨ Cindy, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Cindy, trakt_user: trakt_cindy}
+
+  ✨ Geraud, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Geraud, trakt_user: trakt_geraud}
+
+  ✨ Erwan, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Erwan, trakt_user: trakt_erwan}
+
+  ✨ Lenaic, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Lenaic, trakt_user: trakt_lenaic}
+
+  ✨ Camille, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Camille, trakt_user: trakt_camille}
+
+  ✨ David, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: David, trakt_user: trakt_david}
+
+  ✨ Yvonnick, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user:Yvonnick ,trakt_user :trakt_yvonnick}
