@@ -31,6 +31,7 @@ templates:
     sync_mode: sync
     label:
       - REPLEXHERO
+      - <<trakt_user>>
 
 collections:
   ✨ Pierre, voici les films et séries recommandés pour toi:
