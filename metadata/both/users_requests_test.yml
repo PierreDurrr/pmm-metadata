@@ -17,7 +17,7 @@ templates:
             value: "sonarr_taglist"
           - library_type: movie
             value: "radarr_taglist"
-    collection_order: added.desc
+    smart_label: added.desc
     collection_mode: show_items
     delete_below_minimum: false
     visible_shared: true
