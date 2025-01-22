@@ -14,9 +14,9 @@ templates:
 #        default: radarr_taglist: "<<overseerr_user>>"
         conditions:
           - library_type: show
-            value: "sonarr_taglist: "<<overseerr_user>>""
+            value: "sonarr_taglist: <<overseerr_user>>"
           - library_type: movie
-            value: "radarr_taglist: "<<overseerr_user>>""
+            value: "radarr_taglist: <<overseerr_user>>"
     collection_order: added.desc
     collection_mode: show_items
     delete_below_minimum: false
