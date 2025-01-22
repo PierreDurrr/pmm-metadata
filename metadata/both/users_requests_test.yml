@@ -23,6 +23,7 @@ templates:
     visible_shared: true
     visible_library: true
     sync_mode: sync
+    <<taglist>>
     label:
       - <<label>>
       - REPLEXHERO
