@@ -11,12 +11,12 @@ templates:
     summary: "<<summary>>"
     conditionals:
       taglist:
-        default: "sonarr_taglist:"
+        default: "sonarr_taglist"
         conditions:
           - library_type: show
-            value: "sonarr_taglist:"
+            value: "sonarr_taglist"
           - library_type: movie
-            value: "radarr_taglist:"
+            value: "radarr_taglist"
     collection_order: added.desc
     collection_mode: show_items
     delete_below_minimum: false
