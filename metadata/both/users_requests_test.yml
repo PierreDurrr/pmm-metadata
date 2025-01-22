@@ -11,19 +11,19 @@ templates:
     summary: "<<summary>>"
     conditionals:
       taglist:
-        default: "radarr_taglist: <<overseerr_user>>"
+        default: "radarr_taglist"
         conditions:
           - library_type: show
-            value: "sonarr_taglist: <<overseerr_user>>"
+            value: "sonarr_taglist:"
           - library_type: movie
-            value: "radarr_taglist: <<overseerr_user>>"
+            value: "radarr_taglist:"
     collection_order: added.desc
     collection_mode: show_items
     delete_below_minimum: false
     visible_shared: true
     visible_library: true
     sync_mode: sync
-    <<taglist>>: <<taglist>>
+    <<taglist>>: <<taglist>> <<overseerr_user>>
     label:
       - <<label>>
       - REPLEXHERO
