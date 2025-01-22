@@ -7,7 +7,7 @@ external_templates:
 
 templates:
   user_requests:
-    sort_title: "zzz_✨ Mes demandes z"
+    sort_title: "zzz_✨ Mes demandes"
     summary: "<<summary>>"
     conditionals:
       taglist:
@@ -42,9 +42,6 @@ templates:
 # - lenaic : "5 - mahatm12"
 # - philippenonnet : "19 - philippenonnet"
 # - sylvie : "7 - sylviemignot"
-
-
-
 
 ###########################
 #       Collections       #
