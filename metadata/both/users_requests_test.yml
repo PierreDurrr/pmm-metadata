@@ -11,7 +11,7 @@ templates:
     summary: "<<summary>>"
     conditionals:
       taglist:
-        default: "radarr_taglist"
+        default: "radarr_taglist:"
         conditions:
           - library_type: show
             value: "sonarr_taglist:"
