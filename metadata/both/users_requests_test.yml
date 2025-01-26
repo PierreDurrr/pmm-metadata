@@ -104,6 +104,7 @@ collections:
       label: davidlp_demandes
   
   Mes demandes 🦊:
+    template:
       name: user_requests
 #      user: Yvonnick
       overseerr_user: "2 - Crapulax"
@@ -111,6 +112,7 @@ collections:
       label: yvonnick_demandes
 
   Mes demandes 🐸:
+    template:
       name: user_requests
 #      user: Frédéric
       overseerr_user: "16 - lagaff 37"
@@ -118,6 +120,7 @@ collections:
       label: frederic_demandes    
 
   Mes demandes 🐣:
+    template:
       name: user_requests
 #      user: Philippe
       overseerr_user: "19 - philippenonnet"
