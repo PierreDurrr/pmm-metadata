@@ -6,7 +6,6 @@ templates:
 collections:
   Avatar Universe - Saga:  
     trakt_list: https://trakt.tv/users/pierredurrr/lists/avatar-universe-copy?sort=rank,asc
-    url_poster: https://theposterdb.com/api/assets/300227
     collection_mode: hide
     url_poster: https://theposterdb.com/api/assets/300227 #https://theposterdb.com/api/assets/72969
 
