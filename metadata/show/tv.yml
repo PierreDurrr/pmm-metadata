@@ -4,8 +4,9 @@ templates:
     sort_title: <<collection_name>>
 
 collections:
-  Avatar: 
-    template: {name: Show, show: "74852, 251085"}
+  Avatar Universe - Saga:  
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/avatar-universe-copy?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/300227
     collection_mode: hide
     url_poster: https://theposterdb.com/api/assets/300227 #https://theposterdb.com/api/assets/72969
 
@@ -60,6 +61,11 @@ collections:
     url_poster: https://theposterdb.com/api/assets/170776
     summary: "Dragon Ball Kai (ドラゴンボール 改, Doragon Bōru Kai ; Dragon Ball à nouveau) est un anime se voulant plus fidèle \nau manga Dragon Ball d’Akira Toriyama et basé sur la série d'animation Dragon Ball Z, pour célébrer les vingt ans de la série (1989-2009). \nLa Tôei Animation a ainsi décidé de remonter et de remastériser Dragon Ball Z avec notamment une réduction d’épisodes, \nle tout en HD"
     collection_mode: show_items
+
+  Fargo - Saga:  
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/fargo-saga?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/342157
+    collection_mode: hide
     
   Flamme et Flambeau:
     template: {name: Show, show: "371079, 420289"}
@@ -253,6 +259,11 @@ collections:
     collection_mode: hide
     collection_order: release
 #    url_poster: https://theposterdb.com/api/assets/416630
+
+  Vice-versa - Saga:  
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/inside-out-saga?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/528420
+    collection_mode: hide
 
   Zootopie - Saga:
     template: {name: Show, show: "393206"}
