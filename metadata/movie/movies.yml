@@ -210,6 +210,10 @@ collections:
 #  Avatar - Saga:
 #    template: {name: Collection, collection: 87096, summary: 87096}
 #    url_poster: https://theposterdb.com/api/assets/234621
+  Avatar Universe - Saga:  
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/avatar-universe-copy?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/300227
+    collection_mode: hide
   Avengers - Saga:
     template: {name: Collection-Smart, collection: 86311, summary: 86311}
     url_poster: https://theposterdb.com/api/assets/4816
@@ -661,6 +665,10 @@ collections:
 #  Fantasia - Saga:
 #    template: {name: Collection, collection: 55427, summary: 55427}
 #    url_poster: https://theposterdb.com/api/assets/162996
+  Fargo - Saga:  
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/fargo-saga?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/342157
+    collection_mode: hide
   Fast & Furious - Saga:
     template: {name: Collection, collection: 9485, summary: 9485}
     trakt_list: 
@@ -2172,6 +2180,10 @@ collections:
 #  Zoolander - Saga:
 #    template: {name: Collection, collection: 352789, summary: 352789}
 #    url_poster: https://theposterdb.com/api/assets/166274 
+  Vice-versa - Saga:  
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/inside-out-saga?sort=rank,asc
+    url_poster: https://theposterdb.com/api/assets/528420
+    collection_mode: hide
   Zootopie - Saga:
     trakt_list: https://trakt.tv/users/pierredurrr/lists/zootopia-saga?sort=rank,asc
     collection_mode: hide
