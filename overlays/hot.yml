@@ -13,7 +13,7 @@ templates:
       horizontal_align: left
       vertical_offset: 15
       vertical_align: top
-      back_color: "#00000099"
+      back_color: "#f2f2f2" #"#00000099"
       back_radius: 30
       back_width: 160
       back_height: 160
