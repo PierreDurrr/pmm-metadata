@@ -1,0 +1,21 @@
+collections:
+  Remove-Multiple-Labels:
+    build_collection: false
+    item_label.remove: &labels
+      - 8
+      - "✨ Pierre, voici les films et séries recommandés pour toi"
+      - "✨ Élise, voici les films et séries recommandés pour toi"
+      - "✨ Cindy, voici les films et séries recommandés pour toi"
+      - "✨ Geraud, voici les films et séries recommandés pour toi"
+      - "✨ Erwan, voici les films et séries recommandés pour toi"
+      - "✨ Lenaic, voici les films et séries recommandés pour toi"
+      - "✨ Camille, voici les films et séries recommandés pour toi"
+      - "✨ Philippe, voici les films et séries recommandés pour toi"
+      - "✨ David, voici les films et séries recommandés pour toi"
+      - "✨ Yvonnick, voici les films et séries recommandés pour toi"
+      - "✨ Frédéric, voici les films et séries recommandés pour toi"
+      - pouet
+      - "Share::pouet"
+    plex_search:
+      any:
+        label: *labels
