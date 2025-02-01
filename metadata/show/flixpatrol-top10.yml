@@ -3,7 +3,7 @@ collections:
   En ce moment sur Apple TV, Disney+, Netflix, Paramount, et Prime Video:
 #    collection_order: custom
     sort_title: zzzz_00TopToday
-    smart_label: random #added.desc
+    smart_label: added.desc
     trakt_list:
       - https://trakt.tv/users/pierredurrr/lists/amazon-prime-france-top10-shows-with-world-fallback
       - https://trakt.tv/users/pierredurrr/lists/apple-tv-france-top10-shows-with-world-fallback
