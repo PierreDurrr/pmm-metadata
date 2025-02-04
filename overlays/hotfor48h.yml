@@ -1,5 +1,5 @@
 templates:
-  hot:
+  HOTFOR48H:
     optional:
       - overlay_level
     default:
@@ -20,9 +20,10 @@ templates:
 
 overlays:
 
-  hot:
+  HOTFOR48H:
     template:
       - name: hot
     plex_all: true
     filters:
-      added.after: today
+      label: "HOTFOR48H-OVERLAY"
+#      added.after: today
