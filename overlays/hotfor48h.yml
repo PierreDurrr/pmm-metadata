@@ -22,7 +22,7 @@ overlays:
 
   HOTFOR48H:
     template:
-      - name: hot
+      - name: HOTFOR48H
     plex_all: true
     filters:
       label: "HOTFOR48H-OVERLAY"
