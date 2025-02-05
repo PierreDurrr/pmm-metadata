@@ -16,41 +16,41 @@ metadata:
 ###################################################################
 #          STAR WARS                 ##############################
 ###################################################################
-#  "Star Wars, épisode I - La Menace fantôme":
-#    sort_title: "01Star Wars, épisode I - La Menace fantôme"
+  "Star Wars, épisode I - La Menace fantôme":
+    sort_title: "01Star Wars, épisode I - La Menace fantôme"
 #    url_poster:
-#  "Star Wars, épisode II - L'Attaque des clones":
-#    sort_title: "02Star Wars, épisode II - L'Attaque des clones"
+  "Star Wars, épisode II - L'Attaque des clones":
+    sort_title: "02Star Wars, épisode II - L'Attaque des clones"
 #    url_poster:
-#  "Star Wars, épisode III - La Revanche des Sith":
-#    sort_title: "03Star Wars, épisode III - La Revanche des Sith"
+  "Star Wars, épisode III - La Revanche des Sith":
+    sort_title: "03Star Wars, épisode III - La Revanche des Sith"
 #    url_poster:
-#  "Solo: A Star Wars Story":
-#    sort_title: "04Solo: A Star Wars Story"
+  "Solo: A Star Wars Story":
+    sort_title: "04Solo: A Star Wars Story"
 #    url_poster:
-#  Rogue One - A Star Wars Story:
-#    sort_title: "05Rogue One - A Star Wars Story"
+  Rogue One - A Star Wars Story:
+    sort_title: "05Rogue One - A Star Wars Story"
 #    url_poster:
-#  La Guerre des étoiles:
-#    sort_title: "06La Guerre des étoiles" 
+  La Guerre des étoiles:
+    sort_title: "06La Guerre des étoiles" 
 #    url_poster:
-#  "L'Empire contre-attaque":
-#    sort_title: "07L'Empire contre-attaque"  
+  "L'Empire contre-attaque":
+    sort_title: "07L'Empire contre-attaque"  
 #    url_poster:
-#  "Le Retour du Jedi":    
-#    sort_title: "08Le Retour du Jedi"
+  "Le Retour du Jedi":    
+    sort_title: "08Le Retour du Jedi"
 #    url_poster:
-#  "Star Wars : Le Réveil de la Force":    
-#    sort_title: "09Star Wars : Le Reveil de la Force"
+  "Star Wars : Le Réveil de la Force":    
+    sort_title: "09Star Wars : Le Reveil de la Force"
 #    url_poster:
-#  "Star Wars : Les Derniers Jedi":
-#    sort_title: "10Star Wars : Les Derniers Jedi"
+  "Star Wars : Les Derniers Jedi":
+    sort_title: "10Star Wars : Les Derniers Jedi"
 #    url_poster:
-#  "Star Wars, épisode IX - L'Ascension de Skywalker":
-#    sort_title: "11Star Wars, épisode IX - L'Ascension de Skywalker"
+  "Star Wars, épisode IX - L'Ascension de Skywalker":
+    sort_title: "11Star Wars, épisode IX - L'Ascension de Skywalker"
 #    url_poster:
-#  "Au temps de la guerre des étoiles":
-#    sort_title: "1000Au temps de la guerre des étoiles"
+  "Au temps de la guerre des étoiles":
+    sort_title: "1000Au temps de la guerre des étoiles"
 #    url_poster:
 
 ###################################################################
