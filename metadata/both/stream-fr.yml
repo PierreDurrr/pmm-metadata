@@ -29,7 +29,7 @@ collections:
       sort_by: popularity.desc
     limit: 100    
 
-  France TV:
+  YouTube:
     collection_order: random
     sync_mode: sync
     tmdb_discover:
