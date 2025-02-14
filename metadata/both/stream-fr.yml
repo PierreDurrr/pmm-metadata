@@ -1,0 +1,40 @@
+collections:
+  Arte.tv:
+    collection_order: random
+    sync_mode: sync
+    tmdb_discover:
+      with_watch_providers: 234
+      watch_region: FR
+      limit: 200
+      sort_by: popularity.desc
+    limit: 100
+
+  BrutX:
+    collection_order: random
+    sync_mode: sync
+    tmdb_discover:
+      with_watch_providers: 1887
+      watch_region: FR
+      limit: 200
+      sort_by: popularity.desc
+    limit: 100    
+
+  France TV:
+    collection_order: random
+    sync_mode: sync
+    tmdb_discover:
+      with_watch_providers: 236
+      watch_region: FR
+      limit: 200
+      sort_by: popularity.desc
+    limit: 100    
+
+  France TV:
+    collection_order: random
+    sync_mode: sync
+    tmdb_discover:
+      with_watch_providers: 192
+      watch_region: FR
+      limit: 200
+      sort_by: popularity.desc
+    limit: 100      
