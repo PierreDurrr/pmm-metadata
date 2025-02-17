@@ -103,7 +103,7 @@ templates:
             key: [canal]
             value: "-fr"      
       mdblist_list_canal:
-        default: https://mdblist.com/lists/pierredurrr/canal-original-series
+        default: 
         conditions:
           - library_type: show
             key: [canal]
