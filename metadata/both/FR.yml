@@ -1,0 +1,317 @@
+##############################################################################
+#                           Streaming Collections                            #
+#                 Created by Yozora, Bullmoose20, & Sohjiro                  #
+#          EDITING THIS FILE MAY CAUSE PULLING NEW UPDATES TO FAIL           #
+#      https://metamanager.wiki/en/latest/defaults/both/streaming.html       #
+##############################################################################
+external_templates:
+  default: templates
+  template_variables:
+    collection_section: "030"
+    url_poster: https://theposterdb.com/api/assets/202699
+
+templates:
+  streaming:
+    optional:
+      - use_<<key>>
+      - use_<<tmdb_key>>
+      - allowed_libraries
+      - originals_only
+    conditionals:
+      discover_sort:
+        conditions:
+          - originals_only: false
+            library_type: movie
+            value: popularity.desc
+          - originals_only: false
+            library_type: show
+            value: popularity.desc
+      originals:
+        conditions:
+          - originals_only: true
+            value: originals
+      discover_region:
+        conditions:
+          - originals_only: false
+            value: <<region>>
+      final_tmdb_key:
+        default: <<tmdb_key>>
+        conditions:
+          - region: [CA, AU, NL]
+            tmdb_key: [9]
+            value: 119
+      discover_with:
+        conditions:
+          - originals_only: false
+            value: <<final_tmdb_key>>
+      discover_limit:
+        conditions:
+          - originals_only: false
+            value: 0
+      allowed_streaming:
+        conditions:
+          - originals_only: true
+            tmdb_key: [103, 1759, 151, 230, 283, 510, 39, 37, 188]
+            value: False
+          - region.not: GB
+            tmdb_key: [103, 151, 39]
+            value: False
+          - region.not: CA
+            tmdb_key: [230]
+            value: False
+          - region: CA
+            tmdb_key: [1899, 37]
+            value: False
+    default:
+      region: "US"
+      limit: "500"
+      sync_mode: sync
+      sync_mode_<<key>>: <<sync_mode>>
+      discover_with_<<key>>: <<discover_with>>
+      sort_by: release.desc
+      sort_by_<<key>>: <<sort_by>>
+    run_definition:
+      - <<use_<<key>>>>
+      - <<use_<<tmdb_key>>>>
+      - <<allowed_libraries>>
+      - <<allowed_streaming>>
+    cache_builders: 1
+    smart_label: <<sort_by_<<key>>>>
+    sync_mode: <<sync_mode_<<key>>>>
+    mdblist_list: https://mdblist.com/lists/k0meta/<<key>>-<<originals>>
+    limit: <<limit>>
+    tmdb_discover:
+      limit: <<discover_limit>>
+      with_watch_providers: <<discover_with_<<key>>>>
+      watch_region: <<discover_region>>
+      sort_by: <<discover_sort>>
+
+  mdb_streaming:
+    optional:
+      - use_<<key>>
+      - allowed_libraries
+    conditionals:
+      allowed_streaming:
+        conditions:
+          - region: fr
+            key: [canal]
+            value: True
+      watch_region:
+        default: ""
+        conditions:
+          - region: fr
+            key: [canal]
+            value: "-fr"      
+    default:
+      sync_mode: sync
+      sync_mode_<<key>>: <<sync_mode>>
+      sort_by: release.desc
+      sort_by_<<key>>: <<sort_by>>
+    run_definition:
+      - <<use_<<key>>>>
+      - <<allowed_libraries>>
+      - <<allowed_streaming>>
+    cache_builders: 1
+    smart_label: <<sort_by_<<key>>>>
+    sync_mode: <<sync_mode_<<key>>>>
+    mdblist_list: https://mdblist.com/lists/pierredurrr/<<key>>-<<library_type>>s
+
+collections:
+  Streaming Collections:
+    template:
+      - name: separator
+        separator: streaming
+        key_name: Streaming
+        translation_key: separator
+
+dynamic_collections:
+  Streaming:
+    type: custom
+    data:
+#      actionmax: Action Max
+#      adn: Animation Digital Network
+#      adnplus: Animation Digital Network+
+#      animedn: Anime Digital Network
+#      apollo: Apollo
+#      appletv: Apple TV
+#      appletvplus: Apple TV+
+      arte: Arte.tv
+#      bbox: Bbox VOD
+#      benshi: Benshi
+#      broadwayhd: BroadwayHD
+      brutx: BrutX
+#      canalvod: Canal VOD
+      canal: Canal+
+#      canalseries: Canal+ Séries
+#      cineplus: Cine+ OCS
+#      cinemas: Cinemas a la Demande
+#      crunchyroll: Crunchyroll
+#      cultpix: Cultpix
+#      curiosity: Curiosity Stream
+#      docsville: DOCSVILLE
+#      dekkoo: Dekkoo
+#      disney: Disney+
+#      docalliance: DocAlliance Films
+#      eventive: Eventive
+#      filmo: FILMO
+#      filmbox: FilmBox+
+#      filmzie: Filmzie
+      francetv: France TV
+#      googleplay: Google Play Movies
+#      hayu: Hayu
+#      hoichoi: Hoichoi
+#      inamadelen: INA madelen
+#      insomnia: Insomnia
+#      justwatchtv: JustWatchTV
+#      lacinetek: LaCinetek
+#      m6plus: M6+
+#      mgm: MGM
+#      mubi: MUBI
+#      magellantv: Magellan TV
+#      max: Max
+#      microsoft: Microsoft Store
+#      molotov: Molotov TV
+#      netflix: Netflix
+#      netflixads: Netflix basic with Ads
+#      orange: Orange VOD
+#      paramount: Paramount Plus
+#      paramountpremium: Paramount Plus Premium
+#      plex: Plex
+#      plexchannel: Plex Channel
+      pluto: Pluto TV
+#      premieremax: Premiere Max
+#      primevideo: Prime Video
+#      rakuten: Rakuten TV
+#      runtime: Runtime
+#      sfrplay: SFR Play
+#      shadowz: Shadowz
+#      shahidvip: Shahid VIP
+#      shortstv: ShortsTV
+#      spamflix: Spamflix
+#      sunnxt: Sun Nxt
+#      tf1plus: TF1+
+#      takflix: Takflix
+#      tenk: Tenk
+#      truestory: True Story
+#      univervideo: Univer Video
+#      universal: Universal Pictures
+#      universalplus: Universal+
+#      universcine: Universcine
+#      viva: VIVA by videofutur
+#      wowplus: WOW Presents Plus
+#      youtube: YouTube
+#      youtubepremium: YouTube Premium
+#      filmfriend: filmfriend
+    title_format: <<key_name>> <<library_typeU>>s
+    template:
+      - streaming
+      - mdb_streaming
+      - shared
+      - arr
+    template_variables:
+      image:
+        default: streaming/<<style>>/<<key_name_encoded>>
+      tmdb_key:
+#        actionmax: 1733
+#        adn: 415
+#        adnplus: 1888
+#        animedn: 2173
+#        apollo: 1912
+#        appletv: 2
+#        appletvplus: 350
+        arte: 234
+#        bbox: 59
+#        benshi: 1738
+#        broadwayhd: 554
+        brutx: 1887
+#        canalvod: 58
+#        canalplus: 381
+#        canalseries: 345
+#        cineplus: 685
+#        cinemas: 324
+#        crunchyroll: 283
+#        cultpix: 692
+#        curiosity: 190
+#        docsville: 475
+#        dekkoo: 444
+#        disney: 337
+#        docalliance: 569
+#        eventive: 677
+#        filmo: 138
+#        filmbox: 701
+#        filmzie: 559
+        francetv: 236
+#        googleplay: 3
+#        hayu: 223
+#        hoichoi: 315
+#        inamadelen: 1737
+#        insomnia: 1735
+#        justwatchtv: 2285
+#        lacinetek: 310
+#        m6plus: 147
+#        mgm: 588
+#        mubi: 11
+#        magellantv: 551
+#        max: 1899
+#        microsoft: 68
+#        molotov: 1967
+#        netflix: 8
+#        netflixads: 1796
+#        orange: 61
+#        paramount: 531
+#        paramountpremium: 2303
+#        plex: 538
+#        plexchannel: 2077
+        pluto: 300
+#        premieremax: 2307
+#        primevideo: 119
+#        rakuten: 35
+#        runtime: 1875
+#        sfrplay: 193
+#        shadowz: 513
+#        shahidvip: 1715
+#        shortstv: 688
+#        spamflix: 521
+#        sunnxt: 309
+#        tf1plus: 1754
+#        takflix: 1771
+#        tenk: 550
+#        truestory: 567
+#        univervideo: 1860
+#        universal: 184
+#        universalplus: 1889
+#        universcine: 239
+#        viva: 2286
+#        wowplus: 546
+#        youtube: 192
+#        youtubepremium: 188
+#        filmfriend: 542
+      originals_only:
+        default: false
+      allowed_libraries:
+        apollo: movie
+        canalseries: show
+        cinemas: movie
+        docalliance: movie
+        eventive: movie
+        filmo: movie
+        filmzie: movie
+        googleplay: movie
+        hayu: show
+        lacinetek: movie
+        mubi: movie
+        shadowz: movie
+        sfrplay: show
+        shortstv: movie
+        spamflix: movie
+        takflix: movie
+        tenk: movie
+        truestory: movie
+        universal: movie
+        universcine: movie
+      translation_key:
+        default: streaming
+      dynamic:
+        default: true
+      style:
+        default: color
