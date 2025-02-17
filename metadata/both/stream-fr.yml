@@ -29,12 +29,12 @@ collections:
       sort_by: popularity.desc
     limit: 100    
 
-  YouTube:
-    collection_order: random
-    sync_mode: sync
-    tmdb_discover:
-      with_watch_providers: 192
-      watch_region: FR
-      limit: 200
-      sort_by: popularity.desc
-    limit: 100      
+#  YouTube:
+#    collection_order: random
+#    sync_mode: sync
+#    tmdb_discover:
+#      with_watch_providers: 192
+#      watch_region: FR
+#      limit: 200
+#      sort_by: popularity.desc
+#    limit: 100      
