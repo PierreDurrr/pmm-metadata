@@ -1,6 +1,6 @@
 collections:
   Arte.tv:
-    collection_order: random
+    smart_label: release.desc
     sync_mode: sync
     tmdb_discover:
       with_watch_providers: 234
@@ -10,7 +10,7 @@ collections:
     limit: 100
 
   BrutX:
-    collection_order: random
+    smart_label: release.desc
     sync_mode: sync
     tmdb_discover:
       with_watch_providers: 1887
@@ -19,8 +19,18 @@ collections:
       sort_by: popularity.desc
     limit: 100    
 
+  CAAANAAAL+++:
+    smart_label: release.desc
+    sync_mode: sync
+    tmdb_discover:
+      with_watch_providers: 381
+      watch_region: FR
+      limit: 200
+      sort_by: popularity.desc
+    limit: 100
+
   France TV:
-    collection_order: random
+    smart_label: release.desc
     sync_mode: sync
     tmdb_discover:
       with_watch_providers: 236
