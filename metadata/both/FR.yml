@@ -114,7 +114,7 @@ templates:
     cache_builders: 1
     smart_label: <<sort_by_<<key>>>>
     sync_mode: <<sync_mode_<<key>>>>
-    mdblist_list: https://mdblist.com/lists/pierredurrr/<<key>>-<<library_type>>s
+    mdblist_list: https://mdblist.com/lists/pierredurrr/canal-original-series
 
 collections:
   Streaming Collections:
