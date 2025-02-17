@@ -103,7 +103,7 @@ templates:
             key: [canal]
             value: "-fr"      
       mdblist_list_canal:
-        default: 
+#        default: 
         conditions:
           - library_type: show
             key: [canal]
