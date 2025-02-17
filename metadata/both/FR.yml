@@ -105,11 +105,11 @@ templates:
       mdblist_list_canal:
 #        default: 
         conditions:
-          - library_type: show
-            key: [canal]
+          - key: [canal]
+            library_type: show
             value: https://mdblist.com/lists/pierredurrr/canal-original-series
-          - library_type: movie
-            key: [canal]
+          - key: [canal]
+            library_type: movie
             value: https://mdblist.com/lists/pierredurrr/canal-original-films      
     default:
       sync_mode: sync
