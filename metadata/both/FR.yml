@@ -106,10 +106,10 @@ templates:
         default: https://mdblist.com/lists/pierredurrr/canal-original-series
         conditions:
           - library_type: show
-            key: canal
+            key: [canal]
             value: https://mdblist.com/lists/pierredurrr/canal-original-series
           - library_type: movie
-            key: canal
+            key: [canal]
             value: https://mdblist.com/lists/pierredurrr/canal-original-films      
     default:
       sync_mode: sync
