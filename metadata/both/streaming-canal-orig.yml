@@ -28,6 +28,13 @@ templates:
           - region: fr
             key: [canal]
             value: "-fr"      
+      mdblist_list_canal:
+        default: https://mdblist.com/lists/pierredurrr/canal-original-series
+        conditions:
+          - library_type: show
+            value: https://mdblist.com/lists/pierredurrr/canal-original-series
+          - library_type: movie
+            value: https://mdblist.com/lists/pierredurrr/canal-original-films      
     default:
       sync_mode: sync
       sync_mode_<<key>>: <<sync_mode>>
@@ -41,7 +48,7 @@ templates:
     smart_label: <<sort_by_<<key>>>>
     sync_mode: <<sync_mode_<<key>>>>
 #    mdblist_list: https://mdblist.com/lists/pierredurrr/<<key>>-<<library_type>>s
-    mdblist_list: https://mdblist.com/lists/pierredurrr/canal-original-series
+    mdblist_list: <<mdblist_list_canal>>
 
 collections:
   Streaming Collections:
