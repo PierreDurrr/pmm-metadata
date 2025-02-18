@@ -22,7 +22,7 @@ templates:
       - <<trakt_url>>
 #    plex_all: false
 #    limit: 40 
-#    url_poster: poster-a-ajouter
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Mes%20Recommandations.jpg
 #    collection_order: custom
     collection_mode: show_items
     delete_below_minimum: false
