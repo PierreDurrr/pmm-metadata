@@ -109,7 +109,7 @@ dynamic_collections:
 #      canalseries: Canal+ Séries
 #      cineplus: Cine+ OCS
 #      cinemas: Cinemas a la Demande
-#      crunchyroll: Crunchyroll
+      crunchyroll: Crunchyroll
 #      cultpix: Cultpix
 #      curiosity: Curiosity Stream
 #      docsville: DOCSVILLE
@@ -192,7 +192,7 @@ dynamic_collections:
 #        canalseries: 345
 #        cineplus: 685
 #        cinemas: 324
-#        crunchyroll: 283
+        crunchyroll: 283
 #        cultpix: 692
 #        curiosity: 190
 #        docsville: 475
