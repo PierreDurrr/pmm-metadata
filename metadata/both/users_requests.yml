@@ -9,6 +9,7 @@ templates:
   user_requests:
     sort_title: "zzz_✨ Mes demandes"
     summary: "<<summary>>"
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Mes%20Demandes.jpg
     conditionals:
       taglist:
         default: "sonarr_taglist"
