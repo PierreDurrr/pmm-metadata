@@ -29,7 +29,7 @@ templates:
     visible_shared: true
     visible_library: true
     sync_mode: sync
-    only_run_on_create: true
+    build_collection: false
     label:
       - REPLEXHERO
       - <<trakt_user>>
