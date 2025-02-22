@@ -7,7 +7,8 @@ external_templates:
 
 templates:
   recommended_content:
-    sort_title: "zzz_✨ Nouveau ! ✨ <<user>>, voici les films et séries tv recommandés pour toi"
+#    sort_title: "zzz_✨ Nouveau ! ✨ <<user>>, voici les films et séries tv recommandés pour toi"
+    sort_title: "zzz_Nouveau ! <<user>>, voici les films et séries tv recommandés pour toi"
     summary: "<<user>>, bienvenue dans tes recommandations personnalisées ! Cette collection de films et séries tv a été soigneusement sélectionnée en fonction de ton historique de visionnage et des notes que tu as données. Prépare-toi à découvrir une sélection sur mesure, parfaitement adaptée à tes goûts."
     smart_label: title.asc
     conditionals:
@@ -34,40 +35,41 @@ templates:
       - <<trakt_user>>
 
 collections:
-  ✨ Pierre, voici les films et séries recommandés pour toi:
+#  ✨ Pierre, voici les films et séries recommandés pour toi:
+  Pierre, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Pierre, trakt_user: pierredurrr}
     visible_home: true
     visible_shared: false
 
-  ✨ Élise, voici les films et séries recommandés pour toi:
+  Élise, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Élise, trakt_user: elise-trakt}
 
-  ✨ Cindy, voici les films et séries recommandés pour toi:
+  Cindy, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Cindy, trakt_user: cindy-trakt}
 
-  ✨ Geraud, voici les films et séries recommandés pour toi:
+  Geraud, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Geraud, trakt_user: geraud-trakt}
 
-  ✨ Erwan, voici les films et séries recommandés pour toi:
+  Erwan, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Erwan, trakt_user: erwan-trakt}
 
-  ✨ Lenaic, voici les films et séries recommandés pour toi:
+  Lenaic, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Lenaic, trakt_user: lenaic-trakt}
 
-  ✨ Camille, voici les films et séries recommandés pour toi:
+  Camille, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Camille, trakt_user: camille-trakt}
 
-  ✨ David, voici les films et séries recommandés pour toi:
+  David, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: David, trakt_user: davidlp-trakt}
 
-  ✨ Yvonnick, voici les films et séries recommandés pour toi:
+  Yvonnick, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Yvonnick, trakt_user: yvonnick-trakt}
  
-  ✨ Philippe, voici les films et séries recommandés pour toi:
+  Philippe, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Philippe, trakt_user: nonnetp-trakt} 
 
-  ✨ Sylvie, voici les films et séries recommandés pour toi:
+  Sylvie, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Sylvie, trakt_user: sylvie-trakt} 
 
-  ✨ Frédéric, voici les films et séries recommandés pour toi:
+  Frédéric, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Frédéric, trakt_user: frederic-trakt}     
