@@ -27,6 +27,7 @@ collections:
     schedule: all[weekly(tuesday|wednesday), hourly(6)]
     delete_not_scheduled: false
     sync_to_trakt_list: mardisurtrakt
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/mardi.jpg
     #trakt_list: https://trakt.tv/users/pierredurrr/lists/MardiSurTrakt  OPTIONAL TWO-WAY SYNC
 
   Add Mardi c'est permis:
