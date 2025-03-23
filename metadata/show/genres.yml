@@ -79,7 +79,8 @@ collections:
     smart_filter:
       all:
         episode_unplayed: true
-        label: Anime
+#        label: Anime
+        genre: Anime
         plays.gt: 1
 
 #  Anime Kaï / Yabai / Henshū:
