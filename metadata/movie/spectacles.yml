@@ -11,7 +11,7 @@ collections:
     plex_all: true
     filters:
       filepath: 
-        - /mnt/_SYNOLOGY/video/_Spectacles/
+        - /mnt/_SYNOLOGY/media/video/_Spectacles/
 #    visible_home: true
 #    visible_shared: true
     smart_label: release.desc 
