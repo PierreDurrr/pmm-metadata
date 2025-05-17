@@ -1,0 +1,21 @@
+external_templates:
+  default: templates
+  repo: metadata/mytemplates.yml
+
+collections:
+
+  Nanarland:
+#    collection_order: alpha
+    collection_mode: hide_items
+    sort_title: "!!!!!0008!_Nanarland"
+    plex_all: true
+    filters:
+      filepath: 
+        - /mnt/_SYNOLOGY/media/video/_Nanarland/
+    smart_label: release.desc 
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/nanarland-all-movies-31323404?sort=rank,asc
+    label: 
+      - MAINTENANCE
+      - nanarland
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Stand-Up.jpg
