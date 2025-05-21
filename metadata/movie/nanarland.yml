@@ -7,6 +7,10 @@ collections:
   Nanarland:
 #    collection_order: alpha
     collection_mode: hide_items
+    summary: |+
+      En français, il existe un mot spécifique pour désigner les films tellement mauvais qu’ils en deviennent involontairement hilarants, les « nanar ». De nombreux cinéphiles français apprécient sincèrement ces films, pas seulement pour s’en moquer. 
+      
+      Depuis 2001, le site Nanarland publie des critiques de ces films « tellement mauvais qu’ils en deviennent bons », et une large communauté de fans en discute sur le forum en ligne.
     sort_title: "!!!!!0008!_Nanarland"
     plex_all: true
     filters:
