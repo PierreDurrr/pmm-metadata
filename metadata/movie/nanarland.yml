@@ -16,10 +16,9 @@ collections:
     filters:
       filepath: 
         - /mnt/_SYNOLOGY/media/video/_Nanarland/
-    smart_label: release.desc 
+    smart_label: title.asc 
     trakt_list:
       - https://trakt.tv/users/pierredurrr/lists/nanarland-all-movies-31323404?sort=rank,asc
-    label: 
-      - MAINTENANCE
+    label:
       - nanarland
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Zombie-Comedy.jpg
