@@ -10,6 +10,7 @@ collections:
       - https://trakt.tv/users/pierredurrr/lists/disney-france-top10-shows-with-world-fallback
       - https://trakt.tv/users/pierredurrr/lists/netflix-france-top10-shows-with-world-fallback
       - https://trakt.tv/users/pierredurrr/lists/paramount-plus-france-top10-shows-with-world-fallback
+    sync_mode: sync
     summary: "Le top 10 des plateformes aujourd'hui"
 #    url_poster:
     visible_home: true
