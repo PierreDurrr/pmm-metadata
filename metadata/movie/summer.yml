@@ -6,7 +6,7 @@ templates:
       - https://trakt.tv/users/martincz29/lists/summer-movies?sort=rank,asc
       - https://trakt.tv/users/lyssierose/lists/summer-movies?sort=rank,asc
     #collection_order: custom.desc
-    #sync_mode: sync
+    sync_mode: sync
     visible_home: range(07/01-08/31)
     visible_shared: range(07/01-08/31)
     visible_library: range(07/01-08/31)
