@@ -1,0 +1,25 @@
+templates:
+  summer:
+    sort_title: zzz_Summer
+    trakt_list:
+      - https://trakt.tv/users/franko12/lists/summer-movies?sort=rank,asc
+    collection_order: custom.desc
+    visible_home: range(07/01-08/31)
+    visible_shared: range(07/01-08/31)
+    visible_library: range(07/01-08/31)
+    delete_not_scheduled: false
+    label: REPLEXHERO
+#    summary: |
+#        Il est temps !
+#        On ouvre son chocolat/vin/fromage/douceur du jour, on s'installe confortablement sous le plaid, et on regarde le film du jour.
+
+#        Bonne soirée !
+
+#        NOTE: cette collection sera mise à jour chaque jour, et sera disponible jusqu'au 05/01.
+
+collections:
+  Summer Holidays:
+    name: "🌞 🌊 ¡Qué calor! C'est l'été, on profite ! 🌊 🌞" 
+    template:
+      name: summer
+    schedule: range(07/01-08/31)
