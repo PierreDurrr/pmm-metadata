@@ -7,16 +7,17 @@ templates:
       weight: 30
     overlay:
       name: <<overlay_name>>
-      url: https://raw.githubusercontent.com/PierreDurrr/pmm-metadata/master/overlays/images/fire.png
-      weight: <<weight>>
-      horizontal_offset: 15
-      horizontal_align: left
-      vertical_offset: 15
-      vertical_align: top
-      back_color: "#00000040" #"#00000099"
-      back_radius: 30
-      back_width: 160
-      back_height: 160
+      url: https://raw.githubusercontent.com/Entree3k/Plex/refs/heads/main/Plex%20Meta%20Manager%20Configs/Overlays/images/trending.png
+      #url: https://raw.githubusercontent.com/PierreDurrr/pmm-metadata/master/overlays/images/fire.png
+      #weight: <<weight>>
+      #horizontal_offset: 15
+      #horizontal_align: left
+      #vertical_offset: 15
+      #vertical_align: top
+      #back_color: "#00000040" #"#00000099"
+      #back_radius: 30
+      #back_width: 160
+      #back_height: 160
 
 overlays:
 
