@@ -28,7 +28,7 @@ collections:
     collection_order: custom
     collection_mode: hide_items
     sync_mode: sync
-    radarr_add: true
+    radarr_add_missing: true
     radarr_search: true
     radarr_monitor: true
 
