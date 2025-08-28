@@ -25,7 +25,7 @@ collections:
 #      - MAINTENANCE
       - spectacles
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Stand-Up.jpg
-    radarr_add: true
+    radarr_add_missing: true
     radarr_search: true
     radarr_monitor: true
     radarr_tag: spectacles
