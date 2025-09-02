@@ -1,0 +1,19 @@
+templates:
+  RETURNING_SHOW:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      weight: 30
+    overlay:
+      name: <<overlay_name>>
+      url: https://raw.githubusercontent.com/PierreDurrr/pmm-metadata/refs/heads/master/overlays/images/status_returning_border.png
+
+overlays:
+  RETURNING_SHOW:
+    template:
+      - name: RETURNING_SHOW
+    plex_all: true
+    filters:
+      collection: "Bientôt de retour"
+#      added.after: today
