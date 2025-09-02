@@ -1,0 +1,19 @@
+templates:
+  LEAVING:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      weight: 30
+    overlay:
+      name: <<overlay_name>>
+      url: https://raw.githubusercontent.com/PierreDurrr/pmm-metadata/refs/heads/master/overlays/images/status_leaving_border.png
+
+overlays:
+  LEAVING:
+    template:
+      - name: LEAVING
+    plex_all: true
+    filters:
+      collection: "Dernière chance"
+#      added.after: today
