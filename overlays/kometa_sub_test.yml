@@ -1,0 +1,23 @@
+overlays:
+  Subtitled:
+    overlay:
+      name: text(Sous-titré)
+      queue: pierredurrr_queue
+      weight: 10
+      font: fonts/Inter-Bold.ttf
+      font_size: 65
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 380
+      back_height: 105
+    plex_all: true
+    filters:
+      filepath.regex: '(?i)(vostfr|vastfr|vost|fastsub|subfrench|subtitled|multisub)'
+      filepath.not:
+        - Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome
+        - Ez3kiel
+        - Birdy Nam Nam live a la Cigale
+        - VOF
+        - VF
+        - vf
