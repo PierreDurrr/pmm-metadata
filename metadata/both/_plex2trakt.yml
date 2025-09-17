@@ -5,3 +5,4 @@ collections:
       collection: "Name of existing collection you want to sync"
     sort_title: "!130_César !"
     sync_to_trakt_list: cesar-du-meilleur-film # last part of trakt list url. i.e: https://trakt.tv/users/pierredurrr/lists/cesar-du-meilleur-film?sort=rank,asc
+                                               # list (empty) need to be created on trakt first
