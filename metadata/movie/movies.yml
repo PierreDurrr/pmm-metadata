@@ -457,7 +457,7 @@ collections:
     template: {name: Collection, poster: https://plexcollectionposters.com/images/2019/05/16/Disney-Animation-Studios-Collection-Version-23baed5d615b7dc1b.jpg}
     trakt_list: 
       - https://trakt.tv/users/pierredurrr/lists/les-tresors-de-disney-saga?sort=rank,asc 
-    url_poster: https://plexcollectionposters.com/images/2019/05/16/Disney-Animation-Studios-Collection-Version-23baed5d615b7dc1b.jpg
+    url_poster: https://static.wikia.nocookie.net/logopedia/images/a/ab/Walt_Disney_Feature_Animation_(1986).png
     collection_order: alpha
     collection_mode: hide_items
     radarr_add: true
@@ -468,7 +468,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/160938
     smart_label: title.asc
     imdb_list:
-      - https://www.imdb.com/list/ls083312980/
+      - https://www.imdb.com/fr/list/ls042797210/
     collection_mode: show_items  
     radarr_add: true
     radarr_search: true
@@ -2293,3 +2293,4 @@ collections:
 #    sort_title: ~_Collectionless
 #    collection_order: alpha
     
+
