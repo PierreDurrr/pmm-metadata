@@ -168,7 +168,7 @@ collections:
   Olive et Tom - Saga: 
     template: {name: Show, show: "84045, 339203"}
     trakt_list: https://trakt.tv/users/yoru14/lists/captain-tsubasa?sort=rank,asc
-    url_poster: https://wir.skyrock.net/wir/v1/profilcrop/?c=isi&im=%2F5529%2F87335529%2Fpics%2F3157159078_1_2_WnEVNRn1.png&w=598&h=819
+    url_poster: https://www.manga-news.com/public/images/dvd/Olive-et-Tom-coffret-collector.webp
     collection_mode: hide
 
   Palmashow:
@@ -347,3 +347,4 @@ collections:
         - coyote
     sort_title: Looney Tunes - Bip
     url_poster: https://fusion.molotov.tv/arts/i/446x588/Ch8SHQoU4r0Obk7GkNGC1Jx7CzTH_e9D3kgSA2pwZxgB/jpg
+
