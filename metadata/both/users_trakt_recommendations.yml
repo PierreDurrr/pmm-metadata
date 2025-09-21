@@ -49,6 +49,8 @@ collections:
       - https://trakt.tv/users/pierredurrr/lists/anime-recommendations-tv-based-on-recently-watched-couchmoney-tv?sort=rank,asc
       - https://trakt.tv/users/cindy-trakt-anime/lists/cindy-anime-recommendations-couchmoney-tv?sort=rank,asc
       - https://trakt.tv/users/cindy-trakt-anime/lists/tv-currently-watching-couchmoney-tv?sort=rank,asc
+    limit: 100 
+    smart_label: random
 
   Élise, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Élise, trakt_user: elise-trakt}
