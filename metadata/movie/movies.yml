@@ -618,6 +618,12 @@ collections:
 #  Dune - Saga:
 #    template: {name: Collection, collection: 726871, summary: 726871}
 #    url_poster: https://theposterdb.com/api/assets/208231    
+  Groland - Saga:
+    template: {name: Collection}
+    trakt_list:
+      - https://trakt.tv/users/pierredurrr/lists/groland-saga?sort=rank,asc
+    collection_mode: hide_items  
+    url_poster: https://artworks.thetvdb.com/banners/v4/series/257196/posters/622965e1b06d5.jpg
   Incassable - Saga:
     template: {name: Collection, summary: 86283}
     trakt_list:
@@ -2293,4 +2299,5 @@ collections:
 #    sort_title: ~_Collectionless
 #    collection_order: alpha
     
+
 
