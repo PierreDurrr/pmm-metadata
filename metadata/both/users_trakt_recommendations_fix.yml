@@ -13,6 +13,8 @@ collections:
       - "✨ David, voici les films et séries recommandés pour toi"
       - "✨ Yvonnick, voici les films et séries recommandés pour toi"
       - "✨ Frédéric, voici les films et séries recommandés pour toi"
+      - "✨ Carine, voici les films et séries recommandés pour toi"
+      - "✨ Jérôme, voici les films et séries recommandés pour toi"
     plex_search:
       any:
         label: *labels
