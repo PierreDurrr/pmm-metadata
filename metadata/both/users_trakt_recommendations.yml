@@ -84,3 +84,9 @@ collections:
 
   Frédéric, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Frédéric, trakt_user: frederic-trakt}     
+
+  Carine, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Carine, trakt_user: carine-trakt}
+
+  Jérôme, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Jérôme, trakt_user: jerome-trakt}    
