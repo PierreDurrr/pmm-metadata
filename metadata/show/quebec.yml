@@ -1,0 +1,22 @@
+collections:
+  'Maudit que c’est bon ! ⚜️':
+    sort_title: '!!!!!0008!_Maudit que cest bon'
+    summary: >
+      Attache ta tuque, parce qu’icitte, c’est pas des petites séries à deux piastres !
+      Des histoires d’icitte, du vrai monde, des émotions à fleur de peau pis du talent
+      ben de chez nous. C’est tiguidou du début à la fin, même quand ça brasse un peu.
+      J’veux pas péter ta baloune, mais tu risques d’y pogner goût en maudit.
+#    collection_mode: show
+    smart_filter:
+      any:
+        network:
+          - "ICI TOU.TV Extra"
+          - "ICI Radio-Canada Télé"
+          - "ICI TOU.TV"
+          - "Club Illico"
+          - "noovo.ca"
+          - "Noovo"
+        studio:
+          - "trio orange"
+          - "Zone3"
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/country/color/Canada.jpg
