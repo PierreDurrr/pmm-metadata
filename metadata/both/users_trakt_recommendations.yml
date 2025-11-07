@@ -90,3 +90,7 @@ collections:
 
 #  Jérôme, voici les films et séries recommandés pour toi:
 #    template: {name: recommended_content, user: Jérôme, trakt_user: jerome-trakt}    
+
+
+  Sophie, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Sophie, trakt_user: sophie-trakt}
