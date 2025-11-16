@@ -12,6 +12,10 @@ collections:
     item_label.remove: All I Want For Christmas...
 #    collection_order: alpha
     collection_mode: hide_items
+    summary: |+ 
+      Un plaid, une tasse de chocolat chaud, des scones, un petit feu dans la cheminée... 
+      On est parés pour féter Noël de la plus douce des manières 🤗.
+      Et on oublie pas Mariah Carey. "AAAAaaaaah..."
     visible_home: range(11/15-11/30)
     visible_shared: range(11/15-11/30)
     visible_home: range(11/15-01/06)
