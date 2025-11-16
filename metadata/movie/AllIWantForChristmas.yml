@@ -18,8 +18,8 @@ collections:
       Et on oublie pas Mariah Carey. "AAAAaaaaah..."
     visible_home: range(11/15-11/30)
     visible_shared: range(11/15-11/30)
-    visible_home: range(11/15-01/06)
-    visible_shared: range(11/15-01/06)
+#    visible_home: range(11/15-01/06)
+#    visible_shared: range(11/15-01/06)
     smart_label: random
     plex_all: true
     filters:
