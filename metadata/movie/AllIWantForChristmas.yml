@@ -2,7 +2,7 @@ templates:
     Holiday:
         url_poster: <<poster>>
         sort_title: +++++++_<<collection_name>>
-#        collection_order: alpha
+        collection_order: alpha
         label: REPLEXHERO
 
 collections:
@@ -10,17 +10,12 @@ collections:
     template: {name: Holiday, poster: https://i.imgur.com/wm2nUTn.jpeg}
     label.remove: All I Want For Christmas...
     item_label.remove: All I Want For Christmas...
-#    collection_order: alpha
+    collection_order: alpha
     collection_mode: hide_items
-    summary: |+ 
-      Un plaid, une tasse de chocolat chaud, des scones, un petit feu dans la cheminée... 
-      On est parés pour féter Noël de la plus douce des manières 🤗.
-      Et on oublie pas Mariah Carey. "AAAAaaaaah..."
     visible_home: range(11/15-11/30)
     visible_shared: range(11/15-11/30)
 #    visible_home: range(11/15-01/06)
 #    visible_shared: range(11/15-01/06)
-    smart_label: random
     plex_all: true
     filters:
       filepath: /mnt/_SYNOLOGY/media/video/Films/_Christmas/
