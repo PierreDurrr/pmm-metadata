@@ -1,5 +1,5 @@
 collections:
-  Ma rétrospective 2024:
+  Mon Pierreflix Wrapped:
     collection_order: alpha
     collection_mode: hide_items
     sort_title: !!!!!!0000001!_!Lexique Pierreflix 
@@ -9,4 +9,4 @@ collections:
       filepath: /mnt/_SYNOLOGY/media/video/Films/_info-pmm/2023_retrospective.mp4
     visible_home: true
     visible_shared: true
-    label: REPLEXHERO
+#    label: REPLEXHERO
