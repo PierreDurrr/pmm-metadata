@@ -9,4 +9,5 @@ collections:
       filepath: /mnt/_SYNOLOGY/media/video/Films/_info-pmm/2025/pierreflix-wrapped.mp4
     visible_home: true
     visible_shared: true
+    poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/pierreflix-wrapped.jpg
 #    label: REPLEXHERO
