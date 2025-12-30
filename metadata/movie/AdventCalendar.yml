@@ -190,5 +190,5 @@ collections:
     name: "🎅 🎄 Calendrier de l'avent 🎄 🎅"
     template:
       name: christmas
-    schedule: range(12/25-01/02)
+    schedule: range(12/25-12/26)
     limit: 25
