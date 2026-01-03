@@ -128,18 +128,26 @@ collections:
       summary: "Piou piou Philippe ! La collection de tes demandes 🐣 a éclos et c’est une vraie pépite. Tout ce que tu as commandé est là, prêt à être dévoré comme un bon œuf en chocolat. Que tu sois d’humeur pour rire, pleurer ou te révolter, cette collection est prête à faire battre ton petit cœur de cinéphile."
       label: nonnetp_demandes   
 
-  Mes demandes 🦋:
-    template:
-      name: user_requests
+#  Mes demandes 🦋:
+#    template:
+#      name: user_requests
 #      user: Carine
-      overseerr_user: "20 - carine"
-      summary: "Carine, ta collection de demandes 🦋 a déployé ses ailes ! Légère, colorée et pleine de découvertes, elle t’invite à picorer parmi les films et séries que tu as souhaités. Que tu aies envie d’un drame profond ou d’une comédie qui fait du bien, tout est là, prêt à t’emporter dans un souffle de douceur et d’émotion."
-      label: carine_demandes
+#      overseerr_user: "20 - carine"
+#      summary: "Carine, ta collection de demandes 🦋 a déployé ses ailes ! Légère, colorée et pleine de découvertes, elle t’invite à picorer parmi les films et séries que tu as souhaités. Que tu aies envie d’un drame profond ou d’une comédie qui fait du bien, tout est là, prêt à t’emporter dans un souffle de douceur et d’émotion."
+#      label: carine_demandes
 
-  Mes demandes 🦉:
-    template:
-      name: user_requests
+#  Mes demandes 🦉:
+#    template:
+#      name: user_requests
 #      user: Jérôme
-      overseerr_user: "21 - jerome"
-      summary: "Jérôme, voici ta collection de demandes 🦉, perchée haut dans l’arbre des cinéphiles avertis. Entre thrillers captivants, documentaires fascinants et grands classiques à (re)découvrir, tout ce que tu as demandé t’attend ici, soigneusement rassemblé. Installe-toi confortablement, l’heure du visionnage éclairé a sonné !"
-      label: jerome_demandes
+#      overseerr_user: "21 - jerome"
+#      summary: "Jérôme, voici ta collection de demandes 🦉, perchée haut dans l’arbre des cinéphiles avertis. Entre thrillers captivants, documentaires fascinants et grands classiques à (re)découvrir, tout ce que tu as demandé t’attend ici, soigneusement rassemblé. Installe-toi confortablement, l’heure du visionnage éclairé a sonné !"
+#      label: jerome_demandes
+
+#  Mes demandes 🐱:
+#    template:
+#      name: user_requests
+#      user: Fanette
+#      overseerr_user: "XX - fanette"
+#      summary: "Fanette ✨ Voici ta collection de demandes 🐱 : élégante, curieuse et pleine de surprises, exactement comme tes choix ciné. Tous les films et séries que tu as réclamés sont réunis ici, prêts à être savourés entre deux moments cocooning ou grosses sessions binge. Installe-toi confortablement… et régale-toi 🐾🎬"
+#      label: fanette_demandes
