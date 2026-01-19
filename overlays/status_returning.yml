@@ -13,7 +13,8 @@ overlays:
   RETURNING_SHOW:
     template:
       - name: RETURNING_SHOW
-    plex_all: true
-    filters:
-      collection: "Bientôt de retour"
-#      added.after: today
+#    plex_all: true
+#    filters:
+#      collection: "Bientôt de retour"
+    trakt_list: https://trakt.tv/users/pierredurrr/lists/returning-soon-series-tv
+##      added.after: today
