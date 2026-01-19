@@ -679,7 +679,7 @@ collections:
     template: {name: Collection, collection: 9485, summary: 9485}
     trakt_list: 
       - https://trakt.tv/users/any/lists/fast-and-furious?sort=rank,asc
-      - https://trakt.tv/users/rzepkowski/lists/the-fast-and-the-furious-movies?sort=rank,asc
+      - https://trakt.tv/users/pierredurrr/lists/fast-furious
     url_poster: https://theposterdb.com/api/assets/193944
 ##    collection_order: alpha
     collection_mode: hide_items
@@ -2299,5 +2299,6 @@ collections:
 #    sort_title: ~_Collectionless
 #    collection_order: alpha
     
+
 
 
