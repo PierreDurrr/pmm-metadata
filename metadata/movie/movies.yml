@@ -859,7 +859,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/203028
     sort_title: "Marvel Cinematic Universe2"
     collection_order: custom
-    collection_mode: show
+    collection_mode: show_items
     sync_mode: sync
     radarr_add: true
     radarr_search: true
@@ -2299,6 +2299,7 @@ collections:
 #    sort_title: ~_Collectionless
 #    collection_order: alpha
     
+
 
 
 
