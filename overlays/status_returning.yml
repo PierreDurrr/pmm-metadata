@@ -7,7 +7,7 @@ templates:
       weight: 30
     overlay:
       name: <<overlay_name>>
-      url: https://raw.githubusercontent.com/PierreDurrr/pmm-metadata/refs/heads/master/overlays/images/status_returning_border_date_placeholder.png
+      url: https://raw.githubusercontent.com/PierreDurrr/pmm-metadata/refs/heads/master/overlays/images/status_returning_border.png
 
 overlays:
   RETURNING_SHOW:
