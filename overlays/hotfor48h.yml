@@ -7,7 +7,7 @@ templates:
       weight: 30
     overlay:
       name: <<overlay_name>>
-      url: https://raw.githubusercontent.com/Entree3k/Plex/refs/heads/main/Plex%20Meta%20Manager%20Configs/Overlays/images/trending.png
+      url: https://raw.githubusercontent.com/PierreDurrr/pmm-metadata/refs/heads/master/overlays/images/overlays_HOTFOR48H.png
       #url: https://raw.githubusercontent.com/PierreDurrr/pmm-metadata/master/overlays/images/fire.png
       #weight: <<weight>>
       #horizontal_offset: 15
