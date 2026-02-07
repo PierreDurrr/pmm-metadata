@@ -30,3 +30,16 @@ collections:
     radarr_monitor: true
     radarr_tag: spectacles
     radarr_folder: /mnt/_SYNOLOGY/media/video/_Spectacles
+
+# TEST FOR GENRE REPLACEMENT #
+
+  Find and Replace Comedie with Spectacles in Spectacles directory:
+    build_collection: false
+    item_genre.remove: "Comédie"
+    item_genre: Spectacle
+    plex_search:
+      all:
+        genre: "Comédie"
+    filters:
+      filepath: 
+        - /mnt/_SYNOLOGY/media/video/_Spectacles/
