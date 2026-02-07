@@ -33,13 +33,11 @@ collections:
 
 # TEST FOR GENRE REPLACEMENT #
 
-  Find and Replace Comedie with Spectacles in Spectacles directory:
+  Find and Replace Comedie with Spectacles in Spectacles collection:
     build_collection: false
     item_genre.remove: "Comédie"
     item_genre: Spectacle
     plex_search:
       all:
+        collection: Spectacles
         genre: "Comédie"
-    filters:
-      filepath: 
-        - /mnt/_SYNOLOGY/media/video/_Spectacles/
