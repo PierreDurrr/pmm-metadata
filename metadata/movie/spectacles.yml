@@ -39,5 +39,5 @@ collections:
     item_genre: Spectacle
     plex_search:
       all:
-        collection: Spectacles
+        label: Spectacles
         genre: "Comédie"
