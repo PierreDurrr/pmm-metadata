@@ -52,7 +52,7 @@ collections:
     template:
       name: user_requests
 #      user: Élise
-      overseerr_user: "15 - elisepedroza"
+      overseerr_user: "15-elisepedroza"
       summary: "Élise, ta hotline ciné a bossé dur ! Voilà la collection de tes demandes 🐼, prête à te câliner avec tous les films et séries que tu as souhaités. C’est doux, c’est confortable, et c’est exactement ce que tu voulais. C’est ton cinéma, ton royaume, ton panda adoré qui te dit régale-toi !"
       label: elise_demandes
 
@@ -60,7 +60,7 @@ collections:
     template:
       name: user_requests
 #      user: Cindyrino
-      overseerr_user: "10 - cindyrino"
+      overseerr_user: "10-cindyrino"
       summary: "Hop hop Cindy ! Ta collection de demandes 🐰 est là, remplie de tout ce que tu as commandé avec amour et précision. Besoin d’une pause feel-good ou d’un film qui te retourne le cerveau ? Pas de panique, cette liste est comme un lapin magique qui exauce tous tes souhaits ciné !"
       label: cindy_demandes
 
@@ -68,7 +68,7 @@ collections:
     template:
       name: user_requests
 #      user: Géraud
-      overseerr_user: "4 - geraudre"
+      overseerr_user: "4-geraudre"
       summary: "Ohé Geraud ! Ta collection de demandes 🐹 débarque, avec une dose de fun, une pincée de drama, et un soupçon de suspense, juste comme tu l’aimes. Chaque titre ici porte ton sceau royal. Alors enfile tes chaussettes les plus cool, c'est l’heure de te caler devant ta sélection aux petits oignons !"
       label: geraud_demandes
 
@@ -76,7 +76,7 @@ collections:
     template:
       name: user_requests
 #      user: Erwan
-      overseerr_user: "3 - erwan.rengame"
+      overseerr_user: "3-erwan.rengame"
       summary: "Erwan, voici tes demandes 🐻, ta grotte secrète remplie de films et séries que TU as demandés. Que ce soit des chefs-d’œuvre du 7e art ou des séries à binge-watcher en douce, tout y est. Allume ta télé, attrape une poignée de popcorn, et laisse l’ours t’emmener au cœur de l’aventure !"
       label: erwan_demandes
 
@@ -84,7 +84,7 @@ collections:
     template:
       name: user_requests
 #      user: Lénaic
-      overseerr_user: "5 - mahatm12"
+      overseerr_user: "5-mahatm12"
       summary: "Woof woof Lenaic ! La collection de tes demandes 🐶 est prêt à te suivre dans tes marathons ciné comme un bon toutou fidèle. Films épiques ? Check. Séries qu’on ne lâche pas ? Check. Tout ce que tu as commandé avec flair est ici. Allez, fais-toi plaisir et appuie sur play !"
       label: lenaic_demandes
 
@@ -92,7 +92,7 @@ collections:
     template:
       name: user_requests
 #      user: Camille
-      overseerr_user: "6 - PWoman, 14 - Zeki"
+      overseerr_user: "6-PWoman, 14 - Zeki"
       summary: "Hey Camille ! LA collection de tes demandes 🐨 est là ! La liste VIP des films et séries que tu as réclamés. Que tu sois d'humeur pour une comédie qui fait pleurer de rire ou un thriller qui fait monter la tension, tout est là, vas-y ! Profite !"
       label: camille_demandes
 
@@ -100,7 +100,7 @@ collections:
     template:
       name: user_requests
 #      user: David
-      overseerr_user: "12 - David_lpr7"
+      overseerr_user: "12-David_lpr7"
       summary: "David, hurlements de joie ! La collection de tes demandes 🐺 est là pour combler ta soif de films et séries. Tout ce que tu as demandé est soigneusement réuni dans cette meute cinématographique. Prépare-toi pour une soirée à rugir de plaisir, seul ou entre loups-garous."
       label: davidlp_demandes
   
@@ -108,7 +108,7 @@ collections:
     template:
       name: user_requests
 #      user: Yvonnick
-      overseerr_user: "2 - Crapulax"
+      overseerr_user: "2-Crapulax"
       summary: "Yvonnick, voici tes demandes 🦊, ta tanière de films et séries faits pour toi. Malin comme un renard, tu as choisi ces titres avec soin, et ils t’attendent maintenant. Que ce soit du frisson, du rire ou des larmes, ta collection est prête à te surprendre !"
       label: yvonnick_demandes
 
@@ -116,7 +116,7 @@ collections:
     template:
       name: user_requests
 #      user: Frédéric
-      overseerr_user: "16 - lagaff 37"
+      overseerr_user: "16-lagaff 37"
       summary: "Fred, saute de joie ! La collection de tes demandes 🐸 est ta mare privée de films et séries, remplie de tes choix les plus croassants. Prépare ton pop-corn (ou ta grenadine, soyons fous) et installe-toi. Ta soirée ciné est sur le point de devenir légendaire !"
       label: frederic_demandes    
 
@@ -124,7 +124,7 @@ collections:
     template:
       name: user_requests
 #      user: Philippe
-      overseerr_user: "19 - philippenonnet"
+      overseerr_user: "19-philippenonnet"
       summary: "Piou piou Philippe ! La collection de tes demandes 🐣 a éclos et c’est une vraie pépite. Tout ce que tu as commandé est là, prêt à être dévoré comme un bon œuf en chocolat. Que tu sois d’humeur pour rire, pleurer ou te révolter, cette collection est prête à faire battre ton petit cœur de cinéphile."
       label: nonnetp_demandes   
 
