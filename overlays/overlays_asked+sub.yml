@@ -1,13 +1,13 @@
-#queues:
-#  pierredurrr_queue:
-#    - horizontal_offset: 10
-#      horizontal_align: left
-#      vertical_offset: 10
-#      vertical_align: top
-#    - horizontal_offset: 610
-#      horizontal_align: right
-#      vertical_offset: 120
-#      vertical_align: top
+queues:
+  pierredurrr_queue:
+    - horizontal_offset: 10
+      horizontal_align: left
+      vertical_offset: 10
+      vertical_align: top
+    - horizontal_offset: 610
+      horizontal_align: right
+      vertical_offset: 120
+      vertical_align: top
 #
 #overlays:
 ##  YouAskedForIt:
@@ -81,8 +81,8 @@ overlays:
   Subtitled:
     overlay:
       name: text(Sous-titré)
-#      queue: pierredurrr_queue
-#      weight: 10
+      queue: pierredurrr_queue
+      weight: 10
       font: fonts/Inter-Bold.ttf
       font_size: 65
       font_color: "#FFFFFF"
