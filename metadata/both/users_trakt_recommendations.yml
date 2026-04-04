@@ -50,6 +50,8 @@ collections:
       - https://trakt.tv/users/cindy-trakt-anime/lists/cindy-anime-recommendations-couchmoney-tv?sort=rank,asc
       - https://trakt.tv/users/cindy-trakt-anime/lists/tv-currently-watching-couchmoney-tv?sort=rank,asc
     limit: 20 
+    filters:
+      genre.not: Sport
     smart_label: random
 
   Élise, voici les films et séries recommandés pour toi:
