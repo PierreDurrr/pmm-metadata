@@ -1,13 +1,61 @@
-queues:
-  pierredurrr_queue:
-    - horizontal_offset: 10
+templates:
+  SUBTITLED:
+    conditionals:
+      builder_level:
+        default: ""
+        conditions:
+          - library_type: show
+            value: episode
+      font_size:
+        default: 65
+        conditions:
+          - library_type: show
+            value: 80
+      back_width:
+        default: 380
+        conditions:
+          - library_type: show
+            value: 420
+    overlay:
+      name: text(Sous-titré)
+      horizontal_offset: 10
       horizontal_align: left
       vertical_offset: 10
       vertical_align: top
-    - horizontal_offset: 610
-      horizontal_align: right
-      vertical_offset: 120
-      vertical_align: top
+      weight: 10
+      font: fonts/Inter-Bold.ttf
+      font_size: <<font_size>>
+      font_color: "#FFFFFF"
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: <<back_width>>
+      back_height: 105
+
+overlays:
+  Subtitled:
+    template:
+      - name: SUBTITLED
+    plex_all: true
+    filters:
+      filepath.regex: '(?i)(vostfr|vastfr|vost|fastsub|subfrench|subtitled|multisub|fansub)'
+      filepath.not:
+        - Les.Robins.Des.Bois.La.Cape.Et.L.EpĂ©e.Tome
+        - Ez3kiel
+        - Birdy Nam Nam live a la Cigale
+        - VOF
+        - VF
+        - vf
+
+#OK queues:
+#OK   pierredurrr_queue:
+#OK     - horizontal_offset: 10
+#OK       horizontal_align: left
+#OK       vertical_offset: 10
+#OK       vertical_align: top
+#OK     - horizontal_offset: 610
+#OK       horizontal_align: right
+#OK       vertical_offset: 120
+#OK       vertical_align: top
 #
 #overlays:
 ##  YouAskedForIt:
@@ -77,26 +125,26 @@ queues:
 #        - VFI
 ##        - TRUEFRENCH
 
-overlays:
-  Subtitled:
-    overlay:
-      name: text(Sous-titré)
-      queue: pierredurrr_queue
-      weight: 10
-      font: fonts/Inter-Bold.ttf
-      font_size: 65
-      font_color: "#FFFFFF"
-      back_color: "#00000099"
-      back_radius: 30
-      back_width: 380
-      back_height: 105
-    plex_all: true
-    filters:
-      filepath.regex: '(?i)(vostfr|vastfr|vost|fastsub|subfrench|subtitled|multisub|fansub)'
-      filepath.not:
-        - Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome
-        - Ez3kiel
-        - Birdy Nam Nam live a la Cigale
-        - VOF
-        - VF
-        - vf
+#OK overlays:
+#OK   Subtitled:
+#OK     overlay:
+#OK       name: text(Sous-titré)
+#OK       queue: pierredurrr_queue
+#OK       weight: 10
+#OK       font: fonts/Inter-Bold.ttf
+#OK       font_size: 65
+#OK       font_color: "#FFFFFF"
+#OK       back_color: "#00000099"
+#OK       back_radius: 30
+#OK       back_width: 380
+#OK       back_height: 105
+#OK     plex_all: true
+#OK     filters:
+#OK       filepath.regex: '(?i)(vostfr|vastfr|vost|fastsub|subfrench|subtitled|multisub|fansub)'
+#OK       filepath.not:
+#OK         - Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome
+#OK         - Ez3kiel
+#OK         - Birdy Nam Nam live a la Cigale
+#OK         - VOF
+#OK         - VF
+#OK         - vf
