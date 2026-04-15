@@ -92,7 +92,7 @@ collections:
     template:
       name: user_requests
 #      user: Camille
-      overseerr_user: "6-PWoman, 14 - Zeki"
+      overseerr_user: "6-PWoman, 14-Zeki"
       summary: "Hey Camille ! LA collection de tes demandes 🐨 est là ! La liste VIP des films et séries que tu as réclamés. Que tu sois d'humeur pour une comédie qui fait pleurer de rire ou un thriller qui fait monter la tension, tout est là, vas-y ! Profite !"
       label: camille_demandes
 
