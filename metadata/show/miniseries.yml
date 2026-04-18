@@ -1,0 +1,16 @@
+collections:
+  Pas le temps de niaiser:
+    summary: Séries terminées, annulées ou mini-séries avec une seule saison et peu d'épisodes
+    plex_search:
+      type: show
+      filters:
+        min_seasons: 1
+        max_seasons: 1
+        episode_count.lte: 12
+        status:
+          - ended
+          - canceled
+    tmdb_discover:
+      with_type: miniseries
+    sort_title: "+0300_Miniséries_Terminees"
+    sync_mode: sync
