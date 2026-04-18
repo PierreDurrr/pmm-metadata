@@ -2,7 +2,6 @@ collections:
   Pas le temps de niaiser:
     summary: Séries terminées, annulées ou mini-séries avec une seule saison et peu d'épisodes
     plex_all: true
-      type: show
       filters:
         min_seasons: 1
         max_seasons: 1
