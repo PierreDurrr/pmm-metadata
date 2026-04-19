@@ -10,6 +10,8 @@ collections:
     delete_below_minimum: false
 #    visible_shared: true
 #    visible_library: true
+    filters:
+      genre.not: Anime
     sync_mode: sync
     label:
       - PasLeTempsDeNiaiser
