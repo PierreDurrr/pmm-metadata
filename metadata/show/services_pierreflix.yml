@@ -5,6 +5,7 @@ templates:
 
 collections:
   "🫶 Les services Pierreflix, parce qu'on vous aime d'amour 🫶":
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Les%20services%20pierreflix.jpg
     builder_level: episode
     collection_order: alpha
     collection_mode: hide_items
