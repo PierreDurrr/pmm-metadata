@@ -13,6 +13,7 @@ collections:
     filters:
       genre.not: Anime
     sync_mode: sync
+    smart_label: title.asc
     label:
       - PasLeTempsDeNiaiser
       - REPLEXHERO
