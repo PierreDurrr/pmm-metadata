@@ -3,13 +3,13 @@ collections:
     summary: Séries terminées, annulées ou mini-séries avec une seule saison et peu d'épisodes
     plex_all: true
     filters:
-      min_seasons: 1
-      max_seasons: 1
+      seasons:
+        - 1
       episode_count.lte: 12
       status:
         - ended
         - canceled
     tmdb_discover:
       with_type: miniseries
-    sort_title: "+0300_Miniséries_Terminées"
+    sort_title: "+0300_Miniséries_Terminees"
     sync_mode: sync
