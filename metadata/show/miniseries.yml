@@ -1,15 +1,16 @@
 collections:
   Pas le temps de niaiser:
-    summary: Séries terminées, annulées ou mini-séries avec une seule saison et peu d'épisodes
-    plex_all: true
-    filters:
-      seasons:
-        - 1
-      episode_count.lte: 12
-      status:
-        - ended
-        - canceled
-    tmdb_discover:
-      with_type: miniseries
     sort_title: "+0300_Miniséries_Terminees"
+    summary: "Séries terminées ou annulées, une seule saison, peu d'épisodes. Parfait quand t'as pas envie de t'embarquer dans 12 saisons de drama. Lance, regarde, c'est fini. Simple, efficace, satisfaisant."
+#    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Pas%20le%20temps%20de%20niaiser.jpg
+    collection_mode: show_items
+    delete_below_minimum: false
+#    visible_shared: true
+#    visible_library: true
     sync_mode: sync
+    label:
+      - PasLeTempsDeNiaiser
+      - REPLEXHERO
+    plex_search:
+      all:
+        label: "PasLeTempsDeNiaiser"
