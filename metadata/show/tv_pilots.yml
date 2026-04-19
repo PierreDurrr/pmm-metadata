@@ -46,7 +46,7 @@ collections:
       sort_by: random
     visible_home: true
     visible_shared: true
-#    url_poster: https://i.ibb.co/nM5GB0g/coverlabs-poster.jpg
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/show/Envie%20de%20decouvrir%20une%20nouvelle%20serie.jpg
 #    schedule:
 #     - weekly(sunday)
 #     - hourly(02)
