@@ -29,7 +29,7 @@ collections:
     trakt_list: https://trakt.tv/users/pierredurrr/lists/canal-france-top10-shows-with-world-fallback
 #      limit: 20
     summary: Le top du jour sur Canal+
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/canal.jpg
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/Canal+_top10.jpg
 
   Apple TV+ Top 10:
     sync_mode: sync
