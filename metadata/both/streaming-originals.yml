@@ -30,7 +30,7 @@ collections:
     template: {name: streaming_originals, mdblist_slug: amazon-originals, poster_name: Prime%20Video_originals, service_name: Prime Video, collection_name: Prime Video Originals}
 
   Apple TV+ Originals:
-    template: {name: streaming_originals, mdblist_slug: apple-originals, poster_name: Apple%20TV%2B_originals, service_name: Apple TV+, collection_name: Apple TV+ Originals}
+    template: {name: streaming_originals, mdblist_slug: appletv-originals, poster_name: Apple%20TV%2B_originals, service_name: Apple TV+, collection_name: Apple TV+ Originals}
 
   Disney+ Originals:
     template: {name: streaming_originals, mdblist_slug: disney-originals, poster_name: Disney+_originals, service_name: Disney+, collection_name: Disney+ Originals}
