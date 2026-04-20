@@ -14,7 +14,7 @@ templates:
     mdblist_list:
       url: https://mdblist.com/lists/k0meta/<<mdblist_slug>>
     url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/streaming/color/<<poster_name>>.jpg
-    sort_title: "!20_<<collection_name>>"
+    sort_title: "!30_<<collection_name>>"
     summary: "Les contenus originaux produits et diffusés exclusivement par <<service_name>>."
 
 
