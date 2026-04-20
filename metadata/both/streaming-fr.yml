@@ -89,7 +89,7 @@ collections:
         translation_key: separator
 
 dynamic_collections:
-  Streaming2:
+  Streaming:
     type: custom
     data:
 #      actionmax: Action Max
@@ -273,7 +273,7 @@ dynamic_collections:
         universal: movie
         universcine: movie
       translation_key:
-        default: streaming2
+        default: streaming
       dynamic:
         default: true
       style:
