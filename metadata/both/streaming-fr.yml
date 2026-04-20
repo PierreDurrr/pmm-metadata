@@ -36,7 +36,7 @@ collections:
       name: streaming_originals_fr
       mdblist_url_movies: https://mdblist.com/lists/pierredurrr/canal-original-films
       mdblist_url_shows: https://mdblist.com/lists/pierredurrr/canal-original-series
-      poster_url: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/canal.jpg
+      poster_url: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Canal_originals.jpg
       service_name: Canal+
       collection_name: Canal+ Originals
 
@@ -45,6 +45,6 @@ collections:
       name: streaming_originals_fr
       mdblist_url_movies: https://mdblist.com/lists/pierredurrr/arte
       mdblist_url_shows: https://mdblist.com/lists/pierredurrr/arte
-      poster_url: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/arte.jpg
+      poster_url: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Arte_originals.jpg
       service_name: Arte.tv
       collection_name: Arte.tv
