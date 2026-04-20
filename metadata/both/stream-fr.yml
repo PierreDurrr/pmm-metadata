@@ -1,50 +1,50 @@
+##############################################################
+# Streaming Originals FR Collections                         #
+# Source: MDBList (pierredurrr)                              #
+# Type: Smart Collections (smart_label)                      #
+# Usage: à inclure dans Movies ET Shows libraries            #
+##############################################################
+
+templates:
+
+  streaming_originals_fr:
+    smart_label: release.desc
+    sync_mode: sync
+    collection_mode: show_items
+    delete_below_minimum: false
+    sort_title: "!30_<<collection_name>>"
+    summary: "Les contenus originaux produits et diffusés exclusivement par <<service_name>>."
+    # TODO: Canal+ et Arte absents du repo Kometa Default Images — remplacer par tes URLs
+    url_poster: <<poster_url>>
+
+    conditionals:
+      mdblist_url:
+        conditions:
+          - library_type: movie
+            value: <<mdblist_url_movies>>
+          - library_type: show
+            value: <<mdblist_url_shows>>
+
+    mdblist_list:
+      url: <<mdblist_url>>
+
+
 collections:
+
+  Canal+ Originals:
+    template:
+      name: streaming_originals_fr
+      mdblist_url_movies: https://mdblist.com/lists/pierredurrr/canal-original-films
+      mdblist_url_shows: https://mdblist.com/lists/pierredurrr/canal-original-series
+      poster_url: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/canal.jpg
+      service_name: Canal+
+      collection_name: Canal+ Originals
+
   Arte.tv:
-    smart_label: release.desc
-    sync_mode: sync
-    tmdb_discover:
-      with_watch_providers: 234
-      watch_region: FR
-      limit: 200
-      sort_by: popularity.desc
-    limit: 100
-
-  BrutX:
-    smart_label: release.desc
-    sync_mode: sync
-    tmdb_discover:
-      with_watch_providers: 1887
-      watch_region: FR
-      limit: 200
-      sort_by: popularity.desc
-    limit: 100    
-
-  CAAANAAAL+++:
-    smart_label: release.desc
-    sync_mode: sync
-    tmdb_discover:
-      with_watch_providers: 381
-      watch_region: FR
-      limit: 200
-      sort_by: popularity.desc
-    limit: 100
-
-  France TV:
-    smart_label: release.desc
-    sync_mode: sync
-    tmdb_discover:
-      with_watch_providers: 236
-      watch_region: FR
-      limit: 200
-      sort_by: popularity.desc
-    limit: 100    
-
-#  YouTube:
-#    collection_order: random
-#    sync_mode: sync
-#    tmdb_discover:
-#      with_watch_providers: 192
-#      watch_region: FR
-#      limit: 200
-#      sort_by: popularity.desc
-#    limit: 100      
+    template:
+      name: streaming_originals_fr
+      mdblist_url_movies: https://mdblist.com/lists/pierredurrr/arte
+      mdblist_url_shows: https://mdblist.com/lists/pierredurrr/arte
+      poster_url: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/arte.jpg
+      service_name: Arte.tv
+      collection_name: Arte.tv
