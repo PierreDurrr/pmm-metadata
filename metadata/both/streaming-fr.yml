@@ -81,7 +81,7 @@ templates:
       sort_by: <<discover_sort>>
 
 collections:
-  Streaming Collections2:
+  Streaming Collections:
     template:
       - name: separator
         separator: streaming
