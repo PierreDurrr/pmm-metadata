@@ -27,16 +27,16 @@ collections:
     template: {name: streaming_originals, mdblist_slug: max-originals, poster_name: Max_originals, service_name: Max, collection_name: Max Originals}
 
   Prime Video Originals:
-    template: {name: streaming_originals, mdblist_slug: amazon-originals, poster_name: Prime Video_originals, service_name: Prime Video, collection_name: Prime Video Originals}
+    template: {name: streaming_originals, mdblist_slug: amazon-originals, poster_name: Prime%20Video_originals, service_name: Prime Video, collection_name: Prime Video Originals}
 
   Apple TV+ Originals:
-    template: {name: streaming_originals, mdblist_slug: apple-originals, poster_name: Apple TV%2B_originals, service_name: Apple TV+, collection_name: Apple TV+ Originals}
+    template: {name: streaming_originals, mdblist_slug: apple-originals, poster_name: Apple%20TV%2B_originals, service_name: Apple TV+, collection_name: Apple TV+ Originals}
 
   Disney+ Originals:
     template: {name: streaming_originals, mdblist_slug: disney-originals, poster_name: Disney+_originals, service_name: Disney+, collection_name: Disney+ Originals}
 
   HBO Max Originals:
-    template: {name: streaming_originals, mdblist_slug: hbomax-originals, poster_name: HBO Max_originals, service_name: HBO Max, collection_name: HBO Max Originals}
+    template: {name: streaming_originals, mdblist_slug: hbomax-originals, poster_name: HBO%20Max_originals, service_name: HBO Max, collection_name: HBO Max Originals}
 
   Hulu Originals:
     template: {name: streaming_originals, mdblist_slug: hulu-originals, poster_name: Hulu_originals, service_name: Hulu, collection_name: Hulu Originals}
