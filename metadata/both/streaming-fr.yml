@@ -36,7 +36,7 @@ collections:
       name: streaming_originals_fr
       mdblist_url_movies: https://mdblist.com/lists/pierredurrr/canal-original-films
       mdblist_url_shows: https://mdblist.com/lists/pierredurrr/canal-original-series
-      poster_url: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Canal_originals.jpg
+      poster_url: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Canal+_originals.jpg
       service_name: Canal+
       collection_name: Canal+ Originals
 
