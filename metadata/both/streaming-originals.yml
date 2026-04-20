@@ -1,0 +1,46 @@
+##############################################################
+# Streaming Originals Collections                            #
+# Source: MDBList (k0meta) + Kometa Default Images           #
+# Type: Smart Collections (smart_label)                      #
+##############################################################
+
+templates:
+
+  streaming_originals:
+    smart_label: release.desc
+    sync_mode: sync
+    collection_order: custom
+    collection_mode: show_items
+    delete_below_minimum: false
+    mdblist_list:
+      url: https://mdblist.com/lists/k0meta/<<mdblist_slug>>
+    url_poster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/streaming/color/<<poster_name>>.jpg
+    sort_title: "!20_<<collection_name>>"
+    summary: "Les contenus originaux produits et diffusés exclusivement par <<service_name>>."
+
+
+collections:
+
+  Netflix Originals:
+    template: {name: streaming_originals, mdblist_slug: netflix-originals, poster_name: Netflix_originals, service_name: Netflix, collection_name: Netflix Originals}
+
+  Max Originals:
+    template: {name: streaming_originals, mdblist_slug: max-originals, poster_name: Max_originals, service_name: Max, collection_name: Max Originals}
+
+  Prime Video Originals:
+    template: {name: streaming_originals, mdblist_slug: amazon-originals, poster_name: Prime Video_originals, service_name: Prime Video, collection_name: Prime Video Originals}
+
+  Apple TV+ Originals:
+    template: {name: streaming_originals, mdblist_slug: apple-originals, poster_name: Apple TV%2B_originals, service_name: Apple TV+, collection_name: Apple TV+ Originals}
+
+  Disney+ Originals:
+    template: {name: streaming_originals, mdblist_slug: disney-originals, poster_name: Disney+_originals, service_name: Disney+, collection_name: Disney+ Originals}
+
+  HBO Max Originals:
+    template: {name: streaming_originals, mdblist_slug: hbomax-originals, poster_name: HBO Max_originals, service_name: HBO Max, collection_name: HBO Max Originals}
+
+  Hulu Originals:
+    template: {name: streaming_originals, mdblist_slug: hulu-originals, poster_name: Hulu_originals, service_name: Hulu, collection_name: Hulu Originals}
+
+  Paramount+ Originals:
+    template: {name: streaming_originals, mdblist_slug: paramount-originals, poster_name: Paramount+_originals, service_name: Paramount+, collection_name: Paramount+ Originals}
