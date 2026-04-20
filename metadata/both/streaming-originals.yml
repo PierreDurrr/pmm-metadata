@@ -9,7 +9,6 @@ templates:
   streaming_originals:
     smart_label: release.desc
     sync_mode: sync
-    collection_order: custom
     collection_mode: show_items
     delete_below_minimum: false
     mdblist_list:
