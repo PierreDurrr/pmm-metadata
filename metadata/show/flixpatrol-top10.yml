@@ -40,7 +40,7 @@ collections:
     trakt_list: https://trakt.tv/users/pierredurrr/lists/apple-tv-france-top10-shows-with-world-fallback
 #      limit: 20
     summary: Le top du jour sur Apple TV
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/appletv_top10.jpg
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/AppleTV+_top10.jpg
 
   Disney+ Top 10:
     sync_mode: sync
@@ -51,7 +51,7 @@ collections:
     trakt_list: https://trakt.tv/users/pierredurrr/lists/disney-france-top10-shows-with-world-fallback
 #      limit: 20
     summary: Le top du jour sur Disney+
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/disney_top10.jpg
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/Disney+_top10.jpg
 
   Netflix Top 10:
     sync_mode: sync
@@ -62,7 +62,7 @@ collections:
     trakt_list: https://trakt.tv/users/pierredurrr/lists/netflix-france-top10-shows-with-world-fallback
 #      limit: 20
     summary: Le top du jour sur Netflix
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/netflix_top10.jpg
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/Netflix_top10.jpg
 
   Paramount+ Top 10:
     sync_mode: sync
@@ -73,7 +73,7 @@ collections:
     trakt_list: https://trakt.tv/users/pierredurrr/lists/paramount-plus-france-top10-shows-with-world-fallback
 #      limit: 20
     summary: Le top du jour sur Paramount+
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/paramount_top10.jpg
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/Paramount+_top10.jpg
 
   Prime Video Top 10:
     sync_mode: sync
@@ -84,7 +84,7 @@ collections:
     trakt_list: https://trakt.tv/users/pierredurrr/lists/amazon-prime-france-top10-shows-with-world-fallback
 ##      limit: 20
     summary: Le top du jour sur Amazon Prime Video
-    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/primevideo_top10.jpg
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/Prime%20Video_top10.jpg
 
 #  Top TEST TEST 10 du jour Disney+:
 #    sync_mode: sync
