@@ -81,7 +81,7 @@ templates:
       sort_by: <<discover_sort>>
 
 collections:
-  Streaming Collections:
+  Streaming Collections2:
     template:
       - name: separator
         separator: streaming
@@ -89,7 +89,7 @@ collections:
         translation_key: separator
 
 dynamic_collections:
-  Streaming:
+  Streaming2:
     type: custom
     data:
 #      actionmax: Action Max
@@ -273,7 +273,7 @@ dynamic_collections:
         universal: movie
         universcine: movie
       translation_key:
-        default: streaming
+        default: streaming2
       dynamic:
         default: true
       style:
