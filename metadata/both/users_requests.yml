@@ -38,7 +38,7 @@ templates:
 # - david : "12-David_lpr7"
 # - elisepedroza : "15-elisepedroza"
 # - erwan : "3-erwan.rengame"
-# - frederic : "16-lagaff 37"
+# - frederic : "16-lagaff-37"
 # - geraud : "4-geraudre"
 # - lenaic : "5-mahatm12"
 # - philippenonnet : "19-philippenonnet"
@@ -116,7 +116,7 @@ collections:
     template:
       name: user_requests
 #      user: Frédéric
-      overseerr_user: "16-lagaff 37"
+      overseerr_user: "16-lagaff-37"
       summary: "Fred, saute de joie ! La collection de tes demandes 🐸 est ta mare privée de films et séries, remplie de tes choix les plus croassants. Prépare ton pop-corn (ou ta grenadine, soyons fous) et installe-toi. Ta soirée ciné est sur le point de devenir légendaire !"
       label: frederic_demandes    
 
