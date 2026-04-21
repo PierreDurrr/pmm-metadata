@@ -23,7 +23,7 @@ collections:
   Canal+ Top 10:
     sync_mode: sync
     smart_label: title.asc
-    sort_title: "!030_Canal TV+_Top10" 
+    sort_title: "!030_Canal+ Top10" 
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
     trakt_list: https://trakt.tv/users/pierredurrr/lists/canal-france-top10-shows-with-world-fallback
