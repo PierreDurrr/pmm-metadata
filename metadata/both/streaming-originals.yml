@@ -25,6 +25,7 @@ collections:
 
   Max Originals:
     template: {name: streaming_originals, mdblist_slug: max-originals, poster_name: Max_originals, service_name: Max, collection_name: Max Originals}
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Max_originals.jpg
 
   Prime Video Originals:
     template: {name: streaming_originals, mdblist_slug: amazon-originals, poster_name: Prime%20Video_originals, service_name: Prime Video, collection_name: Prime Video Originals}
