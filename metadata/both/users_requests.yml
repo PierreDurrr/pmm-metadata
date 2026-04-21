@@ -30,19 +30,19 @@ templates:
       - REPLEXHERO
 
 # available overseerr users :
-# - pierredurrr : "1 - pierredurrr"
-# - cacahuete : "11 - cacahuete"
-# - camille : "6 - PWoman, 14 - Zeki"
-# - cindyrino : "10 - cindyrino"
-# - crapulax : "2 - Crapulax"
-# - david : "12 - David_lpr7"
-# - elisepedroza : "15 - elisepedroza"
-# - erwan : "3 - erwan.rengame"
-# - frederic : "16 - lagaff 37"
-# - geraud : "4 - geraudre"
-# - lenaic : "5 - mahatm12"
-# - philippenonnet : "19 - philippenonnet"
-# - sylvie : "7 - sylviemignot"
+# - pierredurrr : "1-pierredurrr"
+# - cacahuete : "11-cacahuete"
+# - camille : "6-PWoman, 14-Zeki"
+# - cindyrino : "10-cindyrino"
+# - crapulax : "2-Crapulax"
+# - david : "12-David_lpr7"
+# - elisepedroza : "15-elisepedroza"
+# - erwan : "3-erwan.rengame"
+# - frederic : "16-lagaff 37"
+# - geraud : "4-geraudre"
+# - lenaic : "5-mahatm12"
+# - philippenonnet : "19-philippenonnet"
+# - sylvie : "7-sylviemignot"
 
 ###########################
 #       Collections       #
