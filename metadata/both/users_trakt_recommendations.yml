@@ -1,0 +1,120 @@
+###########################
+#        Templates        #
+###########################
+external_templates:
+  repo: metadata/mytemplates.yml
+  default: templates  
+
+templates:
+  recommended_content:
+#    sort_title: "zzz_✨ Nouveau ! ✨ <<user>>, voici les films et séries tv recommandés pour toi"
+    sort_title: "zzz_Nouveau ! <<user>>, voici les films et séries tv recommandés pour toi"
+    summary: "<<user>>, bienvenue dans tes recommandations personnalisées ! Cette collection de films et séries tv a été soigneusement sélectionnée en fonction de ton historique de visionnage et des notes que tu as données. Prépare-toi à découvrir une sélection sur mesure, parfaitement adaptée à tes goûts."
+    smart_label: title.asc
+#    conditionals:
+#      trakt_url:
+#        default: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=random,asc
+#        conditions:
+#          - library_type: show
+#            value: https://trakt.tv/users/<<trakt_user>>/lists/tv-based-on-recently-watched-couchmoney-tv?sort=random,asc
+#          - library_type: movie
+#            value: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=random,asc
+#    trakt_list: 
+#      - <<trakt_url>>
+#    plex_all: false
+    plex_search:
+      any:
+        label: Recommended_<<user>>
+    limit: 40 
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Mes%20Recommandations.jpg
+#    collection_order: custom
+    collection_mode: show_items
+    delete_below_minimum: false
+    visible_shared: true
+    visible_library: true
+    sync_mode: sync
+    label:
+      - REPLEXHERO
+      - <<trakt_user>>
+
+  recommended_anime:
+    sort_title: "zzz_Nouveau ! <<user>>, voici les animes recommandés pour toi"
+    summary: "<<user>>, bienvenue dans tes recommandations personnalisées !..."
+    smart_label: random
+    plex_search:
+      any:
+        label: "Recommended_anime_<<user>>"
+    limit: 40
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Mes%20Recommandations.jpg
+    collection_mode: show_items
+    delete_below_minimum: false
+    visible_shared: false
+    visible_library: true
+    sync_mode: sync
+#    filters:
+#      genre.not: Sport
+    label:
+      - REPLEXHERO
+      - <<trakt_user>>
+
+##############################################################
+    
+
+collections:
+#  ✨ Pierre, voici les films et séries recommandés pour toi:
+  Pierre, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Pierre, trakt_user: pierredurrr}
+    visible_home: true
+    visible_shared: false
+
+  Laurianne, voici les animes recommandés pour toi:
+    template: {name: recommended_anime, user: Pierre, trakt_user: pierredurrr}
+    visible_home: true
+#    filters:
+#      genre.not: Sport
+    smart_label: random
+
+  Élise, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Élise, trakt_user: elise-trakt}
+
+  Cindy, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Cindy, trakt_user: cindy-trakt}
+
+  Geraud, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Geraud, trakt_user: geraud-trakt}
+
+  Erwan, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Erwan, trakt_user: erwan-trakt}
+
+  Lenaic, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Lenaic, trakt_user: lenaic-trakt}
+
+  Camille, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Camille, trakt_user: camille-trakt}
+
+  David, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: David, trakt_user: davidlp-trakt}
+
+  Yvonnick, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Yvonnick, trakt_user: yvonnick-trakt}
+ 
+  Philippe, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Philippe, trakt_user: nonnetp-trakt} 
+
+  Sylvie, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Sylvie, trakt_user: sylvie-trakt} 
+
+  Frédéric, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Frédéric, trakt_user: frederic-trakt}     
+
+#  Carine, voici les films et séries recommandés pour toi:
+#    template: {name: recommended_content, user: Carine, trakt_user: carine-trakt}
+
+#  Jérôme, voici les films et séries recommandés pour toi:
+#    template: {name: recommended_content, user: Jérôme, trakt_user: jerome-trakt}    
+
+  Sophie, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: Sophie, trakt_user: sophie-trakt}
+
+#  Fanette, voici les films et séries recommandés pour toi:
+#    template: {name: recommended_content, user: Fanette, trakt_user: fanette-trakt} 
