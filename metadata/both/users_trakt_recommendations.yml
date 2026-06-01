@@ -69,7 +69,6 @@ collections:
     visible_home: true
 #    filters:
 #      genre.not: Sport
-    smart_label: random
 
   Élise, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Élise, trakt_user: elise-trakt}
