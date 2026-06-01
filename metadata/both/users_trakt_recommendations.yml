@@ -7,14 +7,24 @@ external_templates:
 
 templates:
   recommended_content:
+#    sort_title: "zzz_✨ Nouveau ! ✨ <<user>>, voici les films et séries tv recommandés pour toi"
     sort_title: "zzz_Nouveau ! <<user>>, voici les films et séries tv recommandés pour toi"
     summary: "<<user>>, bienvenue dans tes recommandations personnalisées ! Cette collection de films et séries tv a été soigneusement sélectionnée en fonction de ton historique de visionnage et des notes que tu as données. Prépare-toi à découvrir une sélection sur mesure, parfaitement adaptée à tes goûts."
-    plex_search:
+    conditionals:
+      recommended_label:
+        default: Recommended_Movies_<<user>>
+        conditions:
+          - library_type: show
+            value: Recommended_Shows_<<user>>
+          - library_type: movie
+            value: Recommended_Movies_<<user>>
+    smart_filter:
       sort_by: title.asc
       any:
         label: Recommended_<<user>>
     limit: 40 
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Mes%20Recommandations.jpg
+#    collection_order: custom
     collection_mode: show_items
     delete_below_minimum: false
     visible_shared: true
@@ -26,9 +36,9 @@ templates:
 
   recommended_anime:
     sort_title: "zzz_Nouveau ! <<user>>, voici les animes recommandés pour toi"
-    summary: "<<user>>, bienvenue dans tes recommandations personnalisées ! Cette collection d'animes a été soigneusement sélectionnée en fonction de ton historique de visionnage et des notes que tu as données. Prépare-toi à découvrir une sélection sur mesure, parfaitement adaptée à tes goûts."
-    plex_search:
-      sort_by: title.asc
+    summary: "<<user>>, bienvenue dans tes recommandations personnalisées !..."
+    smart_filter:
+      sort_by: random
       any:
         label: Recommended_anime_<<user>>
     limit: 40
@@ -38,6 +48,8 @@ templates:
     visible_shared: false
     visible_library: true
     sync_mode: sync
+#    filters:
+#      genre.not: Sport
     label:
       - REPLEXHERO
       - <<trakt_user>>
@@ -52,30 +64,12 @@ collections:
     visible_home: true
     visible_shared: false
 
-#  Pierre, voici les films et séries recommandés pour toi:
-#    plex_search:
-#      sort_by: title.asc
-#      any:
-#        label: Recommended_Pierre
-#    limit: 40
-#    sort_title: "zzz_Nouveau ! Pierre, voici les films et séries tv recommandés pour toi"
-#    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Mes%20Recommandations.jpg
-#    collection_mode: show_items
-#    delete_below_minimum: false
-#    visible_home: true
-#    visible_shared: false
-#    visible_library: true
-#    sync_mode: sync
-#    label:
-#      - REPLEXHERO
-#      - pierredurrr
-
   Laurianne, voici les animes recommandés pour toi:
     template: {name: recommended_anime, user: Pierre, trakt_user: pierredurrr}
     visible_home: true
 #    filters:
 #      genre.not: Sport
-#    smart_label: random
+    smart_label: random
 
   Élise, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Élise, trakt_user: elise-trakt}
