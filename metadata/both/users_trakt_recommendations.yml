@@ -64,10 +64,28 @@ templates:
 
 collections:
 #  ✨ Pierre, voici les films et séries recommandés pour toi:
+#  Pierre, voici les films et séries recommandés pour toi:
+#    template: {name: recommended_content, user: Pierre, trakt_user: pierredurrr}
+#    visible_home: true
+#    visible_shared: false
+
   Pierre, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: Pierre, trakt_user: pierredurrr}
+    plex_search:
+      sort_by: title.asc
+      any:
+        label: Recommended_Pierre
+    limit: 40
+    sort_title: "zzz_Nouveau ! Pierre, voici les films et séries tv recommandés pour toi"
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Mes%20Recommandations.jpg
+    collection_mode: show_items
+    delete_below_minimum: false
     visible_home: true
     visible_shared: false
+    visible_library: true
+    sync_mode: sync
+    label:
+      - REPLEXHERO
+      - pierredurrr
 
   Laurianne, voici les animes recommandés pour toi:
     template: {name: recommended_anime, user: Pierre, trakt_user: pierredurrr}
