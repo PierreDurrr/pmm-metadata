@@ -88,7 +88,7 @@ collections:
     template: {name: recommended_content, user: Élise, trakt_user: elise-trakt}
 
   Cindy, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: Cindy, trakt_user: cindy-trakt}
+    template: {name: recommended_content, user: cindy, trakt_user: cindy-trakt}
 
   Geraud, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Geraud, trakt_user: geraud-trakt}
