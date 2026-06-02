@@ -18,10 +18,10 @@ templates:
             value: Recommended_Shows_<<user>>
           - library_type: movie
             value: Recommended_Movies_<<user>>
-    smart_filter:
-      sort_by: title.asc
+    plex_search:
       any:
         label: <<recommended_label>>
+      sort_by: title.asc
     limit: 40 
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Mes%20Recommandations.jpg
 #    collection_order: custom
@@ -37,10 +37,10 @@ templates:
   recommended_anime:
     sort_title: "zzz_Nouveau ! <<user>>, voici les animes recommandés pour toi"
     summary: "<<user>>, bienvenue dans tes recommandations personnalisées !..."
-    smart_filter:
-      sort_by: random
+    plex_search:
       any:
         label: Recommended_anime_<<user>>
+      sort_by: title.asc
     limit: 40
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Mes%20Recommandations.jpg
     collection_mode: show_items
