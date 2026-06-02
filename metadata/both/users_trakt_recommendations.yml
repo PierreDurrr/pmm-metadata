@@ -13,12 +13,13 @@ templates:
     smart_label: title.asc
     conditionals:
       trakt_url:
-        default: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=random,asc
+#        default: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=random,asc
+        default: https://trakt.tv/users/<<trakt_user>>/lists/recommended-movies-<<user>>?sort=random,asc
         conditions:
           - library_type: show
-            value: https://trakt.tv/users/<<trakt_user>>/lists/tv-based-on-recently-watched-couchmoney-tv?sort=random,asc
+            value: https://trakt.tv/users/<<trakt_user>>/lists/recommended-shows-<<user>>?sort=random,asc
           - library_type: movie
-            value: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=random,asc
+            value: https://trakt.tv/users/<<trakt_user>>/lists/recommended-movies-<<user>>?sort=random,asc
     trakt_list: 
       - <<trakt_url>>
 #    plex_all: false
@@ -33,6 +34,29 @@ templates:
     label:
       - REPLEXHERO
       - <<trakt_user>>
+
+
+  recommended_anime:
+    sort_title: "zzz_Nouveau ! <<user>>, voici les animes recommandés pour toi"
+    summary: "<<user>>, bienvenue dans tes recommandations personnalisées ! Cette collection d'animes a été soigneusement sélectionnée en fonction de ton historique de visionnage et des notes que tu as données. Prépare-toi à découvrir une sélection sur mesure, parfaitement adaptée à tes goûts."
+    plex_search:
+      any:
+        label: Recommended_anime_<<user>>
+      sort_by: title.asc
+    limit: 40
+    url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/Mes%20Recommandations.jpg
+    collection_mode: show_items
+    delete_below_minimum: false
+    visible_shared: false
+    visible_library: true
+    sync_mode: sync
+#    filters:
+#      genre.not: Sport
+    label:
+      - REPLEXHERO
+      - <<trakt_user>>
+
+###################################################################################################################################
 
 collections:
 #  ✨ Pierre, voici les films et séries recommandés pour toi:
@@ -53,6 +77,12 @@ collections:
     filters:
       genre.not: Sport
     smart_label: random
+
+  Laurianne, voici les animes recommandés pour toi:
+    template: {name: recommended_anime, user: Pierre, trakt_user: pierredurrr}
+    visible_home: true
+#    filters:
+#      genre.not: Sport
 
   Élise, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: Élise, trakt_user: elise-trakt}
