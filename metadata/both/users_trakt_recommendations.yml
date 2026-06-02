@@ -61,12 +61,12 @@ templates:
 collections:
 #  ✨ Pierre, voici les films et séries recommandés pour toi:
   Pierre, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: pierredurrr, trakt_user: pierredurrr}
+    template: {name: recommended_content, user: pierre, trakt_user: pierredurrr}
     visible_home: true
     visible_shared: false
 
   Pierre, voici les animes recommandés pour toi:
-    template: {name: recommended_content, user: pierredurrr, trakt_user: pierredurrr}
+    template: {name: recommended_content, user: pierre, trakt_user: pierredurrr}
     visible_home: true
     visible_shared: false
     trakt_list:
@@ -79,7 +79,7 @@ collections:
     smart_label: random
 
   Laurianne, voici les animes recommandés pour toi:
-    template: {name: recommended_anime, user: pierredurrr, trakt_user: pierredurrr}
+    template: {name: recommended_anime, user: pierre, trakt_user: pierredurrr}
     visible_home: true
 #    filters:
 #      genre.not: Sport
