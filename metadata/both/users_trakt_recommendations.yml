@@ -61,12 +61,12 @@ templates:
 collections:
 #  ✨ Pierre, voici les films et séries recommandés pour toi:
   Pierre, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: Pierre, trakt_user: pierredurrr}
+    template: {name: recommended_content, user: pierredurrr, trakt_user: pierredurrr}
     visible_home: true
     visible_shared: false
 
   Pierre, voici les animes recommandés pour toi:
-    template: {name: recommended_content, user: Pierre, trakt_user: pierredurrr}
+    template: {name: recommended_content, user: pierredurrr, trakt_user: pierredurrr}
     visible_home: true
     visible_shared: false
     trakt_list:
@@ -79,43 +79,43 @@ collections:
     smart_label: random
 
   Laurianne, voici les animes recommandés pour toi:
-    template: {name: recommended_anime, user: Pierre, trakt_user: pierredurrr}
+    template: {name: recommended_anime, user: pierredurrr, trakt_user: pierredurrr}
     visible_home: true
 #    filters:
 #      genre.not: Sport
 
   Élise, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: Élise, trakt_user: elise-trakt}
+    template: {name: recommended_content, user: elise, trakt_user: elise-trakt}
 
   Cindy, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: cindy, trakt_user: cindy-trakt}
 
   Geraud, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: Geraud, trakt_user: geraud-trakt}
+    template: {name: recommended_content, user: geraud, trakt_user: geraud-trakt}
 
   Erwan, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: Erwan, trakt_user: erwan-trakt}
+    template: {name: recommended_content, user: erwan, trakt_user: erwan-trakt}
 
   Lenaic, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: Lenaic, trakt_user: lenaic-trakt}
+    template: {name: recommended_content, user: lenaic, trakt_user: lenaic-trakt}
 
   Camille, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: Camille, trakt_user: camille-trakt}
+    template: {name: recommended_content, user: camille, trakt_user: camille-trakt}
 
   David, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: David, trakt_user: davidlp-trakt}
+    template: {name: recommended_content, user: david, trakt_user: davidlp-trakt}
 
   Yvonnick, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: Yvonnick, trakt_user: yvonnick-trakt}
+    template: {name: recommended_content, user: yvonnick, trakt_user: yvonnick-trakt}
  
   Philippe, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: Philippe, trakt_user: nonnetp-trakt} 
+    template: {name: recommended_content, user: philippe, trakt_user: nonnetp-trakt} 
 
   Sylvie, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: Sylvie, trakt_user: sylvie-trakt} 
+    template: {name: recommended_content, user: sylvie, trakt_user: sylvie-trakt} 
 
   Frédéric, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: Frédéric, trakt_user: frederic-trakt}     
+    template: {name: recommended_content, user: frederic, trakt_user: frederic-trakt}     
 
 #  Carine, voici les films et séries recommandés pour toi:
 #    template: {name: recommended_content, user: Carine, trakt_user: carine-trakt}
@@ -124,7 +124,7 @@ collections:
 #    template: {name: recommended_content, user: Jérôme, trakt_user: jerome-trakt}    
 
   Sophie, voici les films et séries recommandés pour toi:
-    template: {name: recommended_content, user: Sophie, trakt_user: sophie-trakt}
+    template: {name: recommended_content, user: sophie, trakt_user: sophie-trakt}
 
 #  Fanette, voici les films et séries recommandés pour toi:
 #    template: {name: recommended_content, user: Fanette, trakt_user: fanette-trakt} 
