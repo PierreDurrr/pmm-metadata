@@ -74,18 +74,18 @@ collections:
     visible_home: true
     visible_shared: false
 
-  Pierre, voici les animes recommandés pour toi:
-    template: {name: recommended_content, user: pierre, trakt_user: pierredurrr}
-    visible_home: true
-    visible_shared: false
-    trakt_list:
-      - https://trakt.tv/users/pierredurrr/lists/anime-recommendations-tv-based-on-recently-watched-couchmoney-tv?sort=random,asc
-      - https://trakt.tv/users/cindy-trakt-anime/lists/cindy-anime-recommendations-couchmoney-tv?sort=random,asc
-      - https://trakt.tv/users/cindy-trakt-anime/lists/tv-currently-watching-couchmoney-tv?sort=random,asc
-    limit: 20 
-    filters:
-      genre.not: Sport
-    smart_label: random
+#  Pierre, voici les animes recommandés pour toi:
+#    template: {name: recommended_content, user: pierre, trakt_user: pierredurrr}
+#    visible_home: true
+#    visible_shared: false
+#    trakt_list:
+#      - https://trakt.tv/users/pierredurrr/lists/anime-recommendations-tv-based-on-recently-watched-couchmoney-tv?sort=random,asc
+#      - https://trakt.tv/users/cindy-trakt-anime/lists/cindy-anime-recommendations-couchmoney-tv?sort=random,asc
+#      - https://trakt.tv/users/cindy-trakt-anime/lists/tv-currently-watching-couchmoney-tv?sort=random,asc
+#    limit: 20 
+#    filters:
+#      genre.not: Sport
+#    smart_label: random
 
   Laurianne, voici les animes recommandés pour toi:
     template: {name: recommended_anime, user: pierre, trakt_user: pierredurrr}
