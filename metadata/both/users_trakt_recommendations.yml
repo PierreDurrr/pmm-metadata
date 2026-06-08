@@ -14,12 +14,18 @@ templates:
     conditionals:
       trakt_url:
 #        default: https://trakt.tv/users/<<trakt_user>>/lists/movies-based-on-recently-watched-couchmoney-tv?sort=random,asc
-        default: https://trakt.tv/users/<<trakt_user>>/lists/recommended-movies-<<user>>?sort=random,asc
+        default:
+          - https://trakt.tv/users/<<trakt_user>>/lists/recommended-movies-<<user>>?sort=random,asc
+          - https://trakt.tv/users/<<trakt_user>>/lists/recommended-movies-no-anime-<<user>>?sort=random,asc
         conditions:
           - library_type: show
-            value: https://trakt.tv/users/<<trakt_user>>/lists/recommended-shows-<<user>>?sort=random,asc
+            value:
+              - https://trakt.tv/users/<<trakt_user>>/lists/recommended-shows-<<user>>?sort=random,asc
+              - https://trakt.tv/users/<<trakt_user>>/lists/recommended-shows-no-anime-<<user>>?sort=random,asc
           - library_type: movie
-            value: https://trakt.tv/users/<<trakt_user>>/lists/recommended-movies-<<user>>?sort=random,asc
+            value:
+              - https://trakt.tv/users/<<trakt_user>>/lists/recommended-movies-<<user>>?sort=random,asc
+              - https://trakt.tv/users/<<trakt_user>>/lists/recommended-movies-no-anime-<<user>>?sort=random,asc
     trakt_list: 
       - <<trakt_url>>
 #    plex_all: false
@@ -128,4 +134,4 @@ collections:
     template: {name: recommended_content, user: sophie, trakt_user: sophie-trakt}
 
 #  Fanette, voici les films et séries recommandés pour toi:
-#    template: {name: recommended_content, user: Fanette, trakt_user: fanette-trakt} 
+#    template: {name: recommended_content, user: Fanette, trakt_user: fanette-trakt}
