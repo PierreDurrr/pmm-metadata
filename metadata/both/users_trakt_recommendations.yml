@@ -90,6 +90,7 @@ collections:
   Laurianne, voici les animes recommandés pour toi:
     template: {name: recommended_anime, user: pierre, trakt_user: pierredurrr}
     visible_home: true
+    summary: "Laurianne, bienvenue dans tes recommandations personnalisées ! Cette collection d'animes a été soigneusement sélectionnée en fonction de ton historique de visionnage et des notes que tu as données. Prépare-toi à découvrir une sélection sur mesure, parfaitement adaptée à tes goûts."
 #    filters:
 #      genre.not: Sport
 
