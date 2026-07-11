@@ -1,0 +1,8 @@
+collections:
+  My YamTrack List of Shows:
+    yamtrack_list: http://10.0.0.150:8012/list/170
+    sync_mode: sync
+
+  My YamTrack List of Movies
+    yamtrack_list: http://10.0.0.150:8012/list/165
+    sync_mode: sync
