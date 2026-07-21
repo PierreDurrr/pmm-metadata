@@ -150,3 +150,6 @@ collections:
 
 #  Fanette, voici les films et séries recommandés pour toi:
 #    template: {name: recommended_content, user: Fanette, trakt_user: fanette-trakt}
+
+  Marion, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: marion, trakt_user: marion-trakt}
