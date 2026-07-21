@@ -128,13 +128,13 @@ collections:
       summary: "Piou piou Philippe ! La collection de tes demandes 🐣 a éclos et c’est une vraie pépite. Tout ce que tu as commandé est là, prêt à être dévoré comme un bon œuf en chocolat. Que tu sois d’humeur pour rire, pleurer ou te révolter, cette collection est prête à faire battre ton petit cœur de cinéphile."
       label: nonnetp_demandes   
 
-#  Mes demandes 🐧:
-#    template:
-#      name: user_requests
-##      user: Philippe
-#      overseerr_user: "XX-marion.6045"
-#      summary: "Marion, fais de la place sur la banquise ! Ta collection de demandes 🐧 est arrivée avec tous les films et séries que tu as souhaités. Ici, chaque titre a été soigneusement rassemblé rien que pour toi. Alors emmitoufle-toi dans un plaid, prépare quelques gourmandises et laisse le manchot te guider vers des heures de cinéma et de séries dont tu vas te régaler !"
-#      label: marion_demandes
+  Mes demandes 🐧:
+    template:
+      name: user_requests
+#      user: Philippe
+      overseerr_user: "23-marion.6045"
+      summary: "Marion, fais de la place sur la banquise ! Ta collection de demandes 🐧 est arrivée avec tous les films et séries que tu as souhaités. Ici, chaque titre a été soigneusement rassemblé rien que pour toi. Alors emmitoufle-toi dans un plaid, prépare quelques gourmandises et laisse le manchot te guider vers des heures de cinéma et de séries dont tu vas te régaler !"
+      label: marion_demandes
 
 #  Mes demandes 🦋:
 #    template:
