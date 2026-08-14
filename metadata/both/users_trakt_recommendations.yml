@@ -153,3 +153,8 @@ collections:
 
   Marion, voici les films et séries recommandés pour toi:
     template: {name: recommended_content, user: marion, trakt_user: marion-trakt}
+  
+  Marie, voici les films et séries recommandés pour toi:
+    template: {name: recommended_content, user: marie, trakt_user: marie-trakt}
+
+        
