@@ -159,3 +159,11 @@ collections:
 #      overseerr_user: "XX - fanette"
 #      summary: "Fanette ✨ Voici ta collection de demandes 🐱 : élégante, curieuse et pleine de surprises, exactement comme tes choix ciné. Tous les films et séries que tu as réclamés sont réunis ici, prêts à être savourés entre deux moments cocooning ou grosses sessions binge. Installe-toi confortablement… et régale-toi 🐾🎬"
 #      label: fanette_demandes
+
+  Mes demandes 🦄:
+    template:
+      name: user_requests
+#      user: Marie
+      overseerr_user: "24-boot212"
+      summary: "Marie, ouvre grand les yeux, ta collection de demandes 🦄 vient d'apparaître dans un nuage de paillettes ! Tous les films et séries que tu as demandés sont réunis ici, aussi précieux qu'une corne magique. Envie de rêver, de frissonner ou de rire aux éclats ? Cette sélection enchantée n'attend que toi. Installe-toi confortablement et laisse la magie opérer !"
+      label: marie_demandes
