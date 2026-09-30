@@ -5,7 +5,7 @@ templates:
 
 collections:
   Avatar Universe - Saga:  
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/avatar-universe-copy?sort=rank,asc
+    floppy_list: http://10.0.0.150:8012/list/820
     collection_mode: hide
     url_poster: https://theposterdb.com/api/assets/300227 #https://theposterdb.com/api/assets/72969
 
@@ -23,7 +23,7 @@ collections:
   Chasse Aux Trésors:
     collection_mode: hide
     sort_title: "+++_Chasse_aux_tresors" 
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/treasure-hunting-shows?sort=rank,asc
+    floppy_list: http://10.0.0.150:8012/list/770
     imdb_list: https://www.imdb.com/list/ls045583348/
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/master/genre/Treasure-Hunt.jpg
 
@@ -62,7 +62,7 @@ collections:
     collection_mode: show_items
 
   Fargo - Saga:  
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/fargo-saga?sort=rank,asc
+    floppy_list: http://10.0.0.150:8012/list/818
     url_poster: https://theposterdb.com/api/assets/342157
     collection_mode: hide
     
@@ -148,7 +148,7 @@ collections:
 
   Monogatari Series:
     collection_mode: hide_items
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/monogatari-series?sort=rank,asc
+    floppy_list: http://10.0.0.150:8012/list/789
     url_poster: https://theposterdb.com/api/assets/86518
   
   Naruto:
@@ -174,8 +174,8 @@ collections:
   Palmashow:
     template: {name: Show, show: "281047, 323370, 254972, 397594, 414411, 414395, 414394, 253298"}
     summary: "L'intégrale du Palmashow"
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/palmashow?sort=rank,asc
+    floppy_list: 
+      - http://10.0.0.150:8012/list/757
     url_poster: https://image.tmdb.org/t/p/original//l9zrjgie6kfloh91kl4DKt6y3Ni.jpg
     collection_mode: hide_items
 
@@ -260,13 +260,13 @@ collections:
 #    url_poster: https://theposterdb.com/api/assets/416630
 
   Vice-versa - Saga:  
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/inside-out-saga?sort=rank,asc
+    floppy_list: http://10.0.0.150:8012/list/819
     url_poster: https://theposterdb.com/api/assets/528420
     collection_mode: hide
 
   Zootopie - Saga:
     template: {name: Show, show: "393206"}
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/zootopia-saga?sort=rank,asc
+    floppy_list: http://10.0.0.150:8012/list/788
     collection_mode: hide
     url_poster: https://theposterdb.com/api/assets/191991
 
