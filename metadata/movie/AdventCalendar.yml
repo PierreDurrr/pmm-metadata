@@ -1,7 +1,7 @@
 templates:
   christmas:
     sort_title: zzz_Advent_Calendar
-    trakt_list:
+    floppy_list:
       - http://10.0.0.150:8012/list/804
     collection_order: custom.desc
     visible_home: true
