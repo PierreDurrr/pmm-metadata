@@ -2,7 +2,7 @@ templates:
   christmas:
     sort_title: zzz_Advent_Calendar
     trakt_list:
-      - https://trakt.tv/users/pierredurrr/lists/advent-calendar?sort=rank,asc
+      - http://10.0.0.150:8012/list/804
     collection_order: custom.desc
     visible_home: true
     visible_shared: true
