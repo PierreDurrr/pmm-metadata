@@ -5,13 +5,13 @@ collections:
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/both/En%20ce%20moment%20sur....jpg
     sort_title: zzzz_00TopToday
     smart_label: added.desc
-    trakt_list:
-      - https://trakt.tv/users/pierredurrr/lists/amazon-prime-france-top10-shows-with-world-fallback
-      - https://trakt.tv/users/pierredurrr/lists/apple-tv-france-top10-shows-with-world-fallback
-      - https://trakt.tv/users/pierredurrr/lists/canal-france-top10-shows-with-world-fallback
-      - https://trakt.tv/users/pierredurrr/lists/disney-france-top10-shows-with-world-fallback
-      - https://trakt.tv/users/pierredurrr/lists/netflix-france-top10-shows-with-world-fallback
-      - https://trakt.tv/users/pierredurrr/lists/paramount-plus-france-top10-shows-with-world-fallback
+    floppy_list:
+      - http://10.0.0.150:8012/list/841 #https://trakt.tv/users/pierredurrr/lists/amazon-prime-france-top10-shows-with-world-fallback
+      - http://10.0.0.150:8012/list/842 #https://trakt.tv/users/pierredurrr/lists/apple-tv-france-top10-shows-with-world-fallback
+      - http://10.0.0.150:8012/list/847 #https://trakt.tv/users/pierredurrr/lists/canal-france-top10-shows-with-world-fallback
+      - http://10.0.0.150:8012/list/839 #https://trakt.tv/users/pierredurrr/lists/disney-france-top10-shows-with-world-fallback
+      - http://10.0.0.150:8012/list/836 #https://trakt.tv/users/pierredurrr/lists/netflix-france-top10-shows-with-world-fallback
+      - http://10.0.0.150:8012/list/846 #https://trakt.tv/users/pierredurrr/lists/paramount-plus-france-top10-shows-with-world-fallback
     sync_mode: sync
     summary: "Le top 10 des plateformes aujourd'hui"
 #    url_poster:
@@ -26,7 +26,7 @@ collections:
     sort_title: "!030_Canal+ Top10" 
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/canal-france-top10-shows-with-world-fallback
+    floppy_list: http://10.0.0.150:8012/list/847
 #      limit: 20
     summary: Le top du jour sur Canal+
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/Canal+_top10.jpg
@@ -37,7 +37,7 @@ collections:
     sort_title: "!030_Apple TV+_Top10" 
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/apple-tv-france-top10-shows-with-world-fallback
+    floppy_list: http://10.0.0.150:8012/list/842
 #      limit: 20
     summary: Le top du jour sur Apple TV
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/AppleTV+_top10.jpg
@@ -48,7 +48,7 @@ collections:
     sort_title: "!030_Disney+_Top10" 
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/disney-france-top10-shows-with-world-fallback
+    floppy_list: http://10.0.0.150:8012/list/839
 #      limit: 20
     summary: Le top du jour sur Disney+
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/Disney+_top10.jpg
@@ -59,7 +59,7 @@ collections:
     sort_title: "!030_Netflix_Top10" 
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/netflix-france-top10-shows-with-world-fallback
+    floppy_list: http://10.0.0.150:8012/list/836
 #      limit: 20
     summary: Le top du jour sur Netflix
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/Netflix_top10.jpg
@@ -70,7 +70,7 @@ collections:
     sort_title: "!030_Paramount+_Top10" 
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/paramount-plus-france-top10-shows-with-world-fallback
+    floppy_list: http://10.0.0.150:8012/list/846
 #      limit: 20
     summary: Le top du jour sur Paramount+
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/Paramount+_top10.jpg
@@ -81,7 +81,7 @@ collections:
     sort_title: "!030_Prime_Video_Top10" 
 #    imdb_list:
 #      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short&companies=co0546168
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/amazon-prime-france-top10-shows-with-world-fallback
+    floppy_list: http://10.0.0.150:8012/list/841
 ##      limit: 20
     summary: Le top du jour sur Amazon Prime Video
     url_poster: https://raw.githubusercontent.com/PierreDurrr/pmm-images/refs/heads/master/chart/Prime%20Video_top10.jpg
