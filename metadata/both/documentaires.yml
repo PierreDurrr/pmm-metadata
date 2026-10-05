@@ -30,8 +30,8 @@ collections:
       filepath: /mnt/_SYNOLOGY/media/mediatheque/Documentaires/Docu_series/BrutX
 
   Albert Lin:
-    trakt_list:
-      - https://trakt.tv/users/pierredurrr/lists/albert-lin-saga?sort=rank,asc
+    floppy_list:
+      - http://10.0.0.150:8012/list/768
     collection_mode: hide
 
   National Geographic:
@@ -42,9 +42,9 @@ collections:
     url_poster: https://i.imgur.com/dwxYxwK.jpg
 
   David Attenborough:
-    trakt_list:
-      - https://trakt.tv/users/agent531c/lists/the-planet-collection?sort=released%2Casc
-      - https://trakt.tv/users/blackysbd650/lists/attenborough?sort=rank,asc
+    mdblist_list:
+      - https://mdblist.com/lists/mrsonarrandradarr/david-attenborough-all-tv-shows
+      - https://mdblist.com/lists/mrsonarrandradarr/david-attenborough-all-movies
     collection_mode: hide 
     url_poster: https://theposterdb.com/api/assets/208857
    
