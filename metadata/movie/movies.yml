@@ -134,16 +134,16 @@ collections:
 ##    collection_mode: hide_items
   Alfred Hitchcock Collection:
     template: {name: Collection, poster: https://theposterdb.com/api/assets/160913}
-    trakt_list: 
-      - https://trakt.tv/users/benevantmathew/lists/alfred-hitchcock?sort=rank,asc
+    mdblist_list: 
+      - https://mdblist.com/lists/bigturkey/alfred-hitchcock
     url_poster: https://theposterdb.com/api/assets/160913
 ##   collection_order: alpha
     collection_mode: show_items
   Alexandre Astier:
     template: {name: Collection, poster: https://www.cvs-mediatheques.com/home/notices/1/018/109018z.jpg}
     tmdb_movie: 145349, 362476
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/alexandre-astier-connection?sort=title,asc
+    floppy_list: 
+      - http://10.0.0.150:8012/list/707
     url_poster: https://www.cvs-mediatheques.com/home/notices/1/018/109018z.jpg
 ##    collection_order: alpha
     collection_mode: hide_items
@@ -211,7 +211,7 @@ collections:
 #    template: {name: Collection, collection: 87096, summary: 87096}
 #    url_poster: https://theposterdb.com/api/assets/234621
   Avatar Universe - Saga:  
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/avatar-universe-copy?sort=rank,asc
+    floppy_list: http://10.0.0.150:8012/list/820
     url_poster: https://theposterdb.com/api/assets/300227
     collection_mode: hide
   Avengers - Saga:
@@ -339,7 +339,7 @@ collections:
 ##    collection_order: alpha
 #    collection_mode: hide_items
   Bob's Burger - Saga:  
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/bob-s-burger-saga
+    floppy_list: http://10.0.0.150:8012/list/767
     url_poster: https://theposterdb.com/api/assets/351470 #https://theposterdb.com/api/assets/29890
     collection_mode: hide
 #  Brice de Nice - Saga:  
