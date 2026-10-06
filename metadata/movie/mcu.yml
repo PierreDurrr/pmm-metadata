@@ -22,7 +22,7 @@ collections:
 #    radarr_monitor: true
 
   Marvel Cinematic Universe:
-    trakt_list: https://trakt.tv/users/jawann2002/lists/marvel-cinematic-universe-movies?sort=rank,asc
+    mdblist_list: https://mdblist.com/lists/stealthgyro/marvel-cinematic-universe-mcu
     summary: "Les films sont classés dans l'ordre de visionnage chronologique de l'histoire et non par nom ou date de sortie."
     url_poster: https://theposterdb.com/api/assets/43912
     collection_order: custom
