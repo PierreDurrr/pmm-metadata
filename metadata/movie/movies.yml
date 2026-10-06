@@ -354,8 +354,8 @@ collections:
 #    collection_mode: hide_items
   Bruce Lee Master Collection:
     template: {name: Collection, poster: https://i.imgur.com/Hz6Fse3.jpeg}
-    trakt_list: 
-      - https://trakt.tv/users/pierredurrr/lists/bruce-lee-master-collection?sort=released,asc
+    floppy_list: 
+      - http://10.0.0.150:8012/list/706
     url_poster: https://i.imgur.com/Hz6Fse3.jpeg
 ##    collection_order: alpha
     collection_mode: hide_items
@@ -442,8 +442,8 @@ collections:
       - https://www.themoviedb.org/list/5905
     plex_collection: 
       - Fée Clochette - Saga
-    trakt_list:
-      - https://trakt.tv/users/pierredurrr/lists/frozen-complete-collection?sort=released,desc
+    floppy_list:
+      - http://10.0.0.150:8012/list/858
 ##      - https://trakt.tv/users/addvariety/lists/the-complete-walt-disney-picture-collection?sort=rank,asc
 ##      - https://trakt.tv/users/pullsa/lists/classics-walt-disney-animation-studios-feature-films-collection?sort=released,desc
 ##      - https://trakt.tv/users/channaceo/lists/walt-disney?sort=rank,asc
