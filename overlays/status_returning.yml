@@ -16,5 +16,6 @@ overlays:
 #    plex_all: true
 #    filters:
 #      collection: "Bientôt de retour"
-    trakt_list: https://trakt.tv/users/pierredurrr/lists/returning-soon-series-tv
+    file: /config/overlays/Séries-TV-returning-soon-overlay.yml
+#    trakt_list: https://trakt.tv/users/pierredurrr/lists/returning-soon-series-tv
 ##      added.after: today
