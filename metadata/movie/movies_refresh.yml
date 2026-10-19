@@ -1,7 +1,8 @@
 collections:
   Refresh Metadata:
     plex_search:
-      all:
+      any:
         release: 7
+        added: 7
     item_refresh: true
     build_collection: false
