@@ -39,7 +39,7 @@ overlays:
     filters:
       filepath.regex: '(?i)(vostfr|vastfr|vost|fastsub|subfrench|subtitled|multisub|fansub)'
       filepath.not:
-        - Les.Robins.Des.Bois.La.Cape.Et.L.EpĂ©e.Tome
+        - Les.Robins.Des.Bois.La.Cape.Et.L.Epée.Tome
         - Ez3kiel
         - Birdy Nam Nam live a la Cigale
         - VOF
